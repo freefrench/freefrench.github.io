@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 21 16:08:33 +0000 2018",
+		"id": 987724781637259300,
+		"id_str": "987724781637259265",
+		"text": "RT @leegrunnell: A great piece by @Rhodri exploring how language can be (should be?) used https://t.co/ZmGZbcYwAj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leegrunnell",
+					"name": "Lee Grunnell",
+					"id": 540966574,
+					"id_str": "540966574",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZmGZbcYwAj",
+					"expanded_url": "https://unbabel.com/the-understanding/full-stop-or-not-adventures-in-online-punctuation/",
+					"display_url": "unbabel.com/the-understand…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50091,
+			"friends_count": 5290,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6454,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 21 15:49:39 +0000 2018",
+			"id": 987720022717075500,
+			"id_str": "987720022717075456",
+			"text": "A great piece by @Rhodri exploring how language can be (should be?) used https://t.co/ZmGZbcYwAj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							17,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZmGZbcYwAj",
+						"expanded_url": "https://unbabel.com/the-understanding/full-stop-or-not-adventures-in-online-punctuation/",
+						"display_url": "unbabel.com/the-understand…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 540966574,
+				"id_str": "540966574",
+				"name": "Lee Grunnell",
+				"screen_name": "leegrunnell",
+				"location": "London",
+				"description": "Distinctive branding & strategy for professional firms",
+				"url": "https://t.co/J61oOQ1pkL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J61oOQ1pkL",
+								"expanded_url": "http://www.thirteenideas.com",
+								"display_url": "thirteenideas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 341,
+				"friends_count": 230,
+				"listed_count": 30,
+				"created_at": "Fri Mar 30 16:52:45 +0000 2012",
+				"favourites_count": 2000,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2334,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/634767159969873920/JMDxxspl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/634767159969873920/JMDxxspl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/540966574/1473671319",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 21 11:49:12 +0000 2018",
+		"id": 987659514387292200,
+		"id_str": "987659514387292160",
+		"text": "This is great. A new paper/mag about books. Edited by @Needham014 and full of good things. https://t.co/PfXbUs3Cbo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Needham014",
+					"name": "Ed Needham",
+					"id": 252006988,
+					"id_str": "252006988",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987659474952433700,
+					"id_str": "987659474952433665",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DbTfD0OWsAE4H-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbTfD0OWsAE4H-K.jpg",
+					"url": "https://t.co/PfXbUs3Cbo",
+					"display_url": "pic.twitter.com/PfXbUs3Cbo",
+					"expanded_url": "https://twitter.com/rhodri/status/987659514387292160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987659474952433700,
+					"id_str": "987659474952433665",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DbTfD0OWsAE4H-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbTfD0OWsAE4H-K.jpg",
+					"url": "https://t.co/PfXbUs3Cbo",
+					"display_url": "pic.twitter.com/PfXbUs3Cbo",
+					"expanded_url": "https://twitter.com/rhodri/status/987659514387292160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50091,
+			"friends_count": 5290,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6454,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 20 21:55:58 +0000 2018",
 		"id": 987449823719841800,
 		"id_str": "987449823719841794",
