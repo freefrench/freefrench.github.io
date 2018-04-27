@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 26 10:42:46 +0000 2018",
+		"id": 989454734934323200,
+		"id_str": "989454734934323200",
+		"text": "@RobboRobson21 Lloyds really did their job there.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobboRobson21",
+					"name": "Matt",
+					"id": 311419002,
+					"id_str": "311419002",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": 989453692263944200,
+		"in_reply_to_status_id_str": "989453692263944192",
+		"in_reply_to_user_id": 311419002,
+		"in_reply_to_user_id_str": "311419002",
+		"in_reply_to_screen_name": "RobboRobson21",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50072,
+			"friends_count": 5291,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6509,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 26 10:24:34 +0000 2018",
+		"id": 989450152766246900,
+		"id_str": "989450152766246913",
+		"text": "My looooong piece about male pattern baldness is in this collection, and the whole thing is great. https://t.co/eMkiRkqNO3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eMkiRkqNO3",
+					"expanded_url": "https://twitter.com/CanburyPress/status/989441299014193154",
+					"display_url": "twitter.com/CanburyPress/s…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50072,
+			"friends_count": 5291,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6509,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 989441299014193200,
+		"quoted_status_id_str": "989441299014193154",
+		"quoted_status": {
+			"created_at": "Thu Apr 26 09:49:23 +0000 2018",
+			"id": 989441299014193200,
+			"id_str": "989441299014193154",
+			"text": "We're chuffed to be publishing Bodyology, a collection of amazing health stories from @mosaicscience. \n\nIncludes—… https://t.co/X0Ac0kTjuL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mosaicscience",
+						"name": "Mosaic",
+						"id": 1530953521,
+						"id_str": "1530953521",
+						"indices": [
+							86,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X0Ac0kTjuL",
+						"expanded_url": "https://twitter.com/i/web/status/989441299014193154",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1896737600,
+				"id_str": "1896737600",
+				"name": "Canbury Press",
+				"screen_name": "CanburyPress",
+				"location": "London, England",
+				"description": "Non-fiction book publisher. Telling the real story since 2013. \n\nhttps://t.co/tXh4Fk8iqm",
+				"url": "http://t.co/OgUn2YbiLC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OgUn2YbiLC",
+								"expanded_url": "http://www.canburypress.com",
+								"display_url": "canburypress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tXh4Fk8iqm",
+								"expanded_url": "http://www.canburypress.com",
+								"display_url": "canburypress.com",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 290,
+				"friends_count": 662,
+				"listed_count": 2,
+				"created_at": "Mon Sep 23 09:19:16 +0000 2013",
+				"favourites_count": 533,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000496933823/ab29d982060e60b146748e17eb07ec04_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000496933823/ab29d982060e60b146748e17eb07ec04_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1896737600/1463053880",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 26 07:37:02 +0000 2018",
+		"id": 989407992121610200,
+		"id_str": "989407992121610240",
+		"text": "@chrismbird Hah! Hope you don’t mind. It just fitted really nicely with the tone of the piece.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrismbird",
+					"name": "Chris Bird",
+					"id": 6967102,
+					"id_str": "6967102",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 989397327516495900,
+		"in_reply_to_status_id_str": "989397327516495872",
+		"in_reply_to_user_id": 6967102,
+		"in_reply_to_user_id_str": "6967102",
+		"in_reply_to_screen_name": "chrismbird",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50072,
+			"friends_count": 5291,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6509,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 26 07:32:46 +0000 2018",
+		"id": 989406917213728800,
+		"id_str": "989406917213728768",
+		"text": "Mood-boosting clip to begin the day: May 1964. Sister Rosetta Tharpe performing Didn't It Rain on one platform of W… https://t.co/XX2ozjXcxW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XX2ozjXcxW",
+					"expanded_url": "https://twitter.com/i/web/status/989406917213728768",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50072,
+			"friends_count": 5291,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6509,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 26 06:44:46 +0000 2018",
+		"id": 989394838822015000,
+		"id_str": "989394838822014976",
+		"text": "@raquelle I can only agree with you",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raquelle",
+					"name": "Rachel Clare",
+					"id": 13815212,
+					"id_str": "13815212",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 989389517755838500,
+		"in_reply_to_status_id_str": "989389517755838465",
+		"in_reply_to_user_id": 13815212,
+		"in_reply_to_user_id_str": "13815212",
+		"in_reply_to_screen_name": "raquelle",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50072,
+			"friends_count": 5291,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6509,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 25 23:59:39 +0000 2018",
 		"id": 989292887660814300,
 		"id_str": "989292887660814336",
