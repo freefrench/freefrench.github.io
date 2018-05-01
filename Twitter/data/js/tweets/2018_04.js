@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 30 15:50:38 +0000 2018",
+		"id": 990981764775628800,
+		"id_str": "990981764775628801",
+		"text": "@TTremblingEarth Ah, I'm glad you liked it :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TTremblingEarth",
+					"name": "Austin Elliott",
+					"id": 1101632707,
+					"id_str": "1101632707",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": 990979783424184300,
+		"in_reply_to_status_id_str": "990979783424184321",
+		"in_reply_to_user_id": 1101632707,
+		"in_reply_to_user_id_str": "1101632707",
+		"in_reply_to_screen_name": "TTremblingEarth",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50057,
+			"friends_count": 5293,
+			"listed_count": 1064,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6532,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 30 15:50:21 +0000 2018",
+		"id": 990981690196725800,
+		"id_str": "990981690196725760",
+		"text": "RT @TTremblingEarth: I am chuffed that @rhodri has expertly compiled this collection of  accounts and responses to underwhelming British ea…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TTremblingEarth",
+					"name": "Austin Elliott",
+					"id": 1101632707,
+					"id_str": "1101632707",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50057,
+			"friends_count": 5293,
+			"listed_count": 1064,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6532,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 30 15:39:36 +0000 2018",
+			"id": 990978986560970800,
+			"id_str": "990978986560970752",
+			"text": "I am chuffed that @rhodri has expertly compiled this collection of  accounts and responses to underwhelming British… https://t.co/PIFH9LkUor",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PIFH9LkUor",
+						"expanded_url": "https://twitter.com/i/web/status/990978986560970752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1101632707,
+				"id_str": "1101632707",
+				"name": "Austin Elliott",
+				"screen_name": "TTremblingEarth",
+				"location": "Oxford, UK",
+				"description": "Earthquake aficionado personally and professionally. Postdoc with @NERC_COMET in active tectonics @OxUniEarthSci, CA transplant, AGU blogger, & I luuuuvs maps",
+				"url": "http://t.co/WBkbt8X7Fb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WBkbt8X7Fb",
+								"expanded_url": "http://blogs.agu.org/tremblingearth",
+								"display_url": "blogs.agu.org/tremblingearth",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2951,
+				"friends_count": 856,
+				"listed_count": 173,
+				"created_at": "Fri Jan 18 18:07:43 +0000 2013",
+				"favourites_count": 14356,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15217,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901174109614202881/PHsT1lzI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901174109614202881/PHsT1lzI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101632707/1398276781",
+				"profile_link_color": "17574E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 983292196790120400,
+			"quoted_status_id_str": "983292196790120448",
+			"quoted_status": {
+				"created_at": "Mon Apr 09 10:35:03 +0000 2018",
+				"id": 983292196790120400,
+				"id_str": "983292196790120448",
+				"text": "In the latest Boring Talks, @rhodri is underwhelmed by British earthquakes.\n@boringconferenc  https://t.co/03oCd6MEgr",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "rhodri",
+							"name": "Rhodri Marsden",
+							"id": 1524841,
+							"id_str": "1524841",
+							"indices": [
+								28,
+								35
+							]
+						},
+						{
+							"screen_name": "boringconferenc",
+							"name": "Boring Conference",
+							"id": 199605416,
+							"id_str": "199605416",
+							"indices": [
+								76,
+								92
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/03oCd6MEgr",
+							"expanded_url": "https://www.bbc.co.uk/programmes/p063j89m",
+							"display_url": "bbc.co.uk/programmes/p06…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20089513,
+					"id_str": "20089513",
+					"name": "luke doran",
+					"screen_name": "doranelli",
+					"location": "",
+					"description": "a real busted-flush.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 204,
+					"friends_count": 715,
+					"listed_count": 5,
+					"created_at": "Wed Feb 04 20:30:16 +0000 2009",
+					"favourites_count": 1186,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1042,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "642D8B",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/71966517/m031.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/71966517/m031.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/115197826/nabiscoplanters1_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/115197826/nabiscoplanters1_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20089513/1511619344",
+					"profile_link_color": "FF0000",
+					"profile_sidebar_border_color": "65B0DA",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 12,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 983292196790120400,
+		"quoted_status_id_str": "983292196790120448",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 30 13:47:13 +0000 2018",
+		"id": 990950705379926000,
+		"id_str": "990950705379926016",
+		"text": "They’ve been busy writing slogans down at the gate shop. https://t.co/i6ol9QZLpG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i6ol9QZLpG",
+					"expanded_url": "https://www.instagram.com/p/BiMmD1BA0yW/",
+					"display_url": "instagram.com/p/BiMmD1BA0yW/",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50057,
+			"friends_count": 5293,
+			"listed_count": 1064,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6532,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 30 12:47:41 +0000 2018",
+		"id": 990935722612920300,
+		"id_str": "990935722612920320",
+		"text": "@lucyhharrison @hare_houndsE10 @AldiUK When's it opening?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucyhharrison",
+					"name": "Lucy Harrison",
+					"id": 46061716,
+					"id_str": "46061716",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "hare_houndsE10",
+					"name": "Hare & Hounds E10",
+					"id": 889800634488283100,
+					"id_str": "889800634488283136",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "AldiUK",
+					"name": "Aldi Stores UK",
+					"id": 28596803,
+					"id_str": "28596803",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": 990934959060848600,
+		"in_reply_to_status_id_str": "990934959060848640",
+		"in_reply_to_user_id": 46061716,
+		"in_reply_to_user_id_str": "46061716",
+		"in_reply_to_screen_name": "lucyhharrison",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50057,
+			"friends_count": 5293,
+			"listed_count": 1064,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6532,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 29 08:45:59 +0000 2018",
 		"id": 990512508610936800,
 		"id_str": "990512508610936834",
