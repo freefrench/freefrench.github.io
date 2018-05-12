@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 11 19:03:53 +0000 2018",
+		"id": 995016661454544900,
+		"id_str": "995016661454544897",
+		"text": "RT @JenLRossman: I feel like not enough recognition is given to the fact that one of our days of the week has the word \"turd\" in it and we'…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenLRossman",
+					"name": "Jennifer Lee Rossman ♿️🐺",
+					"id": 723570389281058800,
+					"id_str": "723570389281058818",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50005,
+			"friends_count": 5303,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6584,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125746,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 10 20:27:58 +0000 2018",
+			"id": 994675435630923800,
+			"id_str": "994675435630923782",
+			"text": "I feel like not enough recognition is given to the fact that one of our days of the week has the word \"turd\" in it… https://t.co/o7cGm4H1kt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o7cGm4H1kt",
+						"expanded_url": "https://twitter.com/i/web/status/994675435630923782",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 723570389281058800,
+				"id_str": "723570389281058818",
+				"name": "Jennifer Lee Rossman ♿️🐺",
+				"screen_name": "JenLRossman",
+				"location": "Oneonta, NY",
+				"description": "Sci-fi writer, geek, werewolf in a wheelchair (chairwolf). Find my writing here: https://t.co/jijpBXoWLc She/her",
+				"url": "https://t.co/6uG1uqR3DC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6uG1uqR3DC",
+								"expanded_url": "http://jenniferleerossman.blogspot.com/",
+								"display_url": "jenniferleerossman.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jijpBXoWLc",
+								"expanded_url": "http://jenniferleerossman.blogspot.com/p/my-work.html",
+								"display_url": "jenniferleerossman.blogspot.com/p/my-work.html",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3888,
+				"friends_count": 1240,
+				"listed_count": 82,
+				"created_at": "Fri Apr 22 17:53:18 +0000 2016",
+				"favourites_count": 8959,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768536712737918976/EnT4aOFj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768536712737918976/EnT4aOFj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/723570389281058818/1519743151",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 11 06:41:51 +0000 2018",
+		"id": 994829924971237400,
+		"id_str": "994829924971237376",
+		"text": "RT @macaulaybalkan: Oh come the fuck on https://t.co/COTC0dfLPX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macaulaybalkan",
+					"name": "ed",
+					"id": 27413507,
+					"id_str": "27413507",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 994772048810561500,
+					"id_str": "994772048810561538",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+					"url": "https://t.co/COTC0dfLPX",
+					"display_url": "pic.twitter.com/COTC0dfLPX",
+					"expanded_url": "https://twitter.com/macaulaybalkan/status/994772088924901377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994772088924901400,
+					"source_status_id_str": "994772088924901377",
+					"source_user_id": 27413507,
+					"source_user_id_str": "27413507"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 994772048810561500,
+					"id_str": "994772048810561538",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+					"url": "https://t.co/COTC0dfLPX",
+					"display_url": "pic.twitter.com/COTC0dfLPX",
+					"expanded_url": "https://twitter.com/macaulaybalkan/status/994772088924901377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994772088924901400,
+					"source_status_id_str": "994772088924901377",
+					"source_user_id": 27413507,
+					"source_user_id_str": "27413507"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write words, play tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns, Microdisney.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50005,
+			"friends_count": 5303,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 6584,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125746,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173932663/twit-ground4.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 11 02:52:02 +0000 2018",
+			"id": 994772088924901400,
+			"id_str": "994772088924901377",
+			"text": "Oh come the fuck on https://t.co/COTC0dfLPX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 994772048810561500,
+						"id_str": "994772048810561538",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+						"url": "https://t.co/COTC0dfLPX",
+						"display_url": "pic.twitter.com/COTC0dfLPX",
+						"expanded_url": "https://twitter.com/macaulaybalkan/status/994772088924901377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 870,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 870,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 994772048810561500,
+						"id_str": "994772048810561538",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc4j6GnXUAIxnSY.jpg",
+						"url": "https://t.co/COTC0dfLPX",
+						"display_url": "pic.twitter.com/COTC0dfLPX",
+						"expanded_url": "https://twitter.com/macaulaybalkan/status/994772088924901377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 870,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 870,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27413507,
+				"id_str": "27413507",
+				"name": "ed",
+				"screen_name": "macaulaybalkan",
+				"location": "The good side of your local river",
+				"description": "Here to fuck spiders",
+				"url": "https://t.co/H1ucvAStXQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H1ucvAStXQ",
+								"expanded_url": "http://i.imgur.com/aNXqGNT.gif",
+								"display_url": "i.imgur.com/aNXqGNT.gif",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4410,
+				"friends_count": 1461,
+				"listed_count": 123,
+				"created_at": "Sun Mar 29 11:47:17 +0000 2009",
+				"favourites_count": 15802,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 111605,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908970855731953664/7YAqkZl8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908970855731953664/7YAqkZl8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27413507/1512971171",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 207,
+			"favorite_count": 2049,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 10 19:56:47 +0000 2018",
 		"id": 994667588079800300,
 		"id_str": "994667588079800325",
