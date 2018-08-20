@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 19 19:12:58 +0000 2018",
+		"id": 1031257734396686300,
+		"id_str": "1031257734396686336",
+		"text": "RT @liamhoulihan: This ran in the Geelong Advertiser on 30 Dec 1848: We apologise for our drunk and debauched compositors @geelongaddy http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liamhoulihan",
+					"name": "liamhoulihan",
+					"id": 57515493,
+					"id_str": "57515493",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "geelongaddy",
+					"name": "Geelong Advertiser",
+					"id": 86235433,
+					"id_str": "86235433",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words on demand, plays tunes (Scritti Politti, Dream Themes, Prescott, Lost Crowns.) Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49115,
+			"friends_count": 5342,
+			"listed_count": 1055,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126140,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 17 01:42:03 +0000 2018",
+			"id": 1030268486528815100,
+			"id_str": "1030268486528815105",
+			"text": "This ran in the Geelong Advertiser on 30 Dec 1848: We apologise for our drunk and debauched compositors @geelongaddy https://t.co/TaeN7EbF5S",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "geelongaddy",
+						"name": "Geelong Advertiser",
+						"id": 86235433,
+						"id_str": "86235433",
+						"indices": [
+							104,
+							116
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030268046751948800,
+						"id_str": "1030268046751948805",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkw_VHYV4AUVZLH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkw_VHYV4AUVZLH.jpg",
+						"url": "https://t.co/TaeN7EbF5S",
+						"display_url": "pic.twitter.com/TaeN7EbF5S",
+						"expanded_url": "https://twitter.com/liamhoulihan/status/1030268486528815105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 608,
+								"h": 354,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 608,
+								"h": 354,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 608,
+								"h": 354,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030268046751948800,
+						"id_str": "1030268046751948805",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkw_VHYV4AUVZLH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkw_VHYV4AUVZLH.jpg",
+						"url": "https://t.co/TaeN7EbF5S",
+						"display_url": "pic.twitter.com/TaeN7EbF5S",
+						"expanded_url": "https://twitter.com/liamhoulihan/status/1030268486528815105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 608,
+								"h": 354,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 608,
+								"h": 354,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 608,
+								"h": 354,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57515493,
+				"id_str": "57515493",
+				"name": "liamhoulihan",
+				"screen_name": "liamhoulihan",
+				"location": "",
+				"description": "Geelong Advertiser Editor. Non-fiction author. My opinions. Not necessarily shared by reasonable-minded people nor my benevolent corporate overlords.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1605,
+				"friends_count": 1431,
+				"listed_count": 19,
+				"created_at": "Fri Jul 17 01:53:34 +0000 2009",
+				"favourites_count": 821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877199841/Houlihan2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877199841/Houlihan2_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 368,
+			"favorite_count": 887,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 18 20:13:12 +0000 2018",
 		"id": 1030910503516823600,
 		"id_str": "1030910503516823555",
