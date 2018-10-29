@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 11:25:44 +0000 2018",
+		"id": 1056507300511391700,
+		"id_str": "1056507300511391745",
+		"full_text": "@McKelvie You know what - this morning I discovered that someone else already did it, two years ago. The TIME I spent on that. Sheesh. https://t.co/mIZQMYRR02",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McKelvie",
+					"name": "Sexy Jamie McKelvie",
+					"id": 14276679,
+					"id_str": "14276679",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mIZQMYRR02",
+					"expanded_url": "https://youtu.be/VQmRLEox2Lw",
+					"display_url": "youtu.be/VQmRLEox2Lw",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1056491221479235600,
+		"in_reply_to_status_id_str": "1056491221479235590",
+		"in_reply_to_user_id": 14276679,
+		"in_reply_to_user_id_str": "14276679",
+		"in_reply_to_screen_name": "McKelvie",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49074,
+			"friends_count": 5409,
+			"listed_count": 1049,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@McKelvie You know what - this morning I discovered that someone else already did it, two years ago. The TIME I spent on that. Sheesh. https://t.co/mIZQMYRR02"
+	},
+	{
+		"created_at": "Sun Oct 28 08:59:49 +0000 2018",
+		"id": 1056470582106222600,
+		"id_str": "1056470582106222593",
+		"full_text": "@katstevens Starts with a 3/4 drum intro, and then It’s alternate 3/4 and 4/4!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katstevens",
+					"name": "Kat",
+					"id": 6895962,
+					"id_str": "6895962",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1056468000759562200,
+		"in_reply_to_status_id_str": "1056468000759562240",
+		"in_reply_to_user_id": 6895962,
+		"in_reply_to_user_id_str": "6895962",
+		"in_reply_to_screen_name": "katstevens",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49074,
+			"friends_count": 5409,
+			"listed_count": 1049,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katstevens Starts with a 3/4 drum intro, and then It’s alternate 3/4 and 4/4!"
+	},
+	{
+		"created_at": "Sun Oct 28 07:35:17 +0000 2018",
+		"id": 1056449306578899000,
+		"id_str": "1056449306578898944",
+		"full_text": "The absolute state of this human\nhttps://t.co/DvDXHRCLtz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056226531054440400,
+					"id_str": "1056226531054440454",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056226531054440454/pu/img/c6YEB_ppsGaKar7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056226531054440454/pu/img/c6YEB_ppsGaKar7L.jpg",
+					"url": "https://t.co/DvDXHRCLtz",
+					"display_url": "pic.twitter.com/DvDXHRCLtz",
+					"expanded_url": "https://twitter.com/jonwurster/status/1056226917928591361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1056226917928591400,
+					"source_status_id_str": "1056226917928591361",
+					"source_user_id": 81692128,
+					"source_user_id_str": "81692128"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056226531054440400,
+					"id_str": "1056226531054440454",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056226531054440454/pu/img/c6YEB_ppsGaKar7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056226531054440454/pu/img/c6YEB_ppsGaKar7L.jpg",
+					"url": "https://t.co/DvDXHRCLtz",
+					"display_url": "pic.twitter.com/DvDXHRCLtz",
+					"expanded_url": "https://twitter.com/jonwurster/status/1056226917928591361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1056226917928591400,
+					"source_status_id_str": "1056226917928591361",
+					"source_user_id": 81692128,
+					"source_user_id_str": "81692128",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1056226531054440454/pu/pl/4a_nhzVpKsfGEHJy.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056226531054440454/pu/vid/180x320/EGNMmZqwbApjkQbH.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056226531054440454/pu/vid/360x640/6CIcCULmPU4IZWn_.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056226531054440454/pu/vid/720x1280/2TsPFvig-E14cZ6P.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 81692128,
+							"id_str": "81692128",
+							"name": "Jon Wurster",
+							"screen_name": "jonwurster",
+							"location": "",
+							"description": "Hey, t-shirt, leave those kids alone!",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 51088,
+							"friends_count": 901,
+							"listed_count": 1249,
+							"created_at": "Sun Oct 11 21:44:42 +0000 2009",
+							"favourites_count": 11477,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 22056,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/999948467513552897/5TGKA02N_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/999948467513552897/5TGKA02N_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/81692128/1442351593",
+							"profile_link_color": "2FC2EF",
+							"profile_sidebar_border_color": "181A1E",
+							"profile_sidebar_fill_color": "252429",
+							"profile_text_color": "666666",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20430045,
+			"id_str": "20430045",
+			"name": "James Herring",
+			"screen_name": "itsjamesherring",
+			"location": "London",
+			"description": "Delivering fame and fortune for brands at Taylor Herring @taylorherringuk | side hustles @thepoke @prexamples | making 🎥 at https://t.co/xCDxl48l0c",
+			"url": "https://t.co/qovirzvitA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qovirzvitA",
+							"expanded_url": "http://www.taylorherring.com",
+							"display_url": "taylorherring.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xCDxl48l0c",
+							"expanded_url": "http://stmarksstudios.com",
+							"display_url": "stmarksstudios.com",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36706,
+			"friends_count": 3807,
+			"listed_count": 313,
+			"created_at": "Mon Feb 09 11:47:49 +0000 2009",
+			"favourites_count": 1107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/610347194084945920/nhuFeuxy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/610347194084945920/nhuFeuxy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20430045/1529248321",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The absolute state of this human\nhttps://t.co/DvDXHRCLtz"
+	},
+	{
 		"created_at": "Fri Oct 26 21:34:06 +0000 2018",
 		"id": 1055935625914925000,
 		"id_str": "1055935625914925057",
