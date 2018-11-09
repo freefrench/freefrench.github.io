@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 08:30:38 +0000 2018",
+		"id": 1060449503894011900,
+		"id_str": "1060449503894011905",
+		"full_text": "Hell is David Davis being interviewed by John Humphrys on a loop for all eternity. #r4today",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "r4today",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221423977,
+			"id_str": "221423977",
+			"name": "Beverley Clack",
+			"screen_name": "bevclack",
+			"location": "Oxford",
+			"description": "Prof in Philosophy of Religion. Pam Ayres’ vocal twin. Never knowingly under-blazered. #Labour #feminist #Methodist #Ricardian #thearchers",
+			"url": "https://t.co/6vSaviRTiX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6vSaviRTiX",
+							"expanded_url": "http://www.notesfromalabourlefty.blogspot.co.uk",
+							"display_url": "notesfromalabourlefty.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6748,
+			"friends_count": 5500,
+			"listed_count": 146,
+			"created_at": "Tue Nov 30 16:45:18 +0000 2010",
+			"favourites_count": 17297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023153094270627840/lqM9GKTQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023153094270627840/lqM9GKTQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221423977/1433794501",
+			"profile_link_color": "80220A",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hell is David Davis being interviewed by John Humphrys on a loop for all eternity. #r4today"
+	},
+	{
 		"created_at": "Wed Nov 07 23:17:55 +0000 2018",
 		"id": 1060310406495957000,
 		"id_str": "1060310406495956992",
