@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 12:31:27 +0000 2018",
+		"id": 1060872495492984800,
+		"id_str": "1060872495492984832",
+		"full_text": "Have you eaten all the turkey and lived to tell the tale? Have you acted surprised while opening gifts? Do you dread having to wear your Christmas jumper?\n\nA Very British Christmas by @rhodri is a hilarious tribute to all the ways we celebrate Christmas! https://t.co/dIM0A7qJq5 https://t.co/BMuYX9OTXv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dIM0A7qJq5",
+					"expanded_url": "http://po.st/britishchristmas",
+					"display_url": "po.st/britishchristm…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060870523981361200,
+					"id_str": "1060870523981361152",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Drj4Hu6XcAAwnn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drj4Hu6XcAAwnn_.jpg",
+					"url": "https://t.co/BMuYX9OTXv",
+					"display_url": "pic.twitter.com/BMuYX9OTXv",
+					"expanded_url": "https://twitter.com/HQstories/status/1060872495492984832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060870523981361200,
+					"id_str": "1060870523981361152",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Drj4Hu6XcAAwnn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drj4Hu6XcAAwnn_.jpg",
+					"url": "https://t.co/BMuYX9OTXv",
+					"display_url": "pic.twitter.com/BMuYX9OTXv",
+					"expanded_url": "https://twitter.com/HQstories/status/1060872495492984832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719517668701823000,
+			"id_str": "719517668701822976",
+			"name": "HQ Stories",
+			"screen_name": "HQstories",
+			"location": "London, England",
+			"description": "One place, many stories. Fiction & Non-Fiction. We are @BAParisAuthor, @SarahMorgan_, @JuneSarpong, @adeleparks, @BOSHTV, @TomDaley1994 & more @HarperCollinsUK",
+			"url": "https://t.co/fjBeJeRex0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fjBeJeRex0",
+							"expanded_url": "http://Instagram.com/hqstories",
+							"display_url": "Instagram.com/hqstories",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11526,
+			"friends_count": 3160,
+			"listed_count": 106,
+			"created_at": "Mon Apr 11 13:29:15 +0000 2016",
+			"favourites_count": 12750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9475,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059378444566441984/D_mPKhXN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059378444566441984/D_mPKhXN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719517668701822976/1541410379",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you eaten all the turkey and lived to tell the tale? Have you acted surprised while opening gifts? Do you dread having to wear your Christmas jumper?\n\nA Very British Christmas by @rhodri is a hilarious tribute to all the ways we celebrate Christmas! https://t.co/dIM0A7qJq5 https://t.co/BMuYX9OTXv"
+	},
+	{
+		"created_at": "Thu Nov 08 08:30:38 +0000 2018",
+		"id": 1060449503894011900,
+		"id_str": "1060449503894011905",
+		"full_text": "Hell is David Davis being interviewed by John Humphrys on a loop for all eternity. #r4today",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "r4today",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221423977,
+			"id_str": "221423977",
+			"name": "Beverley Clack",
+			"screen_name": "bevclack",
+			"location": "Oxford",
+			"description": "Prof in Philosophy of Religion. Pam Ayres’ vocal twin. Never knowingly under-blazered. #Labour #feminist #Methodist #Ricardian #thearchers",
+			"url": "https://t.co/6vSaviRTiX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6vSaviRTiX",
+							"expanded_url": "http://www.notesfromalabourlefty.blogspot.co.uk",
+							"display_url": "notesfromalabourlefty.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6749,
+			"friends_count": 5500,
+			"listed_count": 146,
+			"created_at": "Tue Nov 30 16:45:18 +0000 2010",
+			"favourites_count": 17303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023153094270627840/lqM9GKTQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023153094270627840/lqM9GKTQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221423977/1433794501",
+			"profile_link_color": "80220A",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 76,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hell is David Davis being interviewed by John Humphrys on a loop for all eternity. #r4today"
+	},
+	{
 		"created_at": "Thu Nov 08 08:30:38 +0000 2018",
 		"id": 1060449503894011900,
 		"id_str": "1060449503894011905",
