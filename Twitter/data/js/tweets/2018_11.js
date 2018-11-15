@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 09:53:24 +0000 2018",
+		"id": 1062644657954406400,
+		"id_str": "1062644657954406400",
+		"full_text": "The mind-bending Lost Crowns debut album Every Night Something Happens is appearing the next time January the 25th takes place, on @ElephantBad. The head will leave the body. https://t.co/YyAWTM99m8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElephantBad",
+					"name": "Bad Elephant Music",
+					"id": 1082503904,
+					"id_str": "1082503904",
+					"indices": [
+						131,
+						143
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062644022844493800,
+					"id_str": "1062644022844493826",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr9FG9BWkAIqXOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr9FG9BWkAIqXOg.jpg",
+					"url": "https://t.co/YyAWTM99m8",
+					"display_url": "pic.twitter.com/YyAWTM99m8",
+					"expanded_url": "https://twitter.com/lostcrowns/status/1062644657954406400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062644022844493800,
+					"id_str": "1062644022844493826",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr9FG9BWkAIqXOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr9FG9BWkAIqXOg.jpg",
+					"url": "https://t.co/YyAWTM99m8",
+					"display_url": "pic.twitter.com/YyAWTM99m8",
+					"expanded_url": "https://twitter.com/lostcrowns/status/1062644657954406400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057319909510824000,
+			"id_str": "1057319909510823936",
+			"name": "Lost Crowns",
+			"screen_name": "lostcrowns",
+			"location": "London, England",
+			"description": "Weird music supergroup, featuring members of Stars In Battledress, Knifeworld, North Sea Radio Orchestra, and Scritti Politti. Album due in early 2019.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161,
+			"friends_count": 537,
+			"listed_count": 0,
+			"created_at": "Tue Oct 30 17:14:45 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058097168345645062/i25rXKBj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058097168345645062/i25rXKBj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057319909510823936/1542202771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The mind-bending Lost Crowns debut album Every Night Something Happens is appearing the next time January the 25th takes place, on @ElephantBad. The head will leave the body. https://t.co/YyAWTM99m8"
+	},
+	{
+		"created_at": "Wed Nov 14 22:47:13 +0000 2018",
+		"id": 1062839395705872400,
+		"id_str": "1062839395705872385",
+		"full_text": "@jiggott I know not of this musical act! Good?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jiggott",
+					"name": "James Higgott",
+					"id": 20230937,
+					"id_str": "20230937",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1062809779259748400,
+		"in_reply_to_status_id_str": "1062809779259748353",
+		"in_reply_to_user_id": 20230937,
+		"in_reply_to_user_id_str": "20230937",
+		"in_reply_to_screen_name": "jiggott",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48894,
+			"friends_count": 5428,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jiggott I know not of this musical act! Good?"
+	},
+	{
+		"created_at": "Wed Nov 14 18:08:18 +0000 2018",
+		"id": 1062769206394085400,
+		"id_str": "1062769206394085387",
+		"full_text": "Including me! It's all happening. https://t.co/ykRLnbl0Kh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ykRLnbl0Kh",
+					"expanded_url": "https://twitter.com/ProgMagazineUK/status/1062762982030143489",
+					"display_url": "twitter.com/ProgMagazineUK…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48894,
+			"friends_count": 5428,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062762982030143500,
+		"quoted_status_id_str": "1062762982030143489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ykRLnbl0Kh",
+			"expanded": "https://twitter.com/ProgMagazineUK/status/1062762982030143489",
+			"display": "twitter.com/ProgMagazineUK…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 14 17:43:34 +0000 2018",
+			"id": 1062762982030143500,
+			"id_str": "1062762982030143489",
+			"full_text": "Psych supergroup @lostcrowns, featuring members of @Knifeworld, @inbattledress, @scrittipolitti, @NSRO1, sign to @ElephantBad for debut album Every Night Something Happens... https://t.co/ochTMcxrCo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lostcrowns",
+						"name": "Lost Crowns",
+						"id": 1057319909510824000,
+						"id_str": "1057319909510823936",
+						"indices": [
+							17,
+							28
+						]
+					},
+					{
+						"screen_name": "Knifeworld",
+						"name": "Kavus Torabi",
+						"id": 26763445,
+						"id_str": "26763445",
+						"indices": [
+							51,
+							62
+						]
+					},
+					{
+						"screen_name": "inbattledress",
+						"name": "Stars In Battledress",
+						"id": 264414344,
+						"id_str": "264414344",
+						"indices": [
+							64,
+							78
+						]
+					},
+					{
+						"screen_name": "scrittipolitti",
+						"name": "Scritti Politti",
+						"id": 37718280,
+						"id_str": "37718280",
+						"indices": [
+							80,
+							95
+						]
+					},
+					{
+						"screen_name": "NSRO1",
+						"name": "NSRO",
+						"id": 378124546,
+						"id_str": "378124546",
+						"indices": [
+							97,
+							103
+						]
+					},
+					{
+						"screen_name": "ElephantBad",
+						"name": "Bad Elephant Music",
+						"id": 1082503904,
+						"id_str": "1082503904",
+						"indices": [
+							113,
+							125
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ochTMcxrCo",
+						"expanded_url": "https://www.loudersound.com/news/lost-crowns-sign-to-bad-elephant-for-debut-album",
+						"display_url": "loudersound.com/news/lost-crow…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24894216,
+				"id_str": "24894216",
+				"name": "Prog",
+				"screen_name": "ProgMagazineUK",
+				"location": "London",
+				"description": "The world's leading progressive rock magazine, on sale every five weeks. Subscribers please e-mail: contact@myfavouritemagazines.co.uk",
+				"url": "https://t.co/V6BlDKu635",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V6BlDKu635",
+								"expanded_url": "https://www.loudersound.com/prog",
+								"display_url": "loudersound.com/prog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61530,
+				"friends_count": 434,
+				"listed_count": 876,
+				"created_at": "Tue Mar 17 15:03:54 +0000 2009",
+				"favourites_count": 3327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20148,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/460744337198825474/2Np0LhIZ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460744337198825474/2Np0LhIZ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24894216/1540982283",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Including me! It's all happening. https://t.co/ykRLnbl0Kh"
+	},
+	{
+		"created_at": "Wed Nov 14 15:30:53 +0000 2018",
+		"id": 1062729588047011800,
+		"id_str": "1062729588047011842",
+		"full_text": "@zoysii @citizenhelene I am INVOLVED",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zoysii",
+					"name": "🥰",
+					"id": 17786372,
+					"id_str": "17786372",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "citizenhelene",
+					"name": "Citizen Helene",
+					"id": 13672572,
+					"id_str": "13672572",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1062725619748925400,
+		"in_reply_to_status_id_str": "1062725619748925441",
+		"in_reply_to_user_id": 17786372,
+		"in_reply_to_user_id_str": "17786372",
+		"in_reply_to_screen_name": "zoysii",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48894,
+			"friends_count": 5428,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zoysii @citizenhelene I am INVOLVED"
+	},
+	{
+		"created_at": "Wed Nov 14 12:45:19 +0000 2018",
+		"id": 1062687921998872600,
+		"id_str": "1062687921998872576",
+		"full_text": "@salihughes You just hate democracy, Sali.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "salihughes",
+					"name": "Sali Hughes",
+					"id": 19962737,
+					"id_str": "19962737",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062685211752890400,
+		"in_reply_to_status_id_str": "1062685211752890368",
+		"in_reply_to_user_id": 19962737,
+		"in_reply_to_user_id_str": "19962737",
+		"in_reply_to_screen_name": "salihughes",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48894,
+			"friends_count": 5428,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@salihughes You just hate democracy, Sali."
+	},
+	{
+		"created_at": "Wed Nov 14 09:26:46 +0000 2018",
+		"id": 1062637958124191700,
+		"id_str": "1062637958124191744",
+		"full_text": "Next person to say “Project Fear” is a wally, pass it on",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48894,
+			"friends_count": 5428,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Next person to say “Project Fear” is a wally, pass it on"
+	},
+	{
 		"created_at": "Mon Nov 12 12:57:05 +0000 2018",
 		"id": 1061966108121620500,
 		"id_str": "1061966108121620480",
