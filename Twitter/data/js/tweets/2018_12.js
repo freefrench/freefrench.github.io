@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 09:22:15 +0000 2018",
+		"id": 1070971739595771900,
+		"id_str": "1070971739595771909",
+		"full_text": "@sharonodea @kiramadeira Unbelievable. (By which I mean utterly believable.)",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sharonodea",
+					"name": "Sharon O'Dea",
+					"id": 24933826,
+					"id_str": "24933826",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kiramadeira",
+					"name": "kiramadeira 🤔",
+					"id": 20137739,
+					"id_str": "20137739",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1070970837749170200,
+		"in_reply_to_status_id_str": "1070970837749170176",
+		"in_reply_to_user_id": 24933826,
+		"in_reply_to_user_id_str": "24933826",
+		"in_reply_to_screen_name": "sharonodea",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48888,
+			"friends_count": 5445,
+			"listed_count": 1043,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sharonodea @kiramadeira Unbelievable. (By which I mean utterly believable.)"
+	},
+	{
+		"created_at": "Fri Dec 07 09:14:55 +0000 2018",
+		"id": 1070969896044060700,
+		"id_str": "1070969896044060678",
+		"full_text": "If you’re an EU national and need settled status after 29/3/19, and you don’t have an Android phone you have to take your ID documents to special scanning stations. \n\nThere are 13 across the country. Two in London. For THREE MILLION PEOPLE.\n\nhttps://t.co/gPXiXnsZWn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gPXiXnsZWn",
+					"expanded_url": "https://www.gov.uk/government/publications/eu-settlement-scheme-id-document-scanner-locations",
+					"display_url": "gov.uk/government/pub…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24933826,
+			"id_str": "24933826",
+			"name": "Sharon O'Dea",
+			"screen_name": "sharonodea",
+			"location": "London, mostly",
+			"description": "Consult on comms, collaboration, tech & #futureofwork. Co-founder @lithospartners & @300_seconds. Write @intranetizen. CIPR #AIinPR panel. @LinkedIn Top Voice.",
+			"url": "https://t.co/sb6uhVXJxt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sb6uhVXJxt",
+							"expanded_url": "http://sharonodea.co.uk",
+							"display_url": "sharonodea.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9549,
+			"friends_count": 4092,
+			"listed_count": 561,
+			"created_at": "Tue Mar 17 19:09:52 +0000 2009",
+			"favourites_count": 12774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927178123795484672/kggvgWlJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927178123795484672/kggvgWlJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24933826/1399218357",
+			"profile_link_color": "2C39CF",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’re an EU national and need settled status after 29/3/19, and you don’t have an Android phone you have to take your ID documents to special scanning stations. \n\nThere are 13 across the country. Two in London. For THREE MILLION PEOPLE.\n\nhttps://t.co/gPXiXnsZWn"
+	},
+	{
 		"created_at": "Thu Dec 06 23:09:19 +0000 2018",
 		"id": 1070817490987597800,
 		"id_str": "1070817490987597829",
