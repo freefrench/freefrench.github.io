@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 21:31:50 +0000 2018",
+		"id": 1074054450279530500,
+		"id_str": "1074054450279530502",
+		"full_text": "@rachel_london Hah. The guy did acknowledge on Twitter that those tweets were the inspiration :)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachel_london",
+					"name": "Rachel, LDN",
+					"id": 97999249,
+					"id_str": "97999249",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1074053599796322300,
+		"in_reply_to_status_id_str": "1074053599796322304",
+		"in_reply_to_user_id": 97999249,
+		"in_reply_to_user_id_str": "97999249",
+		"in_reply_to_screen_name": "rachel_london",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48928,
+			"friends_count": 5455,
+			"listed_count": 1045,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rachel_london Hah. The guy did acknowledge on Twitter that those tweets were the inspiration :)"
+	},
+	{
+		"created_at": "Sat Dec 15 21:00:26 +0000 2018",
+		"id": 1074046548802240500,
+		"id_str": "1074046548802240518",
+		"full_text": "Bit rich from someone whose UK tour starts in April 2019 with VIP tickets still available for a shade over 90 quid. https://t.co/deJu2xcbx5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/deJu2xcbx5",
+					"expanded_url": "https://twitter.com/antmiddleton/status/1073661776724680704",
+					"display_url": "twitter.com/antmiddleton/s…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48928,
+			"friends_count": 5455,
+			"listed_count": 1045,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073661776724680700,
+		"quoted_status_id_str": "1073661776724680704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/deJu2xcbx5",
+			"expanded": "https://twitter.com/antmiddleton/status/1073661776724680704",
+			"display": "twitter.com/antmiddleton/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 14 19:31:29 +0000 2018",
+			"id": 1073661776724680700,
+			"id_str": "1073661776724680704",
+			"full_text": "A ‘no deal’ for our country would actually be a blessing in disguise. It would force us into hardship and suffering which would unite &amp; bring us together, bringing back British values of loyalty and a sense of community! Extreme change is needed!  #nodeal #suffertogether https://t.co/4zVqegaWNi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nodeal",
+						"indices": [
+							252,
+							259
+						]
+					},
+					{
+						"text": "suffertogether",
+						"indices": [
+							260,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4zVqegaWNi",
+						"expanded_url": "https://twitter.com/titanic_barbell/status/1073659150108934145",
+						"display_url": "twitter.com/titanic_barbel…",
+						"indices": [
+							276,
+							299
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 624632838,
+				"id_str": "624632838",
+				"name": "Anthony Middleton",
+				"screen_name": "antmiddleton",
+				"location": "",
+				"description": "Adventurer & Explorer. Leader. Proud Dad. #zeronegativity Extreme Everest🗻 SAS:WDW⚔️Mutiny⚓️ No1 Sunday Times Best Selling Author #FirstManIn ⬇️Tour Tickets ⬇️",
+				"url": "https://t.co/OfqmRRu95v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OfqmRRu95v",
+								"expanded_url": "https://www.gigsandtours.com/tour/ant-middleton?src=antmiddleton",
+								"display_url": "gigsandtours.com/tour/ant-middl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 172292,
+				"friends_count": 1376,
+				"listed_count": 112,
+				"created_at": "Mon Jul 02 10:27:26 +0000 2012",
+				"favourites_count": 23913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7151,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073270186663399426/0LRoSy3E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073270186663399426/0LRoSy3E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/624632838/1544719492",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1073659150108934100,
+			"quoted_status_id_str": "1073659150108934145",
+			"quoted_status_permalink": {
+				"url": "https://t.co/4zVqegaWNi",
+				"expanded": "https://twitter.com/titanic_barbell/status/1073659150108934145",
+				"display": "twitter.com/titanic_barbel…"
+			},
+			"retweet_count": 528,
+			"favorite_count": 3560,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bit rich from someone whose UK tour starts in April 2019 with VIP tickets still available for a shade over 90 quid. https://t.co/deJu2xcbx5"
+	},
+	{
 		"created_at": "Fri Dec 14 09:36:39 +0000 2018",
 		"id": 1073512080911806500,
 		"id_str": "1073512080911806465",
