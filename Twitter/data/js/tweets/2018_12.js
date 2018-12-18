@@ -1,6 +1,935 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 23:45:12 +0000 2018",
+		"id": 1074812787052961800,
+		"id_str": "1074812787052961792",
+		"full_text": "@pennywisepeter I know.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pennywisepeter",
+					"name": "pennywisepeter",
+					"id": 17413452,
+					"id_str": "17413452",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1074811799336312800,
+		"in_reply_to_status_id_str": "1074811799336312832",
+		"in_reply_to_user_id": 17413452,
+		"in_reply_to_user_id_str": "17413452",
+		"in_reply_to_screen_name": "pennywisepeter",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49010,
+			"friends_count": 5456,
+			"listed_count": 1046,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pennywisepeter I know."
+	},
+	{
+		"created_at": "Mon Dec 17 22:12:08 +0000 2018",
+		"id": 1074789368353701900,
+		"id_str": "1074789368353701888",
+		"full_text": "I will not be queuing up to enter this shop when it opens in the morning. https://t.co/J8BWD5VVSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1074789265991745500,
+					"id_str": "1074789265991745537",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DuprJJfXQAEsP7r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuprJJfXQAEsP7r.jpg",
+					"url": "https://t.co/J8BWD5VVSU",
+					"display_url": "pic.twitter.com/J8BWD5VVSU",
+					"expanded_url": "https://twitter.com/rhodri/status/1074789368353701888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074789265991745500,
+					"id_str": "1074789265991745537",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DuprJJfXQAEsP7r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuprJJfXQAEsP7r.jpg",
+					"url": "https://t.co/J8BWD5VVSU",
+					"display_url": "pic.twitter.com/J8BWD5VVSU",
+					"expanded_url": "https://twitter.com/rhodri/status/1074789368353701888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49010,
+			"friends_count": 5456,
+			"listed_count": 1046,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I will not be queuing up to enter this shop when it opens in the morning. https://t.co/J8BWD5VVSU"
+	},
+	{
+		"created_at": "Mon Dec 17 10:02:39 +0000 2018",
+		"id": 1074605787375435800,
+		"id_str": "1074605787375435777",
+		"full_text": "@Lowlandslady @Shelter @crouchingbadger He did indeed!",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lowlandslady",
+					"name": "Angie H",
+					"id": 46456894,
+					"id_str": "46456894",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Shelter",
+					"name": "Shelter",
+					"id": 3704391,
+					"id_str": "3704391",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "crouchingbadger",
+					"name": "Hairy McClary  👞🗑️",
+					"id": 32613,
+					"id_str": "32613",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1074604411538821100,
+		"in_reply_to_status_id_str": "1074604411538821121",
+		"in_reply_to_user_id": 46456894,
+		"in_reply_to_user_id_str": "46456894",
+		"in_reply_to_screen_name": "Lowlandslady",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49010,
+			"friends_count": 5456,
+			"listed_count": 1046,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Lowlandslady @Shelter @crouchingbadger He did indeed!"
+	},
+	{
+		"created_at": "Mon Dec 17 09:06:49 +0000 2018",
+		"id": 1074591736117235700,
+		"id_str": "1074591736117235717",
+		"full_text": "Some people have asked if I'll be collecting People's Sleeping Arrangements for #duvetknowitschristmas on the evening of December 24th. I will! But in addition, I've donned a Xmas jumper and rewritten a much-loved poem. All for @shelter. Video herewith: https://t.co/78jcqjacKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						80,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shelter",
+					"name": "Shelter",
+					"id": 3704391,
+					"id_str": "3704391",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/78jcqjacKF",
+					"expanded_url": "https://twitter.com/TwitterUK/status/1074575627091668993",
+					"display_url": "twitter.com/TwitterUK/stat…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49010,
+			"friends_count": 5456,
+			"listed_count": 1046,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 7871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074575627091669000,
+		"quoted_status_id_str": "1074575627091668993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/78jcqjacKF",
+			"expanded": "https://twitter.com/TwitterUK/status/1074575627091668993",
+			"display": "twitter.com/TwitterUK/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 17 08:02:48 +0000 2018",
+			"id": 1074575627091669000,
+			"id_str": "1074575627091668993",
+			"full_text": "#DuvetKnowItsChristmas is a brilliant Twitter tradition where people Tweet @Rhodri to share their often hilarious seasonal sleeping arrangements. This year we’ve partnered with @Rhodri and @Shelter to tell the story. Not everyone has a home at Christmas, please give what you can.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							0,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							75,
+							82
+						]
+					},
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							177,
+							184
+						]
+					},
+					{
+						"screen_name": "Shelter",
+						"name": "Shelter",
+						"id": 3704391,
+						"id_str": "3704391",
+						"indices": [
+							189,
+							197
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 277761722,
+				"id_str": "277761722",
+				"name": "Twitter UK",
+				"screen_name": "TwitterUK",
+				"location": "London, England",
+				"description": "What Britain Tweets.",
+				"url": "https://t.co/990q7Opv1s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/990q7Opv1s",
+								"expanded_url": "https://www.twitter.com",
+								"display_url": "twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 438917,
+				"friends_count": 317,
+				"listed_count": 1596,
+				"created_at": "Wed Apr 06 00:11:41 +0000 2011",
+				"favourites_count": 1744,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BC0DE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941622204827078657/gGPNg67y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941622204827078657/gGPNg67y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/277761722/1544711281",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 227,
+			"favorite_count": 387,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 141,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some people have asked if I'll be collecting People's Sleeping Arrangements for #duvetknowitschristmas on the evening of December 24th. I will! But in addition, I've donned a Xmas jumper and rewritten a much-loved poem. All for @shelter. Video herewith: https://t.co/78jcqjacKF"
+	},
+	{
+		"created_at": "Sun Dec 16 23:57:27 +0000 2018",
+		"id": 1074453483426930700,
+		"id_str": "1074453483426930689",
+		"full_text": "This analogy only holds true if Geraint Thomas cheated to win the Tour de France and won #SPOTY by promising his victory would bring the NHS an extra £350m a week. https://t.co/zaJd66redN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPOTY",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zaJd66redN",
+					"expanded_url": "https://twitter.com/iaindale/status/1074412221806063616?s=21",
+					"display_url": "twitter.com/iaindale/statu…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20098015,
+			"id_str": "20098015",
+			"name": "David Schneider",
+			"screen_name": "davidschneider",
+			"location": "London",
+			"description": "Actor, writer, director, fool. Less ranty version now available on https://t.co/N76N9Wx7TT",
+			"url": "https://t.co/X200PvU1Tu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X200PvU1Tu",
+							"expanded_url": "http://thatlot.co.uk",
+							"display_url": "thatlot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/N76N9Wx7TT",
+							"expanded_url": "http://www.instagram.com/davidschneideruk",
+							"display_url": "instagram.com/davidschneider…",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 360380,
+			"friends_count": 1535,
+			"listed_count": 4283,
+			"created_at": "Wed Feb 04 21:47:34 +0000 2009",
+			"favourites_count": 12211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937241076116672513/E31_C1th_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937241076116672513/E31_C1th_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20098015/1508455358",
+			"profile_link_color": "263D45",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074412221806063600,
+		"quoted_status_id_str": "1074412221806063616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zaJd66redN",
+			"expanded": "https://twitter.com/iaindale/status/1074412221806063616?s=21",
+			"display": "twitter.com/iaindale/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 16 21:13:29 +0000 2018",
+			"id": 1074412221806063600,
+			"id_str": "1074412221806063616",
+			"full_text": "As the winners of this evening’s sports personality of the year awards were elected by democratic vote, do you think that Gary Lineker will demand another vote until the public get the correct result? He could call it a People’s Vote!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5838002,
+				"id_str": "5838002",
+				"name": "Iain Dale",
+				"screen_name": "IainDale",
+				"location": "Tun. Wells, Norfolk & London",
+				"description": "Presenter, @LBC 7-10pm Mon-Thur, CNNTalk Mon/Wed/Thur Noon, Co-host @ForTheManyPod, Visiting Professor @ UEA, Agent: info@northbanktalent.com",
+				"url": "http://t.co/fuw8ekMr0n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fuw8ekMr0n",
+								"expanded_url": "http://www.iaindale.com",
+								"display_url": "iaindale.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124436,
+				"friends_count": 3021,
+				"listed_count": 2109,
+				"created_at": "Mon May 07 17:04:29 +0000 2007",
+				"favourites_count": 2402,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84776,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/446745932936138752/xg1wsa4C_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/446745932936138752/xg1wsa4C_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5838002/1538764600",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "135989ad972a5d9d",
+				"url": "https://api.twitter.com/1.1/geo/id/135989ad972a5d9d.json",
+				"place_type": "city",
+				"name": "Bromley",
+				"full_name": "Bromley, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.080526,
+								51.3434174
+							],
+							[
+								0.1331237,
+								51.3434174
+							],
+							[
+								0.1331237,
+								51.4452233
+							],
+							[
+								-0.080526,
+								51.4452233
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1618,
+			"favorite_count": 5378,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 502,
+		"favorite_count": 2694,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This analogy only holds true if Geraint Thomas cheated to win the Tour de France and won #SPOTY by promising his victory would bring the NHS an extra £350m a week. https://t.co/zaJd66redN"
+	},
+	{
 		"created_at": "Sun Dec 16 23:57:27 +0000 2018",
 		"id": 1074453483426930700,
 		"id_str": "1074453483426930689",
