@@ -1,6 +1,31632 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 00:10:56 +0000 2018",
+		"id": 1077355979862429700,
+		"id_str": "1077355979862429696",
+		"full_text": "@Vicwardian Merry Xmas Hoggs! No flies on you! X",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vicwardian",
+					"name": "Victoria Hogg",
+					"id": 1374301957,
+					"id_str": "1374301957",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1077355042036957200,
+		"in_reply_to_status_id_str": "1077355042036957184",
+		"in_reply_to_user_id": 1374301957,
+		"in_reply_to_user_id_str": "1374301957",
+		"in_reply_to_screen_name": "Vicwardian",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Vicwardian Merry Xmas Hoggs! No flies on you! X"
+	},
+	{
+		"created_at": "Tue Dec 25 00:05:19 +0000 2018",
+		"id": 1077354566969188400,
+		"id_str": "1077354566969188352",
+		"full_text": "And as we tick over into Christmas Day, I've got to go sleep. Knackered. That was a joy, as ever. I daresay that additional gems will be appearing on #DuvetKnowItsChristmas as people stumble to bed. Merry Christmas! x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						150,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And as we tick over into Christmas Day, I've got to go sleep. Knackered. That was a joy, as ever. I daresay that additional gems will be appearing on #DuvetKnowItsChristmas as people stumble to bed. Merry Christmas! x"
+	},
+	{
+		"created_at": "Tue Dec 25 00:00:11 +0000 2018",
+		"id": 1077353274766966800,
+		"id_str": "1077353274766966784",
+		"full_text": "@NinjaWorrier And to you!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NinjaWorrier",
+					"name": "Amber Wilkinson",
+					"id": 20365555,
+					"id_str": "20365555",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077353115907772400,
+		"in_reply_to_status_id_str": "1077353115907772416",
+		"in_reply_to_user_id": 20365555,
+		"in_reply_to_user_id_str": "20365555",
+		"in_reply_to_screen_name": "NinjaWorrier",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NinjaWorrier And to you!"
+	},
+	{
+		"created_at": "Mon Dec 24 23:57:40 +0000 2018",
+		"id": 1077352640193970200,
+		"id_str": "1077352640193970177",
+		"full_text": "@rhodri my parents redecorated the spare room, which is nice, but what on god’s green earth is this and why is it directly above me while I sleep? https://t.co/v0QeVq5ogU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077352599391748100,
+					"id_str": "1077352599391748096",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOGeyiWwAAeGZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOGeyiWwAAeGZ1.jpg",
+					"url": "https://t.co/v0QeVq5ogU",
+					"display_url": "pic.twitter.com/v0QeVq5ogU",
+					"expanded_url": "https://twitter.com/pmmikes/status/1077352640193970177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077352599391748100,
+					"id_str": "1077352599391748096",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOGeyiWwAAeGZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOGeyiWwAAeGZ1.jpg",
+					"url": "https://t.co/v0QeVq5ogU",
+					"display_url": "pic.twitter.com/v0QeVq5ogU",
+					"expanded_url": "https://twitter.com/pmmikes/status/1077352640193970177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 37219228,
+			"id_str": "37219228",
+			"name": "Michael Polom",
+			"screen_name": "pmmikes",
+			"location": "Colchester, UK",
+			"description": "Bike idiot with @ColchBK and @ColVelocc. Have-a-go bike mechanic. Amateur barman. Tree chopper. Community do-er.",
+			"url": "https://t.co/ujZsJlaLVy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ujZsJlaLVy",
+							"expanded_url": "http://pmmik.es",
+							"display_url": "pmmik.es",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 493,
+			"listed_count": 44,
+			"created_at": "Sat May 02 15:43:19 +0000 2009",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028666955945922562/PEZw830C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028666955945922562/PEZw830C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37219228/1508497966",
+			"profile_link_color": "CF3E2D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6E0BB",
+			"profile_text_color": "8A623E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri my parents redecorated the spare room, which is nice, but what on god’s green earth is this and why is it directly above me while I sleep? https://t.co/v0QeVq5ogU"
+	},
+	{
+		"created_at": "Mon Dec 24 23:58:28 +0000 2018",
+		"id": 1077352840618799100,
+		"id_str": "1077352840618799104",
+		"full_text": "Bottom bunk with a giant knitted... Erm 🤔 hare?  A cake in box and childs car seat takes the top bunk #DuvetKnowItsChrismas @rhodri https://t.co/xUZHppHPeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						102,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077352829700976600,
+					"id_str": "1077352829700976640",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOGsMgWsAAaxTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOGsMgWsAAaxTA.jpg",
+					"url": "https://t.co/xUZHppHPeu",
+					"display_url": "pic.twitter.com/xUZHppHPeu",
+					"expanded_url": "https://twitter.com/Hohojanna/status/1077352840618799104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077352829700976600,
+					"id_str": "1077352829700976640",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOGsMgWsAAaxTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOGsMgWsAAaxTA.jpg",
+					"url": "https://t.co/xUZHppHPeu",
+					"display_url": "pic.twitter.com/xUZHppHPeu",
+					"expanded_url": "https://twitter.com/Hohojanna/status/1077352840618799104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077352829730410500,
+					"id_str": "1077352829730410496",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOGsMnX0AAp9q6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOGsMnX0AAp9q6.jpg",
+					"url": "https://t.co/xUZHppHPeu",
+					"display_url": "pic.twitter.com/xUZHppHPeu",
+					"expanded_url": "https://twitter.com/Hohojanna/status/1077352840618799104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93886655,
+			"id_str": "93886655",
+			"name": "Johanna",
+			"screen_name": "Hohojanna",
+			"location": "UK",
+			"description": "Librarian. 'Spirited Rascal'. I have a garden. I have libraries. Though society may not agree, according to Cicero, I have made it. (personal account)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1875,
+			"friends_count": 1321,
+			"listed_count": 156,
+			"created_at": "Tue Dec 01 16:02:23 +0000 2009",
+			"favourites_count": 7374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154638,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824641122580492288/U9D8fHoP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824641122580492288/U9D8fHoP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93886655/1462576513",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bottom bunk with a giant knitted... Erm 🤔 hare?  A cake in box and childs car seat takes the top bunk #DuvetKnowItsChrismas @rhodri https://t.co/xUZHppHPeu"
+	},
+	{
+		"created_at": "Mon Dec 24 23:55:27 +0000 2018",
+		"id": 1077352084972945400,
+		"id_str": "1077352084972945414",
+		"full_text": ".@rhodri Into my box I go. #DuvetKnowItsChristmas https://t.co/WiMl5E9o7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						27,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077351697008263200,
+					"id_str": "1077351697008263173",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077351697008263173/pu/img/D9vmGKsTxR8ISc4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077351697008263173/pu/img/D9vmGKsTxR8ISc4N.jpg",
+					"url": "https://t.co/WiMl5E9o7M",
+					"display_url": "pic.twitter.com/WiMl5E9o7M",
+					"expanded_url": "https://twitter.com/badger_funk/status/1077352084972945414/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077351697008263200,
+					"id_str": "1077351697008263173",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077351697008263173/pu/img/D9vmGKsTxR8ISc4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077351697008263173/pu/img/D9vmGKsTxR8ISc4N.jpg",
+					"url": "https://t.co/WiMl5E9o7M",
+					"display_url": "pic.twitter.com/WiMl5E9o7M",
+					"expanded_url": "https://twitter.com/badger_funk/status/1077352084972945414/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26487,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077351697008263173/pu/vid/320x568/-hkiA1MFsKF_4mz4.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077351697008263173/pu/vid/360x640/tfPyMtZP_huohzoj.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077351697008263173/pu/vid/720x1280/A6SHZ_LlNBio1p5g.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1077351697008263173/pu/pl/lziArjPXLrBhGAbR.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101892317,
+			"id_str": "101892317",
+			"name": "Davie Miller",
+			"screen_name": "badger_funk",
+			"location": "Leith",
+			"description": "Strong and stable citizen.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 524,
+			"friends_count": 736,
+			"listed_count": 24,
+			"created_at": "Mon Jan 04 23:27:04 +0000 2010",
+			"favourites_count": 10517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15110,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863442365742288901/f70eSQgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863442365742288901/f70eSQgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101892317/1427457892",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@rhodri Into my box I go. #DuvetKnowItsChristmas https://t.co/WiMl5E9o7M"
+	},
+	{
+		"created_at": "Mon Dec 24 23:52:02 +0000 2018",
+		"id": 1077351223756505100,
+		"id_str": "1077351223756505088",
+		"full_text": "@bobgranleese i'm giving it another 10 minutes, I'm BUSHED :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bobgranleese",
+					"name": "Bob Granleese",
+					"id": 88397713,
+					"id_str": "88397713",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077351044483596300,
+		"in_reply_to_status_id_str": "1077351044483596288",
+		"in_reply_to_user_id": 88397713,
+		"in_reply_to_user_id_str": "88397713",
+		"in_reply_to_screen_name": "bobgranleese",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bobgranleese i'm giving it another 10 minutes, I'm BUSHED :)"
+	},
+	{
+		"created_at": "Mon Dec 24 23:49:13 +0000 2018",
+		"id": 1077350514243833900,
+		"id_str": "1077350514243833856",
+		"full_text": "my mum decided to renovate a canal boat a few years ago so I’m on the sofa bed at sea in the ‘living room’... top and tailing with my sister @rhodri #DuvetKnowItsChrismas https://t.co/wLZqPGxYZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						149,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077350507054796800,
+					"id_str": "1077350507054796806",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOEk_-WkAYt7pK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOEk_-WkAYt7pK.jpg",
+					"url": "https://t.co/wLZqPGxYZZ",
+					"display_url": "pic.twitter.com/wLZqPGxYZZ",
+					"expanded_url": "https://twitter.com/hollyemmalaaing/status/1077350514243833856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077350507054796800,
+					"id_str": "1077350507054796806",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOEk_-WkAYt7pK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOEk_-WkAYt7pK.jpg",
+					"url": "https://t.co/wLZqPGxYZZ",
+					"display_url": "pic.twitter.com/wLZqPGxYZZ",
+					"expanded_url": "https://twitter.com/hollyemmalaaing/status/1077350514243833856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19119271,
+			"id_str": "19119271",
+			"name": "H O L L Y L A I N G",
+			"screen_name": "hollyemmalaaing",
+			"location": "London, England",
+			"description": "stomp your feet let’s get down",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 298,
+			"listed_count": 4,
+			"created_at": "Sat Jan 17 18:44:41 +0000 2009",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068621570992717826/sSdVqPyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068621570992717826/sSdVqPyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19119271/1543613995",
+			"profile_link_color": "DB6E25",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my mum decided to renovate a canal boat a few years ago so I’m on the sofa bed at sea in the ‘living room’... top and tailing with my sister @rhodri #DuvetKnowItsChrismas https://t.co/wLZqPGxYZZ"
+	},
+	{
+		"created_at": "Mon Dec 24 23:49:17 +0000 2018",
+		"id": 1077350531331514400,
+		"id_str": "1077350531331514368",
+		"full_text": "@rhodri I’m here in my dad &amp; stepmum’s office. My husband &amp; son are in the guest room laughing it up. Merry Christmas Eve! https://t.co/soYBtwJT8S",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077350527149719600,
+					"id_str": "1077350527149719552",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOEmK1WwAAVlG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOEmK1WwAAVlG8.jpg",
+					"url": "https://t.co/soYBtwJT8S",
+					"display_url": "pic.twitter.com/soYBtwJT8S",
+					"expanded_url": "https://twitter.com/herestillhere/status/1077350531331514368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077350527149719600,
+					"id_str": "1077350527149719552",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOEmK1WwAAVlG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOEmK1WwAAVlG8.jpg",
+					"url": "https://t.co/soYBtwJT8S",
+					"display_url": "pic.twitter.com/soYBtwJT8S",
+					"expanded_url": "https://twitter.com/herestillhere/status/1077350531331514368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 187460572,
+			"id_str": "187460572",
+			"name": "Rachael Robinson",
+			"screen_name": "herestillhere",
+			"location": "Bristol, UK",
+			"description": "Some woman",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365,
+			"friends_count": 793,
+			"listed_count": 14,
+			"created_at": "Mon Sep 06 08:44:23 +0000 2010",
+			"favourites_count": 13860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043536472501043200/1rrPpnn5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043536472501043200/1rrPpnn5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187460572/1410614245",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I’m here in my dad &amp; stepmum’s office. My husband &amp; son are in the guest room laughing it up. Merry Christmas Eve! https://t.co/soYBtwJT8S"
+	},
+	{
+		"created_at": "Mon Dec 24 23:44:24 +0000 2018",
+		"id": 1077349303432155100,
+		"id_str": "1077349303432155137",
+		"full_text": "@rhodri we had a lovely evening (both husband and I) in a solar system/space themed room complete with clangers... #DuvetKnowItsChristmas https://t.co/71NlRuy2fl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						115,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077349281441505300,
+					"id_str": "1077349281441505280",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DvODdqNX4AAdV7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvODdqNX4AAdV7_.jpg",
+					"url": "https://t.co/71NlRuy2fl",
+					"display_url": "pic.twitter.com/71NlRuy2fl",
+					"expanded_url": "https://twitter.com/EstherJayne/status/1077349303432155137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 891,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077349281441505300,
+					"id_str": "1077349281441505280",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DvODdqNX4AAdV7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvODdqNX4AAdV7_.jpg",
+					"url": "https://t.co/71NlRuy2fl",
+					"display_url": "pic.twitter.com/71NlRuy2fl",
+					"expanded_url": "https://twitter.com/EstherJayne/status/1077349303432155137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 891,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 20508694,
+			"id_str": "20508694",
+			"name": "EstherJayne",
+			"screen_name": "EstherJayne",
+			"location": "Wales, United Kingdom",
+			"description": "Adopted Welsh. Artsy type. Dreamer. Married to @morrisrhodri.\nwork me @esther_ntw \nTweets my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 402,
+			"friends_count": 1113,
+			"listed_count": 3,
+			"created_at": "Tue Feb 10 12:03:42 +0000 2009",
+			"favourites_count": 1945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075401086247297024/M9r-xr61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075401086247297024/M9r-xr61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20508694/1517581963",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri we had a lovely evening (both husband and I) in a solar system/space themed room complete with clangers... #DuvetKnowItsChristmas https://t.co/71NlRuy2fl"
+	},
+	{
+		"created_at": "Mon Dec 24 23:44:10 +0000 2018",
+		"id": 1077349243214590000,
+		"id_str": "1077349243214589954",
+		"full_text": "@rhodri https://t.co/DA07j4cgFE",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077349235924844500,
+					"id_str": "1077349235924844545",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/DvODbApWwAExXNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvODbApWwAExXNV.jpg",
+					"url": "https://t.co/DA07j4cgFE",
+					"display_url": "pic.twitter.com/DA07j4cgFE",
+					"expanded_url": "https://twitter.com/janeayres1/status/1077349243214589954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077349235924844500,
+					"id_str": "1077349235924844545",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/DvODbApWwAExXNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvODbApWwAExXNV.jpg",
+					"url": "https://t.co/DA07j4cgFE",
+					"display_url": "pic.twitter.com/DA07j4cgFE",
+					"expanded_url": "https://twitter.com/janeayres1/status/1077349243214589954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 356047587,
+			"id_str": "356047587",
+			"name": "jane ayres",
+			"screen_name": "janeayres1",
+			"location": "Ross-on-Wye",
+			"description": "Blogs a Year of Much Bickering #CynthiaandCrichton Lives in Herefordshire with Tony,dogs and mud. Runs'The Place to Write' #amwriting #music",
+			"url": "https://t.co/joqnzyHXP2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/joqnzyHXP2",
+							"expanded_url": "http://www.muchbickering.blogspot.com",
+							"display_url": "muchbickering.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 1122,
+			"listed_count": 13,
+			"created_at": "Tue Aug 16 08:05:27 +0000 2011",
+			"favourites_count": 2309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572494986631098369/B0Py3Uam_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572494986631098369/B0Py3Uam_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/356047587/1400149353",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@rhodri https://t.co/DA07j4cgFE"
+	},
+	{
+		"created_at": "Mon Dec 24 23:40:38 +0000 2018",
+		"id": 1077348353770442800,
+		"id_str": "1077348353770442752",
+		"full_text": "@MintRoyale Unbelievable!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MintRoyale",
+					"name": "Neil Claxton",
+					"id": 34306180,
+					"id_str": "34306180",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077348075977486300,
+		"in_reply_to_status_id_str": "1077348075977486337",
+		"in_reply_to_user_id": 34306180,
+		"in_reply_to_user_id_str": "34306180",
+		"in_reply_to_screen_name": "MintRoyale",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MintRoyale Unbelievable!"
+	},
+	{
+		"created_at": "Mon Dec 24 23:36:58 +0000 2018",
+		"id": 1077347432000880600,
+		"id_str": "1077347432000880640",
+		"full_text": "@rhodri I’m in my sister’s old room, with a terrible sofa bed, among other things 🙀 #duvetknowitschristmas https://t.co/HjFHa13Pdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						84,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077347395942391800,
+					"id_str": "1077347395942391811",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBv6LWoAMIbpA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBv6LWoAMIbpA.jpg",
+					"url": "https://t.co/HjFHa13Pdm",
+					"display_url": "pic.twitter.com/HjFHa13Pdm",
+					"expanded_url": "https://twitter.com/thedanthomas/status/1077347432000880640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077347395942391800,
+					"id_str": "1077347395942391811",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBv6LWoAMIbpA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBv6LWoAMIbpA.jpg",
+					"url": "https://t.co/HjFHa13Pdm",
+					"display_url": "pic.twitter.com/HjFHa13Pdm",
+					"expanded_url": "https://twitter.com/thedanthomas/status/1077347432000880640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077347396579926000,
+					"id_str": "1077347396579926016",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBv8jWoAAALX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBv8jWoAAALX4.jpg",
+					"url": "https://t.co/HjFHa13Pdm",
+					"display_url": "pic.twitter.com/HjFHa13Pdm",
+					"expanded_url": "https://twitter.com/thedanthomas/status/1077347432000880640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 293060590,
+			"id_str": "293060590",
+			"name": "Dan Thomas",
+			"screen_name": "thedanthomas",
+			"location": "Liverpool",
+			"description": "Christian. Software Engineer at @ldra_technology. Graduate of @LivUni. Avid @U2 fan.",
+			"url": "https://t.co/Ckpd8vPI6w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ckpd8vPI6w",
+							"expanded_url": "http://medium.com/@thedanthomas",
+							"display_url": "medium.com/@thedanthomas",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 1120,
+			"listed_count": 11,
+			"created_at": "Wed May 04 17:54:14 +0000 2011",
+			"favourites_count": 1781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6613,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2532421550/vui2oobgviiiy77nc40j_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2532421550/vui2oobgviiiy77nc40j_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/293060590/1397898695",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I’m in my sister’s old room, with a terrible sofa bed, among other things 🙀 #duvetknowitschristmas https://t.co/HjFHa13Pdm"
+	},
+	{
+		"created_at": "Mon Dec 24 23:38:40 +0000 2018",
+		"id": 1077347859111075800,
+		"id_str": "1077347859111075840",
+		"full_text": "@Doctor_J_ The double toilets were a cheat, too. Gah!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Doctor_J_",
+					"name": "Jason Carty",
+					"id": 15186239,
+					"id_str": "15186239",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077347711421165600,
+		"in_reply_to_status_id_str": "1077347711421165570",
+		"in_reply_to_user_id": 15186239,
+		"in_reply_to_user_id_str": "15186239",
+		"in_reply_to_screen_name": "Doctor_J_",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Doctor_J_ The double toilets were a cheat, too. Gah!"
+	},
+	{
+		"created_at": "Mon Dec 24 23:36:30 +0000 2018",
+		"id": 1077347314279292900,
+		"id_str": "1077347314279292928",
+		"full_text": "Mum's flung the spare duvet at the sofa, but Nan's still watching TV so no chance of sleep yet. Have been given a sheet this year so I don't stick to the leather sofa #luxury #DuvetKnowItsChristmas @rhodri https://t.co/sUIyLlHQou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "luxury",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						175,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077347306196881400,
+					"id_str": "1077347306196881408",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBqr2W0AAzc0J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBqr2W0AAzc0J.jpg",
+					"url": "https://t.co/sUIyLlHQou",
+					"display_url": "pic.twitter.com/sUIyLlHQou",
+					"expanded_url": "https://twitter.com/mildperil/status/1077347314279292928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077347306196881400,
+					"id_str": "1077347306196881408",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBqr2W0AAzc0J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBqr2W0AAzc0J.jpg",
+					"url": "https://t.co/sUIyLlHQou",
+					"display_url": "pic.twitter.com/sUIyLlHQou",
+					"expanded_url": "https://twitter.com/mildperil/status/1077347314279292928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1893723548,
+			"id_str": "1893723548",
+			"name": "Mild Peril",
+			"screen_name": "mildperil",
+			"location": "Ealing",
+			"description": "I make stuff and swear about it. El Presidente at @westealingwi. Pronouns: she/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 456,
+			"friends_count": 587,
+			"listed_count": 24,
+			"created_at": "Sun Sep 22 13:16:18 +0000 2013",
+			"favourites_count": 50077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826712526041841664/78Vr8iEg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826712526041841664/78Vr8iEg_normal.jpg",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mum's flung the spare duvet at the sofa, but Nan's still watching TV so no chance of sleep yet. Have been given a sheet this year so I don't stick to the leather sofa #luxury #DuvetKnowItsChristmas @rhodri https://t.co/sUIyLlHQou"
+	},
+	{
+		"created_at": "Mon Dec 24 23:35:29 +0000 2018",
+		"id": 1077347060221993000,
+		"id_str": "1077347060221992961",
+		"full_text": "@rhodri Elephant bedding, background giraffe, wrapped dolls' house the size of a fridge to wedge me in securely, all exactly as I'd requested. #DuvetKnowItsChristmas https://t.co/z3zsOvdzMi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						143,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077347032732500000,
+					"id_str": "1077347032732499968",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBaxHXgAA1D3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBaxHXgAA1D3P.jpg",
+					"url": "https://t.co/z3zsOvdzMi",
+					"display_url": "pic.twitter.com/z3zsOvdzMi",
+					"expanded_url": "https://twitter.com/SirMustard/status/1077347060221992961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077347032732500000,
+					"id_str": "1077347032732499968",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOBaxHXgAA1D3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOBaxHXgAA1D3P.jpg",
+					"url": "https://t.co/z3zsOvdzMi",
+					"display_url": "pic.twitter.com/z3zsOvdzMi",
+					"expanded_url": "https://twitter.com/SirMustard/status/1077347060221992961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 23746494,
+			"id_str": "23746494",
+			"name": "Crispin",
+			"screen_name": "SirMustard",
+			"location": "",
+			"description": "In 1992, I won a box of Rowntree Matchmakers at my school raffle. I mislaid them on a train between Ramsgate and Canterbury West. Reward offered for safe return",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756,
+			"friends_count": 959,
+			"listed_count": 10,
+			"created_at": "Wed Mar 11 10:58:37 +0000 2009",
+			"favourites_count": 1014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047287046145040384/Gv5eThNL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047287046145040384/Gv5eThNL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23746494/1496573734",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Elephant bedding, background giraffe, wrapped dolls' house the size of a fridge to wedge me in securely, all exactly as I'd requested. #DuvetKnowItsChristmas https://t.co/z3zsOvdzMi"
+	},
+	{
+		"created_at": "Mon Dec 24 23:06:17 +0000 2018",
+		"id": 1077339711721689100,
+		"id_str": "1077339711721689088",
+		"full_text": "Prime spot this year, in between the dishwasher and the bin. To be fair this would cost £3k pcm to rent in London #DuvetKnowItsChristmas https://t.co/I6WfqDgjOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						114,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077339703534383100,
+					"id_str": "1077339703534383106",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN6wJuXcAIZEvS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN6wJuXcAIZEvS.jpg",
+					"url": "https://t.co/I6WfqDgjOI",
+					"display_url": "pic.twitter.com/I6WfqDgjOI",
+					"expanded_url": "https://twitter.com/meganhcampbell/status/1077339711721689088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077339703534383100,
+					"id_str": "1077339703534383106",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN6wJuXcAIZEvS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN6wJuXcAIZEvS.jpg",
+					"url": "https://t.co/I6WfqDgjOI",
+					"display_url": "pic.twitter.com/I6WfqDgjOI",
+					"expanded_url": "https://twitter.com/meganhcampbell/status/1077339711721689088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41440475,
+			"id_str": "41440475",
+			"name": "Megan Campbell",
+			"screen_name": "meganhcampbell",
+			"location": "London, England",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136,
+			"friends_count": 246,
+			"listed_count": 4,
+			"created_at": "Wed May 20 20:21:36 +0000 2009",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920736596332306432/yQ8exJrO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920736596332306432/yQ8exJrO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41440475/1367181405",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prime spot this year, in between the dishwasher and the bin. To be fair this would cost £3k pcm to rent in London #DuvetKnowItsChristmas https://t.co/I6WfqDgjOI"
+	},
+	{
+		"created_at": "Mon Dec 24 23:28:56 +0000 2018",
+		"id": 1077345409264242700,
+		"id_str": "1077345409264242689",
+		"full_text": "I am in my childhood duvet and am being interrogated by my own face. #DuvetKnowItsChristmas @rhodri https://t.co/wKpek8dncF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						69,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077345403048259600,
+					"id_str": "1077345403048259584",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN_76EXcAARG5x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN_76EXcAARG5x.jpg",
+					"url": "https://t.co/wKpek8dncF",
+					"display_url": "pic.twitter.com/wKpek8dncF",
+					"expanded_url": "https://twitter.com/phil_makepeace/status/1077345409264242689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077345403048259600,
+					"id_str": "1077345403048259584",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN_76EXcAARG5x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN_76EXcAARG5x.jpg",
+					"url": "https://t.co/wKpek8dncF",
+					"display_url": "pic.twitter.com/wKpek8dncF",
+					"expanded_url": "https://twitter.com/phil_makepeace/status/1077345409264242689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96167501,
+			"id_str": "96167501",
+			"name": "Phil",
+			"screen_name": "phil_makepeace",
+			"location": "Surrey",
+			"description": "How can I see stars if my feet are on the ground? Chess coach and cricket wrangler.",
+			"url": "https://t.co/45fD53vlhM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/45fD53vlhM",
+							"expanded_url": "http://makepeacewithchess.com",
+							"display_url": "makepeacewithchess.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 744,
+			"listed_count": 37,
+			"created_at": "Fri Dec 11 17:22:55 +0000 2009",
+			"favourites_count": 4554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42675,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076927706498035712/nmj_DKB-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076927706498035712/nmj_DKB-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96167501/1522909876",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am in my childhood duvet and am being interrogated by my own face. #DuvetKnowItsChristmas @rhodri https://t.co/wKpek8dncF"
+	},
+	{
+		"created_at": "Mon Dec 24 23:30:23 +0000 2018",
+		"id": 1077345775301152800,
+		"id_str": "1077345775301152769",
+		"full_text": "@rhodri I'm back between the dresser and the dining room table. My missus gets the sofa. #DuvetKnowItsChristmas https://t.co/GiUwuLdrbx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						89,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077345753239093200,
+					"id_str": "1077345753239093249",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOAQSoXgAEoK3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOAQSoXgAEoK3Q.jpg",
+					"url": "https://t.co/GiUwuLdrbx",
+					"display_url": "pic.twitter.com/GiUwuLdrbx",
+					"expanded_url": "https://twitter.com/jonmacqueen/status/1077345775301152769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077345753239093200,
+					"id_str": "1077345753239093249",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOAQSoXgAEoK3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOAQSoXgAEoK3Q.jpg",
+					"url": "https://t.co/GiUwuLdrbx",
+					"display_url": "pic.twitter.com/GiUwuLdrbx",
+					"expanded_url": "https://twitter.com/jonmacqueen/status/1077345775301152769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077345767264792600,
+					"id_str": "1077345767264792578",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOARG4WsAI_x21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOARG4WsAI_x21.jpg",
+					"url": "https://t.co/GiUwuLdrbx",
+					"display_url": "pic.twitter.com/GiUwuLdrbx",
+					"expanded_url": "https://twitter.com/jonmacqueen/status/1077345775301152769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 578295735,
+			"id_str": "578295735",
+			"name": "Jon Macqueen",
+			"screen_name": "jonmacqueen",
+			"location": "",
+			"description": "TV producer and writer and script editor and bridesmaid. Hailmakers, PhoneShop, The Javone Prince Show, Hank Zipzer, The Athena, Flavours blah blah blah",
+			"url": "https://t.co/SAwUIVfCKW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SAwUIVfCKW",
+							"expanded_url": "http://www.rochellestevens.com/macqueen/",
+							"display_url": "rochellestevens.com/macqueen/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 1298,
+			"listed_count": 55,
+			"created_at": "Sat May 12 16:53:33 +0000 2012",
+			"favourites_count": 9150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879057114479636481/hOXHTMGn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879057114479636481/hOXHTMGn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/578295735/1502740816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I'm back between the dresser and the dining room table. My missus gets the sofa. #DuvetKnowItsChristmas https://t.co/GiUwuLdrbx"
+	},
+	{
+		"created_at": "Mon Dec 24 23:32:22 +0000 2018",
+		"id": 1077346272263237600,
+		"id_str": "1077346272263237633",
+		"full_text": "NB: Anyone who maliciously pulls the wool over my eyes with fake pictures grabbed from the internet (easily done) aren't just cheating me, they're cheating themselves. (Mainly cheating me, though.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "NB: Anyone who maliciously pulls the wool over my eyes with fake pictures grabbed from the internet (easily done) aren't just cheating me, they're cheating themselves. (Mainly cheating me, though.)"
+	},
+	{
+		"created_at": "Mon Dec 24 23:28:03 +0000 2018",
+		"id": 1077345189293948900,
+		"id_str": "1077345189293948928",
+		"full_text": "@timchipping I love living in Leeds.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timchipping",
+					"name": "Tim Chipping",
+					"id": 19602874,
+					"id_str": "19602874",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077344734899769300,
+		"in_reply_to_status_id_str": "1077344734899769345",
+		"in_reply_to_user_id": 19602874,
+		"in_reply_to_user_id_str": "19602874",
+		"in_reply_to_screen_name": "timchipping",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timchipping I love living in Leeds."
+	},
+	{
+		"created_at": "Mon Dec 24 23:27:10 +0000 2018",
+		"id": 1077344966765150200,
+		"id_str": "1077344966765150208",
+		"full_text": "@annatweety @DNAtkinson @WrongJill Gah! Second fake of the night uncovered.",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annatweety",
+					"name": "anna butcher",
+					"id": 40062664,
+					"id_str": "40062664",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DNAtkinson",
+					"name": "David N Atkinson",
+					"id": 26328151,
+					"id_str": "26328151",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "WrongJill",
+					"name": "Merrily I’m High",
+					"id": 1016219582,
+					"id_str": "1016219582",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077344393496088600,
+		"in_reply_to_status_id_str": "1077344393496088578",
+		"in_reply_to_user_id": 40062664,
+		"in_reply_to_user_id_str": "40062664",
+		"in_reply_to_screen_name": "annatweety",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@annatweety @DNAtkinson @WrongJill Gah! Second fake of the night uncovered."
+	},
+	{
+		"created_at": "Mon Dec 24 23:26:05 +0000 2018",
+		"id": 1077344691702648800,
+		"id_str": "1077344691702648833",
+		"full_text": "@mjrharris @nickbowes1975 It's fantastic, I wish I could retweet it but Nick's account is locked :)",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mjrharris",
+					"name": "Michael Harris",
+					"id": 174253648,
+					"id_str": "174253648",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "nickbowes1975",
+					"name": "Nick Bowes",
+					"id": 183190593,
+					"id_str": "183190593",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077344499641266200,
+		"in_reply_to_status_id_str": "1077344499641266178",
+		"in_reply_to_user_id": 174253648,
+		"in_reply_to_user_id_str": "174253648",
+		"in_reply_to_screen_name": "mjrharris",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mjrharris @nickbowes1975 It's fantastic, I wish I could retweet it but Nick's account is locked :)"
+	},
+	{
+		"created_at": "Mon Dec 24 23:23:34 +0000 2018",
+		"id": 1077344059402915800,
+		"id_str": "1077344059402915840",
+		"full_text": "In the land of ancient electronics and outgrown toys (but comfy mattress!) #duvetknowitschristmas @rhodri https://t.co/T92AcIB2Vl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						75,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077344056064294900,
+					"id_str": "1077344056064294912",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN-tgKXQAAXxaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN-tgKXQAAXxaA.jpg",
+					"url": "https://t.co/T92AcIB2Vl",
+					"display_url": "pic.twitter.com/T92AcIB2Vl",
+					"expanded_url": "https://twitter.com/gershamabob/status/1077344059402915840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077344056064294900,
+					"id_str": "1077344056064294912",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN-tgKXQAAXxaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN-tgKXQAAXxaA.jpg",
+					"url": "https://t.co/T92AcIB2Vl",
+					"display_url": "pic.twitter.com/T92AcIB2Vl",
+					"expanded_url": "https://twitter.com/gershamabob/status/1077344059402915840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon (Plus)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14664940,
+			"id_str": "14664940",
+			"name": "gershamabob",
+			"screen_name": "gershamabob",
+			"location": "",
+			"description": "Pica pica",
+			"url": "https://t.co/rVKoD0QYT0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rVKoD0QYT0",
+							"expanded_url": "http://gershamabob.blogspot.com",
+							"display_url": "gershamabob.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 95,
+			"listed_count": 10,
+			"created_at": "Mon May 05 21:06:33 +0000 2008",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5643,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765460111452241920/2xKOzhXN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765460111452241920/2xKOzhXN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14664940/1405500853",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the land of ancient electronics and outgrown toys (but comfy mattress!) #duvetknowitschristmas @rhodri https://t.co/T92AcIB2Vl"
+	},
+	{
+		"created_at": "Mon Dec 24 23:23:57 +0000 2018",
+		"id": 1077344156274622500,
+		"id_str": "1077344156274622465",
+		"full_text": "The definition of \"cleverly\". https://t.co/T2zIGCzwKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T2zIGCzwKP",
+					"expanded_url": "https://twitter.com/AnnetteEHart/status/1077343791160401925",
+					"display_url": "twitter.com/AnnetteEHart/s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077343791160401900,
+		"quoted_status_id_str": "1077343791160401925",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T2zIGCzwKP",
+			"expanded": "https://twitter.com/AnnetteEHart/status/1077343791160401925",
+			"display": "twitter.com/AnnetteEHart/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 23:22:30 +0000 2018",
+			"id": 1077343791160401900,
+			"id_str": "1077343791160401925",
+			"full_text": "Our smallest bedroom has our eldest daughter sharing with an enormous helium shark balloon. Cleverly hidden in a wedding dress bag @rhodri #DuvetKnowItsChrismas https://t.co/7jydlexUcr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChrismas",
+						"indices": [
+							139,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							131,
+							138
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077343785556824000,
+						"id_str": "1077343785556824064",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/DvN-dwcW0AARbCG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvN-dwcW0AARbCG.jpg",
+						"url": "https://t.co/7jydlexUcr",
+						"display_url": "pic.twitter.com/7jydlexUcr",
+						"expanded_url": "https://twitter.com/AnnetteEHart/status/1077343791160401925/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077343785556824000,
+						"id_str": "1077343785556824064",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/DvN-dwcW0AARbCG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvN-dwcW0AARbCG.jpg",
+						"url": "https://t.co/7jydlexUcr",
+						"display_url": "pic.twitter.com/7jydlexUcr",
+						"expanded_url": "https://twitter.com/AnnetteEHart/status/1077343791160401925/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1464290970,
+				"id_str": "1464290970",
+				"name": "Annette",
+				"screen_name": "AnnetteEHart",
+				"location": "",
+				"description": "Practice Development Nurse, Willen Hospice & Lecturer, Northampton University. Enthusiastic about end of life education & the student placement journey",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 166,
+				"friends_count": 372,
+				"listed_count": 2,
+				"created_at": "Tue May 28 10:08:45 +0000 2013",
+				"favourites_count": 573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 219,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563042004142022656/UHcuXsdY_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563042004142022656/UHcuXsdY_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The definition of \"cleverly\". https://t.co/T2zIGCzwKP"
+	},
+	{
+		"created_at": "Mon Dec 24 23:22:58 +0000 2018",
+		"id": 1077343907380424700,
+		"id_str": "1077343907380424706",
+		"full_text": "@haljak £47.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haljak",
+					"name": "Anne Aardvark",
+					"id": 24207921,
+					"id_str": "24207921",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077343768850956300,
+		"in_reply_to_status_id_str": "1077343768850956289",
+		"in_reply_to_user_id": 24207921,
+		"in_reply_to_user_id_str": "24207921",
+		"in_reply_to_screen_name": "haljak",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@haljak £47."
+	},
+	{
+		"created_at": "Mon Dec 24 23:22:22 +0000 2018",
+		"id": 1077343758822322200,
+		"id_str": "1077343758822322176",
+		"full_text": "@rhodri mostly normal except for\na) German style single duvets on a double bed which are wildly mismatching and \nb) TRILOBITES\n#duvetknowitsChristmas https://t.co/zIRzjz7QmL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitsChristmas",
+					"indices": [
+						127,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077343397759848400,
+					"id_str": "1077343397759848448",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN-HLyWkAAsKdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN-HLyWkAAsKdS.jpg",
+					"url": "https://t.co/zIRzjz7QmL",
+					"display_url": "pic.twitter.com/zIRzjz7QmL",
+					"expanded_url": "https://twitter.com/Wulfstan_I/status/1077343758822322176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077343397759848400,
+					"id_str": "1077343397759848448",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN-HLyWkAAsKdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN-HLyWkAAsKdS.jpg",
+					"url": "https://t.co/zIRzjz7QmL",
+					"display_url": "pic.twitter.com/zIRzjz7QmL",
+					"expanded_url": "https://twitter.com/Wulfstan_I/status/1077343758822322176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077343397558607900,
+					"id_str": "1077343397558607873",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN-HLCX4AEvnmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN-HLCX4AEvnmX.jpg",
+					"url": "https://t.co/zIRzjz7QmL",
+					"display_url": "pic.twitter.com/zIRzjz7QmL",
+					"expanded_url": "https://twitter.com/Wulfstan_I/status/1077343758822322176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1673016126,
+			"id_str": "1673016126",
+			"name": "Richard S",
+			"screen_name": "Wulfstan_I",
+			"location": "",
+			"description": "Failed ultra runner, failed marathoner, crap middle distance runner, fellrunning mediocrity. Men’s captain @RHarriers.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94,
+			"friends_count": 248,
+			"listed_count": 2,
+			"created_at": "Thu Aug 15 12:18:03 +0000 2013",
+			"favourites_count": 423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 638,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878671633220861953/49x7vBfR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878671633220861953/49x7vBfR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1673016126/1420585337",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri mostly normal except for\na) German style single duvets on a double bed which are wildly mismatching and \nb) TRILOBITES\n#duvetknowitsChristmas https://t.co/zIRzjz7QmL"
+	},
+	{
+		"created_at": "Mon Dec 24 23:17:55 +0000 2018",
+		"id": 1077342637751980000,
+		"id_str": "1077342637751980033",
+		"full_text": "The bottom bunk is mine, cos the top bunk belongs to giant angry teddy.  Space to lie down, but not sit up. Plus a surprise minecraft weapon on my pillow.\n@rhodri \n#DuvetKnowItsChristmas\n#tweetyourchristmasbed https://t.co/53MtXOum8k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						164,
+						186
+					]
+				},
+				{
+					"text": "tweetyourchristmasbed",
+					"indices": [
+						187,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077342629912813600,
+					"id_str": "1077342629912813568",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN9afVWoAAdMPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN9afVWoAAdMPC.jpg",
+					"url": "https://t.co/53MtXOum8k",
+					"display_url": "pic.twitter.com/53MtXOum8k",
+					"expanded_url": "https://twitter.com/JulieNicholas_/status/1077342637751980033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077342629912813600,
+					"id_str": "1077342629912813568",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN9afVWoAAdMPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN9afVWoAAdMPC.jpg",
+					"url": "https://t.co/53MtXOum8k",
+					"display_url": "pic.twitter.com/53MtXOum8k",
+					"expanded_url": "https://twitter.com/JulieNicholas_/status/1077342637751980033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 726008767,
+			"id_str": "726008767",
+			"name": "Julie Nicholas",
+			"screen_name": "JulieNicholas_",
+			"location": "Monmouthshire & The Port",
+			"description": "Works/volunteers in social housing. Brownie leader. ♡ feminism, theatre & orangutans. Views don't represent my employer, all women or the Welsh. But they might.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2330,
+			"friends_count": 1882,
+			"listed_count": 81,
+			"created_at": "Mon Jul 30 12:53:37 +0000 2012",
+			"favourites_count": 9334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971788504693919746/RjO6x3e4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971788504693919746/RjO6x3e4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/726008767/1399631272",
+			"profile_link_color": "7100B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The bottom bunk is mine, cos the top bunk belongs to giant angry teddy.  Space to lie down, but not sit up. Plus a surprise minecraft weapon on my pillow.\n@rhodri \n#DuvetKnowItsChristmas\n#tweetyourchristmasbed https://t.co/53MtXOum8k"
+	},
+	{
+		"created_at": "Mon Dec 24 23:18:42 +0000 2018",
+		"id": 1077342834024501200,
+		"id_str": "1077342834024501248",
+		"full_text": "In the living room. Blocking everyone else's way to the kitchen. @rhodri https://t.co/5lhNN6n0UG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077342820707565600,
+					"id_str": "1077342820707565569",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN9lmGXgAEs9vo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN9lmGXgAEs9vo.jpg",
+					"url": "https://t.co/5lhNN6n0UG",
+					"display_url": "pic.twitter.com/5lhNN6n0UG",
+					"expanded_url": "https://twitter.com/daveblackers77/status/1077342834024501248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077342820707565600,
+					"id_str": "1077342820707565569",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN9lmGXgAEs9vo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN9lmGXgAEs9vo.jpg",
+					"url": "https://t.co/5lhNN6n0UG",
+					"display_url": "pic.twitter.com/5lhNN6n0UG",
+					"expanded_url": "https://twitter.com/daveblackers77/status/1077342834024501248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102196464,
+			"id_str": "102196464",
+			"name": "David Blackwell",
+			"screen_name": "daveblackers77",
+			"location": "",
+			"description": "by the seaside ...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 269,
+			"listed_count": 2,
+			"created_at": "Tue Jan 05 23:10:37 +0000 2010",
+			"favourites_count": 1383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648974729894842368/mhQaLxL4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648974729894842368/mhQaLxL4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102196464/1443562606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the living room. Blocking everyone else's way to the kitchen. @rhodri https://t.co/5lhNN6n0UG"
+	},
+	{
+		"created_at": "Mon Dec 24 23:20:18 +0000 2018",
+		"id": 1077343237629710300,
+		"id_str": "1077343237629710336",
+		"full_text": "Apparently the Daily Mail has run a piece on the whole duvet thing in which it describes me as \"Rhodri Marsden, 47.\" Heh. You know you've *really* made it when the Mail tells the world how old you are on a slow news day.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Apparently the Daily Mail has run a piece on the whole duvet thing in which it describes me as \"Rhodri Marsden, 47.\" Heh. You know you've *really* made it when the Mail tells the world how old you are on a slow news day."
+	},
+	{
+		"created_at": "Mon Dec 24 22:32:22 +0000 2018",
+		"id": 1077331175746793500,
+		"id_str": "1077331175746793472",
+		"full_text": "Guitar. Music. Pillow without case as we’ve run out. Slowly deflating air bed. #DuvetKnowItsChrismas https://t.co/GOcuHK3YVx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						79,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077331169128210400,
+					"id_str": "1077331169128210433",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNy_YlX4AEKh9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNy_YlX4AEKh9c.jpg",
+					"url": "https://t.co/GOcuHK3YVx",
+					"display_url": "pic.twitter.com/GOcuHK3YVx",
+					"expanded_url": "https://twitter.com/Cromerty/status/1077331175746793472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077331169128210400,
+					"id_str": "1077331169128210433",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNy_YlX4AEKh9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNy_YlX4AEKh9c.jpg",
+					"url": "https://t.co/GOcuHK3YVx",
+					"display_url": "pic.twitter.com/GOcuHK3YVx",
+					"expanded_url": "https://twitter.com/Cromerty/status/1077331175746793472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45835391,
+			"id_str": "45835391",
+			"name": "❄️Cromerty Yule Log ❄️: Voice Actor (FALALALA)",
+			"screen_name": "Cromerty",
+			"location": "In t'studio, voice acting",
+			"description": "Voice Actor & Voice Over • 👩‍🎤 Surveyor: https://t.co/FMnnz6mNLQ • V&A and NASA • 🎙info@alteregovoices.com • https://t.co/Pj6ImHy4Xd • 📷 https://t.co/3a6WHIS1VC",
+			"url": "https://t.co/EH65QkT01O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EH65QkT01O",
+							"expanded_url": "https://alteregovoices.com",
+							"display_url": "alteregovoices.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FMnnz6mNLQ",
+							"expanded_url": "http://vimeo.com/271817191",
+							"display_url": "vimeo.com/271817191",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/Pj6ImHy4Xd",
+							"expanded_url": "https://bit.ly/2QDK3mt",
+							"display_url": "bit.ly/2QDK3mt",
+							"indices": [
+								109,
+								132
+							]
+						},
+						{
+							"url": "https://t.co/3a6WHIS1VC",
+							"expanded_url": "http://instagram.com/cromerty",
+							"display_url": "instagram.com/cromerty",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4062,
+			"friends_count": 3693,
+			"listed_count": 93,
+			"created_at": "Tue Jun 09 13:25:38 +0000 2009",
+			"favourites_count": 91387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83092,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067789849674072064/4EQZD2LM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067789849674072064/4EQZD2LM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45835391/1527373287",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Guitar. Music. Pillow without case as we’ve run out. Slowly deflating air bed. #DuvetKnowItsChrismas https://t.co/GOcuHK3YVx"
+	},
+	{
+		"created_at": "Mon Dec 24 23:13:42 +0000 2018",
+		"id": 1077341577519992800,
+		"id_str": "1077341577519992832",
+		"full_text": "@rhodri At my big sisters house, beside her crosstrainer and my nieces craft corner. 💕 \n#duvetknowitschristmas https://t.co/2CB2mRnm1t",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						88,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077341565415292900,
+					"id_str": "1077341565415292928",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN8chxXgAArrE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN8chxXgAArrE6.jpg",
+					"url": "https://t.co/2CB2mRnm1t",
+					"display_url": "pic.twitter.com/2CB2mRnm1t",
+					"expanded_url": "https://twitter.com/IamEAa/status/1077341577519992832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077341565415292900,
+					"id_str": "1077341565415292928",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN8chxXgAArrE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN8chxXgAArrE6.jpg",
+					"url": "https://t.co/2CB2mRnm1t",
+					"display_url": "pic.twitter.com/2CB2mRnm1t",
+					"expanded_url": "https://twitter.com/IamEAa/status/1077341577519992832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 312537741,
+			"id_str": "312537741",
+			"name": "Erika Aa",
+			"screen_name": "IamEAa",
+			"location": "Borås, Sverige",
+			"description": "Lägger livspussel & trollar med knäna. ✨ Mamma. Förskollärare. Retweetare.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1078,
+			"listed_count": 28,
+			"created_at": "Tue Jun 07 08:36:35 +0000 2011",
+			"favourites_count": 7483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35017,
+			"lang": "sv",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076987455495172101/vJnGVDAs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076987455495172101/vJnGVDAs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/312537741/1537168383",
+			"profile_link_color": "848085",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "B25F9F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e47c4f3d8741b47c",
+			"url": "https://api.twitter.com/1.1/geo/id/e47c4f3d8741b47c.json",
+			"place_type": "city",
+			"name": "Partille",
+			"full_name": "Partille, Sverige",
+			"country_code": "SE",
+			"country": "Sweden",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							12.0543316,
+							57.6823124
+						],
+						[
+							12.2249066,
+							57.6823124
+						],
+						[
+							12.2249066,
+							57.7759352
+						],
+						[
+							12.0543316,
+							57.7759352
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri At my big sisters house, beside her crosstrainer and my nieces craft corner. 💕 \n#duvetknowitschristmas https://t.co/2CB2mRnm1t"
+	},
+	{
+		"created_at": "Mon Dec 24 23:12:58 +0000 2018",
+		"id": 1077341390084935700,
+		"id_str": "1077341390084935680",
+		"full_text": "Oh, man. I just shrieked. How completely magnificent. https://t.co/86MjYivBg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/86MjYivBg3",
+					"expanded_url": "https://twitter.com/Bedroom_Eyes_/status/1077341191333650432",
+					"display_url": "twitter.com/Bedroom_Eyes_/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077341191333650400,
+		"quoted_status_id_str": "1077341191333650432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/86MjYivBg3",
+			"expanded": "https://twitter.com/Bedroom_Eyes_/status/1077341191333650432",
+			"display": "twitter.com/Bedroom_Eyes_/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 23:12:10 +0000 2018",
+			"id": 1077341191333650400,
+			"id_str": "1077341191333650432",
+			"full_text": "@rhodri Couch in my sister’s loft, opposite my father, a treadmill and a human anatomy doll. https://t.co/je3voUsVNj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077341152968433700,
+						"id_str": "1077341152968433664",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DvN8EhSX4AARgqn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvN8EhSX4AARgqn.jpg",
+						"url": "https://t.co/je3voUsVNj",
+						"display_url": "pic.twitter.com/je3voUsVNj",
+						"expanded_url": "https://twitter.com/Bedroom_Eyes_/status/1077341191333650432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077341152968433700,
+						"id_str": "1077341152968433664",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DvN8EhSX4AARgqn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvN8EhSX4AARgqn.jpg",
+						"url": "https://t.co/je3voUsVNj",
+						"display_url": "pic.twitter.com/je3voUsVNj",
+						"expanded_url": "https://twitter.com/Bedroom_Eyes_/status/1077341191333650432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 130074413,
+				"id_str": "130074413",
+				"name": "Bedroom Eyes",
+				"screen_name": "Bedroom_Eyes_",
+				"location": "Föllinge, Sweden",
+				"description": "Jonas Jonsson | Swedish pop artist from small town of Föllinge | New album May 12 2017, produced by Andreas Mattsson | jonas(a)https://t.co/BrbZGCEQi3",
+				"url": "https://t.co/Cwx0qMESvs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cwx0qMESvs",
+								"expanded_url": "http://www.bedroomeyes.se",
+								"display_url": "bedroomeyes.se",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BrbZGCEQi3",
+								"expanded_url": "http://bedroomeyes.se",
+								"display_url": "bedroomeyes.se",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 247,
+				"friends_count": 181,
+				"listed_count": 7,
+				"created_at": "Tue Apr 06 06:46:20 +0000 2010",
+				"favourites_count": 1502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1453,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838339887535439872/dxGQ65VT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838339887535439872/dxGQ65VT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130074413/1522236121",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 139,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 57,
+		"favorite_count": 382,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh, man. I just shrieked. How completely magnificent. https://t.co/86MjYivBg3"
+	},
+	{
+		"created_at": "Mon Dec 24 23:10:14 +0000 2018",
+		"id": 1077340705297707000,
+		"id_str": "1077340705297707009",
+		"full_text": "@rhodri I call this “bare wall chic”. The unused room; so cold I’m under ALL the disused duvets from the past 20 years.. https://t.co/Kp5jYddjvn",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077340695394947100,
+					"id_str": "1077340695394947073",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN7p4sWkAEHcv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN7p4sWkAEHcv3.jpg",
+					"url": "https://t.co/Kp5jYddjvn",
+					"display_url": "pic.twitter.com/Kp5jYddjvn",
+					"expanded_url": "https://twitter.com/Robcapper/status/1077340705297707009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077340695394947100,
+					"id_str": "1077340695394947073",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN7p4sWkAEHcv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN7p4sWkAEHcv3.jpg",
+					"url": "https://t.co/Kp5jYddjvn",
+					"display_url": "pic.twitter.com/Kp5jYddjvn",
+					"expanded_url": "https://twitter.com/Robcapper/status/1077340705297707009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 158110392,
+			"id_str": "158110392",
+			"name": "Robert Capper",
+			"screen_name": "Robcapper",
+			"location": "London",
+			"description": "Drives racing cars, likes Shreddies, occasional pianist, trainee sprinter. Needs tea to function.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569,
+			"friends_count": 435,
+			"listed_count": 9,
+			"created_at": "Mon Jun 21 20:24:31 +0000 2010",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/761653670119403520/zfCEhJse_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/761653670119403520/zfCEhJse_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158110392/1394809296",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I call this “bare wall chic”. The unused room; so cold I’m under ALL the disused duvets from the past 20 years.. https://t.co/Kp5jYddjvn"
+	},
+	{
+		"created_at": "Mon Dec 24 23:08:46 +0000 2018",
+		"id": 1077340334345121800,
+		"id_str": "1077340334345121800",
+		"full_text": "@rhodri not sure In-laws Santa is the right scale for the dolls house? #DuvetKnowItsChrismas https://t.co/KqgcA89Pxd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						71,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077340233597898800,
+					"id_str": "1077340233597898752",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN7PAXW0AAY3D2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN7PAXW0AAY3D2.jpg",
+					"url": "https://t.co/KqgcA89Pxd",
+					"display_url": "pic.twitter.com/KqgcA89Pxd",
+					"expanded_url": "https://twitter.com/joffy23/status/1077340334345121800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077340233597898800,
+					"id_str": "1077340233597898752",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN7PAXW0AAY3D2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN7PAXW0AAY3D2.jpg",
+					"url": "https://t.co/KqgcA89Pxd",
+					"display_url": "pic.twitter.com/KqgcA89Pxd",
+					"expanded_url": "https://twitter.com/joffy23/status/1077340334345121800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 19993394,
+			"id_str": "19993394",
+			"name": "Jonathan Nicholson",
+			"screen_name": "joffy23",
+			"location": "leatherhead and london",
+			"description": "Have wife, daughter, cat and drumkit (not nec in that order) work in aviation, love Fulham Football Club, music, design, art, swimming",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 193,
+			"listed_count": 6,
+			"created_at": "Tue Feb 03 18:57:36 +0000 2009",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/90864865/IMG_0719_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/90864865/IMG_0719_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri not sure In-laws Santa is the right scale for the dolls house? #DuvetKnowItsChrismas https://t.co/KqgcA89Pxd"
+	},
+	{
+		"created_at": "Mon Dec 24 23:09:27 +0000 2018",
+		"id": 1077340508014473200,
+		"id_str": "1077340508014473216",
+		"full_text": "@CarolaGroom You HEARTLESS parents :)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarolaGroom",
+					"name": "Carola Groom",
+					"id": 471288045,
+					"id_str": "471288045",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077339701101641700,
+		"in_reply_to_status_id_str": "1077339701101641728",
+		"in_reply_to_user_id": 471288045,
+		"in_reply_to_user_id_str": "471288045",
+		"in_reply_to_screen_name": "CarolaGroom",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CarolaGroom You HEARTLESS parents :)"
+	},
+	{
+		"created_at": "Mon Dec 24 23:05:35 +0000 2018",
+		"id": 1077339532507385900,
+		"id_str": "1077339532507385856",
+		"full_text": "@soundbag6 @rhodri I’ve got a dressmaker’s doll, too, which I’ve used to hang my jacket.  There’s an array of other activities on display too, in case I get bored of having a big sleep. https://t.co/ehIrwnSIpT",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundbag6",
+					"name": "Lisa",
+					"id": 49719336,
+					"id_str": "49719336",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077339523510685700,
+					"id_str": "1077339523510685696",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN6lrFX0AAC8ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN6lrFX0AAC8ag.jpg",
+					"url": "https://t.co/ehIrwnSIpT",
+					"display_url": "pic.twitter.com/ehIrwnSIpT",
+					"expanded_url": "https://twitter.com/mrjohnmacleod/status/1077339532507385856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077339523510685700,
+					"id_str": "1077339523510685696",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN6lrFX0AAC8ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN6lrFX0AAC8ag.jpg",
+					"url": "https://t.co/ehIrwnSIpT",
+					"display_url": "pic.twitter.com/ehIrwnSIpT",
+					"expanded_url": "https://twitter.com/mrjohnmacleod/status/1077339532507385856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077314474225352700,
+		"in_reply_to_status_id_str": "1077314474225352705",
+		"in_reply_to_user_id": 49719336,
+		"in_reply_to_user_id_str": "49719336",
+		"in_reply_to_screen_name": "soundbag6",
+		"user": {
+			"id": 264502961,
+			"id_str": "264502961",
+			"name": "John MacLeod",
+			"screen_name": "mrjohnmacleod",
+			"location": "Somewhere or ether",
+			"description": "Singer/songwriter/tomfooler. Podcaster at @ayppodcast. I am the spare prick at your wedding. Attacking Vapour with my new music project at @AOTVBand.",
+			"url": "https://t.co/IY3VA6IJKa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IY3VA6IJKa",
+							"expanded_url": "http://www.aotvband.com",
+							"display_url": "aotvband.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945,
+			"friends_count": 944,
+			"listed_count": 75,
+			"created_at": "Sat Mar 12 00:58:52 +0000 2011",
+			"favourites_count": 21986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071362008086396928/u_gp92zx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071362008086396928/u_gp92zx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264502961/1483244943",
+			"profile_link_color": "565C05",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "5C0101",
+			"profile_text_color": "575757",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@soundbag6 @rhodri I’ve got a dressmaker’s doll, too, which I’ve used to hang my jacket.  There’s an array of other activities on display too, in case I get bored of having a big sleep. https://t.co/ehIrwnSIpT"
+	},
+	{
+		"created_at": "Mon Dec 24 23:02:29 +0000 2018",
+		"id": 1077338754011070500,
+		"id_str": "1077338754011070464",
+		"full_text": "@rhodri my in-laws' house is lovely, cosy even, except for this one haunted object\n\n(@carriemarx told me to) https://t.co/QmcAajNKsy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "carriemarx",
+					"name": "Carrie Marx",
+					"id": 25989407,
+					"id_str": "25989407",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077338725321982000,
+					"id_str": "1077338725321981953",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN53NmWwAESCMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN53NmWwAESCMv.jpg",
+					"url": "https://t.co/QmcAajNKsy",
+					"display_url": "pic.twitter.com/QmcAajNKsy",
+					"expanded_url": "https://twitter.com/HowtheWoodMoves/status/1077338754011070464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077338725321982000,
+					"id_str": "1077338725321981953",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN53NmWwAESCMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN53NmWwAESCMv.jpg",
+					"url": "https://t.co/QmcAajNKsy",
+					"display_url": "pic.twitter.com/QmcAajNKsy",
+					"expanded_url": "https://twitter.com/HowtheWoodMoves/status/1077338754011070464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077338725313663000,
+					"id_str": "1077338725313662976",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN53NkX0AAba6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN53NkX0AAba6C.jpg",
+					"url": "https://t.co/QmcAajNKsy",
+					"display_url": "pic.twitter.com/QmcAajNKsy",
+					"expanded_url": "https://twitter.com/HowtheWoodMoves/status/1077338754011070464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 7655472,
+			"id_str": "7655472",
+			"name": "Howard David Ingham",
+			"screen_name": "HowtheWoodMoves",
+			"location": "Swansea, Wales",
+			"description": "We Don't Go Back. Itchy trigger finger on the block button. They, them etc",
+			"url": "https://t.co/D2jsO8UfeG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D2jsO8UfeG",
+							"expanded_url": "http://room207press.com",
+							"display_url": "room207press.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1090,
+			"friends_count": 443,
+			"listed_count": 63,
+			"created_at": "Mon Jul 23 09:08:08 +0000 2007",
+			"favourites_count": 8202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "66BBFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046692623078035456/7t4aP_gx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046692623078035456/7t4aP_gx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7655472/1535635542",
+			"profile_link_color": "185A56",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E3DC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri my in-laws' house is lovely, cosy even, except for this one haunted object\n\n(@carriemarx told me to) https://t.co/QmcAajNKsy"
+	},
+	{
+		"created_at": "Mon Dec 24 22:55:51 +0000 2018",
+		"id": 1077337086188048400,
+		"id_str": "1077337086188048384",
+		"full_text": "#DuvetKnowItsChristmas A sleeping bag on a sofa with a noisy fish tank in the corner. @rhodri https://t.co/ihOdOOWbG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077337077585465300,
+					"id_str": "1077337077585465345",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN4XTTW0AE7qwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN4XTTW0AE7qwB.jpg",
+					"url": "https://t.co/ihOdOOWbG5",
+					"display_url": "pic.twitter.com/ihOdOOWbG5",
+					"expanded_url": "https://twitter.com/Thatcargeek/status/1077337086188048384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077337077585465300,
+					"id_str": "1077337077585465345",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN4XTTW0AE7qwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN4XTTW0AE7qwB.jpg",
+					"url": "https://t.co/ihOdOOWbG5",
+					"display_url": "pic.twitter.com/ihOdOOWbG5",
+					"expanded_url": "https://twitter.com/Thatcargeek/status/1077337086188048384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 271013901,
+			"id_str": "271013901",
+			"name": "Daniel Puddicombe",
+			"screen_name": "Thatcargeek",
+			"location": "Devon, UK",
+			"description": "Freelance journo covering cars, vans, fleets, railways, trains & more. Mainline steam supporter & snooker anorak. danpuddicombe at hotmail dot com. Own views.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 387,
+			"listed_count": 30,
+			"created_at": "Wed Mar 23 17:54:58 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702973974360231936/0WfTES1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702973974360231936/0WfTES1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/271013901/1490037334",
+			"profile_link_color": "1B1F21",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#DuvetKnowItsChristmas A sleeping bag on a sofa with a noisy fish tank in the corner. @rhodri https://t.co/ihOdOOWbG5"
+	},
+	{
+		"created_at": "Mon Dec 24 22:57:20 +0000 2018",
+		"id": 1077337459070025700,
+		"id_str": "1077337459070025728",
+		"full_text": "@rhodri #DuvetKnowItsChristmas I’ve got Tweety and the mahjong table for company tonight. https://t.co/hIrFbUmi33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						8,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077337449657974800,
+					"id_str": "1077337449657974785",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN4s9YWwAEiHrD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN4s9YWwAEiHrD.jpg",
+					"url": "https://t.co/hIrFbUmi33",
+					"display_url": "pic.twitter.com/hIrFbUmi33",
+					"expanded_url": "https://twitter.com/AmandaGChan/status/1077337459070025728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 771,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 437,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077337449657974800,
+					"id_str": "1077337449657974785",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN4s9YWwAEiHrD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN4s9YWwAEiHrD.jpg",
+					"url": "https://t.co/hIrFbUmi33",
+					"display_url": "pic.twitter.com/hIrFbUmi33",
+					"expanded_url": "https://twitter.com/AmandaGChan/status/1077337459070025728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 771,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 437,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 555994706,
+			"id_str": "555994706",
+			"name": "Amanda Chan",
+			"screen_name": "AmandaGChan",
+			"location": "Jewellery Quarter, Birmingham",
+			"description": "Marketing and Audience Development Team Leader at Birmingham Museums. I tweet about the arts, museums, and food.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 129,
+			"listed_count": 20,
+			"created_at": "Tue Apr 17 14:07:07 +0000 2012",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958140121798316033/0jfMHh-6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958140121798316033/0jfMHh-6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555994706/1467718952",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri #DuvetKnowItsChristmas I’ve got Tweety and the mahjong table for company tonight. https://t.co/hIrFbUmi33"
+	},
+	{
+		"created_at": "Mon Dec 24 22:59:04 +0000 2018",
+		"id": 1077337894594011100,
+		"id_str": "1077337894594011136",
+		"full_text": "Sharing the space again with some gym equipment, but this time an unused fish tank has been added in to the mix @rhodri https://t.co/iE794iPqp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077337873886732300,
+					"id_str": "1077337873886732288",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN5FpwX4AA8Tzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN5FpwX4AA8Tzm.jpg",
+					"url": "https://t.co/iE794iPqp0",
+					"display_url": "pic.twitter.com/iE794iPqp0",
+					"expanded_url": "https://twitter.com/iamEMMA20/status/1077337894594011136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077337873886732300,
+					"id_str": "1077337873886732288",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN5FpwX4AA8Tzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN5FpwX4AA8Tzm.jpg",
+					"url": "https://t.co/iE794iPqp0",
+					"display_url": "pic.twitter.com/iE794iPqp0",
+					"expanded_url": "https://twitter.com/iamEMMA20/status/1077337894594011136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 215760603,
+			"id_str": "215760603",
+			"name": "It’s coming home in 2020",
+			"screen_name": "iamEMMA20",
+			"location": "Deptford",
+			"description": "I once played the role of a door in a primary school play. It was my finest moment.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 693,
+			"listed_count": 2,
+			"created_at": "Sun Nov 14 21:02:34 +0000 2010",
+			"favourites_count": 24671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9658,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043193347886723072/wg0EiDtc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043193347886723072/wg0EiDtc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/215760603/1411294534",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sharing the space again with some gym equipment, but this time an unused fish tank has been added in to the mix @rhodri https://t.co/iE794iPqp0"
+	},
+	{
+		"created_at": "Mon Dec 24 23:00:35 +0000 2018",
+		"id": 1077338276338589700,
+		"id_str": "1077338276338589696",
+		"full_text": "@MaddsFrench This was amazing, I remember it well",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MaddsFrench",
+					"name": "Madeleine French",
+					"id": 2850367724,
+					"id_str": "2850367724",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077338066124238800,
+		"in_reply_to_status_id_str": "1077338066124238848",
+		"in_reply_to_user_id": 2850367724,
+		"in_reply_to_user_id_str": "2850367724",
+		"in_reply_to_screen_name": "MaddsFrench",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MaddsFrench This was amazing, I remember it well"
+	},
+	{
+		"created_at": "Mon Dec 24 22:50:07 +0000 2018",
+		"id": 1077335642277888000,
+		"id_str": "1077335642277888000",
+		"full_text": "@rhodri I have no complaints. Some bedding would be nice, but the heating is turned up to ‘inner circle of hell’ on behalf of the kids, and I have a garage and a tractor to play with if I can’t sleep. #duvetknowitschristmas https://t.co/9gLvWvf71O",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						201,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077335633310425100,
+					"id_str": "1077335633310425088",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN3DO9WoAA1SNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN3DO9WoAA1SNs.jpg",
+					"url": "https://t.co/9gLvWvf71O",
+					"display_url": "pic.twitter.com/9gLvWvf71O",
+					"expanded_url": "https://twitter.com/_Lady_Gardener/status/1077335642277888000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077335633310425100,
+					"id_str": "1077335633310425088",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN3DO9WoAA1SNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN3DO9WoAA1SNs.jpg",
+					"url": "https://t.co/9gLvWvf71O",
+					"display_url": "pic.twitter.com/9gLvWvf71O",
+					"expanded_url": "https://twitter.com/_Lady_Gardener/status/1077335642277888000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 253280448,
+			"id_str": "253280448",
+			"name": "hanging up my stockings on the wall",
+			"screen_name": "_Lady_Gardener",
+			"location": "United Kingdom",
+			"description": "Professional Nimgimmer. One of those feminazis your mum warned you about...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1988,
+			"friends_count": 1090,
+			"listed_count": 32,
+			"created_at": "Wed Feb 16 22:47:45 +0000 2011",
+			"favourites_count": 19591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947383398435360769/4wa9jA7g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947383398435360769/4wa9jA7g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253280448/1438954389",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I have no complaints. Some bedding would be nice, but the heating is turned up to ‘inner circle of hell’ on behalf of the kids, and I have a garage and a tractor to play with if I can’t sleep. #duvetknowitschristmas https://t.co/9gLvWvf71O"
+	},
+	{
+		"created_at": "Mon Dec 24 22:50:44 +0000 2018",
+		"id": 1077335795206443000,
+		"id_str": "1077335795206443008",
+		"full_text": "@rhodri My mum’s spare room is lovely, but zoom in and you’ll see the haunted face of my childhood hobby horse. #DuvetKnowItsChrismas https://t.co/o8JWM3gZB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						112,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077335769805672400,
+					"id_str": "1077335769805672458",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN3LLcW0AozroQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN3LLcW0AozroQ.jpg",
+					"url": "https://t.co/o8JWM3gZB1",
+					"display_url": "pic.twitter.com/o8JWM3gZB1",
+					"expanded_url": "https://twitter.com/Superblouse/status/1077335795206443008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077335769805672400,
+					"id_str": "1077335769805672458",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN3LLcW0AozroQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN3LLcW0AozroQ.jpg",
+					"url": "https://t.co/o8JWM3gZB1",
+					"display_url": "pic.twitter.com/o8JWM3gZB1",
+					"expanded_url": "https://twitter.com/Superblouse/status/1077335795206443008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 21252171,
+			"id_str": "21252171",
+			"name": "Blouse",
+			"screen_name": "Superblouse",
+			"location": "Wales",
+			"description": "Joint tallest in Infants. Double-jointed.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 1290,
+			"listed_count": 52,
+			"created_at": "Wed Feb 18 22:57:22 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077080947156307968/cjR2ZiAV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077080947156307968/cjR2ZiAV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21252171/1539379647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri My mum’s spare room is lovely, but zoom in and you’ll see the haunted face of my childhood hobby horse. #DuvetKnowItsChrismas https://t.co/o8JWM3gZB1"
+	},
+	{
+		"created_at": "Mon Dec 24 22:51:16 +0000 2018",
+		"id": 1077335928841097200,
+		"id_str": "1077335928841097216",
+		"full_text": "@rhodri we’ve acquired a futon in the guest bedroom and then anything that can go on top of that, but the flat screen has remained connected to nothing https://t.co/sgAZ0OCNsF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077335918049153000,
+					"id_str": "1077335918049153024",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN3TzsW0AAleDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN3TzsW0AAleDy.jpg",
+					"url": "https://t.co/sgAZ0OCNsF",
+					"display_url": "pic.twitter.com/sgAZ0OCNsF",
+					"expanded_url": "https://twitter.com/arihat_/status/1077335928841097216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077335918049153000,
+					"id_str": "1077335918049153024",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN3TzsW0AAleDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN3TzsW0AAleDy.jpg",
+					"url": "https://t.co/sgAZ0OCNsF",
+					"display_url": "pic.twitter.com/sgAZ0OCNsF",
+					"expanded_url": "https://twitter.com/arihat_/status/1077335928841097216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 2359029767,
+			"id_str": "2359029767",
+			"name": "Arihat تایرا",
+			"screen_name": "arihat_",
+			"location": "Holiday Destination",
+			"description": "Where would you have me go? I'm second generation Don't you know? Count up the things you own And aspire to that That you have been shown",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 430,
+			"listed_count": 13,
+			"created_at": "Sat Feb 22 17:49:21 +0000 2014",
+			"favourites_count": 23003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42982,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076230631036723200/PPxrfLUX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076230631036723200/PPxrfLUX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359029767/1541372481",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri we’ve acquired a futon in the guest bedroom and then anything that can go on top of that, but the flat screen has remained connected to nothing https://t.co/sgAZ0OCNsF"
+	},
+	{
+		"created_at": "Mon Dec 24 22:44:59 +0000 2018",
+		"id": 1077334349131833300,
+		"id_str": "1077334349131833344",
+		"full_text": "@rhodri #DuvetKnowItsChristmas Bedside reading is STRONGLY encouraged here at my in-laws #lampenthusiasts https://t.co/sEWhQDNc2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						8,
+						30
+					]
+				},
+				{
+					"text": "lampenthusiasts",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077333663136677900,
+					"id_str": "1077333663136677888",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN1QjfVAAAZ-e9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN1QjfVAAAZ-e9.jpg",
+					"url": "https://t.co/sEWhQDNc2d",
+					"display_url": "pic.twitter.com/sEWhQDNc2d",
+					"expanded_url": "https://twitter.com/SallyBeckenham/status/1077334349131833344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077333663136677900,
+					"id_str": "1077333663136677888",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN1QjfVAAAZ-e9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN1QjfVAAAZ-e9.jpg",
+					"url": "https://t.co/sEWhQDNc2d",
+					"display_url": "pic.twitter.com/sEWhQDNc2d",
+					"expanded_url": "https://twitter.com/SallyBeckenham/status/1077334349131833344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 406203081,
+			"id_str": "406203081",
+			"name": "Sally Beckenham",
+			"screen_name": "SallyBeckenham",
+			"location": "Chiang Mai, Thailand",
+			"description": "Lecturer & Research Fellow, Chiang Mai Uni. PhD from @warstudies. Environment, rights & identity discourse in S/SE Asia. Gooner.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 758,
+			"listed_count": 12,
+			"created_at": "Sun Nov 06 11:42:24 +0000 2011",
+			"favourites_count": 934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055805305341173760/QgMtj2dX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055805305341173760/QgMtj2dX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/406203081/1540553940",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri #DuvetKnowItsChristmas Bedside reading is STRONGLY encouraged here at my in-laws #lampenthusiasts https://t.co/sEWhQDNc2d"
+	},
+	{
+		"created_at": "Mon Dec 24 22:36:41 +0000 2018",
+		"id": 1077332259991183400,
+		"id_str": "1077332259991183362",
+		"full_text": "@rhodri completely normal in my old room at my mum's except for this head of Dumbo staring ominously at the bed #DuvetKnowItsChristmas https://t.co/lvmNFqdlUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						112,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332202097135600,
+					"id_str": "1077332202097135616",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNz7gsW0AAP1ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNz7gsW0AAP1ML.jpg",
+					"url": "https://t.co/lvmNFqdlUV",
+					"display_url": "pic.twitter.com/lvmNFqdlUV",
+					"expanded_url": "https://twitter.com/jkime94/status/1077332259991183362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332202097135600,
+					"id_str": "1077332202097135616",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNz7gsW0AAP1ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNz7gsW0AAP1ML.jpg",
+					"url": "https://t.co/lvmNFqdlUV",
+					"display_url": "pic.twitter.com/lvmNFqdlUV",
+					"expanded_url": "https://twitter.com/jkime94/status/1077332259991183362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 241466345,
+			"id_str": "241466345",
+			"name": "Jonathan Kime",
+			"screen_name": "jkime94",
+			"location": "Norwich",
+			"description": "UEA graduate. Leeds United away.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 318,
+			"listed_count": 6,
+			"created_at": "Sat Jan 22 09:38:56 +0000 2011",
+			"favourites_count": 1194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987756730988859392/NLG6MFfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987756730988859392/NLG6MFfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/241466345/1514232018",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri completely normal in my old room at my mum's except for this head of Dumbo staring ominously at the bed #DuvetKnowItsChristmas https://t.co/lvmNFqdlUV"
+	},
+	{
+		"created_at": "Mon Dec 24 22:39:18 +0000 2018",
+		"id": 1077332917859307500,
+		"id_str": "1077332917859307520",
+		"full_text": "It's not a duvet, but it's Christmassy pajamas I made my greyhound out of a jumper. \n#DuvetKnowItsChristmas \nHis name's Atticus https://t.co/BJ36TD5jyf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						85,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332892752187400,
+					"id_str": "1077332892752187392",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0jtlWkAAl4FH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0jtlWkAAl4FH.jpg",
+					"url": "https://t.co/BJ36TD5jyf",
+					"display_url": "pic.twitter.com/BJ36TD5jyf",
+					"expanded_url": "https://twitter.com/Spark_Bright/status/1077332917859307520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332892752187400,
+					"id_str": "1077332892752187392",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0jtlWkAAl4FH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0jtlWkAAl4FH.jpg",
+					"url": "https://t.co/BJ36TD5jyf",
+					"display_url": "pic.twitter.com/BJ36TD5jyf",
+					"expanded_url": "https://twitter.com/Spark_Bright/status/1077332917859307520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 928396982,
+			"id_str": "928396982",
+			"name": "Andrew",
+			"screen_name": "Spark_Bright",
+			"location": "UK",
+			"description": "My glass is half empty, but I don't care as long as it's on a coaster.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 6,
+			"created_at": "Mon Nov 05 20:57:36 +0000 2012",
+			"favourites_count": 10207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4523CF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013696864665899008/Et_Fk-e4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013696864665899008/Et_Fk-e4_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's not a duvet, but it's Christmassy pajamas I made my greyhound out of a jumper. \n#DuvetKnowItsChristmas \nHis name's Atticus https://t.co/BJ36TD5jyf"
+	},
+	{
+		"created_at": "Mon Dec 24 22:39:45 +0000 2018",
+		"id": 1077333032246435800,
+		"id_str": "1077333032246435840",
+		"full_text": "One daughter in the zed bed, me and the other in Granny’s bed, in Granny’s old room. It’s a bit haunted. #DuvetKnowItsChristmas \n@rhodri https://t.co/zhcHN5SINx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						105,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332979549196300,
+					"id_str": "1077332979549196288",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0ow7X0AAQ9EQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0ow7X0AAQ9EQ.jpg",
+					"url": "https://t.co/zhcHN5SINx",
+					"display_url": "pic.twitter.com/zhcHN5SINx",
+					"expanded_url": "https://twitter.com/HornseyCupcake/status/1077333032246435840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332979549196300,
+					"id_str": "1077332979549196288",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0ow7X0AAQ9EQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0ow7X0AAQ9EQ.jpg",
+					"url": "https://t.co/zhcHN5SINx",
+					"display_url": "pic.twitter.com/zhcHN5SINx",
+					"expanded_url": "https://twitter.com/HornseyCupcake/status/1077333032246435840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 251290140,
+			"id_str": "251290140",
+			"name": "Eve Parker",
+			"screen_name": "HornseyCupcake",
+			"location": "Crouch End",
+			"description": "Stumbling through a career, raising a family, managing bipolar disorder, slowly figuring it out. Tweets sporadically, often joyfully, sometimes inappropriately.",
+			"url": "https://t.co/UfN5HLbNcY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UfN5HLbNcY",
+							"expanded_url": "http://eveparkerisstartingover.blogspot.co.uk/",
+							"display_url": "eveparkerisstartingover.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 966,
+			"friends_count": 614,
+			"listed_count": 22,
+			"created_at": "Sat Feb 12 20:52:22 +0000 2011",
+			"favourites_count": 4598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1018",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853275898388377600/UaQczGMO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853275898388377600/UaQczGMO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/251290140/1492415545",
+			"profile_link_color": "F07259",
+			"profile_sidebar_border_color": "AFE3B0",
+			"profile_sidebar_fill_color": "CCC293",
+			"profile_text_color": "F22E55",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One daughter in the zed bed, me and the other in Granny’s bed, in Granny’s old room. It’s a bit haunted. #DuvetKnowItsChristmas \n@rhodri https://t.co/zhcHN5SINx"
+	},
+	{
+		"created_at": "Mon Dec 24 22:43:40 +0000 2018",
+		"id": 1077334016985124900,
+		"id_str": "1077334016985124864",
+		"full_text": "The kids are sleeping on inflatable mattresses in a study. There's a bike behind the door. This is character building. @rhodri #DuvetKnowItsChristmas https://t.co/u0vwQSLrE1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						127,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077333986093998100,
+					"id_str": "1077333986093998080",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN1jWmWoAA_n30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN1jWmWoAA_n30.jpg",
+					"url": "https://t.co/u0vwQSLrE1",
+					"display_url": "pic.twitter.com/u0vwQSLrE1",
+					"expanded_url": "https://twitter.com/cbradbee/status/1077334016985124864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077333986093998100,
+					"id_str": "1077333986093998080",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN1jWmWoAA_n30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN1jWmWoAA_n30.jpg",
+					"url": "https://t.co/u0vwQSLrE1",
+					"display_url": "pic.twitter.com/u0vwQSLrE1",
+					"expanded_url": "https://twitter.com/cbradbee/status/1077334016985124864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87682703,
+			"id_str": "87682703",
+			"name": "Name cannot be ______",
+			"screen_name": "cbradbee",
+			"location": "Redhill, South East",
+			"description": "Teacher, sport lover, geographer,  sky/sunset/cloud fan. Mostly ridiculous.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 982,
+			"friends_count": 945,
+			"listed_count": 42,
+			"created_at": "Thu Nov 05 13:17:19 +0000 2009",
+			"favourites_count": 26832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960279491602976768/LiXZ498f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960279491602976768/LiXZ498f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87682703/1498226346",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The kids are sleeping on inflatable mattresses in a study. There's a bike behind the door. This is character building. @rhodri #DuvetKnowItsChristmas https://t.co/u0vwQSLrE1"
+	},
+	{
+		"created_at": "Mon Dec 24 22:36:15 +0000 2018",
+		"id": 1077332150888906800,
+		"id_str": "1077332150888906753",
+		"full_text": "Christmas sleeping logistics much improved this year, except... (@rhodri) #DuvetKnowItsChristmas https://t.co/1XGUXAcUsu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						74,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332051907489800,
+					"id_str": "1077332051907489792",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNzyxMWsAAxb-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNzyxMWsAAxb-B.jpg",
+					"url": "https://t.co/1XGUXAcUsu",
+					"display_url": "pic.twitter.com/1XGUXAcUsu",
+					"expanded_url": "https://twitter.com/Rachel_England/status/1077332150888906753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1966,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332051907489800,
+					"id_str": "1077332051907489792",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNzyxMWsAAxb-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNzyxMWsAAxb-B.jpg",
+					"url": "https://t.co/1XGUXAcUsu",
+					"display_url": "pic.twitter.com/1XGUXAcUsu",
+					"expanded_url": "https://twitter.com/Rachel_England/status/1077332150888906753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1966,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077332070270156800,
+					"id_str": "1077332070270156801",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNzz1mWwAEkzIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNzz1mWwAEkzIA.jpg",
+					"url": "https://t.co/1XGUXAcUsu",
+					"display_url": "pic.twitter.com/1XGUXAcUsu",
+					"expanded_url": "https://twitter.com/Rachel_England/status/1077332150888906753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1863,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1092,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077332089484333000,
+					"id_str": "1077332089484333059",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNz09LX0AM0kE8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNz09LX0AM0kE8.jpg",
+					"url": "https://t.co/1XGUXAcUsu",
+					"display_url": "pic.twitter.com/1XGUXAcUsu",
+					"expanded_url": "https://twitter.com/Rachel_England/status/1077332150888906753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1940,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1137,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077332121369411600,
+					"id_str": "1077332121369411584",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNz2z9XgAAMxgV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNz2z9XgAAMxgV.jpg",
+					"url": "https://t.co/1XGUXAcUsu",
+					"display_url": "pic.twitter.com/1XGUXAcUsu",
+					"expanded_url": "https://twitter.com/Rachel_England/status/1077332150888906753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2023,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26981447,
+			"id_str": "26981447",
+			"name": "Rachel England",
+			"screen_name": "Rachel_England",
+			"location": "Cardiff, Wales",
+			"description": "Faux redhead freelance writer with misplaced faith in herbal tea seeks respite from idiocies of life. Settles for cathartic tweeting. Blog: https://t.co/01TRtd8oM5",
+			"url": "https://t.co/cDTYZhesAd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cDTYZhesAd",
+							"expanded_url": "https://www.rachelengland.co.uk/",
+							"display_url": "rachelengland.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/01TRtd8oM5",
+							"expanded_url": "http://tinyurl.com/LNRAO",
+							"display_url": "tinyurl.com/LNRAO",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4329,
+			"friends_count": 1229,
+			"listed_count": 89,
+			"created_at": "Fri Mar 27 10:31:34 +0000 2009",
+			"favourites_count": 3581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689548589773799425/n7WBZbHd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689548589773799425/n7WBZbHd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26981447/1537655247",
+			"profile_link_color": "3E1845",
+			"profile_sidebar_border_color": "080000",
+			"profile_sidebar_fill_color": "E3E6DF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Christmas sleeping logistics much improved this year, except... (@rhodri) #DuvetKnowItsChristmas https://t.co/1XGUXAcUsu"
+	},
+	{
+		"created_at": "Mon Dec 24 22:39:29 +0000 2018",
+		"id": 1077332965577891800,
+		"id_str": "1077332965577891840",
+		"full_text": "@rhodri mum’s channeled a subtle feline theme here. Featuring cat duvet, cat cushions, cat artwork and a frankly terrifying cat towel, framed with lilac and baby pink colour scheme #DuvetKnowItsChrismas https://t.co/0YAyd9lYkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						181,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332955637444600,
+					"id_str": "1077332955637444609",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0nX2XcAE4tLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0nX2XcAE4tLj.jpg",
+					"url": "https://t.co/0YAyd9lYkb",
+					"display_url": "pic.twitter.com/0YAyd9lYkb",
+					"expanded_url": "https://twitter.com/emmadventure/status/1077332965577891840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332955637444600,
+					"id_str": "1077332955637444609",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0nX2XcAE4tLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0nX2XcAE4tLj.jpg",
+					"url": "https://t.co/0YAyd9lYkb",
+					"display_url": "pic.twitter.com/0YAyd9lYkb",
+					"expanded_url": "https://twitter.com/emmadventure/status/1077332965577891840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077332955662557200,
+					"id_str": "1077332955662557184",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0nX8WoAAevre.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0nX8WoAAevre.jpg",
+					"url": "https://t.co/0YAyd9lYkb",
+					"display_url": "pic.twitter.com/0YAyd9lYkb",
+					"expanded_url": "https://twitter.com/emmadventure/status/1077332965577891840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 22422514,
+			"id_str": "22422514",
+			"name": "Emma",
+			"screen_name": "emmadventure",
+			"location": "UK",
+			"description": "Fan of animals, social work, feminism, travel, food, humanism, books, philosophy, history, music, more animals, more food- mainly cheese.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 642,
+			"listed_count": 19,
+			"created_at": "Sun Mar 01 23:34:01 +0000 2009",
+			"favourites_count": 657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CE8BE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854972181201264640/Xm5g_FZI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854972181201264640/Xm5g_FZI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22422514/1363814708",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "021702",
+			"profile_sidebar_fill_color": "F7F718",
+			"profile_text_color": "DB11DB",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri mum’s channeled a subtle feline theme here. Featuring cat duvet, cat cushions, cat artwork and a frankly terrifying cat towel, framed with lilac and baby pink colour scheme #DuvetKnowItsChrismas https://t.co/0YAyd9lYkb"
+	},
+	{
+		"created_at": "Mon Dec 24 22:37:59 +0000 2018",
+		"id": 1077332588392529900,
+		"id_str": "1077332588392529925",
+		"full_text": "@rhodri \"you can go to bed whenever you like\" #DuvetKnowItsChristmas https://t.co/ihVppfgSI7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						46,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332578624069600,
+					"id_str": "1077332578624069632",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0RbXX4AA7a4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0RbXX4AA7a4J.jpg",
+					"url": "https://t.co/ihVppfgSI7",
+					"display_url": "pic.twitter.com/ihVppfgSI7",
+					"expanded_url": "https://twitter.com/sarahdal/status/1077332588392529925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332578624069600,
+					"id_str": "1077332578624069632",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0RbXX4AA7a4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0RbXX4AA7a4J.jpg",
+					"url": "https://t.co/ihVppfgSI7",
+					"display_url": "pic.twitter.com/ihVppfgSI7",
+					"expanded_url": "https://twitter.com/sarahdal/status/1077332588392529925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 23185808,
+			"id_str": "23185808",
+			"name": "sarah",
+			"screen_name": "sarahdal",
+			"location": "",
+			"description": "gay, feminimimism, cats. specifically one-eyed blind #blackcat  #IStandWithTransPeople\nshe/her",
+			"url": "https://t.co/WN1Yb5vsU0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WN1Yb5vsU0",
+							"expanded_url": "http://www.sarahdal.com/piwigo",
+							"display_url": "sarahdal.com/piwigo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 624,
+			"friends_count": 428,
+			"listed_count": 40,
+			"created_at": "Sat Mar 07 11:36:12 +0000 2009",
+			"favourites_count": 22163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799012321561452544/TJhg5ipq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799012321561452544/TJhg5ipq_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 353,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri \"you can go to bed whenever you like\" #DuvetKnowItsChristmas https://t.co/ihVppfgSI7"
+	},
+	{
+		"created_at": "Mon Dec 24 22:38:16 +0000 2018",
+		"id": 1077332660324913200,
+		"id_str": "1077332660324913153",
+		"full_text": "@rhodri Doing not too badly in my old childhood room - note the MP3 player under the bed beside the half eaten toblerone. Door doesn’t fully shut which is nice...👀 #DuvetKnowItsChrismas https://t.co/ddli4bIAHP",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						164,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332655606284300,
+					"id_str": "1077332655606284288",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0V6JXQAANHoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0V6JXQAANHoY.jpg",
+					"url": "https://t.co/ddli4bIAHP",
+					"display_url": "pic.twitter.com/ddli4bIAHP",
+					"expanded_url": "https://twitter.com/Echoes_of_grace/status/1077332660324913153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332655606284300,
+					"id_str": "1077332655606284288",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0V6JXQAANHoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0V6JXQAANHoY.jpg",
+					"url": "https://t.co/ddli4bIAHP",
+					"display_url": "pic.twitter.com/ddli4bIAHP",
+					"expanded_url": "https://twitter.com/Echoes_of_grace/status/1077332660324913153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 208679518,
+			"id_str": "208679518",
+			"name": "Kate",
+			"screen_name": "Echoes_of_grace",
+			"location": "Edinburgh, Scotland",
+			"description": "Hello 👋🏻",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 1695,
+			"listed_count": 5,
+			"created_at": "Wed Oct 27 18:36:14 +0000 2010",
+			"favourites_count": 8125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949603381777195008/6_4Lg_D6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949603381777195008/6_4Lg_D6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/208679518/1514237160",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Doing not too badly in my old childhood room - note the MP3 player under the bed beside the half eaten toblerone. Door doesn’t fully shut which is nice...👀 #DuvetKnowItsChrismas https://t.co/ddli4bIAHP"
+	},
+	{
+		"created_at": "Mon Dec 24 22:38:24 +0000 2018",
+		"id": 1077332693430480900,
+		"id_str": "1077332693430480896",
+		"full_text": "@rhodri My bed is unchanged from a previous #DuvetKnowItsChristmas but this mound has grown in the corner since my last stay. That's a plastic bag full of washed, gourmet cat food dishes in case you were wondering. https://t.co/EnhTYhV9pC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						44,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077332683641012200,
+					"id_str": "1077332683641012225",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0XilXQAEO46v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0XilXQAEO46v.jpg",
+					"url": "https://t.co/EnhTYhV9pC",
+					"display_url": "pic.twitter.com/EnhTYhV9pC",
+					"expanded_url": "https://twitter.com/timchipping/status/1077332693430480896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077332683641012200,
+					"id_str": "1077332683641012225",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN0XilXQAEO46v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN0XilXQAEO46v.jpg",
+					"url": "https://t.co/EnhTYhV9pC",
+					"display_url": "pic.twitter.com/EnhTYhV9pC",
+					"expanded_url": "https://twitter.com/timchipping/status/1077332693430480896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 19602874,
+			"id_str": "19602874",
+			"name": "Tim Chipping",
+			"screen_name": "timchipping",
+			"location": "London",
+			"description": "I write about music. I like trad folk and old Hayley Mills films.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3000,
+			"friends_count": 267,
+			"listed_count": 74,
+			"created_at": "Tue Jan 27 17:23:10 +0000 2009",
+			"favourites_count": 1375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856206040483987456/56tz0_h6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856206040483987456/56tz0_h6_normal.jpg",
+			"profile_link_color": "A2DBD6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri My bed is unchanged from a previous #DuvetKnowItsChristmas but this mound has grown in the corner since my last stay. That's a plastic bag full of washed, gourmet cat food dishes in case you were wondering. https://t.co/EnhTYhV9pC"
+	},
+	{
+		"created_at": "Mon Dec 24 22:37:51 +0000 2018",
+		"id": 1077332554502553600,
+		"id_str": "1077332554502553600",
+		"full_text": "@robotmaths Didn't see it! So much is coming to @rhodri that I don't have time to look at the blimmin hashtag :(",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robotmaths",
+					"name": "RobotMaths",
+					"id": 19901094,
+					"id_str": "19901094",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077332211161018400,
+		"in_reply_to_status_id_str": "1077332211161018368",
+		"in_reply_to_user_id": 19901094,
+		"in_reply_to_user_id_str": "19901094",
+		"in_reply_to_screen_name": "robotmaths",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robotmaths Didn't see it! So much is coming to @rhodri that I don't have time to look at the blimmin hashtag :("
+	},
+	{
+		"created_at": "Mon Dec 24 21:10:10 +0000 2018",
+		"id": 1077310486813818900,
+		"id_str": "1077310486813818889",
+		"full_text": "#XmasAtTheInlaws\n1) single beds after 18 years of marriage\n2) flannelette sheets\n3) a colour scheme from a serial killer’s basement\n4) a torch to take to Midnight Mass (because the streetlights go out at 10pm)\n#DuvetKnowItsChristmas https://t.co/VWFaOK5Eof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "XmasAtTheInlaws",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						210,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310480128135200,
+					"id_str": "1077310480128135168",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgLIDX0AAEiWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgLIDX0AAEiWI.jpg",
+					"url": "https://t.co/VWFaOK5Eof",
+					"display_url": "pic.twitter.com/VWFaOK5Eof",
+					"expanded_url": "https://twitter.com/robotmaths/status/1077310486813818889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310480128135200,
+					"id_str": "1077310480128135168",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgLIDX0AAEiWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgLIDX0AAEiWI.jpg",
+					"url": "https://t.co/VWFaOK5Eof",
+					"display_url": "pic.twitter.com/VWFaOK5Eof",
+					"expanded_url": "https://twitter.com/robotmaths/status/1077310486813818889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077285781562163200,
+		"in_reply_to_status_id_str": "1077285781562163202",
+		"in_reply_to_user_id": 19901094,
+		"in_reply_to_user_id_str": "19901094",
+		"in_reply_to_screen_name": "robotmaths",
+		"user": {
+			"id": 19901094,
+			"id_str": "19901094",
+			"name": "RobotMaths",
+			"screen_name": "robotmaths",
+			"location": "",
+			"description": "Head of Maths. CPD trainer. Organista. Not a robot.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2293,
+			"friends_count": 688,
+			"listed_count": 113,
+			"created_at": "Mon Feb 02 10:36:34 +0000 2009",
+			"favourites_count": 5143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058063929778360321/tYLeBiY6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058063929778360321/tYLeBiY6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19901094/1539960338",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 358,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#XmasAtTheInlaws\n1) single beds after 18 years of marriage\n2) flannelette sheets\n3) a colour scheme from a serial killer’s basement\n4) a torch to take to Midnight Mass (because the streetlights go out at 10pm)\n#DuvetKnowItsChristmas https://t.co/VWFaOK5Eof"
+	},
+	{
+		"created_at": "Mon Dec 24 22:33:40 +0000 2018",
+		"id": 1077331500742389800,
+		"id_str": "1077331500742389767",
+		"full_text": "Grateful to be settling down under the desk #DuvetKnowItsChristmas @rhodri @Shelter https://t.co/SZVwCeqLXM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						44,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"screen_name": "Shelter",
+					"name": "Shelter",
+					"id": 3704391,
+					"id_str": "3704391",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077331487534534700,
+					"id_str": "1077331487534534657",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNzR6vW0AEOpmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNzR6vW0AEOpmX.jpg",
+					"url": "https://t.co/SZVwCeqLXM",
+					"display_url": "pic.twitter.com/SZVwCeqLXM",
+					"expanded_url": "https://twitter.com/joannaridout/status/1077331500742389767/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077331487534534700,
+					"id_str": "1077331487534534657",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNzR6vW0AEOpmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNzR6vW0AEOpmX.jpg",
+					"url": "https://t.co/SZVwCeqLXM",
+					"display_url": "pic.twitter.com/SZVwCeqLXM",
+					"expanded_url": "https://twitter.com/joannaridout/status/1077331500742389767/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37960568,
+			"id_str": "37960568",
+			"name": "Joanna Ridout",
+			"screen_name": "joannaridout",
+			"location": "Hampshire",
+			"description": "creative consultant, facilitator, trainer, casual canoeist and choir singer. Also @actionlearnALC,  @artsquarter, @MIDdetention  & @_UoW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1166,
+			"friends_count": 903,
+			"listed_count": 67,
+			"created_at": "Tue May 05 16:36:33 +0000 2009",
+			"favourites_count": 5963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/831798820371648512/1rmtRwmY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/831798820371648512/1rmtRwmY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37960568/1472478675",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grateful to be settling down under the desk #DuvetKnowItsChristmas @rhodri @Shelter https://t.co/SZVwCeqLXM"
+	},
+	{
+		"created_at": "Mon Dec 24 22:27:42 +0000 2018",
+		"id": 1077330001744269300,
+		"id_str": "1077330001744269312",
+		"full_text": "@rhodri Sleeping arrangements boringly normal, but chest of drawers in said room is harbouring an unfeasible quantity of pens. #DuvetKnowItsChrismas https://t.co/x5nwTAL8j3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						127,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077329962464669700,
+					"id_str": "1077329962464669697",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNx5JaXcAEem6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNx5JaXcAEem6n.jpg",
+					"url": "https://t.co/x5nwTAL8j3",
+					"display_url": "pic.twitter.com/x5nwTAL8j3",
+					"expanded_url": "https://twitter.com/KatieJTant/status/1077330001744269312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077329962464669700,
+					"id_str": "1077329962464669697",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNx5JaXcAEem6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNx5JaXcAEem6n.jpg",
+					"url": "https://t.co/x5nwTAL8j3",
+					"display_url": "pic.twitter.com/x5nwTAL8j3",
+					"expanded_url": "https://twitter.com/KatieJTant/status/1077330001744269312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 21481045,
+			"id_str": "21481045",
+			"name": "Katie Tant",
+			"screen_name": "KatieJTant",
+			"location": "London",
+			"description": "Always finding something to give me the impression that I exist.",
+			"url": "https://t.co/OB2w1bNj3w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OB2w1bNj3w",
+							"expanded_url": "http://www.facebook.com/#!/profile.php?id=507795438",
+							"display_url": "facebook.com/#!/profile.php…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 163,
+			"listed_count": 2,
+			"created_at": "Sat Feb 21 12:51:49 +0000 2009",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992861568357498880/t0uvsvq__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992861568357498880/t0uvsvq__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21481045/1483001142",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Sleeping arrangements boringly normal, but chest of drawers in said room is harbouring an unfeasible quantity of pens. #DuvetKnowItsChrismas https://t.co/x5nwTAL8j3"
+	},
+	{
+		"created_at": "Mon Dec 24 22:28:26 +0000 2018",
+		"id": 1077330185593278500,
+		"id_str": "1077330185593278465",
+		"full_text": "@stantonkr Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stantonkr",
+					"name": "Katie Stanton",
+					"id": 601805333,
+					"id_str": "601805333",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077329840884326400,
+		"in_reply_to_status_id_str": "1077329840884326400",
+		"in_reply_to_user_id": 601805333,
+		"in_reply_to_user_id_str": "601805333",
+		"in_reply_to_screen_name": "stantonkr",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@stantonkr Hahaha"
+	},
+	{
+		"created_at": "Mon Dec 24 22:27:20 +0000 2018",
+		"id": 1077329906458132500,
+		"id_str": "1077329906458132481",
+		"full_text": "@rhodri On some slats/the floor wedged in between a wall, a wardrobe and in the corner there, a euphonium and a computer that hasn’t been updated in 12 yrs #DuvetKnowItsChristmas https://t.co/cJSAkJvdmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						156,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077329884907823100,
+					"id_str": "1077329884907823109",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNx0ofX4AUZMMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNx0ofX4AUZMMS.jpg",
+					"url": "https://t.co/cJSAkJvdmg",
+					"display_url": "pic.twitter.com/cJSAkJvdmg",
+					"expanded_url": "https://twitter.com/rachaelcarole/status/1077329906458132481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077329884907823100,
+					"id_str": "1077329884907823109",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNx0ofX4AUZMMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNx0ofX4AUZMMS.jpg",
+					"url": "https://t.co/cJSAkJvdmg",
+					"display_url": "pic.twitter.com/cJSAkJvdmg",
+					"expanded_url": "https://twitter.com/rachaelcarole/status/1077329906458132481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 222098169,
+			"id_str": "222098169",
+			"name": "Bob Graham",
+			"screen_name": "rachaelcarole",
+			"location": "Birmingham, England",
+			"description": "Frustrated runner, feminist. So much to do, so little time to do it. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 1449,
+			"listed_count": 15,
+			"created_at": "Thu Dec 02 13:15:39 +0000 2010",
+			"favourites_count": 6668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062771038818320385/vZtEWWt2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062771038818320385/vZtEWWt2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222098169/1542219346",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "50f2d0272381533f",
+			"url": "https://api.twitter.com/1.1/geo/id/50f2d0272381533f.json",
+			"place_type": "admin",
+			"name": "East Midlands",
+			"full_name": "East Midlands, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.03410488116464,
+							51.9772264213839
+						],
+						[
+							0.357994000542651,
+							51.9772264213839
+						],
+						[
+							0.357994000542651,
+							53.6163564980205
+						],
+						[
+							-2.03410488116464,
+							53.6163564980205
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri On some slats/the floor wedged in between a wall, a wardrobe and in the corner there, a euphonium and a computer that hasn’t been updated in 12 yrs #DuvetKnowItsChristmas https://t.co/cJSAkJvdmg"
+	},
+	{
+		"created_at": "Mon Dec 24 22:25:16 +0000 2018",
+		"id": 1077329386641211400,
+		"id_str": "1077329386641211392",
+		"full_text": "Me, husband and 2 yo on floor of room that is essentially now my mother's walk in wardrobe, 5yo is in a floor bed in the study. @rhodri #DuvetKnowItsChristmas https://t.co/fmnJDeVvhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						136,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077329363195048000,
+					"id_str": "1077329363195047937",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNxWQ9WsAEgvpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNxWQ9WsAEgvpz.jpg",
+					"url": "https://t.co/fmnJDeVvhy",
+					"display_url": "pic.twitter.com/fmnJDeVvhy",
+					"expanded_url": "https://twitter.com/samkachan/status/1077329386641211392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077329363195048000,
+					"id_str": "1077329363195047937",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNxWQ9WsAEgvpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNxWQ9WsAEgvpz.jpg",
+					"url": "https://t.co/fmnJDeVvhy",
+					"display_url": "pic.twitter.com/fmnJDeVvhy",
+					"expanded_url": "https://twitter.com/samkachan/status/1077329386641211392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077329378089029600,
+					"id_str": "1077329378089029633",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNxXIcW0AEMmfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNxXIcW0AEMmfq.jpg",
+					"url": "https://t.co/fmnJDeVvhy",
+					"display_url": "pic.twitter.com/fmnJDeVvhy",
+					"expanded_url": "https://twitter.com/samkachan/status/1077329386641211392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52356798,
+			"id_str": "52356798",
+			"name": "sammy rawlings",
+			"screen_name": "samkachan",
+			"location": "Reading",
+			"description": "geek. gamer. mother. fangirl extraordinaire. loves anime, manga, sci-fi, ps4, baking, knitting. in real life I'm an academic. I tweet personal shiz, not work",
+			"url": "https://t.co/8RB8A5BAJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8RB8A5BAJR",
+							"expanded_url": "http://vegetarianfoodforthewin.blogspot.co.uk/",
+							"display_url": "vegetarianfoodforthewin.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 133,
+			"listed_count": 5,
+			"created_at": "Tue Jun 30 10:00:28 +0000 2009",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BBDEBA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2598654372/rpsooxyosoxytcr0l68o_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2598654372/rpsooxyosoxytcr0l68o_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52356798/1530867521",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D1FFCC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me, husband and 2 yo on floor of room that is essentially now my mother's walk in wardrobe, 5yo is in a floor bed in the study. @rhodri #DuvetKnowItsChristmas https://t.co/fmnJDeVvhy"
+	},
+	{
+		"created_at": "Mon Dec 24 21:05:25 +0000 2018",
+		"id": 1077309291458187300,
+		"id_str": "1077309291458187265",
+		"full_text": "So for #DuvetKnowItsChristmas I figured I had no reason to contribute. We have a proper bed! New bedding! Several bookshelves of books to read at our leisure OH WAIT\n\nYes, my mother has put me in with her erotica collection. Merry sexy Christmas, apparently! https://t.co/rDp20VjUPp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						7,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077309283870613500,
+					"id_str": "1077309283870613505",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfFfpWoAExsfX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfFfpWoAExsfX.jpg",
+					"url": "https://t.co/rDp20VjUPp",
+					"display_url": "pic.twitter.com/rDp20VjUPp",
+					"expanded_url": "https://twitter.com/thecolleencg/status/1077309291458187265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077309283870613500,
+					"id_str": "1077309283870613505",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfFfpWoAExsfX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfFfpWoAExsfX.jpg",
+					"url": "https://t.co/rDp20VjUPp",
+					"display_url": "pic.twitter.com/rDp20VjUPp",
+					"expanded_url": "https://twitter.com/thecolleencg/status/1077309291458187265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077309283878998000,
+					"id_str": "1077309283878998021",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfFfrWkAU3LwT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfFfrWkAU3LwT.jpg",
+					"url": "https://t.co/rDp20VjUPp",
+					"display_url": "pic.twitter.com/rDp20VjUPp",
+					"expanded_url": "https://twitter.com/thecolleencg/status/1077309291458187265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077309283879010300,
+					"id_str": "1077309283879010304",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfFfrWwAA5SJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfFfrWwAA5SJH.jpg",
+					"url": "https://t.co/rDp20VjUPp",
+					"display_url": "pic.twitter.com/rDp20VjUPp",
+					"expanded_url": "https://twitter.com/thecolleencg/status/1077309291458187265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2790525692,
+			"id_str": "2790525692",
+			"name": "C❄️lleen Cheetham-Gerrard 🍷",
+			"screen_name": "thecolleencg",
+			"location": "That Thar London",
+			"description": "Geeky. Funny (allegedly). Runs like a penguin with its arse on fire. Fuelled by red wine, anger at the patriarchy and fabulous nail polish. [she/her]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 167,
+			"listed_count": 2,
+			"created_at": "Thu Sep 04 20:13:39 +0000 2014",
+			"favourites_count": 6071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984169852679139328/gNtZSLuB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984169852679139328/gNtZSLuB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2790525692/1541285222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So for #DuvetKnowItsChristmas I figured I had no reason to contribute. We have a proper bed! New bedding! Several bookshelves of books to read at our leisure OH WAIT\n\nYes, my mother has put me in with her erotica collection. Merry sexy Christmas, apparently! https://t.co/rDp20VjUPp"
+	},
+	{
+		"created_at": "Mon Dec 24 22:22:56 +0000 2018",
+		"id": 1077328801032536000,
+		"id_str": "1077328801032536071",
+		"full_text": "@rhodri I'm on the fold-up bed in the office again. House is so hot I'll wake up crispy tomorrow morning. #DuvetKnowItsChristmas https://t.co/zkKRkoCybJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						106,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077328794971721700,
+					"id_str": "1077328794971721730",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNw1MKW0AIO1V5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNw1MKW0AIO1V5.jpg",
+					"url": "https://t.co/zkKRkoCybJ",
+					"display_url": "pic.twitter.com/zkKRkoCybJ",
+					"expanded_url": "https://twitter.com/Opiumia/status/1077328801032536071/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077328794971721700,
+					"id_str": "1077328794971721730",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNw1MKW0AIO1V5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNw1MKW0AIO1V5.jpg",
+					"url": "https://t.co/zkKRkoCybJ",
+					"display_url": "pic.twitter.com/zkKRkoCybJ",
+					"expanded_url": "https://twitter.com/Opiumia/status/1077328801032536071/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 623142159,
+			"id_str": "623142159",
+			"name": "Sarah Strong",
+			"screen_name": "Opiumia",
+			"location": "SE London",
+			"description": "Cyclist, MH charity worker, researcher/writer, ex-archivist, lover of maps, FRGS, sporadic glass-engraver, satsuma fan. Meep-meep! https://t.co/COsx10oxb4",
+			"url": "https://t.co/3b1b3F8b8a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3b1b3F8b8a",
+							"expanded_url": "http://www.britishmuseum.org/pdf/10-Strong-Wang%20pp.pdf",
+							"display_url": "britishmuseum.org/pdf/10-Strong-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/COsx10oxb4",
+							"expanded_url": "http://bikesandbrains.com",
+							"display_url": "bikesandbrains.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1467,
+			"friends_count": 1514,
+			"listed_count": 90,
+			"created_at": "Sat Jun 30 19:10:35 +0000 2012",
+			"favourites_count": 8124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57883,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504233241285365761/tt6KFd2z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504233241285365761/tt6KFd2z_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/623142159/1445874487",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I'm on the fold-up bed in the office again. House is so hot I'll wake up crispy tomorrow morning. #DuvetKnowItsChristmas https://t.co/zkKRkoCybJ"
+	},
+	{
+		"created_at": "Mon Dec 24 22:19:52 +0000 2018",
+		"id": 1077328029238677500,
+		"id_str": "1077328029238677504",
+		"full_text": "This was outside my bedroom door. @rhodri #DuvetKnowItsChristmas https://t.co/EiJsuP0hTP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						42,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077328019260403700,
+					"id_str": "1077328019260403712",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNwICaXcAAb4lN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNwICaXcAAb4lN.jpg",
+					"url": "https://t.co/EiJsuP0hTP",
+					"display_url": "pic.twitter.com/EiJsuP0hTP",
+					"expanded_url": "https://twitter.com/jayneferst/status/1077328029238677504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077328019260403700,
+					"id_str": "1077328019260403712",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNwICaXcAAb4lN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNwICaXcAAb4lN.jpg",
+					"url": "https://t.co/EiJsuP0hTP",
+					"display_url": "pic.twitter.com/EiJsuP0hTP",
+					"expanded_url": "https://twitter.com/jayneferst/status/1077328029238677504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20728403,
+			"id_str": "20728403",
+			"name": "Jayne",
+			"screen_name": "jayneferst",
+			"location": "London",
+			"description": "Sail on, silver girl... 🌱 writer 🌱 artist 🌱digital publishing person 🌱",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1238,
+			"friends_count": 891,
+			"listed_count": 74,
+			"created_at": "Thu Feb 12 22:48:57 +0000 2009",
+			"favourites_count": 1414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20337,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "383636",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076516244927512578/vaBITMQd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076516244927512578/vaBITMQd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20728403/1545496449",
+			"profile_link_color": "4D001F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6D9C5",
+			"profile_text_color": "2D6266",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This was outside my bedroom door. @rhodri #DuvetKnowItsChristmas https://t.co/EiJsuP0hTP"
+	},
+	{
+		"created_at": "Mon Dec 24 22:18:54 +0000 2018",
+		"id": 1077327783641129000,
+		"id_str": "1077327783641128961",
+		"full_text": "If anyone can top this bit of plumbing, I'd love to see it. https://t.co/bR4F8ZE4CS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bR4F8ZE4CS",
+					"expanded_url": "https://twitter.com/elissa22/status/1077327509522444288",
+					"display_url": "twitter.com/elissa22/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077327509522444300,
+		"quoted_status_id_str": "1077327509522444288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bR4F8ZE4CS",
+			"expanded": "https://twitter.com/elissa22/status/1077327509522444288",
+			"display": "twitter.com/elissa22/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 22:17:48 +0000 2018",
+			"id": 1077327509522444300,
+			"id_str": "1077327509522444288",
+			"full_text": "@rhodri A better photo! It’s probably ok to use. Right? #DuvetKnowItsChristmas https://t.co/SLn1w390VH",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				78
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							56,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077327501830094800,
+						"id_str": "1077327501830094848",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNvp61XgAANGnQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNvp61XgAANGnQ.jpg",
+						"url": "https://t.co/SLn1w390VH",
+						"display_url": "pic.twitter.com/SLn1w390VH",
+						"expanded_url": "https://twitter.com/elissa22/status/1077327509522444288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077327501830094800,
+						"id_str": "1077327501830094848",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNvp61XgAANGnQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNvp61XgAANGnQ.jpg",
+						"url": "https://t.co/SLn1w390VH",
+						"display_url": "pic.twitter.com/SLn1w390VH",
+						"expanded_url": "https://twitter.com/elissa22/status/1077327509522444288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1077324433348612100,
+			"in_reply_to_status_id_str": "1077324433348612096",
+			"in_reply_to_user_id": 19111652,
+			"in_reply_to_user_id_str": "19111652",
+			"in_reply_to_screen_name": "elissa22",
+			"user": {
+				"id": 19111652,
+				"id_str": "19111652",
+				"name": "Elissa",
+				"screen_name": "elissa22",
+				"location": "Lerwick, Scotland",
+				"description": "Full time worrier. Part time blogger. Occasional tweeter. Usually found indoors. She/her.",
+				"url": "https://t.co/1XnYoXpfkj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1XnYoXpfkj",
+								"expanded_url": "https://englishgirlupnorth.wordpress.com",
+								"display_url": "englishgirlupnorth.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182,
+				"friends_count": 485,
+				"listed_count": 12,
+				"created_at": "Sat Jan 17 14:42:15 +0000 2009",
+				"favourites_count": 223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "855D46",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981185476857036801/GZGbOTr3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981185476857036801/GZGbOTr3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19111652/1398283749",
+				"profile_link_color": "74A8D6",
+				"profile_sidebar_border_color": "62462A",
+				"profile_sidebar_fill_color": "01FFAC",
+				"profile_text_color": "052930",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If anyone can top this bit of plumbing, I'd love to see it. https://t.co/bR4F8ZE4CS"
+	},
+	{
+		"created_at": "Mon Dec 24 22:13:20 +0000 2018",
+		"id": 1077326383947415600,
+		"id_str": "1077326383947415552",
+		"full_text": "@rhodri #duvetknowitschristmas Watching Polar Express https://t.co/4eY5XlpvJs",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						8,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077326371070853100,
+					"id_str": "1077326371070853120",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuoGbWwAAbeAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuoGbWwAAbeAT.jpg",
+					"url": "https://t.co/4eY5XlpvJs",
+					"display_url": "pic.twitter.com/4eY5XlpvJs",
+					"expanded_url": "https://twitter.com/ScotsInSweden/status/1077326383947415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077326371070853100,
+					"id_str": "1077326371070853120",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuoGbWwAAbeAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuoGbWwAAbeAT.jpg",
+					"url": "https://t.co/4eY5XlpvJs",
+					"display_url": "pic.twitter.com/4eY5XlpvJs",
+					"expanded_url": "https://twitter.com/ScotsInSweden/status/1077326383947415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077326359716921300,
+					"id_str": "1077326359716921345",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuncIXgAEU0BS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuncIXgAEU0BS.jpg",
+					"url": "https://t.co/4eY5XlpvJs",
+					"display_url": "pic.twitter.com/4eY5XlpvJs",
+					"expanded_url": "https://twitter.com/ScotsInSweden/status/1077326383947415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 2234631222,
+			"id_str": "2234631222",
+			"name": "Burns Family Svenska",
+			"screen_name": "ScotsInSweden",
+			"location": "Stockholm",
+			"description": "Scots family, previously living in Stockholm. Now back in Scotland and undergoing mixed emotions about that.",
+			"url": "https://t.co/XaTuIjBpoJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XaTuIjBpoJ",
+							"expanded_url": "http://scotsinsweden.eu",
+							"display_url": "scotsinsweden.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 56,
+			"listed_count": 3,
+			"created_at": "Sat Dec 07 14:49:26 +0000 2013",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2153,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000842089943/ccaf7a0c76bc579f6932001a4597b64c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000842089943/ccaf7a0c76bc579f6932001a4597b64c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2234631222/1386441633",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01a291d5428f15ab",
+			"url": "https://api.twitter.com/1.1/geo/id/01a291d5428f15ab.json",
+			"place_type": "admin",
+			"name": "Edinburgh",
+			"full_name": "Edinburgh",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.831248,
+							55.710347
+						],
+						[
+							-2.365929,
+							55.710347
+						],
+						[
+							-2.365929,
+							56.079285
+						],
+						[
+							-3.831248,
+							56.079285
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri #duvetknowitschristmas Watching Polar Express https://t.co/4eY5XlpvJs"
+	},
+	{
+		"created_at": "Mon Dec 24 22:13:50 +0000 2018",
+		"id": 1077326509331800000,
+		"id_str": "1077326509331800064",
+		"full_text": "@rhodri aftermath only, but 5 adult cousins, 1 cat on a 30C night https://t.co/D1VWpV6nRa",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077326472728141800,
+					"id_str": "1077326472728141824",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuuBIV4AACHiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuuBIV4AACHiX.jpg",
+					"url": "https://t.co/D1VWpV6nRa",
+					"display_url": "pic.twitter.com/D1VWpV6nRa",
+					"expanded_url": "https://twitter.com/soph_welsh/status/1077326509331800064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077326472728141800,
+					"id_str": "1077326472728141824",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuuBIV4AACHiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuuBIV4AACHiX.jpg",
+					"url": "https://t.co/D1VWpV6nRa",
+					"display_url": "pic.twitter.com/D1VWpV6nRa",
+					"expanded_url": "https://twitter.com/soph_welsh/status/1077326509331800064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 2329695554,
+			"id_str": "2329695554",
+			"name": "Sophie Welsh",
+			"screen_name": "soph_welsh",
+			"location": "Melbourne, Victoria",
+			"description": "lil journo at @theheraldsun. big saints fan/@grittyNHL enthusiast. views are mine get ur own. 📧sophie.welsh@news.com.au",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 390,
+			"listed_count": 1,
+			"created_at": "Thu Feb 06 03:18:00 +0000 2014",
+			"favourites_count": 14260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034399074835824642/op4D-sfj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034399074835824642/op4D-sfj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329695554/1513535970",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri aftermath only, but 5 adult cousins, 1 cat on a 30C night https://t.co/D1VWpV6nRa"
+	},
+	{
+		"created_at": "Mon Dec 24 22:12:26 +0000 2018",
+		"id": 1077326158147080200,
+		"id_str": "1077326158147080192",
+		"full_text": ".@rhodri it appears @arrianne_ and I are sleeping on an air bed we were told to bring with us a couple of Christmases ago, under a duvet we’ve brought tonight, in the box room of many patterns #DuvetKnowItsChristmas https://t.co/vrc6Zu9Z4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						193,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"screen_name": "arrianne_",
+					"name": "✨arrianne✨",
+					"id": 30184298,
+					"id_str": "30184298",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077326137309777900,
+					"id_str": "1077326137309777922",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuafmX0AIM9Ex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuafmX0AIM9Ex.jpg",
+					"url": "https://t.co/vrc6Zu9Z4y",
+					"display_url": "pic.twitter.com/vrc6Zu9Z4y",
+					"expanded_url": "https://twitter.com/ali1m/status/1077326158147080192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077326137309777900,
+					"id_str": "1077326137309777922",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuafmX0AIM9Ex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuafmX0AIM9Ex.jpg",
+					"url": "https://t.co/vrc6Zu9Z4y",
+					"display_url": "pic.twitter.com/vrc6Zu9Z4y",
+					"expanded_url": "https://twitter.com/ali1m/status/1077326158147080192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 243624882,
+			"id_str": "243624882",
+			"name": "🎄Fearsome Sledgelord 🎄",
+			"screen_name": "ali1m",
+			"location": "Glasvegas 🦄 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 2402,
+			"listed_count": 55,
+			"created_at": "Thu Jan 27 13:17:40 +0000 2011",
+			"favourites_count": 21141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063218775779090434/wCI7zsp0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063218775779090434/wCI7zsp0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/243624882/1539549943",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@rhodri it appears @arrianne_ and I are sleeping on an air bed we were told to bring with us a couple of Christmases ago, under a duvet we’ve brought tonight, in the box room of many patterns #DuvetKnowItsChristmas https://t.co/vrc6Zu9Z4y"
+	},
+	{
+		"created_at": "Mon Dec 24 22:11:40 +0000 2018",
+		"id": 1077325964605042700,
+		"id_str": "1077325964605042688",
+		"full_text": "Attic room at my mother in law's. Truckle bed for the husband, mattress in floor for me (believe me it's better than the truckle). Nylon quilt covers all round and a random tellytubby (la la?) #DuvetKnowItsChristmas  @rhodri https://t.co/hnIZw284vK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						193,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						217,
+						224
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077325949216190500,
+					"id_str": "1077325949216190465",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuPi5XcAEZYeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuPi5XcAEZYeI.jpg",
+					"url": "https://t.co/hnIZw284vK",
+					"display_url": "pic.twitter.com/hnIZw284vK",
+					"expanded_url": "https://twitter.com/Sian_Rowland/status/1077325964605042688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077325949216190500,
+					"id_str": "1077325949216190465",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuPi5XcAEZYeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuPi5XcAEZYeI.jpg",
+					"url": "https://t.co/hnIZw284vK",
+					"display_url": "pic.twitter.com/hnIZw284vK",
+					"expanded_url": "https://twitter.com/Sian_Rowland/status/1077325964605042688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187461638,
+			"id_str": "187461638",
+			"name": "Siân Rowland",
+			"screen_name": "Sian_Rowland",
+			"location": "London",
+			"description": "By day #PSHE trainer & education writer. By night playwright, reviewer & script reader. Criterion Showcase '18. Rep Kitson Press. Researcher for @mervspotfringe",
+			"url": "https://t.co/6J7Om94BT4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6J7Om94BT4",
+							"expanded_url": "http://sianrowlandwrites.wordpress.com",
+							"display_url": "sianrowlandwrites.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2437,
+			"friends_count": 2228,
+			"listed_count": 97,
+			"created_at": "Mon Sep 06 08:50:07 +0000 2010",
+			"favourites_count": 14051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20608,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922955763907223552/_AkFmQAq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922955763907223552/_AkFmQAq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187461638/1541087235",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attic room at my mother in law's. Truckle bed for the husband, mattress in floor for me (believe me it's better than the truckle). Nylon quilt covers all round and a random tellytubby (la la?) #DuvetKnowItsChristmas  @rhodri https://t.co/hnIZw284vK"
+	},
+	{
+		"created_at": "Mon Dec 24 22:11:41 +0000 2018",
+		"id": 1077325970904879100,
+		"id_str": "1077325970904879105",
+		"full_text": "@rhodri There are four of us in here (combined age 110) not including the Spidermen and the bear #duvetknowitschristmas https://t.co/Y0SVlMIGdD",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						97,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077325962818318300,
+					"id_str": "1077325962818318336",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuQVkXcAAJ2ZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuQVkXcAAJ2ZM.jpg",
+					"url": "https://t.co/Y0SVlMIGdD",
+					"display_url": "pic.twitter.com/Y0SVlMIGdD",
+					"expanded_url": "https://twitter.com/beccal100/status/1077325970904879105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077325962818318300,
+					"id_str": "1077325962818318336",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNuQVkXcAAJ2ZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNuQVkXcAAJ2ZM.jpg",
+					"url": "https://t.co/Y0SVlMIGdD",
+					"display_url": "pic.twitter.com/Y0SVlMIGdD",
+					"expanded_url": "https://twitter.com/beccal100/status/1077325970904879105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 4759091602,
+			"id_str": "4759091602",
+			"name": "Rebecca Lyons",
+			"screen_name": "beccal100",
+			"location": "",
+			"description": "Curator; Historian of Collecting; Attingham Trust director of Royal Collection Studies; School Governor; Francophile; Belfast child; London-dweller",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 352,
+			"listed_count": 2,
+			"created_at": "Sat Jan 09 23:54:11 +0000 2016",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908822452431736833/y-pr-zsf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908822452431736833/y-pr-zsf_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri There are four of us in here (combined age 110) not including the Spidermen and the bear #duvetknowitschristmas https://t.co/Y0SVlMIGdD"
+	},
+	{
+		"created_at": "Mon Dec 24 22:09:20 +0000 2018",
+		"id": 1077325376551075800,
+		"id_str": "1077325376551075840",
+		"full_text": "My lovely bedroom features a glass of water by the bed which I’ve been told is specifically “for the cat” and must be kept topped up at all times @rhodri #DuvetKnowItsChrismas https://t.co/0JYTo6cHB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						154,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077325369236209700,
+					"id_str": "1077325369236209667",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNttyTXQAM3MgP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNttyTXQAM3MgP.jpg",
+					"url": "https://t.co/0JYTo6cHB1",
+					"display_url": "pic.twitter.com/0JYTo6cHB1",
+					"expanded_url": "https://twitter.com/DaisyLindlar/status/1077325376551075840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077325369236209700,
+					"id_str": "1077325369236209667",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNttyTXQAM3MgP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNttyTXQAM3MgP.jpg",
+					"url": "https://t.co/0JYTo6cHB1",
+					"display_url": "pic.twitter.com/0JYTo6cHB1",
+					"expanded_url": "https://twitter.com/DaisyLindlar/status/1077325376551075840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 363144248,
+			"id_str": "363144248",
+			"name": "Daisy",
+			"screen_name": "DaisyLindlar",
+			"location": "London, England",
+			"description": "Feminist, ENTP, dog person",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 391,
+			"listed_count": 9,
+			"created_at": "Sat Aug 27 16:08:20 +0000 2011",
+			"favourites_count": 15945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11775,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945717007244292096/RKhKhWBI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945717007244292096/RKhKhWBI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/363144248/1523096639",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My lovely bedroom features a glass of water by the bed which I’ve been told is specifically “for the cat” and must be kept topped up at all times @rhodri #DuvetKnowItsChrismas https://t.co/0JYTo6cHB1"
+	},
+	{
+		"created_at": "Mon Dec 24 22:05:58 +0000 2018",
+		"id": 1077324532640297000,
+		"id_str": "1077324532640296962",
+		"full_text": "@rhodri Not sure what happened in this house but there's a shower in every bedroom https://t.co/eG78EfO2eT",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077324508015534100,
+					"id_str": "1077324508015534080",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNs7qAWoAAbqTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNs7qAWoAAbqTX.jpg",
+					"url": "https://t.co/eG78EfO2eT",
+					"display_url": "pic.twitter.com/eG78EfO2eT",
+					"expanded_url": "https://twitter.com/scviz/status/1077324532640296962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077324508015534100,
+					"id_str": "1077324508015534080",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNs7qAWoAAbqTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNs7qAWoAAbqTX.jpg",
+					"url": "https://t.co/eG78EfO2eT",
+					"display_url": "pic.twitter.com/eG78EfO2eT",
+					"expanded_url": "https://twitter.com/scviz/status/1077324532640296962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 228002082,
+			"id_str": "228002082",
+			"name": "Sarah Vizard",
+			"screen_name": "scviz",
+			"location": "London",
+			"description": "News editor @marketingweeked Long-suffering @arsenal fan",
+			"url": "https://t.co/BWZU7M0iJg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BWZU7M0iJg",
+							"expanded_url": "http://www.marketingweek.co.uk/",
+							"display_url": "marketingweek.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2426,
+			"friends_count": 728,
+			"listed_count": 102,
+			"created_at": "Sat Dec 18 12:41:59 +0000 2010",
+			"favourites_count": 2761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7848,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981131623990251520/UlsxJMoD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981131623990251520/UlsxJMoD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228002082/1506781428",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Not sure what happened in this house but there's a shower in every bedroom https://t.co/eG78EfO2eT"
+	},
+	{
+		"created_at": "Mon Dec 24 22:06:38 +0000 2018",
+		"id": 1077324697975640000,
+		"id_str": "1077324697975640064",
+		"full_text": "@rhodri Happy Christmas https://t.co/zMaXLtAkDg",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077324689729638400,
+					"id_str": "1077324689729638400",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNtGO8X0AAsI35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNtGO8X0AAsI35.jpg",
+					"url": "https://t.co/zMaXLtAkDg",
+					"display_url": "pic.twitter.com/zMaXLtAkDg",
+					"expanded_url": "https://twitter.com/TommyShakes/status/1077324697975640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077324689729638400,
+					"id_str": "1077324689729638400",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNtGO8X0AAsI35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNtGO8X0AAsI35.jpg",
+					"url": "https://t.co/zMaXLtAkDg",
+					"display_url": "pic.twitter.com/zMaXLtAkDg",
+					"expanded_url": "https://twitter.com/TommyShakes/status/1077324697975640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 217374615,
+			"id_str": "217374615",
+			"name": "Tom Shakespeare",
+			"screen_name": "TommyShakes",
+			"location": "London, Norwich, Newcastle",
+			"description": "Disability studies, bioethics, general pondering.",
+			"url": "https://t.co/cz82VfZ2py",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cz82VfZ2py",
+							"expanded_url": "http://Farmerofthoughts.co.uk",
+							"display_url": "Farmerofthoughts.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9441,
+			"friends_count": 4495,
+			"listed_count": 170,
+			"created_at": "Fri Nov 19 10:40:50 +0000 2010",
+			"favourites_count": 20341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/478060085483040768/irmfOVSL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/478060085483040768/irmfOVSL_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217374615/1375027250",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Happy Christmas https://t.co/zMaXLtAkDg"
+	},
+	{
+		"created_at": "Mon Dec 24 22:06:02 +0000 2018",
+		"id": 1077324545445511200,
+		"id_str": "1077324545445511168",
+		"full_text": "@rhodri It's getting a bit cramped in my sisters room, the incomplete bathroom renovation with working toilet #DuvetKnowItsChristmas https://t.co/iMQqooTVkO",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						110,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077324535794462700,
+					"id_str": "1077324535794462726",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNs9RfXcAY28pq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNs9RfXcAY28pq.jpg",
+					"url": "https://t.co/iMQqooTVkO",
+					"display_url": "pic.twitter.com/iMQqooTVkO",
+					"expanded_url": "https://twitter.com/glothy/status/1077324545445511168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077324535794462700,
+					"id_str": "1077324535794462726",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNs9RfXcAY28pq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNs9RfXcAY28pq.jpg",
+					"url": "https://t.co/iMQqooTVkO",
+					"display_url": "pic.twitter.com/iMQqooTVkO",
+					"expanded_url": "https://twitter.com/glothy/status/1077324545445511168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 15404163,
+			"id_str": "15404163",
+			"name": "glothy",
+			"screen_name": "glothy",
+			"location": "Cheltenham",
+			"description": "Feminist, socialist, environmentalist. Walking contradiction. Forever temporary.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 467,
+			"listed_count": 24,
+			"created_at": "Sat Jul 12 14:11:19 +0000 2008",
+			"favourites_count": 2506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/673936970326876160/-aQ3rLJE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/673936970326876160/-aQ3rLJE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15404163/1483560565",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri It's getting a bit cramped in my sisters room, the incomplete bathroom renovation with working toilet #DuvetKnowItsChristmas https://t.co/iMQqooTVkO"
+	},
+	{
+		"created_at": "Mon Dec 24 22:07:32 +0000 2018",
+		"id": 1077324924837134300,
+		"id_str": "1077324924837134336",
+		"full_text": "Completely terrifying. https://t.co/e6WGMYTWSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e6WGMYTWSV",
+					"expanded_url": "https://twitter.com/ClarenceRook/status/1077324357171597312",
+					"display_url": "twitter.com/ClarenceRook/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077324357171597300,
+		"quoted_status_id_str": "1077324357171597312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e6WGMYTWSV",
+			"expanded": "https://twitter.com/ClarenceRook/status/1077324357171597312",
+			"display": "twitter.com/ClarenceRook/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 22:05:17 +0000 2018",
+			"id": 1077324357171597300,
+			"id_str": "1077324357171597312",
+			"full_text": "My son ( he’s 28) is staying in the wifes “craft” room (witchcraft more like !). He’s got some company in case he gets lonely #DuvetKnowItsChrismas @rhodri https://t.co/IWU2BlfzbR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChrismas",
+						"indices": [
+							126,
+							147
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							148,
+							155
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077324351140216800,
+						"id_str": "1077324351140216833",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNsyhmXQAE70rs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNsyhmXQAE70rs.jpg",
+						"url": "https://t.co/IWU2BlfzbR",
+						"display_url": "pic.twitter.com/IWU2BlfzbR",
+						"expanded_url": "https://twitter.com/ClarenceRook/status/1077324357171597312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077324351140216800,
+						"id_str": "1077324351140216833",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNsyhmXQAE70rs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNsyhmXQAE70rs.jpg",
+						"url": "https://t.co/IWU2BlfzbR",
+						"display_url": "pic.twitter.com/IWU2BlfzbR",
+						"expanded_url": "https://twitter.com/ClarenceRook/status/1077324357171597312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50081887,
+				"id_str": "50081887",
+				"name": "A$AP AYL$HAM",
+				"screen_name": "ClarenceRook",
+				"location": "Norwich",
+				"description": "Artist Manager/Cultural Panzer Division/Pickpocket Eloquence/Racetrack Riff-Raff/Tuff o the Toffs/Cream o the Scum/Didicoi who’s DunDiddin’/Costermonger/Mudlark",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2067,
+				"friends_count": 2123,
+				"listed_count": 46,
+				"created_at": "Tue Jun 23 19:55:04 +0000 2009",
+				"favourites_count": 8187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35638,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A1212",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073228879412805633/X2iAOk7O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073228879412805633/X2iAOk7O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50081887/1424644778",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D4D646",
+				"profile_sidebar_fill_color": "5DD123",
+				"profile_text_color": "CF4934",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 21,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Completely terrifying. https://t.co/e6WGMYTWSV"
+	},
+	{
+		"created_at": "Mon Dec 24 22:05:24 +0000 2018",
+		"id": 1077324386204565500,
+		"id_str": "1077324386204565506",
+		"full_text": "@rhodri ...and I have relegated my sister to the fold-out sofa in my office, where she can be kept company by a Yamaha DX-7 and a cymbal autographed by @SheilaEdrummer. #DuvetKnowItsChristmas https://t.co/P4feUPPjbq",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						169,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SheilaEdrummer",
+					"name": "SheilaEdrummer",
+					"id": 23918872,
+					"id_str": "23918872",
+					"indices": [
+						152,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077324376884813800,
+					"id_str": "1077324376884813825",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNs0BgWoAE_foC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNs0BgWoAE_foC.jpg",
+					"url": "https://t.co/P4feUPPjbq",
+					"display_url": "pic.twitter.com/P4feUPPjbq",
+					"expanded_url": "https://twitter.com/gottlife/status/1077324386204565506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077324376884813800,
+					"id_str": "1077324376884813825",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNs0BgWoAE_foC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNs0BgWoAE_foC.jpg",
+					"url": "https://t.co/P4feUPPjbq",
+					"display_url": "pic.twitter.com/P4feUPPjbq",
+					"expanded_url": "https://twitter.com/gottlife/status/1077324386204565506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1077322368639483900,
+		"in_reply_to_status_id_str": "1077322368639483904",
+		"in_reply_to_user_id": 274991143,
+		"in_reply_to_user_id_str": "274991143",
+		"in_reply_to_screen_name": "gottlife",
+		"user": {
+			"id": 274991143,
+			"id_str": "274991143",
+			"name": "Ben Gott",
+			"screen_name": "gottlife",
+			"location": "Connecticut",
+			"description": "I am a writer, educator, consultant, and musician who's online at https://t.co/nwe4TWnl4q. This is a personal account; all views are my own.",
+			"url": "https://t.co/GuY8x9zmVH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GuY8x9zmVH",
+							"expanded_url": "http://www.bengott.com",
+							"display_url": "bengott.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nwe4TWnl4q",
+							"expanded_url": "http://bengott.com",
+							"display_url": "bengott.com",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 1099,
+			"listed_count": 6,
+			"created_at": "Thu Mar 31 12:27:29 +0000 2011",
+			"favourites_count": 15524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6835,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968811372686569472/wF01QJA6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968811372686569472/wF01QJA6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274991143/1527885712",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri ...and I have relegated my sister to the fold-out sofa in my office, where she can be kept company by a Yamaha DX-7 and a cymbal autographed by @SheilaEdrummer. #DuvetKnowItsChristmas https://t.co/P4feUPPjbq"
+	},
+	{
+		"created_at": "Mon Dec 24 22:04:32 +0000 2018",
+		"id": 1077324169748963300,
+		"id_str": "1077324169748963329",
+		"full_text": "@rhodri Separate beds just in case we decide to change our “living in sin”policy of the last few years. #DuvetKnowItsChrismas https://t.co/lMYWgsXNVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						104,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077324148244992000,
+					"id_str": "1077324148244992000",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNsmtwX0AAk84q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNsmtwX0AAk84q.jpg",
+					"url": "https://t.co/lMYWgsXNVA",
+					"display_url": "pic.twitter.com/lMYWgsXNVA",
+					"expanded_url": "https://twitter.com/RollingDany/status/1077324169748963329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077324148244992000,
+					"id_str": "1077324148244992000",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNsmtwX0AAk84q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNsmtwX0AAk84q.jpg",
+					"url": "https://t.co/lMYWgsXNVA",
+					"display_url": "pic.twitter.com/lMYWgsXNVA",
+					"expanded_url": "https://twitter.com/RollingDany/status/1077324169748963329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 196999866,
+			"id_str": "196999866",
+			"name": "Bearface Cheek",
+			"screen_name": "RollingDany",
+			"location": "Here, obviously",
+			"description": "Williams' F1 test driver. Former world 200m record holder. Exiled former President of Burkina Faso. Liar. Generally tweeting whilst watching quiz show repeats.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 192,
+			"listed_count": 9,
+			"created_at": "Thu Sep 30 12:25:24 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137145383/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137145383/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196999866/1415532704",
+			"profile_link_color": "542265",
+			"profile_sidebar_border_color": "BC31A0",
+			"profile_sidebar_fill_color": "121212",
+			"profile_text_color": "877583",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Separate beds just in case we decide to change our “living in sin”policy of the last few years. #DuvetKnowItsChrismas https://t.co/lMYWgsXNVA"
+	},
+	{
+		"created_at": "Mon Dec 24 22:03:59 +0000 2018",
+		"id": 1077324030754078700,
+		"id_str": "1077324030754078721",
+		"full_text": "@rhodri first night I slept on the floor boards. So I had to buy a 2nd hand mattress, room has been plastered... Half dead Gordon the Gopher on the shelf and deluxe litter tray in the corner...  at least I’ll have visitors in the night #DuvetKnowItsChrismas https://t.co/l26V2M12WP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						236,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077324019525918700,
+					"id_str": "1077324019525918720",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNsfOPWoAA9mB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNsfOPWoAA9mB6.jpg",
+					"url": "https://t.co/l26V2M12WP",
+					"display_url": "pic.twitter.com/l26V2M12WP",
+					"expanded_url": "https://twitter.com/TheKnievelDead/status/1077324030754078721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077324019525918700,
+					"id_str": "1077324019525918720",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNsfOPWoAA9mB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNsfOPWoAA9mB6.jpg",
+					"url": "https://t.co/l26V2M12WP",
+					"display_url": "pic.twitter.com/l26V2M12WP",
+					"expanded_url": "https://twitter.com/TheKnievelDead/status/1077324030754078721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 163559312,
+			"id_str": "163559312",
+			"name": "The Knievel Dead",
+			"screen_name": "TheKnievelDead",
+			"location": "London",
+			"description": "just... another... fucking... band...",
+			"url": "https://t.co/wpJnMjZsuf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wpJnMjZsuf",
+							"expanded_url": "http://www.theknieveldead.com",
+							"display_url": "theknieveldead.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5163,
+			"friends_count": 1118,
+			"listed_count": 61,
+			"created_at": "Tue Jul 06 18:37:11 +0000 2010",
+			"favourites_count": 4453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937698251557556226/BB8zarFz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937698251557556226/BB8zarFz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163559312/1512399662",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8C8C8C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri first night I slept on the floor boards. So I had to buy a 2nd hand mattress, room has been plastered... Half dead Gordon the Gopher on the shelf and deluxe litter tray in the corner...  at least I’ll have visitors in the night #DuvetKnowItsChrismas https://t.co/l26V2M12WP"
+	},
+	{
+		"created_at": "Mon Dec 24 22:04:08 +0000 2018",
+		"id": 1077324069635272700,
+		"id_str": "1077324069635272704",
+		"full_text": "Definitely one for @rhodri’s annual #DuvetKnowItsChrismas thread. https://t.co/p8p2w9Ruz7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						36,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p8p2w9Ruz7",
+					"expanded_url": "https://twitter.com/Doug_Lemov/status/1077277919389601792",
+					"display_url": "twitter.com/Doug_Lemov/sta…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1857710880,
+			"id_str": "1857710880",
+			"name": "Bill Wilkinson",
+			"screen_name": "DrWilkinsonSci",
+			"location": "United Kingdom",
+			"description": "Science teacher, PGCE Mentor, former academic scientist, life-long learner, absent Watford FC fan, present Bath City fan & rotund ParkRunner",
+			"url": "https://t.co/r3kPndrMi0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3kPndrMi0",
+							"expanded_url": "https://drwilkinsonscience.wordpress.com/",
+							"display_url": "drwilkinsonscience.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1915,
+			"friends_count": 1371,
+			"listed_count": 47,
+			"created_at": "Thu Sep 12 15:45:02 +0000 2013",
+			"favourites_count": 24373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067823842222055426/NVq7lZND_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067823842222055426/NVq7lZND_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1857710880/1457902751",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077277919389601800,
+		"quoted_status_id_str": "1077277919389601792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p8p2w9Ruz7",
+			"expanded": "https://twitter.com/Doug_Lemov/status/1077277919389601792",
+			"display": "twitter.com/Doug_Lemov/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 19:00:45 +0000 2018",
+			"id": 1077277919389601800,
+			"id_str": "1077277919389601792",
+			"full_text": "Holy terrifying. Visiting in-laws and just found this in a drawer. https://t.co/0AMbxQFltX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077277917888036900,
+						"id_str": "1077277917888036865",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNCjwQWwAEjms3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNCjwQWwAEjms3.jpg",
+						"url": "https://t.co/0AMbxQFltX",
+						"display_url": "pic.twitter.com/0AMbxQFltX",
+						"expanded_url": "https://twitter.com/Doug_Lemov/status/1077277919389601792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077277917888036900,
+						"id_str": "1077277917888036865",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNCjwQWwAEjms3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNCjwQWwAEjms3.jpg",
+						"url": "https://t.co/0AMbxQFltX",
+						"display_url": "pic.twitter.com/0AMbxQFltX",
+						"expanded_url": "https://twitter.com/Doug_Lemov/status/1077277919389601792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1485447024,
+				"id_str": "1485447024",
+				"name": "Doug Lemov",
+				"screen_name": "Doug_Lemov",
+				"location": "Albany, NY",
+				"description": "Author (Teach Like a Champion, Reading Reconsidered, Practice Perfect), dad. Work at Uncommon Schools. Most views borrowed from someone smarter.",
+				"url": "https://t.co/LFvMUh8LPm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LFvMUh8LPm",
+								"expanded_url": "http://teachlikeachampion.com/blog/",
+								"display_url": "teachlikeachampion.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35139,
+				"friends_count": 1889,
+				"listed_count": 427,
+				"created_at": "Wed Jun 05 16:45:35 +0000 2013",
+				"favourites_count": 12003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6D62B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697951222280622080/7MeAdkR__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697951222280622080/7MeAdkR__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1485447024/1401414046",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 205,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Definitely one for @rhodri’s annual #DuvetKnowItsChrismas thread. https://t.co/p8p2w9Ruz7"
+	},
+	{
+		"created_at": "Mon Dec 24 22:04:18 +0000 2018",
+		"id": 1077324113369358300,
+		"id_str": "1077324113369358337",
+		"full_text": "@elissa22 I can't see what's going on, there. Bad plumbing?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elissa22",
+					"name": "Elissa",
+					"id": 19111652,
+					"id_str": "19111652",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077323867255984100,
+		"in_reply_to_status_id_str": "1077323867255984128",
+		"in_reply_to_user_id": 19111652,
+		"in_reply_to_user_id_str": "19111652",
+		"in_reply_to_screen_name": "elissa22",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elissa22 I can't see what's going on, there. Bad plumbing?"
+	},
+	{
+		"created_at": "Mon Dec 24 22:00:03 +0000 2018",
+		"id": 1077323039698833400,
+		"id_str": "1077323039698833410",
+		"full_text": "At in-laws for first Christmas with this one. He doesn't like the cot bed, so our bed taken over.\n\nUnsure how to proceed, to be honest.  @rhodri https://t.co/S67AP31ufl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077323025912135700,
+					"id_str": "1077323025912135681",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNrlYvXgAE24Ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNrlYvXgAE24Ag.jpg",
+					"url": "https://t.co/S67AP31ufl",
+					"display_url": "pic.twitter.com/S67AP31ufl",
+					"expanded_url": "https://twitter.com/PhilipIsPDR/status/1077323039698833410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077323025912135700,
+					"id_str": "1077323025912135681",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNrlYvXgAE24Ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNrlYvXgAE24Ag.jpg",
+					"url": "https://t.co/S67AP31ufl",
+					"display_url": "pic.twitter.com/S67AP31ufl",
+					"expanded_url": "https://twitter.com/PhilipIsPDR/status/1077323039698833410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17153665,
+			"id_str": "17153665",
+			"name": "PhilipIsPDR",
+			"screen_name": "PhilipIsPDR",
+			"location": "Dublin City, Ireland",
+			"description": "You don't know me, right?",
+			"url": "https://t.co/k5VPmV4e0f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k5VPmV4e0f",
+							"expanded_url": "http://www.philipharries.co.uk/",
+							"display_url": "philipharries.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 503,
+			"listed_count": 10,
+			"created_at": "Tue Nov 04 11:36:03 +0000 2008",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1892,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437300897/a0f5180b-9510-4408-ac6e-1acfeb75d5f4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437300897/a0f5180b-9510-4408-ac6e-1acfeb75d5f4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17153665/1485517381",
+			"profile_link_color": "8C8C8C",
+			"profile_sidebar_border_color": "56544E",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "878787",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At in-laws for first Christmas with this one. He doesn't like the cot bed, so our bed taken over.\n\nUnsure how to proceed, to be honest.  @rhodri https://t.co/S67AP31ufl"
+	},
+	{
+		"created_at": "Mon Dec 24 21:57:59 +0000 2018",
+		"id": 1077322521266057200,
+		"id_str": "1077322521266057216",
+		"full_text": "My mum and her festive spare room decorating (featuring Bramble the guard reindeer) #DuvetKnowItsChristmas @rhodri https://t.co/yaoegh2UCi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						84,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077322498583289900,
+					"id_str": "1077322498583289856",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNrGsSX4AAV3gm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNrGsSX4AAV3gm.jpg",
+					"url": "https://t.co/yaoegh2UCi",
+					"display_url": "pic.twitter.com/yaoegh2UCi",
+					"expanded_url": "https://twitter.com/LowellSwift/status/1077322521266057216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077322498583289900,
+					"id_str": "1077322498583289856",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNrGsSX4AAV3gm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNrGsSX4AAV3gm.jpg",
+					"url": "https://t.co/yaoegh2UCi",
+					"display_url": "pic.twitter.com/yaoegh2UCi",
+					"expanded_url": "https://twitter.com/LowellSwift/status/1077322521266057216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077322514932609000,
+					"id_str": "1077322514932609025",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNrHpMWsAEMbko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNrHpMWsAEMbko.jpg",
+					"url": "https://t.co/yaoegh2UCi",
+					"display_url": "pic.twitter.com/yaoegh2UCi",
+					"expanded_url": "https://twitter.com/LowellSwift/status/1077322521266057216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2885760160,
+			"id_str": "2885760160",
+			"name": "Lowell Swiftmas",
+			"screen_name": "LowellSwift",
+			"location": "Tea & Biscuit Island UK",
+			"description": "Drinker of tea, Procrastinator (writer) Knackerer of bras, Lover of life. Loquacious Lunatic. Disco Champion 1986, Biscuit Champion 2016. Word Wrangler.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 1331,
+			"listed_count": 30,
+			"created_at": "Thu Nov 20 15:34:43 +0000 2014",
+			"favourites_count": 5835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023112988956471296/G3NtDVmZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023112988956471296/G3NtDVmZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2885760160/1492329016",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My mum and her festive spare room decorating (featuring Bramble the guard reindeer) #DuvetKnowItsChristmas @rhodri https://t.co/yaoegh2UCi"
+	},
+	{
+		"created_at": "Mon Dec 24 22:00:11 +0000 2018",
+		"id": 1077323073450373100,
+		"id_str": "1077323073450373121",
+		"full_text": "@joparsons90 Oh, arses.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joparsons90",
+					"name": "Jo Parsons",
+					"id": 20037409,
+					"id_str": "20037409",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077322927098470400,
+		"in_reply_to_status_id_str": "1077322927098470400",
+		"in_reply_to_user_id": 20037409,
+		"in_reply_to_user_id_str": "20037409",
+		"in_reply_to_screen_name": "joparsons90",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@joparsons90 Oh, arses."
+	},
+	{
+		"created_at": "Mon Dec 24 21:59:42 +0000 2018",
+		"id": 1077322954588016600,
+		"id_str": "1077322954588016643",
+		"full_text": "@melindahaunton @nottsarchivist Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melindahaunton",
+					"name": "Melinda Haunton",
+					"id": 51803040,
+					"id_str": "51803040",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "nottsarchivist",
+					"name": "Ruth Imeson Da Silva",
+					"id": 127344052,
+					"id_str": "127344052",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077322716691288000,
+		"in_reply_to_status_id_str": "1077322716691288064",
+		"in_reply_to_user_id": 51803040,
+		"in_reply_to_user_id_str": "51803040",
+		"in_reply_to_screen_name": "melindahaunton",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@melindahaunton @nottsarchivist Hahaha"
+	},
+	{
+		"created_at": "Mon Dec 24 21:55:15 +0000 2018",
+		"id": 1077321832632631300,
+		"id_str": "1077321832632631304",
+		"full_text": "@rhodri Bespoke bed crafted from sofa cushions and in front of parents' living room fire. This is 5* #DuvetknowitsChristmas https://t.co/n10KxpSAHV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetknowitsChristmas",
+					"indices": [
+						101,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321704874131500,
+					"id_str": "1077321704874131456",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqYffXQAA4KMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqYffXQAA4KMU.jpg",
+					"url": "https://t.co/n10KxpSAHV",
+					"display_url": "pic.twitter.com/n10KxpSAHV",
+					"expanded_url": "https://twitter.com/trequartbeasta/status/1077321832632631304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 998,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 353,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321704874131500,
+					"id_str": "1077321704874131456",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqYffXQAA4KMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqYffXQAA4KMU.jpg",
+					"url": "https://t.co/n10KxpSAHV",
+					"display_url": "pic.twitter.com/n10KxpSAHV",
+					"expanded_url": "https://twitter.com/trequartbeasta/status/1077321832632631304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 998,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 353,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 83790293,
+			"id_str": "83790293",
+			"name": "Jamie ⚔️ 🔶◾️🔶",
+			"screen_name": "trequartbeasta",
+			"location": "Manchester, England",
+			"description": "Gale 8 to Severe Gale 9, veering North - occasional showers, moderate or poor, sometimes good. 🏳️‍🌈 #twitterblades #bengals",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1304,
+			"friends_count": 2817,
+			"listed_count": 46,
+			"created_at": "Tue Oct 20 07:23:00 +0000 2009",
+			"favourites_count": 8871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075733304484204544/7hrK4g5c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075733304484204544/7hrK4g5c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83790293/1506989008",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Bespoke bed crafted from sofa cushions and in front of parents' living room fire. This is 5* #DuvetknowitsChristmas https://t.co/n10KxpSAHV"
+	},
+	{
+		"created_at": "Mon Dec 24 21:56:04 +0000 2018",
+		"id": 1077322040804368400,
+		"id_str": "1077322040804368384",
+		"full_text": "@rhodri bc my old room is now a kind of makeshift dormitory for exchange students i have an unusual case of too many beds https://t.co/rR3HsFBQFX",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077322029232197600,
+					"id_str": "1077322029232197632",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqrX0WkAAp8ic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqrX0WkAAp8ic.jpg",
+					"url": "https://t.co/rR3HsFBQFX",
+					"display_url": "pic.twitter.com/rR3HsFBQFX",
+					"expanded_url": "https://twitter.com/himalanna/status/1077322040804368384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077322029232197600,
+					"id_str": "1077322029232197632",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqrX0WkAAp8ic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqrX0WkAAp8ic.jpg",
+					"url": "https://t.co/rR3HsFBQFX",
+					"display_url": "pic.twitter.com/rR3HsFBQFX",
+					"expanded_url": "https://twitter.com/himalanna/status/1077322040804368384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 33038254,
+			"id_str": "33038254",
+			"name": "anna happy new year",
+			"screen_name": "himalanna",
+			"location": "london/birmingham ",
+			"description": "⁘ theatremaker, director ⁘ ALBATROSS and I WANNA BE YOURS @painesplough ⁘ A SMALL PLACE @gatetheatre ⁘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1812,
+			"friends_count": 1305,
+			"listed_count": 8,
+			"created_at": "Sat Apr 18 22:43:41 +0000 2009",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074459262754217985/ovjuRA5G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074459262754217985/ovjuRA5G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33038254/1492250560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri bc my old room is now a kind of makeshift dormitory for exchange students i have an unusual case of too many beds https://t.co/rR3HsFBQFX"
+	},
+	{
+		"created_at": "Mon Dec 24 21:53:48 +0000 2018",
+		"id": 1077321468265013200,
+		"id_str": "1077321468265013248",
+		"full_text": "@rhodri Here’s my entry for this year’s #DuvetKnowItsChristmas - it’s not a loft cupboard this year, but still. 33 yrs of age and on the floor of a 4 yr old’s bedroom. Chance of a decent hour of waking: nil. https://t.co/rEVQMWicbO",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						40,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321459087880200,
+					"id_str": "1077321459087880194",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqKL3WsAIw3CT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqKL3WsAIw3CT.jpg",
+					"url": "https://t.co/rEVQMWicbO",
+					"display_url": "pic.twitter.com/rEVQMWicbO",
+					"expanded_url": "https://twitter.com/rm_lloyd/status/1077321468265013248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321459087880200,
+					"id_str": "1077321459087880194",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqKL3WsAIw3CT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqKL3WsAIw3CT.jpg",
+					"url": "https://t.co/rEVQMWicbO",
+					"display_url": "pic.twitter.com/rEVQMWicbO",
+					"expanded_url": "https://twitter.com/rm_lloyd/status/1077321468265013248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077321055205773300,
+		"in_reply_to_status_id_str": "1077321055205773318",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 363849917,
+			"id_str": "363849917",
+			"name": "Rosie",
+			"screen_name": "rm_lloyd",
+			"location": "West Midlands, England",
+			"description": "Teaching kids English when I’m not on holiday. Specialism: chewing gum detection. Everything that happens is from now on.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 437,
+			"listed_count": 6,
+			"created_at": "Sun Aug 28 20:01:32 +0000 2011",
+			"favourites_count": 2151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7667,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006991712047321089/uYV_rDu3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006991712047321089/uYV_rDu3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/363849917/1441139013",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Here’s my entry for this year’s #DuvetKnowItsChristmas - it’s not a loft cupboard this year, but still. 33 yrs of age and on the floor of a 4 yr old’s bedroom. Chance of a decent hour of waking: nil. https://t.co/rEVQMWicbO"
+	},
+	{
+		"created_at": "Mon Dec 24 21:53:53 +0000 2018",
+		"id": 1077321490931085300,
+		"id_str": "1077321490931085313",
+		"full_text": "#duvetknowitschristmas This is what my 14yo is enduring because he’s given his room to Granny. Lift off.  @rhodri https://t.co/jLiO0FI6LT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321452695797800,
+					"id_str": "1077321452695797760",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqJ0DXQAA6V2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqJ0DXQAA6V2-.jpg",
+					"url": "https://t.co/jLiO0FI6LT",
+					"display_url": "pic.twitter.com/jLiO0FI6LT",
+					"expanded_url": "https://twitter.com/Isabelwriter/status/1077321490931085313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321452695797800,
+					"id_str": "1077321452695797760",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqJ0DXQAA6V2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqJ0DXQAA6V2-.jpg",
+					"url": "https://t.co/jLiO0FI6LT",
+					"display_url": "pic.twitter.com/jLiO0FI6LT",
+					"expanded_url": "https://twitter.com/Isabelwriter/status/1077321490931085313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150377306,
+			"id_str": "150377306",
+			"name": "Isabel Rogers",
+			"screen_name": "Isabelwriter",
+			"location": "Hampshire, UK",
+			"description": "Writer: Life Death & Cellos out 24 Jan https://t.co/V56Y8WBtOn; Don't Ask (poetry collection). Bad cellist.",
+			"url": "http://t.co/t9bQKK4YYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/t9bQKK4YYn",
+							"expanded_url": "http://isabelrogers.org/",
+							"display_url": "isabelrogers.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V56Y8WBtOn",
+							"expanded_url": "https://farragobooks.com/book/life-death-and-cellos/",
+							"display_url": "farragobooks.com/book/life-deat…",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3888,
+			"friends_count": 1280,
+			"listed_count": 136,
+			"created_at": "Mon May 31 19:50:46 +0000 2010",
+			"favourites_count": 4277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91887,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882275639591673858/wx-MngaV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882275639591673858/wx-MngaV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150377306/1542298212",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#duvetknowitschristmas This is what my 14yo is enduring because he’s given his room to Granny. Lift off.  @rhodri https://t.co/jLiO0FI6LT"
+	},
+	{
+		"created_at": "Mon Dec 24 21:56:53 +0000 2018",
+		"id": 1077322243955404800,
+		"id_str": "1077322243955404801",
+		"full_text": "@timchipping I know I am.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timchipping",
+					"name": "Tim Chipping",
+					"id": 19602874,
+					"id_str": "19602874",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077321580814970900,
+		"in_reply_to_status_id_str": "1077321580814970880",
+		"in_reply_to_user_id": 19602874,
+		"in_reply_to_user_id_str": "19602874",
+		"in_reply_to_screen_name": "timchipping",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timchipping I know I am."
+	},
+	{
+		"created_at": "Mon Dec 24 21:54:26 +0000 2018",
+		"id": 1077321626432229400,
+		"id_str": "1077321626432229381",
+		"full_text": "@rhodri Two clocks, just in case. (Neither of them work) https://t.co/QCWn9AA3BX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321564755034100,
+					"id_str": "1077321564755034112",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqQVgXgAAg89y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqQVgXgAAg89y.jpg",
+					"url": "https://t.co/QCWn9AA3BX",
+					"display_url": "pic.twitter.com/QCWn9AA3BX",
+					"expanded_url": "https://twitter.com/_holliver_/status/1077321626432229381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321564755034100,
+					"id_str": "1077321564755034112",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqQVgXgAAg89y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqQVgXgAAg89y.jpg",
+					"url": "https://t.co/QCWn9AA3BX",
+					"display_url": "pic.twitter.com/QCWn9AA3BX",
+					"expanded_url": "https://twitter.com/_holliver_/status/1077321626432229381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 3741858317,
+			"id_str": "3741858317",
+			"name": "Holly",
+			"screen_name": "_holliver_",
+			"location": "",
+			"description": "Dog botherer. Woman.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 672,
+			"listed_count": 4,
+			"created_at": "Tue Sep 22 19:32:27 +0000 2015",
+			"favourites_count": 26983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5729,
+			"lang": "en-GB",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017662361044422656/fueOSMH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017662361044422656/fueOSMH4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3741858317/1530041036",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Two clocks, just in case. (Neither of them work) https://t.co/QCWn9AA3BX"
+	},
+	{
+		"created_at": "Mon Dec 24 21:54:54 +0000 2018",
+		"id": 1077321744459989000,
+		"id_str": "1077321744459988992",
+		"full_text": "@rhodri The local animal shelter let me have their giant rabbit over xmas so that she's not alone and, well, she's got some very strong ideas about where she's spending the night. X 🎄🐰 https://t.co/ejPJL4B8y0",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321727913459700,
+					"id_str": "1077321727913459712",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqZ1UXgAAYt6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqZ1UXgAAYt6J.jpg",
+					"url": "https://t.co/ejPJL4B8y0",
+					"display_url": "pic.twitter.com/ejPJL4B8y0",
+					"expanded_url": "https://twitter.com/ErrenMichaels/status/1077321744459988992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 859,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 859,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321727913459700,
+					"id_str": "1077321727913459712",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNqZ1UXgAAYt6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNqZ1UXgAAYt6J.jpg",
+					"url": "https://t.co/ejPJL4B8y0",
+					"display_url": "pic.twitter.com/ejPJL4B8y0",
+					"expanded_url": "https://twitter.com/ErrenMichaels/status/1077321744459988992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 859,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 859,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1077306989380862000,
+		"in_reply_to_status_id_str": "1077306989380861952",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 841395775,
+			"id_str": "841395775",
+			"name": "Erren Michaels 🐇🌹🌱",
+			"screen_name": "ErrenMichaels",
+			"location": "UK",
+			"description": "I'm a writer. I write things. Sometimes ancient runes scrawled in the blood of dead gods, but mostly books if I'm honest. 🌱🌹",
+			"url": "https://t.co/XGDhTnMjvS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XGDhTnMjvS",
+							"expanded_url": "https://twitter.com/search?q=from:errenmichaels/exclude:replies",
+							"display_url": "twitter.com/search?q=from:…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3722,
+			"friends_count": 701,
+			"listed_count": 137,
+			"created_at": "Sun Sep 23 09:43:10 +0000 2012",
+			"favourites_count": 159738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30891,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058162946742931456/U9PoZTjG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058162946742931456/U9PoZTjG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/841395775/1528776383",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri The local animal shelter let me have their giant rabbit over xmas so that she's not alone and, well, she's got some very strong ideas about where she's spending the night. X 🎄🐰 https://t.co/ejPJL4B8y0"
+	},
+	{
+		"created_at": "Mon Dec 24 21:55:01 +0000 2018",
+		"id": 1077321774147211300,
+		"id_str": "1077321774147211264",
+		"full_text": "Mannequins are big this year. https://t.co/PlpVhHklCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PlpVhHklCO",
+					"expanded_url": "https://twitter.com/fleur_charms/status/1077321210709585920",
+					"display_url": "twitter.com/fleur_charms/s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077321210709585900,
+		"quoted_status_id_str": "1077321210709585920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PlpVhHklCO",
+			"expanded": "https://twitter.com/fleur_charms/status/1077321210709585920",
+			"display": "twitter.com/fleur_charms/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:52:46 +0000 2018",
+			"id": 1077321210709585900,
+			"id_str": "1077321210709585920",
+			"full_text": "@rhodri rooms not too shabby but I do have to sleep with this watching me #DuvetKnowItsChristmas https://t.co/oJOWAW1PK1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							74,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077321201821933600,
+						"id_str": "1077321201821933568",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNp7NeX4AAFCkK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNp7NeX4AAFCkK.jpg",
+						"url": "https://t.co/oJOWAW1PK1",
+						"display_url": "pic.twitter.com/oJOWAW1PK1",
+						"expanded_url": "https://twitter.com/fleur_charms/status/1077321210709585920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077321201821933600,
+						"id_str": "1077321201821933568",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNp7NeX4AAFCkK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNp7NeX4AAFCkK.jpg",
+						"url": "https://t.co/oJOWAW1PK1",
+						"display_url": "pic.twitter.com/oJOWAW1PK1",
+						"expanded_url": "https://twitter.com/fleur_charms/status/1077321210709585920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 19792983,
+				"id_str": "19792983",
+				"name": "Hazel (Fleur Charms)",
+				"screen_name": "fleur_charms",
+				"location": "Lincoln, England",
+				"description": "27 y/o blogging about lifestyle, travel and fashion! Video-making, Disney loving, all round creative person & digital communicator! Youtube: https://t.co/0UqURUarIP",
+				"url": "https://t.co/o2NOOG1rIb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o2NOOG1rIb",
+								"expanded_url": "http://fleurcharms.co.uk",
+								"display_url": "fleurcharms.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0UqURUarIP",
+								"expanded_url": "http://bit.ly/2ezMuiq",
+								"display_url": "bit.ly/2ezMuiq",
+								"indices": [
+									141,
+									164
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 835,
+				"friends_count": 877,
+				"listed_count": 81,
+				"created_at": "Fri Jan 30 22:36:02 +0000 2009",
+				"favourites_count": 6344,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2BAAA1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1051861723580387330/A7fR0XG__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051861723580387330/A7fR0XG__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19792983/1539618425",
+				"profile_link_color": "CFDECB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mannequins are big this year. https://t.co/PlpVhHklCO"
+	},
+	{
+		"created_at": "Mon Dec 24 21:52:55 +0000 2018",
+		"id": 1077321245258072000,
+		"id_str": "1077321245258072064",
+		"full_text": "I'm particularly pleased with my festive cardboard headboard this year. Can't complain about the boxes as my poor parents are storing them for us (might make a fort during the night) @rhodri #DuvetKnowItsChristmas https://t.co/3DoUYMxt5H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						191,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						183,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321231572127700,
+					"id_str": "1077321231572127745",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNp88TX0AEQLQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNp88TX0AEQLQE.jpg",
+					"url": "https://t.co/3DoUYMxt5H",
+					"display_url": "pic.twitter.com/3DoUYMxt5H",
+					"expanded_url": "https://twitter.com/RachelLK/status/1077321245258072064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321231572127700,
+					"id_str": "1077321231572127745",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNp88TX0AEQLQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNp88TX0AEQLQE.jpg",
+					"url": "https://t.co/3DoUYMxt5H",
+					"display_url": "pic.twitter.com/3DoUYMxt5H",
+					"expanded_url": "https://twitter.com/RachelLK/status/1077321245258072064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21333520,
+			"id_str": "21333520",
+			"name": "Rachel Knight",
+			"screen_name": "RachelLK",
+			"location": "Tonbridge, Kent",
+			"description": "Account director at @Maxim_PR, wife of @acrobatic_flea, proud puppy owner, lover of musicals, miniatures, wine, vintage, the NHS and Jenson Button",
+			"url": "https://t.co/TyrTiZGdut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TyrTiZGdut",
+							"expanded_url": "http://miniaturesmakemehappy.blogspot.co.uk/",
+							"display_url": "miniaturesmakemehappy.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1817,
+			"friends_count": 1298,
+			"listed_count": 47,
+			"created_at": "Thu Feb 19 20:07:05 +0000 2009",
+			"favourites_count": 969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/417391167790399489/zT8goJo9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/417391167790399489/zT8goJo9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21333520/1359396947",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm particularly pleased with my festive cardboard headboard this year. Can't complain about the boxes as my poor parents are storing them for us (might make a fort during the night) @rhodri #DuvetKnowItsChristmas https://t.co/3DoUYMxt5H"
+	},
+	{
+		"created_at": "Mon Dec 24 21:52:15 +0000 2018",
+		"id": 1077321077691420700,
+		"id_str": "1077321077691420672",
+		"full_text": "under the watchful gaze of a gang of compare-the-meerkats in an otherwise comfy and newly-decorated spare bedroom @rhodri #duvetknowitschristmas https://t.co/DWEMyb9d15",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						122,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077321071051894800,
+					"id_str": "1077321071051894784",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNpzmUXcAA8UyO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNpzmUXcAA8UyO.jpg",
+					"url": "https://t.co/DWEMyb9d15",
+					"display_url": "pic.twitter.com/DWEMyb9d15",
+					"expanded_url": "https://twitter.com/charmada/status/1077321077691420672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077321071051894800,
+					"id_str": "1077321071051894784",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNpzmUXcAA8UyO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNpzmUXcAA8UyO.jpg",
+					"url": "https://t.co/DWEMyb9d15",
+					"display_url": "pic.twitter.com/DWEMyb9d15",
+					"expanded_url": "https://twitter.com/charmada/status/1077321077691420672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20165111,
+			"id_str": "20165111",
+			"name": "✨⛄️🎄🦔 george michael fan account  🦔🎄⛄️✨",
+			"screen_name": "charmada",
+			"location": "LDN / tamworth",
+			"description": "art gremlin. fan of foxes, memes, bad movies, big jumpers. tired but strong. she/her",
+			"url": "https://t.co/WvZ3aMA9N6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WvZ3aMA9N6",
+							"expanded_url": "http://brunsfaceball.tumblr.com/",
+							"display_url": "brunsfaceball.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414,
+			"friends_count": 454,
+			"listed_count": 14,
+			"created_at": "Thu Feb 05 17:09:58 +0000 2009",
+			"favourites_count": 19541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058780215130972160/GI_bnTrw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058780215130972160/GI_bnTrw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20165111/1531858183",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "under the watchful gaze of a gang of compare-the-meerkats in an otherwise comfy and newly-decorated spare bedroom @rhodri #duvetknowitschristmas https://t.co/DWEMyb9d15"
+	},
+	{
+		"created_at": "Mon Dec 24 21:52:52 +0000 2018",
+		"id": 1077321234814095400,
+		"id_str": "1077321234814095360",
+		"full_text": "@jontreadway And you, sir.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jontreadway",
+					"name": "Jon Treadway",
+					"id": 35269543,
+					"id_str": "35269543",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077320883344162800,
+		"in_reply_to_status_id_str": "1077320883344162818",
+		"in_reply_to_user_id": 35269543,
+		"in_reply_to_user_id_str": "35269543",
+		"in_reply_to_screen_name": "jontreadway",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jontreadway And you, sir."
+	},
+	{
+		"created_at": "Mon Dec 24 21:52:30 +0000 2018",
+		"id": 1077321143294574600,
+		"id_str": "1077321143294574592",
+		"full_text": "@shitoptimist I know! Where the fuck are they? Unbelievable.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shitoptimist",
+					"name": "That'll teach you.",
+					"id": 330603273,
+					"id_str": "330603273",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077320900784083000,
+		"in_reply_to_status_id_str": "1077320900784082945",
+		"in_reply_to_user_id": 330603273,
+		"in_reply_to_user_id_str": "330603273",
+		"in_reply_to_screen_name": "shitoptimist",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shitoptimist I know! Where the fuck are they? Unbelievable."
+	},
+	{
+		"created_at": "Mon Dec 24 21:49:24 +0000 2018",
+		"id": 1077320362164187100,
+		"id_str": "1077320362164187136",
+		"full_text": "@rhodri whilst I’ve been very lucky in getting a nice double bed at the in-laws, there are hundreds of tiny witches and police-themed bulldogs staring at me... https://t.co/cGPjsvUxdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077320355671355400,
+					"id_str": "1077320355671355392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNpJ9UWsAAFYbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNpJ9UWsAAFYbd.jpg",
+					"url": "https://t.co/cGPjsvUxdg",
+					"display_url": "pic.twitter.com/cGPjsvUxdg",
+					"expanded_url": "https://twitter.com/Chris_E_Dunn/status/1077320362164187136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077320355671355400,
+					"id_str": "1077320355671355392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNpJ9UWsAAFYbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNpJ9UWsAAFYbd.jpg",
+					"url": "https://t.co/cGPjsvUxdg",
+					"display_url": "pic.twitter.com/cGPjsvUxdg",
+					"expanded_url": "https://twitter.com/Chris_E_Dunn/status/1077320362164187136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 420688410,
+			"id_str": "420688410",
+			"name": "Chris Dunn",
+			"screen_name": "Chris_E_Dunn",
+			"location": "London",
+			"description": "Property Insight Analyst based in London. Lover of technology and innovation. Mental health advocate. MRes Student at Loughborough London. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 547,
+			"friends_count": 2276,
+			"listed_count": 14,
+			"created_at": "Thu Nov 24 23:39:46 +0000 2011",
+			"favourites_count": 2664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955930405777149952/pAGgx8S0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955930405777149952/pAGgx8S0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/420688410/1526379901",
+			"profile_link_color": "0C1EE8",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri whilst I’ve been very lucky in getting a nice double bed at the in-laws, there are hundreds of tiny witches and police-themed bulldogs staring at me... https://t.co/cGPjsvUxdg"
+	},
+	{
+		"created_at": "Mon Dec 24 21:47:51 +0000 2018",
+		"id": 1077319969468284900,
+		"id_str": "1077319969468284931",
+		"full_text": "@rhodri Think my sister will just about be able to get into bed (we are bad at adulthood so our long-suffering parents are encumbered with our stuff, most of which is in her childhood bedroom) @PhoebeRudgard https://t.co/7m3CBpePOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "PhoebeRudgard",
+					"name": "phoebe rudgard",
+					"id": 300193324,
+					"id_str": "300193324",
+					"indices": [
+						193,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077319956671483900,
+					"id_str": "1077319956671483904",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNoyu7X0AARdTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNoyu7X0AARdTH.jpg",
+					"url": "https://t.co/7m3CBpePOW",
+					"display_url": "pic.twitter.com/7m3CBpePOW",
+					"expanded_url": "https://twitter.com/OliviaRudgard/status/1077319969468284931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077319956671483900,
+					"id_str": "1077319956671483904",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNoyu7X0AARdTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNoyu7X0AARdTH.jpg",
+					"url": "https://t.co/7m3CBpePOW",
+					"display_url": "pic.twitter.com/7m3CBpePOW",
+					"expanded_url": "https://twitter.com/OliviaRudgard/status/1077319969468284931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 519404663,
+			"id_str": "519404663",
+			"name": "Olivia Rudgard",
+			"screen_name": "OliviaRudgard",
+			"location": "San Francisco, CA",
+			"description": "Tech journo covering Silicon Valley & beyond @Telegraph. Extremely millennial. DMs open! Pitch me: olivia.rudgard@telegraph.co.uk",
+			"url": "https://t.co/kV4nafHjrO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kV4nafHjrO",
+							"expanded_url": "http://www.telegraph.co.uk/authors/olivia-rudgard/",
+							"display_url": "telegraph.co.uk/authors/olivia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3189,
+			"friends_count": 1544,
+			"listed_count": 92,
+			"created_at": "Fri Mar 09 11:25:45 +0000 2012",
+			"favourites_count": 4757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8973,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836350887073300480/iJzgommQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836350887073300480/iJzgommQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/519404663/1504951439",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Think my sister will just about be able to get into bed (we are bad at adulthood so our long-suffering parents are encumbered with our stuff, most of which is in her childhood bedroom) @PhoebeRudgard https://t.co/7m3CBpePOW"
+	},
+	{
+		"created_at": "Mon Dec 24 21:46:05 +0000 2018",
+		"id": 1077319525387980800,
+		"id_str": "1077319525387980800",
+		"full_text": "⁦@rhodri⁩ Christmas morning slide show “fun” awaits the kids if they can contain the urge to unveil the PC from under its dust cover, stay off the exercise bike or avoid using the ancient vacuum cleaner. It’s like a shrine to 1979 in here. https://t.co/t258z6Hxnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077319496849870800,
+					"id_str": "1077319496849870855",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNoX99W0AcCle-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNoX99W0AcCle-.jpg",
+					"url": "https://t.co/t258z6Hxnk",
+					"display_url": "pic.twitter.com/t258z6Hxnk",
+					"expanded_url": "https://twitter.com/OxtonSoulBoy/status/1077319525387980800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077319496849870800,
+					"id_str": "1077319496849870855",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNoX99W0AcCle-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNoX99W0AcCle-.jpg",
+					"url": "https://t.co/t258z6Hxnk",
+					"display_url": "pic.twitter.com/t258z6Hxnk",
+					"expanded_url": "https://twitter.com/OxtonSoulBoy/status/1077319525387980800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 189517475,
+			"id_str": "189517475",
+			"name": "Paul",
+			"screen_name": "OxtonSoulBoy",
+			"location": "Oxtonia, yo.",
+			"description": "Hip-hop dad and Oxton Soul Boy",
+			"url": "http://t.co/KZT6voIKOT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KZT6voIKOT",
+							"expanded_url": "http://www.mixcloud.com/OxtonSoulBoy/",
+							"display_url": "mixcloud.com/OxtonSoulBoy/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 143,
+			"listed_count": 3,
+			"created_at": "Sat Sep 11 13:52:10 +0000 2010",
+			"favourites_count": 8786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7185,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1944611931/IMG_0173_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1944611931/IMG_0173_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/189517475/1354347017",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⁦@rhodri⁩ Christmas morning slide show “fun” awaits the kids if they can contain the urge to unveil the PC from under its dust cover, stay off the exercise bike or avoid using the ancient vacuum cleaner. It’s like a shrine to 1979 in here. https://t.co/t258z6Hxnk"
+	},
+	{
+		"created_at": "Mon Dec 24 21:46:10 +0000 2018",
+		"id": 1077319548934778900,
+		"id_str": "1077319548934778882",
+		"full_text": "Don't forget our pets who are also enduring #DuvetKnowItsChristmas here is Lara behind bars after chasing the in-law's cat @rhodri https://t.co/E748hjbn25",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						44,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077319437039079400,
+					"id_str": "1077319437039079427",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNoUfJWkAMxhC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNoUfJWkAMxhC9.jpg",
+					"url": "https://t.co/E748hjbn25",
+					"display_url": "pic.twitter.com/E748hjbn25",
+					"expanded_url": "https://twitter.com/Luke_Block/status/1077319548934778882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077319437039079400,
+					"id_str": "1077319437039079427",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNoUfJWkAMxhC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNoUfJWkAMxhC9.jpg",
+					"url": "https://t.co/E748hjbn25",
+					"display_url": "pic.twitter.com/E748hjbn25",
+					"expanded_url": "https://twitter.com/Luke_Block/status/1077319548934778882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21659713,
+			"id_str": "21659713",
+			"name": "Luke Block",
+			"screen_name": "Luke_Block",
+			"location": "Kent",
+			"description": "Psychology Publisher at Macmillan International Higher Education. Views my own etc.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 1949,
+			"listed_count": 11,
+			"created_at": "Mon Feb 23 15:21:00 +0000 2009",
+			"favourites_count": 2523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4862,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060644946095562757/9kxc6Zlv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060644946095562757/9kxc6Zlv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21659713/1526198356",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't forget our pets who are also enduring #DuvetKnowItsChristmas here is Lara behind bars after chasing the in-law's cat @rhodri https://t.co/E748hjbn25"
+	},
+	{
+		"created_at": "Mon Dec 24 21:44:38 +0000 2018",
+		"id": 1077319162513510400,
+		"id_str": "1077319162513510400",
+		"full_text": "@rhodri I know this isn't exactly what you're looking for, but given this year's charity focus, I thought this tweet (sandwiched between two of yours) was timely. https://t.co/VcHHgl8xDA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VcHHgl8xDA",
+					"expanded_url": "https://twitter.com/RealTimeWWII/status/1077318252865470465",
+					"display_url": "twitter.com/RealTimeWWII/s…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 227968051,
+			"id_str": "227968051",
+			"name": "Arria Belli",
+			"screen_name": "arriabelli",
+			"location": "Paris, France",
+			"description": "Lost. Not necessarily in translation.\r\nVoyage sans boussole.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 326,
+			"listed_count": 21,
+			"created_at": "Sat Dec 18 10:04:08 +0000 2010",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48086,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2291077443/9blvj1kgjhy20292kkm1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2291077443/9blvj1kgjhy20292kkm1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/227968051/1383077371",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077318252865470500,
+		"quoted_status_id_str": "1077318252865470465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VcHHgl8xDA",
+			"expanded": "https://twitter.com/RealTimeWWII/status/1077318252865470465",
+			"display": "twitter.com/RealTimeWWII/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:41:01 +0000 2018",
+			"id": 1077318252865470500,
+			"id_str": "1077318252865470465",
+			"full_text": "In a cellar beneath a brewery in Camden, Londoners spend Christmas Eve sheltering from bombers. Government war artist Olga Lehmann records the scene: https://t.co/324bbXRuNK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077318243872895000,
+						"id_str": "1077318243872894976",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNnPCQXcAAww9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNnPCQXcAAww9s.jpg",
+						"url": "https://t.co/324bbXRuNK",
+						"display_url": "pic.twitter.com/324bbXRuNK",
+						"expanded_url": "https://twitter.com/RealTimeWWII/status/1077318252865470465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 734,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 624,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077318243872895000,
+						"id_str": "1077318243872894976",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNnPCQXcAAww9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNnPCQXcAAww9s.jpg",
+						"url": "https://t.co/324bbXRuNK",
+						"display_url": "pic.twitter.com/324bbXRuNK",
+						"expanded_url": "https://twitter.com/RealTimeWWII/status/1077318252865470465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 734,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 624,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 364488011,
+				"id_str": "364488011",
+				"name": "WW2 Tweets from 1940",
+				"screen_name": "RealTimeWWII",
+				"location": "Britain",
+				"description": "I livetweet the Second World War as it happened on this day in 1940 & for 5 years to come (2nd time around). Created by Alwyn Collinson, realtimewwii@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 519533,
+				"friends_count": 491,
+				"listed_count": 5877,
+				"created_at": "Mon Aug 29 21:13:38 +0000 2011",
+				"favourites_count": 124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000873869228552193/RiOi-P6c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000873869228552193/RiOi-P6c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/364488011/1545650858",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 113,
+			"favorite_count": 321,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I know this isn't exactly what you're looking for, but given this year's charity focus, I thought this tweet (sandwiched between two of yours) was timely. https://t.co/VcHHgl8xDA"
+	},
+	{
+		"created_at": "Mon Dec 24 21:42:18 +0000 2018",
+		"id": 1077318574245580800,
+		"id_str": "1077318574245580800",
+		"full_text": "@rhodri I’m sleeping down the garden over Christmas, it’s lovely and warm and peaceful (unless it rains) #duvetknowitschristmas https://t.co/jEx190xRKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						105,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077318550736519200,
+					"id_str": "1077318550736519169",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNng5aWwAEg0db.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNng5aWwAEg0db.jpg",
+					"url": "https://t.co/jEx190xRKY",
+					"display_url": "pic.twitter.com/jEx190xRKY",
+					"expanded_url": "https://twitter.com/JenniDutton/status/1077318574245580800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077318550736519200,
+					"id_str": "1077318550736519169",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNng5aWwAEg0db.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNng5aWwAEg0db.jpg",
+					"url": "https://t.co/jEx190xRKY",
+					"display_url": "pic.twitter.com/jEx190xRKY",
+					"expanded_url": "https://twitter.com/JenniDutton/status/1077318574245580800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 2301996556,
+			"id_str": "2301996556",
+			"name": "Jenni Dutton",
+			"screen_name": "JenniDutton",
+			"location": "South West England",
+			"description": "British Artist - Conceptual Clothing; The Dementia Darnings; Museum for Object Research and now the Absurd Sewn Selfies",
+			"url": "https://t.co/yh0N0FwJ27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yh0N0FwJ27",
+							"expanded_url": "http://www.jennidutton.com",
+							"display_url": "jennidutton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 993,
+			"listed_count": 35,
+			"created_at": "Fri Jan 24 18:54:54 +0000 2014",
+			"favourites_count": 9040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823831840029032448/311ATouP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823831840029032448/311ATouP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2301996556/1468047261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I’m sleeping down the garden over Christmas, it’s lovely and warm and peaceful (unless it rains) #duvetknowitschristmas https://t.co/jEx190xRKY"
+	},
+	{
+		"created_at": "Mon Dec 24 21:40:19 +0000 2018",
+		"id": 1077318074603327500,
+		"id_str": "1077318074603327490",
+		"full_text": "@rhodri My bed and the view from my bed. Yes, we're watching Gremlins. #duvetknowitschristmas https://t.co/eLWFGmXZjc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						71,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077318043980759000,
+					"id_str": "1077318043980759041",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNnDZmXgAEe79-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNnDZmXgAEe79-.jpg",
+					"url": "https://t.co/eLWFGmXZjc",
+					"display_url": "pic.twitter.com/eLWFGmXZjc",
+					"expanded_url": "https://twitter.com/PeterC78/status/1077318074603327490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077318043980759000,
+					"id_str": "1077318043980759041",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNnDZmXgAEe79-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNnDZmXgAEe79-.jpg",
+					"url": "https://t.co/eLWFGmXZjc",
+					"display_url": "pic.twitter.com/eLWFGmXZjc",
+					"expanded_url": "https://twitter.com/PeterC78/status/1077318074603327490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077318063303856100,
+					"id_str": "1077318063303856128",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNnEhlWkAACzCM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNnEhlWkAACzCM.jpg",
+					"url": "https://t.co/eLWFGmXZjc",
+					"display_url": "pic.twitter.com/eLWFGmXZjc",
+					"expanded_url": "https://twitter.com/PeterC78/status/1077318074603327490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 26743877,
+			"id_str": "26743877",
+			"name": "Peter Cotter",
+			"screen_name": "PeterC78",
+			"location": "London",
+			"description": "Basking in the glory of God...zilla.\nHe, him.\nViews are my own but rarely coherent.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 654,
+			"listed_count": 3,
+			"created_at": "Thu Mar 26 13:04:06 +0000 2009",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4774,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/422589591045304320/JvtDkDMZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/422589591045304320/JvtDkDMZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26743877/1397203641",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri My bed and the view from my bed. Yes, we're watching Gremlins. #duvetknowitschristmas https://t.co/eLWFGmXZjc"
+	},
+	{
+		"created_at": "Mon Dec 24 21:41:30 +0000 2018",
+		"id": 1077318374974197800,
+		"id_str": "1077318374974197760",
+		"full_text": "@rhodri I’ll be sleeping on this early 90’s beauty later. And if I can’t sleep, I have a stack of Discovery magazines to see me through.#DuvetKnowItsChristmas https://t.co/rkLdrXxRdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						136,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077318366933733400,
+					"id_str": "1077318366933733376",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNnWMsW0AAbrAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNnWMsW0AAbrAK.jpg",
+					"url": "https://t.co/rkLdrXxRdC",
+					"display_url": "pic.twitter.com/rkLdrXxRdC",
+					"expanded_url": "https://twitter.com/Wikisteveia/status/1077318374974197760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077318366933733400,
+					"id_str": "1077318366933733376",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNnWMsW0AAbrAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNnWMsW0AAbrAK.jpg",
+					"url": "https://t.co/rkLdrXxRdC",
+					"display_url": "pic.twitter.com/rkLdrXxRdC",
+					"expanded_url": "https://twitter.com/Wikisteveia/status/1077318374974197760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 2981351878,
+			"id_str": "2981351878",
+			"name": "Stephen Holbrook",
+			"screen_name": "Wikisteveia",
+			"location": "",
+			"description": "Not that one.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 212,
+			"listed_count": 0,
+			"created_at": "Fri Jan 16 15:56:02 +0000 2015",
+			"favourites_count": 2514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695728887448346626/-QHzUnl__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695728887448346626/-QHzUnl__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I’ll be sleeping on this early 90’s beauty later. And if I can’t sleep, I have a stack of Discovery magazines to see me through.#DuvetKnowItsChristmas https://t.co/rkLdrXxRdC"
+	},
+	{
+		"created_at": "Mon Dec 24 21:39:31 +0000 2018",
+		"id": 1077317873939419100,
+		"id_str": "1077317873939419139",
+		"full_text": "@rhodri Comfy bed, nice room if you don’t mind being WATCHED. Please note the bear wearing my niece’s pants from 15 years ago #duvetknowitschristmas https://t.co/6l7B7i5ips",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						126,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077317862006669300,
+					"id_str": "1077317862006669317",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNm4zsXQAUDt3x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNm4zsXQAUDt3x.jpg",
+					"url": "https://t.co/6l7B7i5ips",
+					"display_url": "pic.twitter.com/6l7B7i5ips",
+					"expanded_url": "https://twitter.com/NickyThomas1/status/1077317873939419139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077317862006669300,
+					"id_str": "1077317862006669317",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNm4zsXQAUDt3x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNm4zsXQAUDt3x.jpg",
+					"url": "https://t.co/6l7B7i5ips",
+					"display_url": "pic.twitter.com/6l7B7i5ips",
+					"expanded_url": "https://twitter.com/NickyThomas1/status/1077317873939419139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 362334111,
+			"id_str": "362334111",
+			"name": "Nicky Thomas",
+			"screen_name": "NickyThomas1",
+			"location": "Malvern, UK",
+			"description": "Physics teacher, author; Institute of Physics Project Officer (IGB) & Network Coordinator",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 329,
+			"listed_count": 20,
+			"created_at": "Fri Aug 26 06:51:52 +0000 2011",
+			"favourites_count": 922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1685689128/NThomas_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1685689128/NThomas_photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/362334111/1493588913",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Comfy bed, nice room if you don’t mind being WATCHED. Please note the bear wearing my niece’s pants from 15 years ago #duvetknowitschristmas https://t.co/6l7B7i5ips"
+	},
+	{
+		"created_at": "Mon Dec 24 21:37:00 +0000 2018",
+		"id": 1077317242860261400,
+		"id_str": "1077317242860261376",
+		"full_text": "@rhodri In my dad’s office as my uncle is staying for the next two nights. Upgraded from the sofa on the right to a little fold-up bed, under lovely curtain-less window which I’m assured doesn’t leak \n#duvetknowitsChristmas https://t.co/j1IOSFokhn",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitsChristmas",
+					"indices": [
+						201,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077317239039242200,
+					"id_str": "1077317239039242241",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNmUi9WsAE6mIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNmUi9WsAE6mIn.jpg",
+					"url": "https://t.co/j1IOSFokhn",
+					"display_url": "pic.twitter.com/j1IOSFokhn",
+					"expanded_url": "https://twitter.com/JudyJourno/status/1077317242860261376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077317239039242200,
+					"id_str": "1077317239039242241",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNmUi9WsAE6mIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNmUi9WsAE6mIn.jpg",
+					"url": "https://t.co/j1IOSFokhn",
+					"display_url": "pic.twitter.com/j1IOSFokhn",
+					"expanded_url": "https://twitter.com/JudyJourno/status/1077317242860261376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 18762483,
+			"id_str": "18762483",
+			"name": "Judy Johnson",
+			"screen_name": "JudyJourno",
+			"location": "London, UK",
+			"description": "Digital Editor @GetTheGloss | Sensitive skin columnist | Freelancer | Blogger @ https://t.co/dZYamvKs8c | Ibiza fan | Soap fan | Insta @JudyJourno",
+			"url": "https://t.co/8fJ2tqYhJv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8fJ2tqYhJv",
+							"expanded_url": "http://www.judyjohnsonjourno.com",
+							"display_url": "judyjohnsonjourno.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dZYamvKs8c",
+							"expanded_url": "http://womanwithoutaplan.wordpress.com",
+							"display_url": "womanwithoutaplan.wordpress.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3806,
+			"friends_count": 3247,
+			"listed_count": 153,
+			"created_at": "Thu Jan 08 12:56:09 +0000 2009",
+			"favourites_count": 1181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3099849528/0788bf131e66c7e0d080eb6df1c226e9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3099849528/0788bf131e66c7e0d080eb6df1c226e9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18762483/1434660089",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "C72CF2",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri In my dad’s office as my uncle is staying for the next two nights. Upgraded from the sofa on the right to a little fold-up bed, under lovely curtain-less window which I’m assured doesn’t leak \n#duvetknowitsChristmas https://t.co/j1IOSFokhn"
+	},
+	{
+		"created_at": "Mon Dec 24 21:36:25 +0000 2018",
+		"id": 1077317094671335400,
+		"id_str": "1077317094671335424",
+		"full_text": "@rhodri Not the worst at all, but here’s where my mum and I are sleeping in my granny’s retirement flat! The bottom bed does have legs, but that’s a bit *too* cosy https://t.co/BtVJkipw4J",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077317064585564200,
+					"id_str": "1077317064585564162",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNmKZEW0AI6DTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNmKZEW0AI6DTD.jpg",
+					"url": "https://t.co/BtVJkipw4J",
+					"display_url": "pic.twitter.com/BtVJkipw4J",
+					"expanded_url": "https://twitter.com/glassarmy/status/1077317094671335424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077317064585564200,
+					"id_str": "1077317064585564162",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNmKZEW0AI6DTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNmKZEW0AI6DTD.jpg",
+					"url": "https://t.co/BtVJkipw4J",
+					"display_url": "pic.twitter.com/BtVJkipw4J",
+					"expanded_url": "https://twitter.com/glassarmy/status/1077317094671335424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306989380862000,
+		"in_reply_to_status_id_str": "1077306989380861952",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 17153275,
+			"id_str": "17153275",
+			"name": "Ailsa",
+			"screen_name": "glassarmy",
+			"location": "Edinburgh",
+			"description": "she/her. Professional bookworm. Views my own, unless I nicked them from someone cleverer than me. 25% pictures of my cats",
+			"url": "https://t.co/d31hxhu8Ti",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d31hxhu8Ti",
+							"expanded_url": "https://www.goodreads.com/user/show/5628404-ailsa",
+							"display_url": "goodreads.com/user/show/5628…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 857,
+			"listed_count": 11,
+			"created_at": "Tue Nov 04 11:05:38 +0000 2008",
+			"favourites_count": 5633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E0D02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055025817670090752/qBMYE0mA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055025817670090752/qBMYE0mA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17153275/1514658690",
+			"profile_link_color": "8A112D",
+			"profile_sidebar_border_color": "BEDFB6",
+			"profile_sidebar_fill_color": "0E0D02",
+			"profile_text_color": "39BD91",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Not the worst at all, but here’s where my mum and I are sleeping in my granny’s retirement flat! The bottom bed does have legs, but that’s a bit *too* cosy https://t.co/BtVJkipw4J"
+	},
+	{
+		"created_at": "Mon Dec 24 21:35:20 +0000 2018",
+		"id": 1077316820024131600,
+		"id_str": "1077316820024131584",
+		"full_text": "@rhodri all mod cons - including handy access to a catapault https://t.co/c7ElsKY7KJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077316808040943600,
+					"id_str": "1077316808040943616",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNl7dXWkAAD8ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNl7dXWkAAD8ha.jpg",
+					"url": "https://t.co/c7ElsKY7KJ",
+					"display_url": "pic.twitter.com/c7ElsKY7KJ",
+					"expanded_url": "https://twitter.com/lauradonnlee/status/1077316820024131584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077316808040943600,
+					"id_str": "1077316808040943616",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNl7dXWkAAD8ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNl7dXWkAAD8ha.jpg",
+					"url": "https://t.co/c7ElsKY7KJ",
+					"display_url": "pic.twitter.com/c7ElsKY7KJ",
+					"expanded_url": "https://twitter.com/lauradonnlee/status/1077316820024131584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 156248241,
+			"id_str": "156248241",
+			"name": "laura donnelly",
+			"screen_name": "lauradonnlee",
+			"location": "london",
+			"description": "Health Editor of The Telegraph. Opinions my own. Mainly. Contact laura.donnelly@telegraph.co.uk",
+			"url": "http://t.co/BJEN5TMdFL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BJEN5TMdFL",
+							"expanded_url": "http://www.telegraph.co.uk/journalists/laura-donnelly/",
+							"display_url": "telegraph.co.uk/journalists/la…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13297,
+			"friends_count": 962,
+			"listed_count": 299,
+			"created_at": "Wed Jun 16 12:08:24 +0000 2010",
+			"favourites_count": 375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4746,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1838072831/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1838072831/image_normal.jpg",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri all mod cons - including handy access to a catapault https://t.co/c7ElsKY7KJ"
+	},
+	{
+		"created_at": "Mon Dec 24 21:33:35 +0000 2018",
+		"id": 1077316381287333900,
+		"id_str": "1077316381287333888",
+		"full_text": "@rhodri  I paid £350 to go on holiday w/my family but being single &amp; under 75 apparently means i get to sleep in a cupboard with a kids bed &amp; this smug bastard grinning at me https://t.co/DnrIQO3FJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077316291696971800,
+					"id_str": "1077316291696971776",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNldZ1W0AA-FYp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNldZ1W0AA-FYp.jpg",
+					"url": "https://t.co/DnrIQO3FJN",
+					"display_url": "pic.twitter.com/DnrIQO3FJN",
+					"expanded_url": "https://twitter.com/thesefeathers/status/1077316381287333888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077316291696971800,
+					"id_str": "1077316291696971776",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNldZ1W0AA-FYp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNldZ1W0AA-FYp.jpg",
+					"url": "https://t.co/DnrIQO3FJN",
+					"display_url": "pic.twitter.com/DnrIQO3FJN",
+					"expanded_url": "https://twitter.com/thesefeathers/status/1077316381287333888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077316291671834600,
+					"id_str": "1077316291671834624",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNldZvXQAAkdgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNldZvXQAAkdgK.jpg",
+					"url": "https://t.co/DnrIQO3FJN",
+					"display_url": "pic.twitter.com/DnrIQO3FJN",
+					"expanded_url": "https://twitter.com/thesefeathers/status/1077316381287333888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 9277682,
+			"id_str": "9277682",
+			"name": "andiebrown",
+			"screen_name": "thesefeathers",
+			"location": "Huddersfield, England",
+			"description": "thesefeathers@gmail.com. musician, maker, PhD student at University of Huddersfield, co-director @yswn_ .",
+			"url": "https://t.co/HxjTYlds4o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HxjTYlds4o",
+							"expanded_url": "http://www.thesefeathershaveplumes.com",
+							"display_url": "thesefeathershaveplumes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1439,
+			"friends_count": 2549,
+			"listed_count": 16,
+			"created_at": "Sat Oct 06 10:16:19 +0000 2007",
+			"favourites_count": 4858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546427232000815104/lUNs4qRQ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546427232000815104/lUNs4qRQ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9277682/1400028047",
+			"profile_link_color": "32768F",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri  I paid £350 to go on holiday w/my family but being single &amp; under 75 apparently means i get to sleep in a cupboard with a kids bed &amp; this smug bastard grinning at me https://t.co/DnrIQO3FJN"
+	},
+	{
+		"created_at": "Mon Dec 24 21:34:44 +0000 2018",
+		"id": 1077316669784182800,
+		"id_str": "1077316669784182784",
+		"full_text": "@paperclipracket I know, man",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paperclipracket",
+					"name": "Nathan",
+					"id": 16577187,
+					"id_str": "16577187",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077316445451837400,
+		"in_reply_to_status_id_str": "1077316445451837441",
+		"in_reply_to_user_id": 16577187,
+		"in_reply_to_user_id_str": "16577187",
+		"in_reply_to_screen_name": "paperclipracket",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paperclipracket I know, man"
+	},
+	{
+		"created_at": "Mon Dec 24 21:31:41 +0000 2018",
+		"id": 1077315903765823500,
+		"id_str": "1077315903765823493",
+		"full_text": "@rhodri #DuvetKnowItsChristmas cosily nestled amongst the paint tins... https://t.co/vbwf9mfMgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						8,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077315896916561900,
+					"id_str": "1077315896916561920",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNlGbKX0AAjcjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNlGbKX0AAjcjA.jpg",
+					"url": "https://t.co/vbwf9mfMgC",
+					"display_url": "pic.twitter.com/vbwf9mfMgC",
+					"expanded_url": "https://twitter.com/SophieFredK/status/1077315903765823493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077315896916561900,
+					"id_str": "1077315896916561920",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNlGbKX0AAjcjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNlGbKX0AAjcjA.jpg",
+					"url": "https://t.co/vbwf9mfMgC",
+					"display_url": "pic.twitter.com/vbwf9mfMgC",
+					"expanded_url": "https://twitter.com/SophieFredK/status/1077315903765823493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1054785840625393700,
+			"id_str": "1054785840625393664",
+			"name": "Sophie Kendall",
+			"screen_name": "SophieFredK",
+			"location": "Oxford & London",
+			"description": "Friendship, belonging and purpose for all of us. Keen to learn from people connecting us in new ways on what matters @nesta_uk \nViews mine",
+			"url": "https://t.co/SNWQ3ATOEW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SNWQ3ATOEW",
+							"expanded_url": "https://www.nesta.org.uk/team/sophie-kendall/",
+							"display_url": "nesta.org.uk/team/sophie-ke…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139,
+			"friends_count": 477,
+			"listed_count": 1,
+			"created_at": "Tue Oct 23 17:25:16 +0000 2018",
+			"favourites_count": 369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054785928043159552/h2Jk2xZj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054785928043159552/h2Jk2xZj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1054785840625393664/1540591045",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri #DuvetKnowItsChristmas cosily nestled amongst the paint tins... https://t.co/vbwf9mfMgC"
+	},
+	{
+		"created_at": "Mon Dec 24 21:33:59 +0000 2018",
+		"id": 1077316482047115300,
+		"id_str": "1077316482047115269",
+		"full_text": "*looks up \"architrave\"* https://t.co/umeAcue2L7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/umeAcue2L7",
+					"expanded_url": "https://twitter.com/LKPMac/status/1077316059097714688",
+					"display_url": "twitter.com/LKPMac/status/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077316059097714700,
+		"quoted_status_id_str": "1077316059097714688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/umeAcue2L7",
+			"expanded": "https://twitter.com/LKPMac/status/1077316059097714688",
+			"display": "twitter.com/LKPMac/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:32:18 +0000 2018",
+			"id": 1077316059097714700,
+			"id_str": "1077316059097714688",
+			"full_text": "@rhodri Son returned from a year away in Australia to our mid-renovation 1-bed flat so he’s sharing the living room with the exposed gas pipe and not yet fitted architrave #DuvetKnowItsChrismas https://t.co/FFmknkUVKA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChrismas",
+						"indices": [
+							172,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077316054181908500,
+						"id_str": "1077316054181908482",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNlPlBWkAIkhKU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNlPlBWkAIkhKU.jpg",
+						"url": "https://t.co/FFmknkUVKA",
+						"display_url": "pic.twitter.com/FFmknkUVKA",
+						"expanded_url": "https://twitter.com/LKPMac/status/1077316059097714688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077316054181908500,
+						"id_str": "1077316054181908482",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNlPlBWkAIkhKU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNlPlBWkAIkhKU.jpg",
+						"url": "https://t.co/FFmknkUVKA",
+						"display_url": "pic.twitter.com/FFmknkUVKA",
+						"expanded_url": "https://twitter.com/LKPMac/status/1077316059097714688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 20728841,
+				"id_str": "20728841",
+				"name": "Lozza",
+				"screen_name": "LKPMac",
+				"location": "New Cross London",
+				"description": "Slighty grumpy. Tweet about cricket and general rubbish and swear too much.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 537,
+				"listed_count": 4,
+				"created_at": "Thu Feb 12 22:54:01 +0000 2009",
+				"favourites_count": 3278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15768,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525984902404399104/Sk2k-zrm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525984902404399104/Sk2k-zrm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20728841/1436020585",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*looks up \"architrave\"* https://t.co/umeAcue2L7"
+	},
+	{
+		"created_at": "Mon Dec 24 21:32:41 +0000 2018",
+		"id": 1077316155872890900,
+		"id_str": "1077316155872890880",
+		"full_text": "American viewers may be surprised that I've been doing this for eight years and this is the first gun I've seen. https://t.co/nsONNtPHZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nsONNtPHZS",
+					"expanded_url": "https://twitter.com/NickyEdwards/status/1077315273512968193",
+					"display_url": "twitter.com/NickyEdwards/s…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077315273512968200,
+		"quoted_status_id_str": "1077315273512968193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nsONNtPHZS",
+			"expanded": "https://twitter.com/NickyEdwards/status/1077315273512968193",
+			"display": "twitter.com/NickyEdwards/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:29:11 +0000 2018",
+			"id": 1077315273512968200,
+			"id_str": "1077315273512968193",
+			"full_text": "It’s #StandardForSuffolk #DuvetKnowItsChristmas @rhodri #QueensSpeechOfTwitter https://t.co/p8hbWc00ac",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StandardForSuffolk",
+						"indices": [
+							5,
+							24
+						]
+					},
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							25,
+							47
+						]
+					},
+					{
+						"text": "QueensSpeechOfTwitter",
+						"indices": [
+							56,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							48,
+							55
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077315268748161000,
+						"id_str": "1077315268748161025",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNkh3DWsAE-n18.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNkh3DWsAE-n18.jpg",
+						"url": "https://t.co/p8hbWc00ac",
+						"display_url": "pic.twitter.com/p8hbWc00ac",
+						"expanded_url": "https://twitter.com/NickyEdwards/status/1077315273512968193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077315268748161000,
+						"id_str": "1077315268748161025",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNkh3DWsAE-n18.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNkh3DWsAE-n18.jpg",
+						"url": "https://t.co/p8hbWc00ac",
+						"display_url": "pic.twitter.com/p8hbWc00ac",
+						"expanded_url": "https://twitter.com/NickyEdwards/status/1077315273512968193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23229453,
+				"id_str": "23229453",
+				"name": "Nicky Edwards",
+				"screen_name": "NickyEdwards",
+				"location": "That London",
+				"description": "All tweets personal. Utterly unofficial. Nothing to do with work. Usual disclaimers apply.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 721,
+				"friends_count": 1120,
+				"listed_count": 14,
+				"created_at": "Sat Mar 07 20:14:03 +0000 2009",
+				"favourites_count": 305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12721,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620247223981490176/cwViIIdn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620247223981490176/cwViIIdn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23229453/1411161265",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 20,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "American viewers may be surprised that I've been doing this for eight years and this is the first gun I've seen. https://t.co/nsONNtPHZS"
+	},
+	{
+		"created_at": "Mon Dec 24 21:29:15 +0000 2018",
+		"id": 1077315290906746900,
+		"id_str": "1077315290906746882",
+		"full_text": "@rhodri I've been given a lovely room. But I have also been given a frog on an exercise bike. #DuvetKnowItsChristmas https://t.co/stTLsxpQQw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						94,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077315285210882000,
+					"id_str": "1077315285210882054",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNki0YX4AYUHhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNki0YX4AYUHhU.jpg",
+					"url": "https://t.co/stTLsxpQQw",
+					"display_url": "pic.twitter.com/stTLsxpQQw",
+					"expanded_url": "https://twitter.com/jagmckeon/status/1077315290906746882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077315285210882000,
+					"id_str": "1077315285210882054",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNki0YX4AYUHhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNki0YX4AYUHhU.jpg",
+					"url": "https://t.co/stTLsxpQQw",
+					"display_url": "pic.twitter.com/stTLsxpQQw",
+					"expanded_url": "https://twitter.com/jagmckeon/status/1077315290906746882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 319812257,
+			"id_str": "319812257",
+			"name": "James McKeon",
+			"screen_name": "jagmckeon",
+			"location": "London",
+			"description": "Musical Director",
+			"url": "https://t.co/GQPuKTJRZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQPuKTJRZO",
+							"expanded_url": "http://Instagram.com/jagmckeon",
+							"display_url": "Instagram.com/jagmckeon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2013,
+			"friends_count": 773,
+			"listed_count": 12,
+			"created_at": "Sat Jun 18 19:51:31 +0000 2011",
+			"favourites_count": 5004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927475745898844160/l0sHsXBD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927475745898844160/l0sHsXBD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/319812257/1449376892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I've been given a lovely room. But I have also been given a frog on an exercise bike. #DuvetKnowItsChristmas https://t.co/stTLsxpQQw"
+	},
+	{
+		"created_at": "Mon Dec 24 21:29:17 +0000 2018",
+		"id": 1077315300742385700,
+		"id_str": "1077315300742385665",
+		"full_text": "@rhodri In addition to last year's 'teapot, model engine, small car, plasma ball and Clint Eastwood' ensemble, this year there's also a guitar, a happy looking raindrop and a cot https://t.co/j4DehvalOe",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077315292815077400,
+					"id_str": "1077315292815077382",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkjQtWsAY7Lpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkjQtWsAY7Lpn.jpg",
+					"url": "https://t.co/j4DehvalOe",
+					"display_url": "pic.twitter.com/j4DehvalOe",
+					"expanded_url": "https://twitter.com/Orrdos/status/1077315300742385665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077315292815077400,
+					"id_str": "1077315292815077382",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkjQtWsAY7Lpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkjQtWsAY7Lpn.jpg",
+					"url": "https://t.co/j4DehvalOe",
+					"display_url": "pic.twitter.com/j4DehvalOe",
+					"expanded_url": "https://twitter.com/Orrdos/status/1077315300742385665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 269406922,
+			"id_str": "269406922",
+			"name": "Steven Orr",
+			"screen_name": "Orrdos",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 108,
+			"listed_count": 0,
+			"created_at": "Sun Mar 20 18:26:08 +0000 2011",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2948931139/12adeaaa5a6c8963b5e7ebafc57953e8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2948931139/12adeaaa5a6c8963b5e7ebafc57953e8_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri In addition to last year's 'teapot, model engine, small car, plasma ball and Clint Eastwood' ensemble, this year there's also a guitar, a happy looking raindrop and a cot https://t.co/j4DehvalOe"
+	},
+	{
+		"created_at": "Mon Dec 24 21:29:53 +0000 2018",
+		"id": 1077315448633520100,
+		"id_str": "1077315448633520128",
+		"full_text": "Staying in my Nephews room at my parents house because my old one is full of my brothers stuff ready for their move. Can't complain about the bedclothes though @rhodri #duvetknowitschristmas https://t.co/XqV1ObUH7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						168,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077315416089866200,
+					"id_str": "1077315416089866241",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkqb8WsAEvwVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkqb8WsAEvwVN.jpg",
+					"url": "https://t.co/XqV1ObUH7M",
+					"display_url": "pic.twitter.com/XqV1ObUH7M",
+					"expanded_url": "https://twitter.com/CourtneyButton2/status/1077315448633520128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077315416089866200,
+					"id_str": "1077315416089866241",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkqb8WsAEvwVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkqb8WsAEvwVN.jpg",
+					"url": "https://t.co/XqV1ObUH7M",
+					"display_url": "pic.twitter.com/XqV1ObUH7M",
+					"expanded_url": "https://twitter.com/CourtneyButton2/status/1077315448633520128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339023042,
+			"id_str": "339023042",
+			"name": "Courtney Button?",
+			"screen_name": "CourtneyButton2",
+			"location": "Manchester",
+			"description": "Live and work in Manchester. Aspiring fiction writer and general lover of film, music and popular culture. And Batman. Things can get quite pun heavy.",
+			"url": "https://t.co/UMtrWC4TkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UMtrWC4TkP",
+							"expanded_url": "http://whiskeyinhand.com/",
+							"display_url": "whiskeyinhand.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412,
+			"friends_count": 1509,
+			"listed_count": 19,
+			"created_at": "Wed Jul 20 13:31:09 +0000 2011",
+			"favourites_count": 7593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022574987251728386/QxPi2Xzf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022574987251728386/QxPi2Xzf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339023042/1543340182",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Staying in my Nephews room at my parents house because my old one is full of my brothers stuff ready for their move. Can't complain about the bedclothes though @rhodri #duvetknowitschristmas https://t.co/XqV1ObUH7M"
+	},
+	{
+		"created_at": "Mon Dec 24 21:30:11 +0000 2018",
+		"id": 1077315526286823400,
+		"id_str": "1077315526286823426",
+		"full_text": "No one in this house is either a sailor or a medical professional @rhodri #DuvetKnowItsChrismas https://t.co/0w89SW01Ie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						74,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077315518103806000,
+					"id_str": "1077315518103805952",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkwX-X4AADiXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkwX-X4AADiXI.jpg",
+					"url": "https://t.co/0w89SW01Ie",
+					"display_url": "pic.twitter.com/0w89SW01Ie",
+					"expanded_url": "https://twitter.com/allpointsnorth/status/1077315526286823426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077315518103806000,
+					"id_str": "1077315518103805952",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkwX-X4AADiXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkwX-X4AADiXI.jpg",
+					"url": "https://t.co/0w89SW01Ie",
+					"display_url": "pic.twitter.com/0w89SW01Ie",
+					"expanded_url": "https://twitter.com/allpointsnorth/status/1077315526286823426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12277852,
+			"id_str": "12277852",
+			"name": "Chris Brennan",
+			"screen_name": "allpointsnorth",
+			"location": "",
+			"description": "Something witty",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2292,
+			"friends_count": 2844,
+			"listed_count": 173,
+			"created_at": "Tue Jan 15 15:40:53 +0000 2008",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743181093134864385/2bvPnJZq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743181093134864385/2bvPnJZq_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09dec66855f4dc03",
+			"url": "https://api.twitter.com/1.1/geo/id/09dec66855f4dc03.json",
+			"place_type": "city",
+			"name": "Caythorpe",
+			"full_name": "Caythorpe, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.6099306,
+							53.0162246
+						],
+						[
+							-0.5959306,
+							53.0162246
+						],
+						[
+							-0.5959306,
+							53.0290057
+						],
+						[
+							-0.6099306,
+							53.0290057
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No one in this house is either a sailor or a medical professional @rhodri #DuvetKnowItsChrismas https://t.co/0w89SW01Ie"
+	},
+	{
+		"created_at": "Mon Dec 24 21:30:37 +0000 2018",
+		"id": 1077315636408111100,
+		"id_str": "1077315636408111105",
+		"full_text": "I used to have hair as enormous as that. Great days. https://t.co/oQnBW6THXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQnBW6THXz",
+					"expanded_url": "https://twitter.com/MattWoodford4/status/1077314817906696192",
+					"display_url": "twitter.com/MattWoodford4/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077314817906696200,
+		"quoted_status_id_str": "1077314817906696192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oQnBW6THXz",
+			"expanded": "https://twitter.com/MattWoodford4/status/1077314817906696192",
+			"display": "twitter.com/MattWoodford4/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:27:22 +0000 2018",
+			"id": 1077314817906696200,
+			"id_str": "1077314817906696192",
+			"full_text": "@rhodri Old bedroom gone but each year I find my graduation pic in the least used part of the house. Can’t think why 🧐 https://t.co/br8OLEwPLU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077314807437688800,
+						"id_str": "1077314807437688832",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNkHAiXgAAggPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNkHAiXgAAggPA.jpg",
+						"url": "https://t.co/br8OLEwPLU",
+						"display_url": "pic.twitter.com/br8OLEwPLU",
+						"expanded_url": "https://twitter.com/MattWoodford4/status/1077314817906696192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077314807437688800,
+						"id_str": "1077314807437688832",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNkHAiXgAAggPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNkHAiXgAAggPA.jpg",
+						"url": "https://t.co/br8OLEwPLU",
+						"display_url": "pic.twitter.com/br8OLEwPLU",
+						"expanded_url": "https://twitter.com/MattWoodford4/status/1077314817906696192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 918754495,
+				"id_str": "918754495",
+				"name": "Matt J",
+				"screen_name": "MattWoodford4",
+				"location": "Lagoa, Portugal",
+				"description": "Love is the message - pass it on.",
+				"url": "https://t.co/EKUpecgR76",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EKUpecgR76",
+								"expanded_url": "https://soundcloud.com/mattjwoodford",
+								"display_url": "soundcloud.com/mattjwoodford",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1656,
+				"friends_count": 940,
+				"listed_count": 6,
+				"created_at": "Thu Nov 01 10:50:39 +0000 2012",
+				"favourites_count": 4711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3631,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048273895676153857/kOKDVFgD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048273895676153857/kOKDVFgD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/918754495/1490819053",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I used to have hair as enormous as that. Great days. https://t.co/oQnBW6THXz"
+	},
+	{
+		"created_at": "Mon Dec 24 21:27:34 +0000 2018",
+		"id": 1077314865109368800,
+		"id_str": "1077314865109368832",
+		"full_text": "@rhodri this room has Jonas Brothers lyrics on the ceiling. I did not put them there. #DuvetKnowItsChrismas https://t.co/IUEuUswtfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						86,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077314772390039600,
+					"id_str": "1077314772390039555",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkE9-W0AMCyTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkE9-W0AMCyTW.jpg",
+					"url": "https://t.co/IUEuUswtfr",
+					"display_url": "pic.twitter.com/IUEuUswtfr",
+					"expanded_url": "https://twitter.com/teaforpterosaur/status/1077314865109368832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077314772390039600,
+					"id_str": "1077314772390039555",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkE9-W0AMCyTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkE9-W0AMCyTW.jpg",
+					"url": "https://t.co/IUEuUswtfr",
+					"display_url": "pic.twitter.com/IUEuUswtfr",
+					"expanded_url": "https://twitter.com/teaforpterosaur/status/1077314865109368832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 19765162,
+			"id_str": "19765162",
+			"name": "Hannah",
+			"screen_name": "teaforpterosaur",
+			"location": "London",
+			"description": "Scouser, Londoner, dog-cuddler, feminist goblin.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2687,
+			"friends_count": 728,
+			"listed_count": 18,
+			"created_at": "Fri Jan 30 12:28:25 +0000 2009",
+			"favourites_count": 37352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26684,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6EB0B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067012989495255040/ikJvn-Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067012989495255040/ikJvn-Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19765162/1541056042",
+			"profile_link_color": "B83737",
+			"profile_sidebar_border_color": "5FE815",
+			"profile_sidebar_fill_color": "64BD9B",
+			"profile_text_color": "470C4D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri this room has Jonas Brothers lyrics on the ceiling. I did not put them there. #DuvetKnowItsChrismas https://t.co/IUEuUswtfr"
+	},
+	{
+		"created_at": "Mon Dec 24 21:28:03 +0000 2018",
+		"id": 1077314987901833200,
+		"id_str": "1077314987901833216",
+		"full_text": "@rhodri Center Parcs wallpaper, 70s teddy bear carpet, single bunk beds #duvetknowitschristmas https://t.co/wvMOOX3Lec",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						72,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077314982507921400,
+					"id_str": "1077314982507921409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkRMuXQAEdXSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkRMuXQAEdXSY.jpg",
+					"url": "https://t.co/wvMOOX3Lec",
+					"display_url": "pic.twitter.com/wvMOOX3Lec",
+					"expanded_url": "https://twitter.com/evilnoodle/status/1077314987901833216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077314982507921400,
+					"id_str": "1077314982507921409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNkRMuXQAEdXSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNkRMuXQAEdXSY.jpg",
+					"url": "https://t.co/wvMOOX3Lec",
+					"display_url": "pic.twitter.com/wvMOOX3Lec",
+					"expanded_url": "https://twitter.com/evilnoodle/status/1077314987901833216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306746203525100,
+		"in_reply_to_status_id_str": "1077306746203525121",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 20137277,
+			"id_str": "20137277",
+			"name": "Jay Bee",
+			"screen_name": "evilnoodle",
+			"location": "South East, England",
+			"description": "indistinct chatter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 671,
+			"listed_count": 27,
+			"created_at": "Thu Feb 05 10:52:11 +0000 2009",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045390570833825794/rvKmH-Ma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045390570833825794/rvKmH-Ma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20137277/1520120244",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Center Parcs wallpaper, 70s teddy bear carpet, single bunk beds #duvetknowitschristmas https://t.co/wvMOOX3Lec"
+	},
+	{
+		"created_at": "Mon Dec 24 21:29:35 +0000 2018",
+		"id": 1077315373672869900,
+		"id_str": "1077315373672869890",
+		"full_text": "Nobody needs that many guitars. I say that as a man with, uh, five guitars. https://t.co/DeVWgWg0dk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DeVWgWg0dk",
+					"expanded_url": "https://twitter.com/wayneblodwell/status/1077315005626961927",
+					"display_url": "twitter.com/wayneblodwell/…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077315005626961900,
+		"quoted_status_id_str": "1077315005626961927",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DeVWgWg0dk",
+			"expanded": "https://twitter.com/wayneblodwell/status/1077315005626961927",
+			"display": "twitter.com/wayneblodwell/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:28:07 +0000 2018",
+			"id": 1077315005626961900,
+			"id_str": "1077315005626961927",
+			"full_text": "@rhodri pushed to the outside study surrounded by guitars and presents on *the* shittest sofa 'bed' you ever did see. The towel on the bed is a laughable touch. I'm stood at the door in this. #DuvetKnowItsChristmas https://t.co/aXKT2klE3E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							192,
+							214
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077314990326145000,
+						"id_str": "1077314990326145024",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNkRp2X4AAaFr6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNkRp2X4AAaFr6.jpg",
+						"url": "https://t.co/aXKT2klE3E",
+						"display_url": "pic.twitter.com/aXKT2klE3E",
+						"expanded_url": "https://twitter.com/wayneblodwell/status/1077315005626961927/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077314990326145000,
+						"id_str": "1077314990326145024",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNkRp2X4AAaFr6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNkRp2X4AAaFr6.jpg",
+						"url": "https://t.co/aXKT2klE3E",
+						"display_url": "pic.twitter.com/aXKT2klE3E",
+						"expanded_url": "https://twitter.com/wayneblodwell/status/1077315005626961927/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 82351442,
+				"id_str": "82351442",
+				"name": "Wayne Blodwell",
+				"screen_name": "wayneblodwell",
+				"location": "London",
+				"description": "Founder & CEO @ The Programmatic Advisory",
+				"url": "https://t.co/3VSQyxCuy8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3VSQyxCuy8",
+								"expanded_url": "https://uk.linkedin.com/in/wayneblodwell",
+								"display_url": "uk.linkedin.com/in/wayneblodwe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1715,
+				"friends_count": 1668,
+				"listed_count": 66,
+				"created_at": "Wed Oct 14 12:51:49 +0000 2009",
+				"favourites_count": 4434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3584,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922557039150288896/F309GiMo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922557039150288896/F309GiMo_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nobody needs that many guitars. I say that as a man with, uh, five guitars. https://t.co/DeVWgWg0dk"
+	},
+	{
+		"created_at": "Mon Dec 24 21:26:00 +0000 2018",
+		"id": 1077314474225352700,
+		"id_str": "1077314474225352705",
+		"full_text": "@rhodri Hiya! I don’t know what’s worse, the giant photo of 5 y/o me or the mannequin watching over my bed! #duvetknowitschristmas https://t.co/R1HXAHmBGW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						108,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077314459490811900,
+					"id_str": "1077314459490811904",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjywVXgAA0Vri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjywVXgAA0Vri.jpg",
+					"url": "https://t.co/R1HXAHmBGW",
+					"display_url": "pic.twitter.com/R1HXAHmBGW",
+					"expanded_url": "https://twitter.com/soundbag6/status/1077314474225352705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077314459490811900,
+					"id_str": "1077314459490811904",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjywVXgAA0Vri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjywVXgAA0Vri.jpg",
+					"url": "https://t.co/R1HXAHmBGW",
+					"display_url": "pic.twitter.com/R1HXAHmBGW",
+					"expanded_url": "https://twitter.com/soundbag6/status/1077314474225352705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077314459486638100,
+					"id_str": "1077314459486638080",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjywUX0AATOii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjywUX0AATOii.jpg",
+					"url": "https://t.co/R1HXAHmBGW",
+					"display_url": "pic.twitter.com/R1HXAHmBGW",
+					"expanded_url": "https://twitter.com/soundbag6/status/1077314474225352705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 49719336,
+			"id_str": "49719336",
+			"name": "Lisa",
+			"screen_name": "soundbag6",
+			"location": "",
+			"description": "I am Jack's complete lack of surprise.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 489,
+			"listed_count": 0,
+			"created_at": "Mon Jun 22 18:37:42 +0000 2009",
+			"favourites_count": 1368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903723528628969472/0F4S0Nax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903723528628969472/0F4S0Nax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49719336/1449102160",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Hiya! I don’t know what’s worse, the giant photo of 5 y/o me or the mannequin watching over my bed! #duvetknowitschristmas https://t.co/R1HXAHmBGW"
+	},
+	{
+		"created_at": "Mon Dec 24 21:26:28 +0000 2018",
+		"id": 1077314589421957100,
+		"id_str": "1077314589421957120",
+		"full_text": "@rhodri In suburbia nobody can hear you scream 😬 https://t.co/vJnLp3IwOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077314568899174400,
+					"id_str": "1077314568899174401",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNj5H6WoAEdEDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNj5H6WoAEdEDZ.jpg",
+					"url": "https://t.co/vJnLp3IwOx",
+					"display_url": "pic.twitter.com/vJnLp3IwOx",
+					"expanded_url": "https://twitter.com/Polly_Philllips/status/1077314589421957120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077314568899174400,
+					"id_str": "1077314568899174401",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNj5H6WoAEdEDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNj5H6WoAEdEDZ.jpg",
+					"url": "https://t.co/vJnLp3IwOx",
+					"display_url": "pic.twitter.com/vJnLp3IwOx",
+					"expanded_url": "https://twitter.com/Polly_Philllips/status/1077314589421957120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 871307114106507300,
+			"id_str": "871307114106507264",
+			"name": "Polly Phillips",
+			"screen_name": "Polly_Philllips",
+			"location": "London",
+			"description": "Digital Picture Editor \nTMG/News UK/Hearst/BBC.  \n\nPhotography in conversation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 500,
+			"listed_count": 8,
+			"created_at": "Sun Jun 04 10:06:18 +0000 2017",
+			"favourites_count": 2323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871309064512425984/LQpmBX_j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871309064512425984/LQpmBX_j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871307114106507264/1496863191",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri In suburbia nobody can hear you scream 😬 https://t.co/vJnLp3IwOx"
+	},
+	{
+		"created_at": "Mon Dec 24 21:25:24 +0000 2018",
+		"id": 1077314322697719800,
+		"id_str": "1077314322697719808",
+		"full_text": "@rhodri my bed for the night, a corner sofa between the dispatch zones for Santa, it was either this or between two fighting children, this is definitely the better choice 🎅 #DuvetKnowItsChristmas https://t.co/xVPx0wQA4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						174,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077314310790090800,
+					"id_str": "1077314310790090754",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjqGYWkAIj6bX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjqGYWkAIj6bX.jpg",
+					"url": "https://t.co/xVPx0wQA4x",
+					"display_url": "pic.twitter.com/xVPx0wQA4x",
+					"expanded_url": "https://twitter.com/janester24/status/1077314322697719808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077314310790090800,
+					"id_str": "1077314310790090754",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjqGYWkAIj6bX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjqGYWkAIj6bX.jpg",
+					"url": "https://t.co/xVPx0wQA4x",
+					"display_url": "pic.twitter.com/xVPx0wQA4x",
+					"expanded_url": "https://twitter.com/janester24/status/1077314322697719808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 264726784,
+			"id_str": "264726784",
+			"name": "Jane Walsh",
+			"screen_name": "janester24",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 360,
+			"listed_count": 0,
+			"created_at": "Sat Mar 12 10:49:16 +0000 2011",
+			"favourites_count": 7577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042381475352653824/PgPVvOR__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042381475352653824/PgPVvOR__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri my bed for the night, a corner sofa between the dispatch zones for Santa, it was either this or between two fighting children, this is definitely the better choice 🎅 #DuvetKnowItsChristmas https://t.co/xVPx0wQA4x"
+	},
+	{
+		"created_at": "Mon Dec 24 21:25:13 +0000 2018",
+		"id": 1077314275415347200,
+		"id_str": "1077314275415347200",
+		"full_text": "@rhodri sharing this bed with my sister. Guarded by three of the horsemen of the apocalypse and featuring the cat’s blanket. #Duvetknowitschristmas https://t.co/MWnr6S6R29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Duvetknowitschristmas",
+					"indices": [
+						125,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077314265701408800,
+					"id_str": "1077314265701408768",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjneaX4AAKmnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjneaX4AAKmnn.jpg",
+					"url": "https://t.co/MWnr6S6R29",
+					"display_url": "pic.twitter.com/MWnr6S6R29",
+					"expanded_url": "https://twitter.com/eloiseradegund/status/1077314275415347200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077314265701408800,
+					"id_str": "1077314265701408768",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNjneaX4AAKmnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNjneaX4AAKmnn.jpg",
+					"url": "https://t.co/MWnr6S6R29",
+					"display_url": "pic.twitter.com/MWnr6S6R29",
+					"expanded_url": "https://twitter.com/eloiseradegund/status/1077314275415347200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 255996143,
+			"id_str": "255996143",
+			"name": "eloise",
+			"screen_name": "eloiseradegund",
+			"location": "Clevedon, England",
+			"description": "24 year old primary school LSA. I like cats, cleaning and football.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 115,
+			"listed_count": 1,
+			"created_at": "Tue Feb 22 12:58:02 +0000 2011",
+			"favourites_count": 1454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5AECE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031614246822526977/9HNrNsMf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031614246822526977/9HNrNsMf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255996143/1534790978",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri sharing this bed with my sister. Guarded by three of the horsemen of the apocalypse and featuring the cat’s blanket. #Duvetknowitschristmas https://t.co/MWnr6S6R29"
+	},
+	{
+		"created_at": "Mon Dec 24 21:22:36 +0000 2018",
+		"id": 1077313616892883000,
+		"id_str": "1077313616892882944",
+		"full_text": "It's hotting up, and it's only 9.22pm. https://t.co/9HZr3EILIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9HZr3EILIu",
+					"expanded_url": "https://twitter.com/dunstanhadley/status/1077312790870851584",
+					"display_url": "twitter.com/dunstanhadley/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077312790870851600,
+		"quoted_status_id_str": "1077312790870851584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9HZr3EILIu",
+			"expanded": "https://twitter.com/dunstanhadley/status/1077312790870851584",
+			"display": "twitter.com/dunstanhadley/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:19:19 +0000 2018",
+			"id": 1077312790870851600,
+			"id_str": "1077312790870851584",
+			"full_text": "@rhodri The really tragic thing is that this is our own house - we’ve had to vacate our room for the family. https://t.co/ep6qsXj7gm",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077312784692625400,
+						"id_str": "1077312784692625408",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNiRROXQAA4yXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNiRROXQAA4yXb.jpg",
+						"url": "https://t.co/ep6qsXj7gm",
+						"display_url": "pic.twitter.com/ep6qsXj7gm",
+						"expanded_url": "https://twitter.com/dunstanhadley/status/1077312790870851584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077312784692625400,
+						"id_str": "1077312784692625408",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNiRROXQAA4yXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNiRROXQAA4yXb.jpg",
+						"url": "https://t.co/ep6qsXj7gm",
+						"display_url": "pic.twitter.com/ep6qsXj7gm",
+						"expanded_url": "https://twitter.com/dunstanhadley/status/1077312790870851584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1077306187589345300,
+			"in_reply_to_status_id_str": "1077306187589345280",
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 75818442,
+				"id_str": "75818442",
+				"name": "Dunstan Hadley",
+				"screen_name": "dunstanhadley",
+				"location": "London",
+				"description": "Music lover, cricket fan, civil servant, school governor and parent. Blog at https://t.co/I7kRwjXsk8",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/I7kRwjXsk8",
+								"expanded_url": "https://dunstanhadley.wordpress.com/",
+								"display_url": "dunstanhadley.wordpress.com",
+								"indices": [
+									77,
+									100
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 285,
+				"friends_count": 796,
+				"listed_count": 10,
+				"created_at": "Sun Sep 20 16:20:43 +0000 2009",
+				"favourites_count": 1169,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3807,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464443156637827072/vQiNFLGO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464443156637827072/vQiNFLGO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75818442/1528526699",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 102,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's hotting up, and it's only 9.22pm. https://t.co/9HZr3EILIu"
+	},
+	{
+		"created_at": "Mon Dec 24 21:19:23 +0000 2018",
+		"id": 1077312807593484300,
+		"id_str": "1077312807593484288",
+		"full_text": "@rhodri complimentary mini bar at the end of the bed #duvetknowitschristmas https://t.co/gm1mrqnoon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						53,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077312777046425600,
+					"id_str": "1077312777046425601",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNiQ0vXgAENYsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNiQ0vXgAENYsV.jpg",
+					"url": "https://t.co/gm1mrqnoon",
+					"display_url": "pic.twitter.com/gm1mrqnoon",
+					"expanded_url": "https://twitter.com/jozdeladoz/status/1077312807593484288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077312777046425600,
+					"id_str": "1077312777046425601",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNiQ0vXgAENYsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNiQ0vXgAENYsV.jpg",
+					"url": "https://t.co/gm1mrqnoon",
+					"display_url": "pic.twitter.com/gm1mrqnoon",
+					"expanded_url": "https://twitter.com/jozdeladoz/status/1077312807593484288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 54001798,
+			"id_str": "54001798",
+			"name": "Jo Hutchinson",
+			"screen_name": "jozdeladoz",
+			"location": "London",
+			"description": "Head of External Affairs / Acting Head of Development for the Guildhall School; views all my very own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336,
+			"friends_count": 640,
+			"listed_count": 15,
+			"created_at": "Sun Jul 05 20:46:31 +0000 2009",
+			"favourites_count": 4333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000776208695/caa8ea75afffac258d1d2f0a4d1c2277_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000776208695/caa8ea75afffac258d1d2f0a4d1c2277_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54001798/1410815568",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri complimentary mini bar at the end of the bed #duvetknowitschristmas https://t.co/gm1mrqnoon"
+	},
+	{
+		"created_at": "Mon Dec 24 21:19:57 +0000 2018",
+		"id": 1077312950912929800,
+		"id_str": "1077312950912929792",
+		"full_text": "My entry for #DuvetKnowItsChrismas my (4-months old) niece’s future room.\n\nLast slept here when my now 3 year old nephew was going to inherit the room when was 4 months old too.\n@rhodri https://t.co/sD1qk6Y9Kd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						13,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077312747157770200,
+					"id_str": "1077312747157770242",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNiPFZW0AITLBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNiPFZW0AITLBq.jpg",
+					"url": "https://t.co/sD1qk6Y9Kd",
+					"display_url": "pic.twitter.com/sD1qk6Y9Kd",
+					"expanded_url": "https://twitter.com/BDDunbar/status/1077312950912929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077312747157770200,
+					"id_str": "1077312747157770242",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNiPFZW0AITLBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNiPFZW0AITLBq.jpg",
+					"url": "https://t.co/sD1qk6Y9Kd",
+					"display_url": "pic.twitter.com/sD1qk6Y9Kd",
+					"expanded_url": "https://twitter.com/BDDunbar/status/1077312950912929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077312747149447200,
+					"id_str": "1077312747149447168",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNiPFXX0AA76qu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNiPFXX0AA76qu.jpg",
+					"url": "https://t.co/sD1qk6Y9Kd",
+					"display_url": "pic.twitter.com/sD1qk6Y9Kd",
+					"expanded_url": "https://twitter.com/BDDunbar/status/1077312950912929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1077312747149377500,
+					"id_str": "1077312747149377537",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNiPFXWwAEiOFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNiPFXWwAEiOFo.jpg",
+					"url": "https://t.co/sD1qk6Y9Kd",
+					"display_url": "pic.twitter.com/sD1qk6Y9Kd",
+					"expanded_url": "https://twitter.com/BDDunbar/status/1077312950912929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 402122593,
+			"id_str": "402122593",
+			"name": "Ben Dunbar",
+			"screen_name": "BDDunbar",
+			"location": "Heywood",
+			"description": "Ex-Medical student, now NHS worker with a side of Public Health, #MedEd, General Practice & regulation. Oldham Athletic fan, and once famous for 15 minutes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 401,
+			"friends_count": 468,
+			"listed_count": 22,
+			"created_at": "Mon Oct 31 15:49:02 +0000 2011",
+			"favourites_count": 14010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1730677396/n223705409_1936112_807_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1730677396/n223705409_1936112_807_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My entry for #DuvetKnowItsChrismas my (4-months old) niece’s future room.\n\nLast slept here when my now 3 year old nephew was going to inherit the room when was 4 months old too.\n@rhodri https://t.co/sD1qk6Y9Kd"
+	},
+	{
+		"created_at": "Mon Dec 24 21:21:40 +0000 2018",
+		"id": 1077313380195676200,
+		"id_str": "1077313380195676160",
+		"full_text": "You could construct your own wordsearch during the night, though. https://t.co/aF5iHk51Eu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aF5iHk51Eu",
+					"expanded_url": "https://twitter.com/DavidVidecette/status/1077313010320986117",
+					"display_url": "twitter.com/DavidVidecette…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077313010320986100,
+		"quoted_status_id_str": "1077313010320986117",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aF5iHk51Eu",
+			"expanded": "https://twitter.com/DavidVidecette/status/1077313010320986117",
+			"display": "twitter.com/DavidVidecette…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:20:11 +0000 2018",
+			"id": 1077313010320986100,
+			"id_str": "1077313010320986117",
+			"full_text": "I’ve got a bed, but no decent blankets. Chilly night for me. \n\nAnd this newly decorated annex looks a little like the inside of a prison cell. \n\nA real home from home @rhodri \n\n#DuvetKnowItsChrismas https://t.co/64eVbiQKZj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChrismas",
+						"indices": [
+							177,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							167,
+							174
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077313003790438400,
+						"id_str": "1077313003790438402",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNieBbWkAIR1Ew.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNieBbWkAIR1Ew.jpg",
+						"url": "https://t.co/64eVbiQKZj",
+						"display_url": "pic.twitter.com/64eVbiQKZj",
+						"expanded_url": "https://twitter.com/DavidVidecette/status/1077313010320986117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 804,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 804,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077313003790438400,
+						"id_str": "1077313003790438402",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNieBbWkAIR1Ew.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNieBbWkAIR1Ew.jpg",
+						"url": "https://t.co/64eVbiQKZj",
+						"display_url": "pic.twitter.com/64eVbiQKZj",
+						"expanded_url": "https://twitter.com/DavidVidecette/status/1077313010320986117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 804,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 804,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2450641105,
+				"id_str": "2450641105",
+				"name": "David Videcette",
+				"screen_name": "DavidVidecette",
+				"location": "London, England",
+				"description": "Thriller author. Ex 7/7 counter-terror detective at Scotland Yard. Terrorism & security consultant. Crime fighter turned crime writer.\nhttps://t.co/Wm9FnJUByg",
+				"url": "https://t.co/wcrYSfs9kq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wcrYSfs9kq",
+								"expanded_url": "http://hyperurl.co/KindleTheseusParadox",
+								"display_url": "hyperurl.co/KindleTheseusP…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Wm9FnJUByg",
+								"expanded_url": "http://davidvidecette.com",
+								"display_url": "davidvidecette.com",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17347,
+				"friends_count": 13534,
+				"listed_count": 265,
+				"created_at": "Fri Apr 18 01:07:22 +0000 2014",
+				"favourites_count": 28939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36707,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623578026018754560/KWVkGSpn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623578026018754560/KWVkGSpn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2450641105/1528315280",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You could construct your own wordsearch during the night, though. https://t.co/aF5iHk51Eu"
+	},
+	{
+		"created_at": "Mon Dec 24 21:19:10 +0000 2018",
+		"id": 1077312753013018600,
+		"id_str": "1077312753013018624",
+		"full_text": "She doesn't mention the headboard, but she really should have. Great headboard. https://t.co/MRwDsHk5FI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MRwDsHk5FI",
+					"expanded_url": "https://twitter.com/misskmorrison/status/1077312193627123712",
+					"display_url": "twitter.com/misskmorrison/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077312193627123700,
+		"quoted_status_id_str": "1077312193627123712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MRwDsHk5FI",
+			"expanded": "https://twitter.com/misskmorrison/status/1077312193627123712",
+			"display": "twitter.com/misskmorrison/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:16:57 +0000 2018",
+			"id": 1077312193627123700,
+			"id_str": "1077312193627123712",
+			"full_text": "@rhodri I’m lucky enough to have a double duvet on a single bed, room was decorated in 1982. The only thing that’s changed since I left home 15 years ago, is that my posters were unceremoniously removed #DuvetKnowItsChrismas https://t.co/Ro0iPi3fNW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChrismas",
+						"indices": [
+							203,
+							224
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077312175855861800,
+						"id_str": "1077312175855861760",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNht1IXgAAvKem.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNht1IXgAAvKem.jpg",
+						"url": "https://t.co/Ro0iPi3fNW",
+						"display_url": "pic.twitter.com/Ro0iPi3fNW",
+						"expanded_url": "https://twitter.com/misskmorrison/status/1077312193627123712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077312175855861800,
+						"id_str": "1077312175855861760",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNht1IXgAAvKem.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNht1IXgAAvKem.jpg",
+						"url": "https://t.co/Ro0iPi3fNW",
+						"display_url": "pic.twitter.com/Ro0iPi3fNW",
+						"expanded_url": "https://twitter.com/misskmorrison/status/1077312193627123712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 609450699,
+				"id_str": "609450699",
+				"name": "Kathleen Morrison",
+				"screen_name": "misskmorrison",
+				"location": "Glasgow/Isle of Lewis",
+				"description": "Im just me. Banned from discussing work or work related topics in case of “outside influences” 🙄. Stubborn beyond belief.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22,
+				"friends_count": 335,
+				"listed_count": 0,
+				"created_at": "Fri Jun 15 19:28:42 +0000 2012",
+				"favourites_count": 428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 534,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819608649500921857/WDUNG0k6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819608649500921857/WDUNG0k6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/609450699/1412796369",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "She doesn't mention the headboard, but she really should have. Great headboard. https://t.co/MRwDsHk5FI"
+	},
+	{
+		"created_at": "Mon Dec 24 21:17:15 +0000 2018",
+		"id": 1077312271490170900,
+		"id_str": "1077312271490170881",
+		"full_text": "Optimal use of mirror to create the illusion of a double bed plus ukulele for a late night sing song @rhodri #DuvetKnowItsChrismas https://t.co/1HxGlrAScx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						109,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077312263835566100,
+					"id_str": "1077312263835566082",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNhy84XQAIIYPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNhy84XQAIIYPT.jpg",
+					"url": "https://t.co/1HxGlrAScx",
+					"display_url": "pic.twitter.com/1HxGlrAScx",
+					"expanded_url": "https://twitter.com/Stue1967/status/1077312271490170881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077312263835566100,
+					"id_str": "1077312263835566082",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNhy84XQAIIYPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNhy84XQAIIYPT.jpg",
+					"url": "https://t.co/1HxGlrAScx",
+					"display_url": "pic.twitter.com/1HxGlrAScx",
+					"expanded_url": "https://twitter.com/Stue1967/status/1077312271490170881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57753156,
+			"id_str": "57753156",
+			"name": "Black Country Rock",
+			"screen_name": "Stue1967",
+			"location": "Muswell Hill, London",
+			"description": "Whitters away at https://t.co/lyU6sl0iN3 @Wolves fan",
+			"url": "https://t.co/lyU6sl0iN3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lyU6sl0iN3",
+							"expanded_url": "https://blackcountryrock.wordpress.com",
+							"display_url": "blackcountryrock.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lyU6sl0iN3",
+							"expanded_url": "https://blackcountryrock.wordpress.com",
+							"display_url": "blackcountryrock.wordpress.com",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 636,
+			"listed_count": 8,
+			"created_at": "Fri Jul 17 20:48:48 +0000 2009",
+			"favourites_count": 3355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5913,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1616203916/5984738128_447c39830b_b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616203916/5984738128_447c39830b_b_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Optimal use of mirror to create the illusion of a double bed plus ukulele for a late night sing song @rhodri #DuvetKnowItsChrismas https://t.co/1HxGlrAScx"
+	},
+	{
+		"created_at": "Mon Dec 24 21:18:22 +0000 2018",
+		"id": 1077312552487579600,
+		"id_str": "1077312552487579649",
+		"full_text": "@HQstories Hahaha x",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HQstories",
+					"name": "HQ Stories",
+					"id": 719517668701823000,
+					"id_str": "719517668701822976",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077312342277410800,
+		"in_reply_to_status_id_str": "1077312342277410818",
+		"in_reply_to_user_id": 719517668701823000,
+		"in_reply_to_user_id_str": "719517668701822976",
+		"in_reply_to_screen_name": "HQstories",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@HQstories Hahaha x"
+	},
+	{
+		"created_at": "Mon Dec 24 21:15:59 +0000 2018",
+		"id": 1077311950265172000,
+		"id_str": "1077311950265171968",
+		"full_text": "My childhood bedroom was partially repurposed years ago as an art studio for my mother, and yet the creepiest part remains the shrine to my own school artwork (circa age 10?) on the back of the door. Excellent shiny tween belt accent behind it. #DuvetKnowItsChristmas @rhodri https://t.co/pgU85NyEt1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						245,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						268,
+						275
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077311932640698400,
+					"id_str": "1077311932640698373",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNhfrFWoAU2PzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNhfrFWoAU2PzQ.jpg",
+					"url": "https://t.co/pgU85NyEt1",
+					"display_url": "pic.twitter.com/pgU85NyEt1",
+					"expanded_url": "https://twitter.com/minebyrights/status/1077311950265171968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077311932640698400,
+					"id_str": "1077311932640698373",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNhfrFWoAU2PzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNhfrFWoAU2PzQ.jpg",
+					"url": "https://t.co/pgU85NyEt1",
+					"display_url": "pic.twitter.com/pgU85NyEt1",
+					"expanded_url": "https://twitter.com/minebyrights/status/1077311950265171968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568777982,
+			"id_str": "568777982",
+			"name": "🎄jinglin’-ass☕️bisexuals❄️",
+			"screen_name": "minebyrights",
+			"location": "city by a big-ass lake, murika",
+			"description": "Kit. General media/fandom (fantasy/spies/period drama/women), liveblogging, chatter/shitposting, absurd RTs. Occasional RL. Sometimes NSFW.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 297,
+			"listed_count": 8,
+			"created_at": "Wed May 02 04:02:07 +0000 2012",
+			"favourites_count": 168836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847310813899534338/-otms8cw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847310813899534338/-otms8cw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568777982/1525028297",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My childhood bedroom was partially repurposed years ago as an art studio for my mother, and yet the creepiest part remains the shrine to my own school artwork (circa age 10?) on the back of the door. Excellent shiny tween belt accent behind it. #DuvetKnowItsChristmas @rhodri https://t.co/pgU85NyEt1"
+	},
+	{
+		"created_at": "Mon Dec 24 21:14:28 +0000 2018",
+		"id": 1077311569653047300,
+		"id_str": "1077311569653047297",
+		"full_text": "@rhodri Possibly quite a self deprecating one this but I'm back in my old room which has remained like a literal time capsule - untouched since the turn of the millennium!\nIn addition to this I hope the curtains bring back some happy memories Rhodri...\n#DuvetKnowItsChristmas https://t.co/MIC7R5VOhO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						253,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077311560488505300,
+					"id_str": "1077311560488505345",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNhKAtW0AEeHZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNhKAtW0AEeHZq.jpg",
+					"url": "https://t.co/MIC7R5VOhO",
+					"display_url": "pic.twitter.com/MIC7R5VOhO",
+					"expanded_url": "https://twitter.com/AlanMShepherd/status/1077311569653047297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077311560488505300,
+					"id_str": "1077311560488505345",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNhKAtW0AEeHZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNhKAtW0AEeHZq.jpg",
+					"url": "https://t.co/MIC7R5VOhO",
+					"display_url": "pic.twitter.com/MIC7R5VOhO",
+					"expanded_url": "https://twitter.com/AlanMShepherd/status/1077311569653047297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 261781476,
+			"id_str": "261781476",
+			"name": "Alan Shepherd",
+			"screen_name": "AlanMShepherd",
+			"location": "Liverpool",
+			"description": "Well done for finding me!",
+			"url": "http://t.co/vCS4nyp7Xj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vCS4nyp7Xj",
+							"expanded_url": "http://www.facebook.com/alan.shepherd",
+							"display_url": "facebook.com/alan.shepherd",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 315,
+			"listed_count": 0,
+			"created_at": "Sun Mar 06 17:58:48 +0000 2011",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265133327/Me_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265133327/Me_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261781476/1494084650",
+			"profile_link_color": "5100FF",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Possibly quite a self deprecating one this but I'm back in my old room which has remained like a literal time capsule - untouched since the turn of the millennium!\nIn addition to this I hope the curtains bring back some happy memories Rhodri...\n#DuvetKnowItsChristmas https://t.co/MIC7R5VOhO"
+	},
+	{
+		"created_at": "Mon Dec 24 21:13:21 +0000 2018",
+		"id": 1077311289721061400,
+		"id_str": "1077311289721061376",
+		"full_text": "@rhodri not sleeping arrangements but my parents in law have a shower cubicle on the landing. Clear glass door. https://t.co/sf3H1gQ4aI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077311283106664400,
+					"id_str": "1077311283106664449",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNg53YX0AEH7pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNg53YX0AEH7pj.jpg",
+					"url": "https://t.co/sf3H1gQ4aI",
+					"display_url": "pic.twitter.com/sf3H1gQ4aI",
+					"expanded_url": "https://twitter.com/AnnaYearley/status/1077311289721061376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077311283106664400,
+					"id_str": "1077311283106664449",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNg53YX0AEH7pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNg53YX0AEH7pj.jpg",
+					"url": "https://t.co/sf3H1gQ4aI",
+					"display_url": "pic.twitter.com/sf3H1gQ4aI",
+					"expanded_url": "https://twitter.com/AnnaYearley/status/1077311289721061376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 23308597,
+			"id_str": "23308597",
+			"name": "Anna Yearley",
+			"screen_name": "AnnaYearley",
+			"location": "London",
+			"description": "Executive Director @reprieve https://t.co/3LdpdxVPJ0 views my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3LdpdxVPJ0",
+							"expanded_url": "http://www.reprieve.org.uk",
+							"display_url": "reprieve.org.uk",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5021,
+			"friends_count": 1643,
+			"listed_count": 75,
+			"created_at": "Sun Mar 08 13:41:45 +0000 2009",
+			"favourites_count": 4542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13994,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031841381076086784/egJarfSc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031841381076086784/egJarfSc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23308597/1443460468",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "211D24",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri not sleeping arrangements but my parents in law have a shower cubicle on the landing. Clear glass door. https://t.co/sf3H1gQ4aI"
+	},
+	{
+		"created_at": "Mon Dec 24 21:14:50 +0000 2018",
+		"id": 1077311660824674300,
+		"id_str": "1077311660824674304",
+		"full_text": "We have our first bongos, ladies and gentlemen https://t.co/9FnIHxx439",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9FnIHxx439",
+					"expanded_url": "https://twitter.com/IshMotherBec/status/1077311319873855488",
+					"display_url": "twitter.com/IshMotherBec/s…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077311319873855500,
+		"quoted_status_id_str": "1077311319873855488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9FnIHxx439",
+			"expanded": "https://twitter.com/IshMotherBec/status/1077311319873855488",
+			"display": "twitter.com/IshMotherBec/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:13:28 +0000 2018",
+			"id": 1077311319873855500,
+			"id_str": "1077311319873855488",
+			"full_text": "@rhodri cheating really as this was our room at my mum's last night, but it was SO MUCH FUN trying to keep our kids quiet at 5am when there were huge drums in the corner of the room. https://t.co/liGw6Y1lAs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077311310034100200,
+						"id_str": "1077311310034100226",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNg7bsX4AIpR-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNg7bsX4AIpR-k.jpg",
+						"url": "https://t.co/liGw6Y1lAs",
+						"display_url": "pic.twitter.com/liGw6Y1lAs",
+						"expanded_url": "https://twitter.com/IshMotherBec/status/1077311319873855488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077311310034100200,
+						"id_str": "1077311310034100226",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNg7bsX4AIpR-k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNg7bsX4AIpR-k.jpg",
+						"url": "https://t.co/liGw6Y1lAs",
+						"display_url": "pic.twitter.com/liGw6Y1lAs",
+						"expanded_url": "https://twitter.com/IshMotherBec/status/1077311319873855488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 623023007,
+				"id_str": "623023007",
+				"name": "In The Bec Midwinter",
+				"screen_name": "IshMotherBec",
+				"location": "West Yorks, UK",
+				"description": "Mum to a super 6 year old (who's autistic) and a terrific 2 year old (who isn't). Gentle-ish. Green-ish. Feminist-ish. Bookish. Blogging about all of the above.",
+				"url": "https://t.co/z1hIeSlXK6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z1hIeSlXK6",
+								"expanded_url": "http://www.theishmother.co.uk",
+								"display_url": "theishmother.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1581,
+				"friends_count": 998,
+				"listed_count": 68,
+				"created_at": "Sat Jun 30 18:18:54 +0000 2012",
+				"favourites_count": 586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32264,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851713649588805634/TuJVHkK6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851713649588805634/TuJVHkK6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/623023007/1491899331",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have our first bongos, ladies and gentlemen https://t.co/9FnIHxx439"
+	},
+	{
+		"created_at": "Mon Dec 24 21:10:38 +0000 2018",
+		"id": 1077310606598905900,
+		"id_str": "1077310606598905856",
+		"full_text": "@rhodri Unfortunately, yes. How I laughed at the horrors of previous #DuvetKnowItsChristmas , smugly cosy in my Mum's elegant spare room. However, she's moving house soon &amp; the room has gone from glam to bleak, curtainless, box city. The bed's not even been made! https://t.co/Fvc4TsqzI2",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						69,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310580569133000,
+					"id_str": "1077310580569133057",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgQ-OX0AEUqfI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgQ-OX0AEUqfI.jpg",
+					"url": "https://t.co/Fvc4TsqzI2",
+					"display_url": "pic.twitter.com/Fvc4TsqzI2",
+					"expanded_url": "https://twitter.com/SaintCirce/status/1077310606598905856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310580569133000,
+					"id_str": "1077310580569133057",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgQ-OX0AEUqfI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgQ-OX0AEUqfI.jpg",
+					"url": "https://t.co/Fvc4TsqzI2",
+					"display_url": "pic.twitter.com/Fvc4TsqzI2",
+					"expanded_url": "https://twitter.com/SaintCirce/status/1077310606598905856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1618657429,
+			"id_str": "1618657429",
+			"name": "SaintCirce  #FBGC",
+			"screen_name": "SaintCirce",
+			"location": "Sunny South Coast",
+			"description": "I must be a mermaid, I have no fear of depths and a great fear of shallow living. - Anais Nin\n\n| Omnia Feminae Aequissimae",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1263,
+			"friends_count": 694,
+			"listed_count": 14,
+			"created_at": "Wed Jul 24 21:11:51 +0000 2013",
+			"favourites_count": 206674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855762377962336256/MScLPLU2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855762377962336256/MScLPLU2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618657429/1529501979",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Unfortunately, yes. How I laughed at the horrors of previous #DuvetKnowItsChristmas , smugly cosy in my Mum's elegant spare room. However, she's moving house soon &amp; the room has gone from glam to bleak, curtainless, box city. The bed's not even been made! https://t.co/Fvc4TsqzI2"
+	},
+	{
+		"created_at": "Mon Dec 24 21:11:01 +0000 2018",
+		"id": 1077310702124236800,
+		"id_str": "1077310702124236801",
+		"full_text": ".@rhodri Same whiteboard, different equations. And a leg. Thanks for doing this again.  #DuvetKnowItsChristmas https://t.co/TA5TLQfKaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						88,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310695258144800,
+					"id_str": "1077310695258144768",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgXpeXQAAHOWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgXpeXQAAHOWZ.jpg",
+					"url": "https://t.co/TA5TLQfKaf",
+					"display_url": "pic.twitter.com/TA5TLQfKaf",
+					"expanded_url": "https://twitter.com/FranksMildYears/status/1077310702124236801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310695258144800,
+					"id_str": "1077310695258144768",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgXpeXQAAHOWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgXpeXQAAHOWZ.jpg",
+					"url": "https://t.co/TA5TLQfKaf",
+					"display_url": "pic.twitter.com/TA5TLQfKaf",
+					"expanded_url": "https://twitter.com/FranksMildYears/status/1077310702124236801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225814410,
+			"id_str": "225814410",
+			"name": "Simon T",
+			"screen_name": "FranksMildYears",
+			"location": "London",
+			"description": "Naturalised Londoner, fair weather biker, food & drink lover. Views my own, unless borrowed from someone else. I don't feed trolls.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 138,
+			"listed_count": 5,
+			"created_at": "Sun Dec 12 14:23:55 +0000 2010",
+			"favourites_count": 10635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1592,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194276778/20100626WHeidelberg8STc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194276778/20100626WHeidelberg8STc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225814410/1354824012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@rhodri Same whiteboard, different equations. And a leg. Thanks for doing this again.  #DuvetKnowItsChristmas https://t.co/TA5TLQfKaf"
+	},
+	{
+		"created_at": "Mon Dec 24 21:11:49 +0000 2018",
+		"id": 1077310903165616100,
+		"id_str": "1077310903165616128",
+		"full_text": "@rhodri he’s back. Still in the same room but he seems to have acquired a very particular set of skills. Skills he has acquired over a very long career. Skills that make him a nightmare for ...anyone sleeping in that room. #DuvetKnowItsChristmas https://t.co/y23ezNkSSF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						223,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310872278786000,
+					"id_str": "1077310872278786048",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgh87X4AA9Vk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgh87X4AA9Vk8.jpg",
+					"url": "https://t.co/y23ezNkSSF",
+					"display_url": "pic.twitter.com/y23ezNkSSF",
+					"expanded_url": "https://twitter.com/rebeccastevens3/status/1077310903165616128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310872278786000,
+					"id_str": "1077310872278786048",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgh87X4AA9Vk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgh87X4AA9Vk8.jpg",
+					"url": "https://t.co/y23ezNkSSF",
+					"display_url": "pic.twitter.com/y23ezNkSSF",
+					"expanded_url": "https://twitter.com/rebeccastevens3/status/1077310903165616128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 287577003,
+			"id_str": "287577003",
+			"name": "Rebecca Stevens",
+			"screen_name": "rebeccastevens3",
+			"location": "Swindon, originally from Lancs",
+			"description": "Head of Family Department, Wiltshire @RoydsWithyKing specialising in child protection cases. Views are my own.",
+			"url": "https://t.co/9nyxQqxisB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nyxQqxisB",
+							"expanded_url": "http://www.roydswithyking.co.uk",
+							"display_url": "roydswithyking.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916,
+			"friends_count": 1246,
+			"listed_count": 28,
+			"created_at": "Mon Apr 25 08:12:18 +0000 2011",
+			"favourites_count": 2253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/644428606656151552/MxIxJ2lR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/644428606656151552/MxIxJ2lR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/287577003/1516657291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri he’s back. Still in the same room but he seems to have acquired a very particular set of skills. Skills he has acquired over a very long career. Skills that make him a nightmare for ...anyone sleeping in that room. #DuvetKnowItsChristmas https://t.co/y23ezNkSSF"
+	},
+	{
+		"created_at": "Mon Dec 24 21:12:13 +0000 2018",
+		"id": 1077311003421900800,
+		"id_str": "1077311003421900801",
+		"full_text": "@rhodri This year's upgrade: twinkle lights, Peter Rabbit sheets and Pink Panther duvet. Still hoping for a trip to Narnia.\n#DuvetKnowItsChristmas https://t.co/MHNQRcGeqR",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						124,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310714618892300,
+					"id_str": "1077310714618892289",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgYxmU0AEP1Sn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgYxmU0AEP1Sn.jpg",
+					"url": "https://t.co/MHNQRcGeqR",
+					"display_url": "pic.twitter.com/MHNQRcGeqR",
+					"expanded_url": "https://twitter.com/TheUglyBugBall/status/1077311003421900801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310714618892300,
+					"id_str": "1077310714618892289",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgYxmU0AEP1Sn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgYxmU0AEP1Sn.jpg",
+					"url": "https://t.co/MHNQRcGeqR",
+					"display_url": "pic.twitter.com/MHNQRcGeqR",
+					"expanded_url": "https://twitter.com/TheUglyBugBall/status/1077311003421900801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 168973950,
+			"id_str": "168973950",
+			"name": "The Ugly Bug Ball #kerkasielBethel",
+			"screen_name": "TheUglyBugBall",
+			"location": "",
+			"description": "Having a ball with TV, movies, books, & theatre. I care about refugees, LGBTQ+/human rights, interfaith dialogue, & climate change.",
+			"url": "https://t.co/0WHAMNJ7FK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0WHAMNJ7FK",
+							"expanded_url": "https://theuglybugball.wordpress.com/",
+							"display_url": "theuglybugball.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209,
+			"friends_count": 353,
+			"listed_count": 7,
+			"created_at": "Wed Jul 21 06:31:07 +0000 2010",
+			"favourites_count": 9033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0B2E59",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1657464606/mom_s_favorite_sm_tw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1657464606/mom_s_favorite_sm_tw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168973950/1415598646",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "0D6759",
+			"profile_sidebar_fill_color": "A0C55F",
+			"profile_text_color": "2A044A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri This year's upgrade: twinkle lights, Peter Rabbit sheets and Pink Panther duvet. Still hoping for a trip to Narnia.\n#DuvetKnowItsChristmas https://t.co/MHNQRcGeqR"
+	},
+	{
+		"created_at": "Mon Dec 24 21:09:33 +0000 2018",
+		"id": 1077310331419017200,
+		"id_str": "1077310331419017216",
+		"full_text": "@rhodri I’m in ‘the executive suite’ of my friend’s mum’s house, with a chapagne flute of flowers and a polaroid of a priest to watch over me. #DuvetKnowItsChristmas https://t.co/lOFKEkHlDx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						143,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310302037962800,
+					"id_str": "1077310302037962752",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgAwnXcAAU9al.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgAwnXcAAU9al.jpg",
+					"url": "https://t.co/lOFKEkHlDx",
+					"display_url": "pic.twitter.com/lOFKEkHlDx",
+					"expanded_url": "https://twitter.com/driscolltheque/status/1077310331419017216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310302037962800,
+					"id_str": "1077310302037962752",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNgAwnXcAAU9al.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNgAwnXcAAU9al.jpg",
+					"url": "https://t.co/lOFKEkHlDx",
+					"display_url": "pic.twitter.com/lOFKEkHlDx",
+					"expanded_url": "https://twitter.com/driscolltheque/status/1077310331419017216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 15722126,
+			"id_str": "15722126",
+			"name": "The Anya",
+			"screen_name": "driscolltheque",
+			"location": "North London",
+			"description": "lady write words good for @shelter (but not these ones, these poorly formed rambles belong to me)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1135,
+			"friends_count": 957,
+			"listed_count": 41,
+			"created_at": "Mon Aug 04 13:45:01 +0000 2008",
+			"favourites_count": 4316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883366776263913472/vDXsgWOQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883366776263913472/vDXsgWOQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15722126/1452117143",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 178,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri I’m in ‘the executive suite’ of my friend’s mum’s house, with a chapagne flute of flowers and a polaroid of a priest to watch over me. #DuvetKnowItsChristmas https://t.co/lOFKEkHlDx"
+	},
+	{
+		"created_at": "Mon Dec 24 21:08:41 +0000 2018",
+		"id": 1077310113331990500,
+		"id_str": "1077310113331990528",
+		"full_text": "Good auld fashioned futon... in a sauna-esque setting @rhodri #DuvetKnowItsChristmas https://t.co/U5sGirSxKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						62,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077310076313051100,
+					"id_str": "1077310076313051136",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfznuWoAAf7pQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfznuWoAAf7pQ.jpg",
+					"url": "https://t.co/U5sGirSxKR",
+					"display_url": "pic.twitter.com/U5sGirSxKR",
+					"expanded_url": "https://twitter.com/AlexEgan/status/1077310113331990528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077310076313051100,
+					"id_str": "1077310076313051136",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfznuWoAAf7pQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfznuWoAAf7pQ.jpg",
+					"url": "https://t.co/U5sGirSxKR",
+					"display_url": "pic.twitter.com/U5sGirSxKR",
+					"expanded_url": "https://twitter.com/AlexEgan/status/1077310113331990528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19620228,
+			"id_str": "19620228",
+			"name": "Alex Egan",
+			"screen_name": "AlexEgan",
+			"location": "",
+			"description": "Wherever I lay my @",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 742,
+			"listed_count": 1,
+			"created_at": "Tue Jan 27 22:10:20 +0000 2009",
+			"favourites_count": 2338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742091238501933056/SSZxr5Vz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742091238501933056/SSZxr5Vz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19620228/1444676115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good auld fashioned futon... in a sauna-esque setting @rhodri #DuvetKnowItsChristmas https://t.co/U5sGirSxKR"
+	},
+	{
+		"created_at": "Mon Dec 24 21:10:18 +0000 2018",
+		"id": 1077310520192102400,
+		"id_str": "1077310520192102406",
+		"full_text": "Except it’s Aero https://t.co/6RX5d6BMwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6RX5d6BMwf",
+					"expanded_url": "https://twitter.com/Blueeyedfoxie/status/1077309982570356736",
+					"display_url": "twitter.com/Blueeyedfoxie/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077309982570356700,
+		"quoted_status_id_str": "1077309982570356736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6RX5d6BMwf",
+			"expanded": "https://twitter.com/Blueeyedfoxie/status/1077309982570356736",
+			"display": "twitter.com/Blueeyedfoxie/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:08:09 +0000 2018",
+			"id": 1077309982570356700,
+			"id_str": "1077309982570356736",
+			"full_text": "@rhodri I guess it could be a lot worse... I mean the parents in laws have even left chocolate on the pillows like a posh hotel https://t.co/WlTQQEXsRO",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077309891428134900,
+						"id_str": "1077309891428134912",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNfo2-WsAAImCZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNfo2-WsAAImCZ.jpg",
+						"url": "https://t.co/WlTQQEXsRO",
+						"display_url": "pic.twitter.com/WlTQQEXsRO",
+						"expanded_url": "https://twitter.com/Blueeyedfoxie/status/1077309982570356736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077309891428134900,
+						"id_str": "1077309891428134912",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNfo2-WsAAImCZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNfo2-WsAAImCZ.jpg",
+						"url": "https://t.co/WlTQQEXsRO",
+						"display_url": "pic.twitter.com/WlTQQEXsRO",
+						"expanded_url": "https://twitter.com/Blueeyedfoxie/status/1077309982570356736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1077306187589345300,
+			"in_reply_to_status_id_str": "1077306187589345280",
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 460689255,
+				"id_str": "460689255",
+				"name": "Fox",
+				"screen_name": "Blueeyedfoxie",
+				"location": "United Kingdom",
+				"description": "Browncoat, professional failure, InfoSec nerd & tea gourmande. Hacks & breaks all the things, like I'm not joking... all the things. LgbT 🏳️‍🌈 - She/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2069,
+				"friends_count": 1284,
+				"listed_count": 30,
+				"created_at": "Wed Jan 11 01:08:44 +0000 2012",
+				"favourites_count": 7511,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17581,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021125053583421440/25RMc115_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021125053583421440/25RMc115_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/460689255/1492124848",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Except it’s Aero https://t.co/6RX5d6BMwf"
+	},
+	{
+		"created_at": "Mon Dec 24 21:09:57 +0000 2018",
+		"id": 1077310432241745900,
+		"id_str": "1077310432241745920",
+		"full_text": "@marthakelner Bless you MK",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marthakelner",
+					"name": "Martha Kelner",
+					"id": 20947581,
+					"id_str": "20947581",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1077309828912025600,
+		"in_reply_to_status_id_str": "1077309828912025600",
+		"in_reply_to_user_id": 20947581,
+		"in_reply_to_user_id_str": "20947581",
+		"in_reply_to_screen_name": "marthakelner",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marthakelner Bless you MK"
+	},
+	{
+		"created_at": "Mon Dec 24 21:09:22 +0000 2018",
+		"id": 1077310285931790300,
+		"id_str": "1077310285931790347",
+		"full_text": "EAT THE CHOC AND LIVETWEET IT https://t.co/V1i26NO25P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1i26NO25P",
+					"expanded_url": "https://twitter.com/sjkimbo/status/1077309762495303686",
+					"display_url": "twitter.com/sjkimbo/status…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077309762495303700,
+		"quoted_status_id_str": "1077309762495303686",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V1i26NO25P",
+			"expanded": "https://twitter.com/sjkimbo/status/1077309762495303686",
+			"display": "twitter.com/sjkimbo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:07:17 +0000 2018",
+			"id": 1077309762495303700,
+			"id_str": "1077309762495303686",
+			"full_text": "@rhodri in a bedroom with a cobweb ridden shelf, a wine candle, and a chocolate slab that’s now 7 years old https://t.co/pnxtdLftW5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077309757453672400,
+						"id_str": "1077309757453672448",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNfhD4WoAApcCf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNfhD4WoAApcCf.jpg",
+						"url": "https://t.co/pnxtdLftW5",
+						"display_url": "pic.twitter.com/pnxtdLftW5",
+						"expanded_url": "https://twitter.com/SJKimbo/status/1077309762495303686/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077309757453672400,
+						"id_str": "1077309757453672448",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNfhD4WoAApcCf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNfhD4WoAApcCf.jpg",
+						"url": "https://t.co/pnxtdLftW5",
+						"display_url": "pic.twitter.com/pnxtdLftW5",
+						"expanded_url": "https://twitter.com/SJKimbo/status/1077309762495303686/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 1043909563425181700,
+				"id_str": "1043909563425181703",
+				"name": "shanie",
+				"screen_name": "SJKimbo",
+				"location": "",
+				"description": "Enjoys lots.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3,
+				"friends_count": 61,
+				"listed_count": 0,
+				"created_at": "Sun Sep 23 17:06:49 +0000 2018",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043910149403004928/wzVDCO4t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043910149403004928/wzVDCO4t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1043909563425181703/1537722578",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EAT THE CHOC AND LIVETWEET IT https://t.co/V1i26NO25P"
+	},
+	{
+		"created_at": "Mon Dec 24 21:07:13 +0000 2018",
+		"id": 1077309744786931700,
+		"id_str": "1077309744786931713",
+		"full_text": "Well we have a knackered old sofa bed and single duvet covers, one of which is a refugee from 1975 #DuvetKnowItsChristmas @rhodri https://t.co/I3EyVYb0dN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						99,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077309718547316700,
+					"id_str": "1077309718547316736",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfey8WwAA9wvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfey8WwAA9wvR.jpg",
+					"url": "https://t.co/I3EyVYb0dN",
+					"display_url": "pic.twitter.com/I3EyVYb0dN",
+					"expanded_url": "https://twitter.com/duncan3ross/status/1077309744786931713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077309718547316700,
+					"id_str": "1077309718547316736",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfey8WwAA9wvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfey8WwAA9wvR.jpg",
+					"url": "https://t.co/I3EyVYb0dN",
+					"display_url": "pic.twitter.com/I3EyVYb0dN",
+					"expanded_url": "https://twitter.com/duncan3ross/status/1077309744786931713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 247049916,
+			"id_str": "247049916",
+			"name": "Duncan Ross",
+			"screen_name": "duncan3ross",
+			"location": "UK",
+			"description": "Data philanthropist, strategist and data scientist. Working for @timeshighered. Opinions my own. https://t.co/XEbFAnCJsL",
+			"url": "https://t.co/yBnfOQa5Vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yBnfOQa5Vi",
+							"expanded_url": "http://www.datakind.org.uk",
+							"display_url": "datakind.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XEbFAnCJsL",
+							"expanded_url": "http://bit.ly/1aThmAi",
+							"display_url": "bit.ly/1aThmAi",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3099,
+			"friends_count": 1447,
+			"listed_count": 236,
+			"created_at": "Fri Feb 04 00:15:59 +0000 2011",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758039058127941632/x3jaiKnT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758039058127941632/x3jaiKnT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/247049916/1497423274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well we have a knackered old sofa bed and single duvet covers, one of which is a refugee from 1975 #DuvetKnowItsChristmas @rhodri https://t.co/I3EyVYb0dN"
+	},
+	{
+		"created_at": "Mon Dec 24 21:06:14 +0000 2018",
+		"id": 1077309499525001200,
+		"id_str": "1077309499525001216",
+		"full_text": "@rhodri This guy is in the room. Evil scary Santa. https://t.co/9vAht7DEK1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077309488351318000,
+					"id_str": "1077309488351318021",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfRZZWkAUZoo2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfRZZWkAUZoo2.jpg",
+					"url": "https://t.co/9vAht7DEK1",
+					"display_url": "pic.twitter.com/9vAht7DEK1",
+					"expanded_url": "https://twitter.com/LondonRobinson/status/1077309499525001216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1612,
+							"h": 2015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077309488351318000,
+					"id_str": "1077309488351318021",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfRZZWkAUZoo2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfRZZWkAUZoo2.jpg",
+					"url": "https://t.co/9vAht7DEK1",
+					"display_url": "pic.twitter.com/9vAht7DEK1",
+					"expanded_url": "https://twitter.com/LondonRobinson/status/1077309499525001216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1612,
+							"h": 2015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 20849179,
+			"id_str": "20849179",
+			"name": "Richard Robinson🔥",
+			"screen_name": "LondonRobinson",
+			"location": "London, England",
+			"description": "Managing Partner @Econsultancy. FT & Management Today top30 Men championing women in business. Chair @Ideasfoundation. Board @CreativeEquals @BAME2020. #IOW",
+			"url": "https://t.co/CKZuKwc0aO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CKZuKwc0aO",
+							"expanded_url": "http://www.linkedin.com/in/rprobinson",
+							"display_url": "linkedin.com/in/rprobinson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3159,
+			"friends_count": 1002,
+			"listed_count": 53,
+			"created_at": "Sat Feb 14 14:23:34 +0000 2009",
+			"favourites_count": 9155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8846,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051072687047626752/2CpECg8S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051072687047626752/2CpECg8S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20849179/1414331860",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "29b502df5bb07c41",
+			"url": "https://api.twitter.com/1.1/geo/id/29b502df5bb07c41.json",
+			"place_type": "city",
+			"name": "Gerrans",
+			"full_name": "Gerrans, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.98309,
+							50.176452
+						],
+						[
+							-4.971538,
+							50.176452
+						],
+						[
+							-4.971538,
+							50.1827611
+						],
+						[
+							-4.98309,
+							50.1827611
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri This guy is in the room. Evil scary Santa. https://t.co/9vAht7DEK1"
+	},
+	{
+		"created_at": "Mon Dec 24 21:05:03 +0000 2018",
+		"id": 1077309200508833800,
+		"id_str": "1077309200508833794",
+		"full_text": "My good friend @paddingtonbear  says hello! From my pump up bed - which currently has everyone else’s bedding on 🥳 Merry Christmas @rhodri! #DuvetKnowItsChristmas https://t.co/RVtBUPcbxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						140,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paddingtonbear",
+					"name": "Paddington",
+					"id": 166985114,
+					"id_str": "166985114",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077309194225836000,
+					"id_str": "1077309194225836033",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfARsX4AEu7sV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfARsX4AEu7sV.jpg",
+					"url": "https://t.co/RVtBUPcbxa",
+					"display_url": "pic.twitter.com/RVtBUPcbxa",
+					"expanded_url": "https://twitter.com/samboyle93/status/1077309200508833794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077309194225836000,
+					"id_str": "1077309194225836033",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNfARsX4AEu7sV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNfARsX4AEu7sV.jpg",
+					"url": "https://t.co/RVtBUPcbxa",
+					"display_url": "pic.twitter.com/RVtBUPcbxa",
+					"expanded_url": "https://twitter.com/samboyle93/status/1077309200508833794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54494312,
+			"id_str": "54494312",
+			"name": "Samuel Boyle",
+			"screen_name": "samboyle93",
+			"location": "Reading, England",
+			"description": "I make noise for @BBCBerkshire 📻 | Used to create news @BBCNorthampton & @wearegemnews | @SRA  Winner with @URN1350 | Otherwise found at the races 🐎",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 927,
+			"listed_count": 13,
+			"created_at": "Tue Jul 07 08:55:49 +0000 2009",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F1B1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915686365525942274/cE0bReZS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915686365525942274/cE0bReZS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54494312/1478820628",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My good friend @paddingtonbear  says hello! From my pump up bed - which currently has everyone else’s bedding on 🥳 Merry Christmas @rhodri! #DuvetKnowItsChristmas https://t.co/RVtBUPcbxa"
+	},
+	{
+		"created_at": "Mon Dec 24 21:07:02 +0000 2018",
+		"id": 1077309699119374300,
+		"id_str": "1077309699119374342",
+		"full_text": "For those of you playing #DuvetKnowItsChrismas Bingo, you can tick off “Soft Toys”. Still to come: Disused Electronic Drum Kit, Bunk Bed, Pile Of Jigsaws, Deflating Airbed, etc https://t.co/uC26YHntxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChrismas",
+					"indices": [
+						25,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uC26YHntxa",
+					"expanded_url": "https://twitter.com/herladyship15/status/1077309123656593421",
+					"display_url": "twitter.com/herladyship15/…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077309123656593400,
+		"quoted_status_id_str": "1077309123656593421",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uC26YHntxa",
+			"expanded": "https://twitter.com/herladyship15/status/1077309123656593421",
+			"display": "twitter.com/herladyship15/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 21:04:45 +0000 2018",
+			"id": 1077309123656593400,
+			"id_str": "1077309123656593421",
+			"full_text": "@rhodri I consider myself very luck. My sleeping arrangements are just perfect https://t.co/LZJcU1inbb",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077309115876233200,
+						"id_str": "1077309115876233218",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNe7t0X0AIImix.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNe7t0X0AIImix.jpg",
+						"url": "https://t.co/LZJcU1inbb",
+						"display_url": "pic.twitter.com/LZJcU1inbb",
+						"expanded_url": "https://twitter.com/herladyship15/status/1077309123656593421/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077309115876233200,
+						"id_str": "1077309115876233218",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNe7t0X0AIImix.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNe7t0X0AIImix.jpg",
+						"url": "https://t.co/LZJcU1inbb",
+						"display_url": "pic.twitter.com/LZJcU1inbb",
+						"expanded_url": "https://twitter.com/herladyship15/status/1077309123656593421/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1077306187589345300,
+			"in_reply_to_status_id_str": "1077306187589345280",
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 833660187617722400,
+				"id_str": "833660187617722368",
+				"name": "Lainey Robinson  💙💛💙",
+				"screen_name": "herladyship15",
+				"location": "North East, England",
+				"description": "Proud Yorkshire CCC member.\nCertified cricket badger.\nDrink the odd Martini & glass of champagne\n\nMaking life changes 💃\n\n'stay classy '",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 427,
+				"friends_count": 411,
+				"listed_count": 3,
+				"created_at": "Mon Feb 20 12:50:52 +0000 2017",
+				"favourites_count": 25455,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19594,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075742811385942018/l2SA880o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075742811385942018/l2SA880o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/833660187617722368/1507836486",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 25,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those of you playing #DuvetKnowItsChrismas Bingo, you can tick off “Soft Toys”. Still to come: Disused Electronic Drum Kit, Bunk Bed, Pile Of Jigsaws, Deflating Airbed, etc https://t.co/uC26YHntxa"
+	},
+	{
+		"created_at": "Mon Dec 24 21:02:53 +0000 2018",
+		"id": 1077308654225932300,
+		"id_str": "1077308654225932289",
+		"full_text": "@rhodri My (very comfortable) bed, surrounded by an inordinate amount of antique chairs and a rug. https://t.co/XzijmcYxVV",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077308647724732400,
+					"id_str": "1077308647724732416",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNegd0W0AA9bHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNegd0W0AA9bHJ.jpg",
+					"url": "https://t.co/XzijmcYxVV",
+					"display_url": "pic.twitter.com/XzijmcYxVV",
+					"expanded_url": "https://twitter.com/girlgroundhops/status/1077308654225932289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077308647724732400,
+					"id_str": "1077308647724732416",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNegd0W0AA9bHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNegd0W0AA9bHJ.jpg",
+					"url": "https://t.co/XzijmcYxVV",
+					"display_url": "pic.twitter.com/XzijmcYxVV",
+					"expanded_url": "https://twitter.com/girlgroundhops/status/1077308654225932289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1020686821058138100,
+			"id_str": "1020686821058138113",
+			"name": "girl that ground hops",
+			"screen_name": "girlgroundhops",
+			"location": "",
+			"description": "Gobshite Manc, MCFC, Curzon Ashton, non-league, groundhopping, pale ale and carbohydrate.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 183,
+			"listed_count": 1,
+			"created_at": "Sat Jul 21 15:07:56 +0000 2018",
+			"favourites_count": 97,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040194111477895168/brqOom9L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040194111477895168/brqOom9L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020686821058138113/1536443573",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 168,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri My (very comfortable) bed, surrounded by an inordinate amount of antique chairs and a rug. https://t.co/XzijmcYxVV"
+	},
+	{
+		"created_at": "Mon Dec 24 21:00:24 +0000 2018",
+		"id": 1077308029748551700,
+		"id_str": "1077308029748551680",
+		"full_text": ".@rhodri in my old room, curtain pole snapped in half... https://t.co/5onYd2VyaX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077308024765730800,
+					"id_str": "1077308024765730816",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNd8NHW0AA-re_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNd8NHW0AA-re_.jpg",
+					"url": "https://t.co/5onYd2VyaX",
+					"display_url": "pic.twitter.com/5onYd2VyaX",
+					"expanded_url": "https://twitter.com/SilentRunning__/status/1077308029748551680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077308024765730800,
+					"id_str": "1077308024765730816",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNd8NHW0AA-re_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNd8NHW0AA-re_.jpg",
+					"url": "https://t.co/5onYd2VyaX",
+					"display_url": "pic.twitter.com/5onYd2VyaX",
+					"expanded_url": "https://twitter.com/SilentRunning__/status/1077308029748551680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 300292855,
+			"id_str": "300292855",
+			"name": "C a t r i n 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇪🇺",
+			"screen_name": "SilentRunning__",
+			"location": "South West, England",
+			"description": "Cymraes. Former video editor etc.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336,
+			"friends_count": 690,
+			"listed_count": 16,
+			"created_at": "Tue May 17 14:35:04 +0000 2011",
+			"favourites_count": 28980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984060353045778434/TlhwFZq9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984060353045778434/TlhwFZq9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/300292855/1510496413",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@rhodri in my old room, curtain pole snapped in half... https://t.co/5onYd2VyaX"
+	},
+	{
+		"created_at": "Mon Dec 24 20:59:23 +0000 2018",
+		"id": 1077307772922937300,
+		"id_str": "1077307772922937345",
+		"full_text": "@rhodri Our lodgings tonight - complete with leaky roof and collection of Coke bottles from around the world...#duvetknowitschristmas https://t.co/x1ecISrDkK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						111,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077307769068417000,
+					"id_str": "1077307769068417024",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNdtUkXcAAubcV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNdtUkXcAAubcV.jpg",
+					"url": "https://t.co/x1ecISrDkK",
+					"display_url": "pic.twitter.com/x1ecISrDkK",
+					"expanded_url": "https://twitter.com/Ben_Bladon/status/1077307772922937345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077307769068417000,
+					"id_str": "1077307769068417024",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNdtUkXcAAubcV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNdtUkXcAAubcV.jpg",
+					"url": "https://t.co/x1ecISrDkK",
+					"display_url": "pic.twitter.com/x1ecISrDkK",
+					"expanded_url": "https://twitter.com/Ben_Bladon/status/1077307772922937345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 84308260,
+			"id_str": "84308260",
+			"name": "Ben Bladon",
+			"screen_name": "Ben_Bladon",
+			"location": "Dubai, United Arab Emirates",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 14,
+			"listed_count": 0,
+			"created_at": "Thu Oct 22 12:04:33 +0000 2009",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3300562780/51f7c88572a5150e377d892662a7d025_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3300562780/51f7c88572a5150e377d892662a7d025_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 197,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rhodri Our lodgings tonight - complete with leaky roof and collection of Coke bottles from around the world...#duvetknowitschristmas https://t.co/x1ecISrDkK"
+	},
+	{
+		"created_at": "Mon Dec 24 21:02:05 +0000 2018",
+		"id": 1077308454484828200,
+		"id_str": "1077308454484828160",
+		"full_text": "We're underway, with a classic mattress / bedclothes mismatch. https://t.co/4nDEVZapCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nDEVZapCQ",
+					"expanded_url": "https://twitter.com/janefowler/status/1077304491609870340",
+					"display_url": "twitter.com/janefowler/sta…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077304491609870300,
+		"quoted_status_id_str": "1077304491609870340",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4nDEVZapCQ",
+			"expanded": "https://twitter.com/janefowler/status/1077304491609870340",
+			"display": "twitter.com/janefowler/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 20:46:20 +0000 2018",
+			"id": 1077304491609870300,
+			"id_str": "1077304491609870340",
+			"full_text": "I got the double bed, but only a single duvet. #DuvetKnowItsChristmas @rhodri https://t.co/NDeTp5x46T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							47,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							70,
+							77
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077304447905210400,
+						"id_str": "1077304447905210368",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNasARWoAAjZrZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNasARWoAAjZrZ.jpg",
+						"url": "https://t.co/NDeTp5x46T",
+						"display_url": "pic.twitter.com/NDeTp5x46T",
+						"expanded_url": "https://twitter.com/janefowler/status/1077304491609870340/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077304447905210400,
+						"id_str": "1077304447905210368",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DvNasARWoAAjZrZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvNasARWoAAjZrZ.jpg",
+						"url": "https://t.co/NDeTp5x46T",
+						"display_url": "pic.twitter.com/NDeTp5x46T",
+						"expanded_url": "https://twitter.com/janefowler/status/1077304491609870340/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19673791,
+				"id_str": "19673791",
+				"name": "Jane Fowler",
+				"screen_name": "janefowler",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215,
+				"friends_count": 675,
+				"listed_count": 3,
+				"created_at": "Wed Jan 28 20:30:46 +0000 2009",
+				"favourites_count": 345,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2088,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFE49B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/77674746/5BP_290707_013_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/77674746/5BP_290707_013_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19673791/1392617376",
+				"profile_link_color": "599599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "65AD5F",
+				"profile_text_color": "EF8A07",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 260,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 31,
+		"favorite_count": 276,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're underway, with a classic mattress / bedclothes mismatch. https://t.co/4nDEVZapCQ"
+	},
+	{
+		"created_at": "Mon Dec 24 20:59:42 +0000 2018",
+		"id": 1077307852618952700,
+		"id_str": "1077307852618952704",
+		"full_text": "@greedyJulia Top it up with prosecco! Sloe gin fizz!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greedyJulia",
+					"name": "Julia Pal",
+					"id": 506285321,
+					"id_str": "506285321",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077306676238270500,
+		"in_reply_to_status_id_str": "1077306676238270471",
+		"in_reply_to_user_id": 506285321,
+		"in_reply_to_user_id_str": "506285321",
+		"in_reply_to_screen_name": "greedyJulia",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greedyJulia Top it up with prosecco! Sloe gin fizz!"
+	},
+	{
+		"created_at": "Mon Dec 24 20:56:16 +0000 2018",
+		"id": 1077306989380862000,
+		"id_str": "1077306989380861952",
+		"full_text": "And finally, tragically, the obligatory bit of self-publicity: I wrote a book about the British Christmas which is Very Much Available: https://t.co/OvB3khmv6I 7/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OvB3khmv6I",
+					"expanded_url": "http://po.st/AVBCebook",
+					"display_url": "po.st/AVBCebook",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306844337573900,
+		"in_reply_to_status_id_str": "1077306844337573888",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And finally, tragically, the obligatory bit of self-publicity: I wrote a book about the British Christmas which is Very Much Available: https://t.co/OvB3khmv6I 7/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:55:41 +0000 2018",
+		"id": 1077306844337573900,
+		"id_str": "1077306844337573888",
+		"full_text": "So, yeah. Every Christmas I think “This can’t possibly have legs for ANOTHER year,” but it always seems to provide some Christmas cheer. We’ll soon find out, one way or the other, eh? 6/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306746203525100,
+		"in_reply_to_status_id_str": "1077306746203525121",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "So, yeah. Every Christmas I think “This can’t possibly have legs for ANOTHER year,” but it always seems to provide some Christmas cheer. We’ll soon find out, one way or the other, eh? 6/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:55:18 +0000 2018",
+		"id": 1077306746203525100,
+		"id_str": "1077306746203525121",
+		"full_text": "A couple of years ago, @crouchingbadger came up with the genius hashtag #duvetknowitschristmas, which you might want to use – although I remain ambivalent towards hashtags in general because I'm a miserable sod. 5/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitschristmas",
+					"indices": [
+						72,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crouchingbadger",
+					"name": "Hairy McClary  👞🗑️",
+					"id": 32613,
+					"id_str": "32613",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306584521416700,
+		"in_reply_to_status_id_str": "1077306584521416704",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A couple of years ago, @crouchingbadger came up with the genius hashtag #duvetknowitschristmas, which you might want to use – although I remain ambivalent towards hashtags in general because I'm a miserable sod. 5/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:54:39 +0000 2018",
+		"id": 1077306584521416700,
+		"id_str": "1077306584521416704",
+		"full_text": "As you can see from the vid, our pals at @Shelter are involved, and they’d welcome donations if you can spare the moolah: https://t.co/yhbFns33DP 4/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shelter",
+					"name": "Shelter",
+					"id": 3704391,
+					"id_str": "3704391",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yhbFns33DP",
+					"expanded_url": "https://england.shelter.org.uk/donate/appeal/duvet?reserved_appeal_code=20181217-DF-01&utm_source=Twitter&utm_medium=Referral&utm_campaign=Duvetknowitschristmas",
+					"display_url": "england.shelter.org.uk/donate/appeal/…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306458704875500,
+		"in_reply_to_status_id_str": "1077306458704875521",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As you can see from the vid, our pals at @Shelter are involved, and they’d welcome donations if you can spare the moolah: https://t.co/yhbFns33DP 4/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:54:09 +0000 2018",
+		"id": 1077306458704875500,
+		"id_str": "1077306458704875521",
+		"full_text": "If you urgently require a 2-minute summary of the kind of thing we may encounter, I got all poetic the other week and @TwitterUK turned it into this rather lovely video: https://t.co/m5ZMUN4A4p 3/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterUK",
+					"name": "Twitter UK",
+					"id": 277761722,
+					"id_str": "277761722",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077167358714757100,
+					"id_str": "1077167358714757121",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DvLex5tW0AAlw30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvLex5tW0AAlw30.jpg",
+					"url": "https://t.co/m5ZMUN4A4p",
+					"display_url": "pic.twitter.com/m5ZMUN4A4p",
+					"expanded_url": "https://twitter.com/Shelter/status/1077276471859838977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1077276471859839000,
+					"source_status_id_str": "1077276471859838977",
+					"source_user_id": 3704391,
+					"source_user_id_str": "3704391"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077167358714757100,
+					"id_str": "1077167358714757121",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DvLex5tW0AAlw30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvLex5tW0AAlw30.jpg",
+					"url": "https://t.co/m5ZMUN4A4p",
+					"display_url": "pic.twitter.com/m5ZMUN4A4p",
+					"expanded_url": "https://twitter.com/Shelter/status/1077276471859838977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1077276471859839000,
+					"source_status_id_str": "1077276471859838977",
+					"source_user_id": 3704391,
+					"source_user_id_str": "3704391",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 137200,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1077167358714757121/vid/1280x720/Lvdp1Ojc00BnipBN.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1077167358714757121/pl/JmoRziMprO4s3lSF.m3u8?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1077167358714757121/vid/320x180/zcHcxd20WwB2hQ4T.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1077167358714757121/vid/640x360/RzwN0iMOQzInRjcD.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "#DuvetKnowItsChristmas",
+						"description": "Not everyone has a home at Christmas",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://shltr.org.uk/gu2"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 3704391,
+							"id_str": "3704391",
+							"name": "Shelter",
+							"screen_name": "Shelter",
+							"location": "England",
+							"description": "Shelter, the housing and homelessness charity",
+							"url": "http://t.co/wIri0tmnKr",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/wIri0tmnKr",
+											"expanded_url": "http://england.shelter.org.uk",
+											"display_url": "england.shelter.org.uk",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 249073,
+							"friends_count": 2918,
+							"listed_count": 1912,
+							"created_at": "Sat Apr 07 12:18:11 +0000 2007",
+							"favourites_count": 23460,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 38273,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "999999",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/926344103914360834/gaN91Pqk_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/926344103914360834/gaN91Pqk_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3704391/1541394066",
+							"profile_link_color": "336699",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "E6E6E6",
+							"profile_text_color": "212121",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306268312895500,
+		"in_reply_to_status_id_str": "1077306268312895488",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you urgently require a 2-minute summary of the kind of thing we may encounter, I got all poetic the other week and @TwitterUK turned it into this rather lovely video: https://t.co/m5ZMUN4A4p 3/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:53:24 +0000 2018",
+		"id": 1077306268312895500,
+		"id_str": "1077306268312895488",
+		"full_text": "For the last eight years, people have kindly sent me pictures of their sleeping arrangements as they retire to bed on Christmas Eve. I retweet the best ones. That's all it is. Nothing more. 2/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1077306187589345300,
+		"in_reply_to_status_id_str": "1077306187589345280",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "For the last eight years, people have kindly sent me pictures of their sleeping arrangements as they retire to bed on Christmas Eve. I retweet the best ones. That's all it is. Nothing more. 2/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:53:05 +0000 2018",
+		"id": 1077306187589345300,
+		"id_str": "1077306187589345280",
+		"full_text": "Hey, does anyone have any pictures of their Christmas Eve sleeping arrangements that they'd be willing to share? One second, though. Before we get underway, a short preamble. 1/7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 540,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hey, does anyone have any pictures of their Christmas Eve sleeping arrangements that they'd be willing to share? One second, though. Before we get underway, a short preamble. 1/7"
+	},
+	{
+		"created_at": "Mon Dec 24 20:46:53 +0000 2018",
+		"id": 1077304627765350400,
+		"id_str": "1077304627765350400",
+		"full_text": "@MrABennett It is.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrABennett",
+					"name": "Alastair Bennett",
+					"id": 34062904,
+					"id_str": "34062904",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1077303627235160000,
+		"in_reply_to_status_id_str": "1077303627235160065",
+		"in_reply_to_user_id": 34062904,
+		"in_reply_to_user_id_str": "34062904",
+		"in_reply_to_screen_name": "MrABennett",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrABennett It is."
+	},
+	{
+		"created_at": "Mon Dec 24 20:39:25 +0000 2018",
+		"id": 1077302750562713600,
+		"id_str": "1077302750562713600",
+		"full_text": "@soapachu Oh god, you must. There were shitloads of sloes when we went for a walk, we just didn't have a big enough container.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soapachu",
+					"name": "🎄merry christmas ya filthy animal ⛄",
+					"id": 21118184,
+					"id_str": "21118184",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077301916827336700,
+		"in_reply_to_status_id_str": "1077301916827336704",
+		"in_reply_to_user_id": 21118184,
+		"in_reply_to_user_id_str": "21118184",
+		"in_reply_to_screen_name": "soapachu",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@soapachu Oh god, you must. There were shitloads of sloes when we went for a walk, we just didn't have a big enough container."
+	},
+	{
+		"created_at": "Mon Dec 24 20:31:56 +0000 2018",
+		"id": 1077300864619081700,
+		"id_str": "1077300864619081730",
+		"full_text": "@MagicPuddingDi Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MagicPuddingDi",
+					"name": "Diana Whitmill",
+					"id": 250131837,
+					"id_str": "250131837",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077300146801651700,
+		"in_reply_to_status_id_str": "1077300146801651712",
+		"in_reply_to_user_id": 250131837,
+		"in_reply_to_user_id_str": "250131837",
+		"in_reply_to_screen_name": "MagicPuddingDi",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@MagicPuddingDi Hahaha"
+	},
+	{
+		"created_at": "Mon Dec 24 20:28:52 +0000 2018",
+		"id": 1077300093777338400,
+		"id_str": "1077300093777338368",
+		"full_text": "@riverthistle You were my inspiration, dude! x",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "riverthistle",
+					"name": "winter willow",
+					"id": 1580164657,
+					"id_str": "1580164657",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077299466498117600,
+		"in_reply_to_status_id_str": "1077299466498117638",
+		"in_reply_to_user_id": 1580164657,
+		"in_reply_to_user_id_str": "1580164657",
+		"in_reply_to_screen_name": "riverthistle",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@riverthistle You were my inspiration, dude! x"
+	},
+	{
+		"created_at": "Mon Dec 24 20:24:27 +0000 2018",
+		"id": 1077298984681721900,
+		"id_str": "1077298984681721856",
+		"full_text": "@SirGuyGuisborne Indian take away.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SirGuyGuisborne",
+					"name": "Wing Commander Claus ☃️",
+					"id": 203012470,
+					"id_str": "203012470",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1077298632242675700,
+		"in_reply_to_status_id_str": "1077298632242675713",
+		"in_reply_to_user_id": 203012470,
+		"in_reply_to_user_id_str": "203012470",
+		"in_reply_to_screen_name": "SirGuyGuisborne",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SirGuyGuisborne Indian take away."
+	},
+	{
+		"created_at": "Mon Dec 24 20:21:27 +0000 2018",
+		"id": 1077298228587098100,
+		"id_str": "1077298228587098112",
+		"full_text": "BTW, The Little Boy That Santa Claus Forgot completely kills me. Dangerous piece of music.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "BTW, The Little Boy That Santa Claus Forgot completely kills me. Dangerous piece of music."
+	},
+	{
+		"created_at": "Mon Dec 24 20:20:05 +0000 2018",
+		"id": 1077297884465430500,
+		"id_str": "1077297884465430530",
+		"full_text": "Back in October we picked some sloes in Epping Forest and wanged them into some gin with some sugar and put the concoction in a dark cupboard. We've just taken it out and had some. IT IS BLOODY DELICIOUS. Astonishing. (Yes, I know, Xmas beds, I'm just having my dinner.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Back in October we picked some sloes in Epping Forest and wanged them into some gin with some sugar and put the concoction in a dark cupboard. We've just taken it out and had some. IT IS BLOODY DELICIOUS. Astonishing. (Yes, I know, Xmas beds, I'm just having my dinner.)"
+	},
+	{
+		"created_at": "Mon Dec 24 19:10:47 +0000 2018",
+		"id": 1077280445438611500,
+		"id_str": "1077280445438611458",
+		"full_text": "@southendmir Yarp",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "southendmir",
+					"name": "miranda maguire",
+					"id": 96384430,
+					"id_str": "96384430",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1077272650706243600,
+		"in_reply_to_status_id_str": "1077272650706243585",
+		"in_reply_to_user_id": 96384430,
+		"in_reply_to_user_id_str": "96384430",
+		"in_reply_to_screen_name": "southendmir",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52059,
+			"friends_count": 5473,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@southendmir Yarp"
+	},
+	{
+		"created_at": "Mon Dec 24 14:16:14 +0000 2018",
+		"id": 1077206318853713900,
+		"id_str": "1077206318853713920",
+		"full_text": "There’s a special festive episode of the Boring Talks podcast today from guest speaker @rhodri https://t.co/b19boUNqtH Merry Christmas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b19boUNqtH",
+					"expanded_url": "http://www.bbc.co.uk/programmes/p06w8t5w",
+					"display_url": "bbc.co.uk/programmes/p06…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://onloft.com/tweetlogix\" rel=\"nofollow\">Tweetlogix</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 199605416,
+			"id_str": "199605416",
+			"name": "Boring Conference",
+			"screen_name": "boringconferenc",
+			"location": "",
+			"description": "Boring VIII. 05.05.2018. \n\nInteresting people talking about Boring things, in real life and on the internet.",
+			"url": "https://t.co/EXrDc2HtUJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EXrDc2HtUJ",
+							"expanded_url": "http://www.boringconference.com",
+							"display_url": "boringconference.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3259,
+			"friends_count": 410,
+			"listed_count": 69,
+			"created_at": "Thu Oct 07 09:00:50 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B9BCBD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865858131779362816/ZIYIU3WB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865858131779362816/ZIYIU3WB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/199605416/1398357290",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s a special festive episode of the Boring Talks podcast today from guest speaker @rhodri https://t.co/b19boUNqtH Merry Christmas"
+	},
+	{
+		"created_at": "Mon Dec 24 09:30:10 +0000 2018",
+		"id": 1077134329401299000,
+		"id_str": "1077134329401298948",
+		"full_text": "IT'S CHRISTMAS EVE! If that wasn't exciting enough, we've got another treat for you... 😍🎄\n\n#AVeryBritishChristmas by @rhodri is just 99p today - don't miss out on this hilarious collection of seasonal stories &amp; the funniest aspects of Christmas day!\n\nhttps://t.co/tBbm6IftvC https://t.co/otjfqCBgEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AVeryBritishChristmas",
+					"indices": [
+						91,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tBbm6IftvC",
+					"expanded_url": "http://po.st/AVBCebook",
+					"display_url": "po.st/AVBCebook",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077134327710969900,
+					"id_str": "1077134327710969856",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DvK_9tKXcAAGy__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvK_9tKXcAAGy__.jpg",
+					"url": "https://t.co/otjfqCBgEF",
+					"display_url": "pic.twitter.com/otjfqCBgEF",
+					"expanded_url": "https://twitter.com/HQstories/status/1077134329401298948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077134327710969900,
+					"id_str": "1077134327710969856",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DvK_9tKXcAAGy__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvK_9tKXcAAGy__.jpg",
+					"url": "https://t.co/otjfqCBgEF",
+					"display_url": "pic.twitter.com/otjfqCBgEF",
+					"expanded_url": "https://twitter.com/HQstories/status/1077134329401298948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719517668701823000,
+			"id_str": "719517668701822976",
+			"name": "HQ Stories",
+			"screen_name": "HQstories",
+			"location": "London, England",
+			"description": "One place, many stories. Fiction & Non-Fiction. An imprint of @HarperCollinsUK.\n\nSign up to our blogger newsletter here: https://t.co/YOR9pW20IE",
+			"url": "https://t.co/fjBeJeRex0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fjBeJeRex0",
+							"expanded_url": "http://Instagram.com/hqstories",
+							"display_url": "Instagram.com/hqstories",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YOR9pW20IE",
+							"expanded_url": "http://po.st/HQBloggers",
+							"display_url": "po.st/HQBloggers",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12030,
+			"friends_count": 3178,
+			"listed_count": 107,
+			"created_at": "Mon Apr 11 13:29:15 +0000 2016",
+			"favourites_count": 13640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069555683329273856/5xhV_F04_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069555683329273856/5xhV_F04_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719517668701822976/1545394191",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IT'S CHRISTMAS EVE! If that wasn't exciting enough, we've got another treat for you... 😍🎄\n\n#AVeryBritishChristmas by @rhodri is just 99p today - don't miss out on this hilarious collection of seasonal stories &amp; the funniest aspects of Christmas day!\n\nhttps://t.co/tBbm6IftvC https://t.co/otjfqCBgEF"
+	},
+	{
 		"created_at": "Sun Dec 23 23:02:01 +0000 2018",
 		"id": 1076976246934900700,
 		"id_str": "1076976246934900736",
