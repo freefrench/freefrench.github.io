@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 23:18:27 +0000 2018",
+		"id": 1078792321821564900,
+		"id_str": "1078792321821564930",
+		"full_text": "Lest we forget: https://t.co/5qkiPPRXt3 https://t.co/SRGjFohhN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5qkiPPRXt3",
+					"expanded_url": "https://youtu.be/GzBq0n8dxFQ",
+					"display_url": "youtu.be/GzBq0n8dxFQ",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/SRGjFohhN5",
+					"expanded_url": "https://twitter.com/BBCNews/status/1078783601238523905",
+					"display_url": "twitter.com/BBCNews/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53002,
+			"friends_count": 5477,
+			"listed_count": 1053,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1078783601238523900,
+		"quoted_status_id_str": "1078783601238523905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SRGjFohhN5",
+			"expanded": "https://twitter.com/BBCNews/status/1078783601238523905",
+			"display": "twitter.com/BBCNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 28 22:43:48 +0000 2018",
+			"id": 1078783601238523900,
+			"id_str": "1078783601238523905",
+			"full_text": "John Redwood gets knighthood in New Year's Honours list https://t.co/YnOgFz6Dsy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YnOgFz6Dsy",
+						"expanded_url": "https://bbc.in/2ERTnff",
+						"display_url": "bbc.in/2ERTnff",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612473,
+				"id_str": "612473",
+				"name": "BBC News (UK)",
+				"screen_name": "BBCNews",
+				"location": "London",
+				"description": "News, features and analysis. For world news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport. Our Instagram: BBCNews",
+				"url": "https://t.co/vBzl7LNCCQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vBzl7LNCCQ",
+								"expanded_url": "http://www.bbc.co.uk/news",
+								"display_url": "bbc.co.uk/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9714738,
+				"friends_count": 100,
+				"listed_count": 40675,
+				"created_at": "Mon Jan 08 08:05:57 +0000 2007",
+				"favourites_count": 42,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 372237,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875702547016802304/9TC6qsAT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875702547016802304/9TC6qsAT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/612473/1529425670",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 189,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lest we forget: https://t.co/5qkiPPRXt3 https://t.co/SRGjFohhN5"
+	},
+	{
 		"created_at": "Wed Dec 26 20:09:33 +0000 2018",
 		"id": 1078020009711022100,
 		"id_str": "1078020009711022080",
