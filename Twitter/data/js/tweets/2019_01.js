@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 23:28:22 +0000 2019",
+		"id": 1085680188418072600,
+		"id_str": "1085680188418072576",
+		"full_text": "I’d forgotten about the man who claimed to be able to jump on an egg without breaking it. https://t.co/nvrOVU16ER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nvrOVU16ER",
+					"expanded_url": "https://twitter.com/YoorWullie/status/1021022591421755393",
+					"display_url": "twitter.com/YoorWullie/sta…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52683,
+			"friends_count": 5551,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1021022591421755400,
+		"quoted_status_id_str": "1021022591421755393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nvrOVU16ER",
+			"expanded": "https://twitter.com/YoorWullie/status/1021022591421755393",
+			"display": "twitter.com/YoorWullie/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 22 13:22:10 +0000 2018",
+			"id": 1021022591421755400,
+			"id_str": "1021022591421755393",
+			"full_text": "The unique Mr Tony McCabe.\nFrom Nationwide - 1974. https://t.co/kg81QoQc8f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1021022511096614900,
+						"id_str": "1021022511096614912",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1021022511096614912/pu/img/nUpy3U3tvFDQBtjg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1021022511096614912/pu/img/nUpy3U3tvFDQBtjg.jpg",
+						"url": "https://t.co/kg81QoQc8f",
+						"display_url": "pic.twitter.com/kg81QoQc8f",
+						"expanded_url": "https://twitter.com/YoorWullie/status/1021022591421755393/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 464,
+								"h": 352,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 464,
+								"h": 352,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 352,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1021022511096614900,
+						"id_str": "1021022511096614912",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1021022511096614912/pu/img/nUpy3U3tvFDQBtjg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1021022511096614912/pu/img/nUpy3U3tvFDQBtjg.jpg",
+						"url": "https://t.co/kg81QoQc8f",
+						"display_url": "pic.twitter.com/kg81QoQc8f",
+						"expanded_url": "https://twitter.com/YoorWullie/status/1021022591421755393/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 464,
+								"h": 352,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 464,
+								"h": 352,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 352,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								29,
+								22
+							],
+							"duration_millis": 48682,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1021022511096614912/pu/vid/236x180/1dK_2qmvGKavoNl3.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1021022511096614912/pu/pl/kqau4F3Za1O3YLi_.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1645310084,
+				"id_str": "1645310084",
+				"name": "Vintage Wullie",
+				"screen_name": "YoorWullie",
+				"location": "Arbroath, Scotland",
+				"description": "Black jawed living room couch professor. \n        Gelata et glacies cremor #1320",
+				"url": "https://t.co/pkeNnmzqp4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pkeNnmzqp4",
+								"expanded_url": "https://www.instagram.com/yoorwullie/?hl=en",
+								"display_url": "instagram.com/yoorwullie/?hl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23216,
+				"friends_count": 751,
+				"listed_count": 267,
+				"created_at": "Sun Aug 04 14:02:53 +0000 2013",
+				"favourites_count": 70691,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 117540,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750333323696898048/Yj0L0TVy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750333323696898048/Yj0L0TVy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1645310084/1546432702",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’d forgotten about the man who claimed to be able to jump on an egg without breaking it. https://t.co/nvrOVU16ER"
+	},
+	{
+		"created_at": "Wed Jan 16 21:46:13 +0000 2019",
+		"id": 1085654482648686600,
+		"id_str": "1085654482648686593",
+		"full_text": "I’m in a minicab. LBC is the radio station of choice. If I wasn’t so hellbent on tweeting about it, I’d have my fingers in my ears while shouting “wah wah wah”.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52683,
+			"friends_count": 5551,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’m in a minicab. LBC is the radio station of choice. If I wasn’t so hellbent on tweeting about it, I’d have my fingers in my ears while shouting “wah wah wah”."
+	},
+	{
+		"created_at": "Wed Jan 16 21:41:55 +0000 2019",
+		"id": 1085653398794301400,
+		"id_str": "1085653398794301440",
+		"full_text": "Thomas hasn’t tweeted for 222 days, and finally breaks his silence when I mentioned Sue Lawley in the pub. https://t.co/mLL0DOasFK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLL0DOasFK",
+					"expanded_url": "https://twitter.com/thomasblythe/status/1085652811369525248",
+					"display_url": "twitter.com/thomasblythe/s…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, produces sounds, plays tunes (Scritti Politti, Dream Themes, Lost Crowns). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52683,
+			"friends_count": 5551,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085652811369525200,
+		"quoted_status_id_str": "1085652811369525248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mLL0DOasFK",
+			"expanded": "https://twitter.com/thomasblythe/status/1085652811369525248",
+			"display": "twitter.com/thomasblythe/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 16 21:39:35 +0000 2019",
+			"id": 1085652811369525200,
+			"id_str": "1085652811369525248",
+			"full_text": "Fuck me til I fart. @rhodri",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							20,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21481705,
+				"id_str": "21481705",
+				"name": "Thomas Blythe",
+				"screen_name": "thomasblythe",
+				"location": "",
+				"description": "If Dog So Smart, Why Not He Drive Car?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4419,
+				"friends_count": 2252,
+				"listed_count": 100,
+				"created_at": "Sat Feb 21 13:06:59 +0000 2009",
+				"favourites_count": 1053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80473,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975632022411636737/-TseG-CR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975632022411636737/-TseG-CR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21481705/1503044640",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thomas hasn’t tweeted for 222 days, and finally breaks his silence when I mentioned Sue Lawley in the pub. https://t.co/mLL0DOasFK"
+	},
+	{
+		"created_at": "Wed Jan 16 11:40:33 +0000 2019",
+		"id": 1085502062442483700,
+		"id_str": "1085502062442483712",
+		"full_text": "Hello all. A friend and her boyfriend are looking for a London flat (or big room in quiet shared flat) to let/ sublet from 10th Feb. North London preferred but open to anything. Let me know if you know, eh. Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172689329,
+			"id_str": "172689329",
+			"name": "Elliot",
+			"screen_name": "helloitselliot",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/ztWUogGzsh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ztWUogGzsh",
+							"expanded_url": "http://elliotelam.com",
+							"display_url": "elliotelam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 1341,
+			"listed_count": 45,
+			"created_at": "Fri Jul 30 10:04:39 +0000 2010",
+			"favourites_count": 9051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/578211271306170369/L6fv6Emk_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/578211271306170369/L6fv6Emk_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172689329/1457289332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello all. A friend and her boyfriend are looking for a London flat (or big room in quiet shared flat) to let/ sublet from 10th Feb. North London preferred but open to anything. Let me know if you know, eh. Thank you."
+	},
+	{
 		"created_at": "Tue Jan 15 21:47:03 +0000 2019",
 		"id": 1085292303948881900,
 		"id_str": "1085292303948881920",
