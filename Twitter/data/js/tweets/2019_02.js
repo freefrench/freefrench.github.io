@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 21:56:46 +0000 2019",
+		"id": 1095441607774662700,
+		"id_str": "1095441607774662656",
+		"full_text": "@FinalBullet @rhodri It used to be the case that if you searched Google Images for 'Graduated Bob' you'd get a few pages of lovely hair-dos and then it would slowly change to pics of men called Bob who had graduated and I think that was definitely the funniest thing on the Internet in that era.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FinalBullet",
+					"name": "L Johnston",
+					"id": 223477334,
+					"id_str": "223477334",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1095429128831021000,
+		"in_reply_to_status_id_str": "1095429128831021062",
+		"in_reply_to_user_id": 223477334,
+		"in_reply_to_user_id_str": "223477334",
+		"in_reply_to_screen_name": "FinalBullet",
+		"user": {
+			"id": 762397,
+			"id_str": "762397",
+			"name": "⊛ Steve Bowbrick ⊛",
+			"screen_name": "bowbrick",
+			"location": "London",
+			"description": "Used to have business cards that said ’Wannabe CTO’. Does social media in radio. Supports @WatfordRefugees. Chairs Fair Field Academy Trust in Hertfordshire.",
+			"url": "https://t.co/6Im0me2nRD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Im0me2nRD",
+							"expanded_url": "http://bowblog.com",
+							"display_url": "bowblog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5631,
+			"friends_count": 6182,
+			"listed_count": 281,
+			"created_at": "Sat Feb 10 10:25:36 +0000 2007",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0000FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087634908359598080/1YKL2Nkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087634908359598080/1YKL2Nkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762397/1417267253",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@FinalBullet @rhodri It used to be the case that if you searched Google Images for 'Graduated Bob' you'd get a few pages of lovely hair-dos and then it would slowly change to pics of men called Bob who had graduated and I think that was definitely the funniest thing on the Internet in that era."
+	},
+	{
+		"created_at": "Tue Feb 12 22:29:49 +0000 2019",
+		"id": 1095449924995633200,
+		"id_str": "1095449924995633152",
+		"full_text": "@bowbrick @FinalBullet OH SWEET JOY",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bowbrick",
+					"name": "⊛ Steve Bowbrick ⊛",
+					"id": 762397,
+					"id_str": "762397",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "FinalBullet",
+					"name": "L Johnston",
+					"id": 223477334,
+					"id_str": "223477334",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1095441607774662700,
+		"in_reply_to_status_id_str": "1095441607774662656",
+		"in_reply_to_user_id": 762397,
+		"in_reply_to_user_id_str": "762397",
+		"in_reply_to_screen_name": "bowbrick",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52508,
+			"friends_count": 5577,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bowbrick @FinalBullet OH SWEET JOY"
+	},
+	{
 		"created_at": "Sun Feb 10 20:41:03 +0000 2019",
 		"id": 1094697778821902300,
 		"id_str": "1094697778821902336",
