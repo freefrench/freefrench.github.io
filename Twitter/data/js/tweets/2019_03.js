@@ -1,6 +1,916 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 23:18:44 +0000 2019",
+		"id": 1098967100054474800,
+		"id_str": "1107058649803964420",
+		"full_text": "Richard Strauss having a miserable time with his miserable family. https://t.co/UTO1tRTrFu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098967015828701200,
+					"id_str": "1098967015828701185",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D0BQraZXQAE9Jtj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0BQraZXQAE9Jtj.png",
+					"url": "https://t.co/UTO1tRTrFu",
+					"display_url": "pic.twitter.com/UTO1tRTrFu",
+					"expanded_url": "https://twitter.com/NormalComposers/status/1098967100054474758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 442,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 442,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 442,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098967015828701200,
+					"id_str": "1098967015828701185",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D0BQraZXQAE9Jtj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0BQraZXQAE9Jtj.png",
+					"url": "https://t.co/UTO1tRTrFu",
+					"display_url": "pic.twitter.com/UTO1tRTrFu",
+					"expanded_url": "https://twitter.com/NormalComposers/status/1098967100054474758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 442,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 442,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 442,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2358169944,
+			"id_str": "2358169944",
+			"name": "composers doing normal shit",
+			"screen_name": "NormalComposers",
+			"location": "",
+			"description": "Pictures of composers doing normal shit.  All photos © their original photographers.",
+			"url": "https://t.co/Nzd423U3np",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Nzd423U3np",
+							"expanded_url": "http://composersdoingnormalshit.com/",
+							"display_url": "composersdoingnormalshit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7530,
+			"friends_count": 0,
+			"listed_count": 62,
+			"created_at": "Sun Feb 23 15:59:55 +0000 2014",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104121889407016960/TZz2M8U7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104121889407016960/TZz2M8U7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2358169944/1406647961",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 700,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Richard Strauss having a miserable time with his miserable family. https://t.co/UTO1tRTrFu"
+	},
+	{
+		"created_at": "Sat Mar 16 22:19:28 +0000 2019",
+		"id": 1107043731377741800,
+		"id_str": "1107043731377741827",
+		"full_text": "@prodnose Always quite liked the one in “Caterpillar” by The Cure, 1:55 or so. https://t.co/ZCnyiLeM5Q",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prodnose",
+					"name": "Danny Baker",
+					"id": 279513123,
+					"id_str": "279513123",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZCnyiLeM5Q",
+					"expanded_url": "https://youtu.be/gMaqJEXkpM4",
+					"display_url": "youtu.be/gMaqJEXkpM4",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1107042738715930600,
+		"in_reply_to_status_id_str": "1107042738715930624",
+		"in_reply_to_user_id": 279513123,
+		"in_reply_to_user_id_str": "279513123",
+		"in_reply_to_screen_name": "prodnose",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52451,
+			"friends_count": 5649,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@prodnose Always quite liked the one in “Caterpillar” by The Cure, 1:55 or so. https://t.co/ZCnyiLeM5Q"
+	},
+	{
+		"created_at": "Sat Mar 16 20:23:40 +0000 2019",
+		"id": 1107009303007907800,
+		"id_str": "1107014591098376193",
+		"full_text": "If you make any the photos of the #MarchforLeave black and white they look like shots from a movie Ingmar Bergman abandoned in the late 60s because it was just too bleak. https://t.co/LIhPAgqoBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchforLeave",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107009292618661900,
+					"id_str": "1107009292618661895",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zjFiGXgAchriR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zjFiGXgAchriR.jpg",
+					"url": "https://t.co/LIhPAgqoBN",
+					"display_url": "pic.twitter.com/LIhPAgqoBN",
+					"expanded_url": "https://twitter.com/vivmondo/status/1107009303007907841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107009292618661900,
+					"id_str": "1107009292618661895",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zjFiGXgAchriR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zjFiGXgAchriR.jpg",
+					"url": "https://t.co/LIhPAgqoBN",
+					"display_url": "pic.twitter.com/LIhPAgqoBN",
+					"expanded_url": "https://twitter.com/vivmondo/status/1107009303007907841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107009292614410200,
+					"id_str": "1107009292614410240",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zjFiFWoAACQbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zjFiFWoAACQbb.jpg",
+					"url": "https://t.co/LIhPAgqoBN",
+					"display_url": "pic.twitter.com/LIhPAgqoBN",
+					"expanded_url": "https://twitter.com/vivmondo/status/1107009303007907841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107009292606021600,
+					"id_str": "1107009292606021632",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zjFiDWoAAdMos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zjFiDWoAAdMos.jpg",
+					"url": "https://t.co/LIhPAgqoBN",
+					"display_url": "pic.twitter.com/LIhPAgqoBN",
+					"expanded_url": "https://twitter.com/vivmondo/status/1107009303007907841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107009292610211800,
+					"id_str": "1107009292610211841",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zjFiEWkAEy-Si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zjFiEWkAEy-Si.jpg",
+					"url": "https://t.co/LIhPAgqoBN",
+					"display_url": "pic.twitter.com/LIhPAgqoBN",
+					"expanded_url": "https://twitter.com/vivmondo/status/1107009303007907841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22031438,
+			"id_str": "22031438",
+			"name": "𝚁𝚒𝚌𝚑𝚊𝚛𝚍 𝚅. 𝙷𝚒𝚛𝚜𝚝",
+			"screen_name": "vivmondo",
+			"location": "Brexit Hell Island",
+			"description": "Writer/editor/oddball | We Were Strangers/The Night Visitors/Bus Station Unbound | Contributing editor: @confingo | @ace_national grant recipient",
+			"url": "https://t.co/UAF95ESXpP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UAF95ESXpP",
+							"expanded_url": "http://www.ithoughtitoldyoutowaitinthecar.com",
+							"display_url": "ithoughtitoldyoutowaitinthecar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4763,
+			"friends_count": 892,
+			"listed_count": 226,
+			"created_at": "Thu Feb 26 16:56:31 +0000 2009",
+			"favourites_count": 4084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3400375288/7c412c794059979bf6e2ef70c24f8875_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3400375288/7c412c794059979bf6e2ef70c24f8875_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22031438/1547131510",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you make any the photos of the #MarchforLeave black and white they look like shots from a movie Ingmar Bergman abandoned in the late 60s because it was just too bleak. https://t.co/LIhPAgqoBN"
+	},
+	{
+		"created_at": "Sat Mar 16 19:55:10 +0000 2019",
+		"id": 1107007420591685600,
+		"id_str": "1107007420591685632",
+		"full_text": "@Jfarrers Fuuuuuuck",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jfarrers",
+					"name": "J Farrers",
+					"id": 2361393215,
+					"id_str": "2361393215",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1107005706820112400,
+		"in_reply_to_status_id_str": "1107005706820112385",
+		"in_reply_to_user_id": 2361393215,
+		"in_reply_to_user_id_str": "2361393215",
+		"in_reply_to_screen_name": "Jfarrers",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52451,
+			"friends_count": 5649,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jfarrers Fuuuuuuck"
+	},
+	{
+		"created_at": "Sat Mar 16 19:38:05 +0000 2019",
+		"id": 1107003119970541600,
+		"id_str": "1107003119970541568",
+		"full_text": "@Jfarrers (I’m aware that my reply missed the point of your excellent joke but I just got overexcited and started looking at those pages again)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jfarrers",
+					"name": "J Farrers",
+					"id": 2361393215,
+					"id_str": "2361393215",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1106996278771310600,
+		"in_reply_to_status_id_str": "1106996278771310592",
+		"in_reply_to_user_id": 2361393215,
+		"in_reply_to_user_id_str": "2361393215",
+		"in_reply_to_screen_name": "Jfarrers",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52451,
+			"friends_count": 5649,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jfarrers (I’m aware that my reply missed the point of your excellent joke but I just got overexcited and started looking at those pages again)"
+	},
+	{
+		"created_at": "Sat Mar 16 19:37:18 +0000 2019",
+		"id": 1107002920677998600,
+		"id_str": "1107002920677998592",
+		"full_text": "@Jfarrers I bloody love those pages. I wrote a whole thing about it that ended up being made into a PAMPHLET. https://t.co/XB7XSVZvKo",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jfarrers",
+					"name": "J Farrers",
+					"id": 2361393215,
+					"id_str": "2361393215",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XB7XSVZvKo",
+					"expanded_url": "https://thelongandshort.org/forecasts/the-future-according-to-wikipedia",
+					"display_url": "thelongandshort.org/forecasts/the-…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1106996278771310600,
+		"in_reply_to_status_id_str": "1106996278771310592",
+		"in_reply_to_user_id": 2361393215,
+		"in_reply_to_user_id_str": "2361393215",
+		"in_reply_to_screen_name": "Jfarrers",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52451,
+			"friends_count": 5649,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Jfarrers I bloody love those pages. I wrote a whole thing about it that ended up being made into a PAMPHLET. https://t.co/XB7XSVZvKo"
+	},
+	{
 		"created_at": "Fri Mar 15 23:33:36 +0000 2019",
 		"id": 1106700000824836100,
 		"id_str": "1106700000824836096",
