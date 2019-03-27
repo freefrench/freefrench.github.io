@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 21:54:45 +0000 2019",
+		"id": 1110661392703651800,
+		"id_str": "1110661392703651840",
+		"full_text": "Just found myself giggling at the memory of “Allow 28 days for delivery”. TWENTY EIGHT DAYS! What on EARTH were they doing? Jeez.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52445,
+			"friends_count": 5670,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 8656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Just found myself giggling at the memory of “Allow 28 days for delivery”. TWENTY EIGHT DAYS! What on EARTH were they doing? Jeez."
+	},
+	{
+		"created_at": "Tue Mar 26 08:14:08 +0000 2019",
+		"id": 1110444866184597500,
+		"id_str": "1110454876826411008",
+		"full_text": "Good morning, please take a moment to note that Indicative Vote fits rather beautifully to Consider Yourself from Oliver. \n\nNow good luck unnoticing it. You are welcome",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13194,
+			"id_str": "13194",
+			"name": "Janine Gibson",
+			"screen_name": "janinegibson",
+			"location": "",
+			"description": "sinkhole tracker • everyone needs an editor",
+			"url": "https://t.co/39oJyJmTLI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/39oJyJmTLI",
+							"expanded_url": "https://www.youtube.com/watch?v=xgYItiehtDM",
+							"display_url": "youtube.com/watch?v=xgYIti…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46946,
+			"friends_count": 2224,
+			"listed_count": 1540,
+			"created_at": "Mon Nov 20 05:40:16 +0000 2006",
+			"favourites_count": 31235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3851B5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905365130451587072/dask-4Zn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905365130451587072/dask-4Zn_normal.jpg",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "131314",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 944,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Good morning, please take a moment to note that Indicative Vote fits rather beautifully to Consider Yourself from Oliver. \n\nNow good luck unnoticing it. You are welcome"
+	},
+	{
+		"created_at": "Tue Mar 26 08:09:55 +0000 2019",
+		"id": 1110442633380446200,
+		"id_str": "1110453814128185344",
+		"full_text": "“NO COLLUSION” https://t.co/oSM7Q6KUMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oSM7Q6KUMt",
+					"expanded_url": "https://twitter.com/wildlifetrusts/status/1110434964804378626",
+					"display_url": "twitter.com/wildlifetrusts…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49031126,
+			"id_str": "49031126",
+			"name": "John Rain",
+			"screen_name": "MrKenShabby",
+			"location": "Worthing, United Kingdom",
+			"description": "Sorry old man, section 26, paragraph 5. Need to know. Sure you understand. I do @SMERSHPOD & @AllRatherPod",
+			"url": "https://t.co/IWRWcFB2aR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IWRWcFB2aR",
+							"expanded_url": "https://www.acast.com/smershpod",
+							"display_url": "acast.com/smershpod",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13191,
+			"friends_count": 3553,
+			"listed_count": 169,
+			"created_at": "Sat Jun 20 15:24:57 +0000 2009",
+			"favourites_count": 93667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 203949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052902476112908289/sBVaxYMg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052902476112908289/sBVaxYMg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49031126/1550590693",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110434964804378600,
+		"quoted_status_id_str": "1110434964804378626",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oSM7Q6KUMt",
+			"expanded": "https://twitter.com/wildlifetrusts/status/1110434964804378626",
+			"display": "twitter.com/wildlifetrusts…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 26 06:55:01 +0000 2019",
+			"id": 1110434964804378600,
+			"id_str": "1110434964804378626",
+			"full_text": "The sponge crab grows an enormous ‘hat’ of living sponge. Stylish and great for camouflage! https://t.co/mnWFKoVkKw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110434962317209600,
+						"id_str": "1110434962317209600",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/D2kOtwMXcAAgR6x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2kOtwMXcAAgR6x.jpg",
+						"url": "https://t.co/mnWFKoVkKw",
+						"display_url": "pic.twitter.com/mnWFKoVkKw",
+						"expanded_url": "https://twitter.com/WildlifeTrusts/status/1110434964804378626/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1498,
+								"h": 1124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110434962317209600,
+						"id_str": "1110434962317209600",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/D2kOtwMXcAAgR6x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2kOtwMXcAAgR6x.jpg",
+						"url": "https://t.co/mnWFKoVkKw",
+						"display_url": "pic.twitter.com/mnWFKoVkKw",
+						"expanded_url": "https://twitter.com/WildlifeTrusts/status/1110434964804378626/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1498,
+								"h": 1124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57319680,
+				"id_str": "57319680",
+				"name": "The Wildlife Trusts",
+				"screen_name": "WildlifeTrusts",
+				"location": "UK, Isle of Man and Alderney",
+				"description": "Sharing nature stuff, stories & news from The Wildlife Trusts - our goal is nature's recovery on land and at sea. Tweets by TWT comms team.",
+				"url": "https://t.co/UJsV3tRLpq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UJsV3tRLpq",
+								"expanded_url": "http://www.wildlifetrusts.org",
+								"display_url": "wildlifetrusts.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 159698,
+				"friends_count": 1129,
+				"listed_count": 1467,
+				"created_at": "Thu Jul 16 12:22:47 +0000 2009",
+				"favourites_count": 33141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30501,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877082427251929088/T9t4EXS5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877082427251929088/T9t4EXS5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57319680/1551457369",
+				"profile_link_color": "2C7FBA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 299,
+			"favorite_count": 1356,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 204,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“NO COLLUSION” https://t.co/oSM7Q6KUMt"
+	},
+	{
 		"created_at": "Mon Mar 25 22:00:04 +0000 2019",
 		"id": 1110300342317711400,
 		"id_str": "1110300342317711363",
