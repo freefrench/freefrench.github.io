@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 17:40:25 +0000 2019",
+		"id": 1119294694649995300,
+		"id_str": "1119294694649995265",
+		"full_text": "I am in Birmingham and later we’re doing this. https://t.co/axnGPADnS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119294689360977900,
+					"id_str": "1119294689360977920",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D4iIlvZXoAA_k5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4iIlvZXoAA_k5C.jpg",
+					"url": "https://t.co/axnGPADnS9",
+					"display_url": "pic.twitter.com/axnGPADnS9",
+					"expanded_url": "https://twitter.com/rhodri/status/1119294694649995265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119294689360977900,
+					"id_str": "1119294689360977920",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D4iIlvZXoAA_k5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4iIlvZXoAA_k5C.jpg",
+					"url": "https://t.co/axnGPADnS9",
+					"display_url": "pic.twitter.com/axnGPADnS9",
+					"expanded_url": "https://twitter.com/rhodri/status/1119294694649995265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61619,
+			"friends_count": 5911,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am in Birmingham and later we’re doing this. https://t.co/axnGPADnS9"
+	},
+	{
+		"created_at": "Fri Apr 19 09:11:31 +0000 2019",
+		"id": 1119166626631385100,
+		"id_str": "1119166626631385088",
+		"full_text": "@mapledonut I am, although weirdly he dropped me at the end of my road and didn't want to go down it. The whole experience was unnerving.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mapledonut",
+					"name": "MapleDonut",
+					"id": 31048339,
+					"id_str": "31048339",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1119166431688454100,
+		"in_reply_to_status_id_str": "1119166431688454144",
+		"in_reply_to_user_id": 31048339,
+		"in_reply_to_user_id_str": "31048339",
+		"in_reply_to_screen_name": "mapledonut",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61619,
+			"friends_count": 5911,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mapledonut I am, although weirdly he dropped me at the end of my road and didn't want to go down it. The whole experience was unnerving."
+	},
+	{
+		"created_at": "Fri Apr 19 08:28:50 +0000 2019",
+		"id": 1119155884616142800,
+		"id_str": "1119155884616142849",
+		"full_text": "@jennylandreth There is no eye roll big enough. https://t.co/El5eHw0jqm",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennylandreth",
+					"name": "jennylandreth",
+					"id": 18458488,
+					"id_str": "18458488",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119155845453848600,
+					"id_str": "1119155845453848576",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4gKT9iUIAA4DLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4gKT9iUIAA4DLf.jpg",
+					"url": "https://t.co/El5eHw0jqm",
+					"display_url": "pic.twitter.com/El5eHw0jqm",
+					"expanded_url": "https://twitter.com/rhodri/status/1119155884616142849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119155845453848600,
+					"id_str": "1119155845453848576",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4gKT9iUIAA4DLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4gKT9iUIAA4DLf.jpg",
+					"url": "https://t.co/El5eHw0jqm",
+					"display_url": "pic.twitter.com/El5eHw0jqm",
+					"expanded_url": "https://twitter.com/rhodri/status/1119155884616142849/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							73
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4gKT9iUIAA4DLf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1119155081104875500,
+		"in_reply_to_status_id_str": "1119155081104875521",
+		"in_reply_to_user_id": 18458488,
+		"in_reply_to_user_id_str": "18458488",
+		"in_reply_to_screen_name": "jennylandreth",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61619,
+			"friends_count": 5911,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jennylandreth There is no eye roll big enough. https://t.co/El5eHw0jqm"
+	},
+	{
+		"created_at": "Fri Apr 19 08:25:48 +0000 2019",
+		"id": 1119154750476304400,
+		"id_str": "1119155123190558720",
+		"full_text": "TONIGHT! Music from Kenny Process Team, The Happy Couple &amp; Inclementine! Lovely nosh from Ubuntu Foods. Doors 8pm at The Edge, B12 0QH, Birmingham. £5 tickets on sale now til 6pm https://t.co/ytas2hNbst #livemusic #birminghammusic #birmingham #digbeth #greatfriday @friction_arts https://t.co/JoIfXY2oyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "livemusic",
+					"indices": [
+						207,
+						217
+					]
+				},
+				{
+					"text": "birminghammusic",
+					"indices": [
+						218,
+						234
+					]
+				},
+				{
+					"text": "birmingham",
+					"indices": [
+						235,
+						246
+					]
+				},
+				{
+					"text": "digbeth",
+					"indices": [
+						247,
+						255
+					]
+				},
+				{
+					"text": "greatfriday",
+					"indices": [
+						256,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "friction_arts",
+					"name": "Friction Arts",
+					"id": 119081243,
+					"id_str": "119081243",
+					"indices": [
+						269,
+						283
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ytas2hNbst",
+					"expanded_url": "http://wegottickets.com/event/468428",
+					"display_url": "wegottickets.com/event/468428",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119154741303341000,
+					"id_str": "1119154741303341058",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gJTsQUcAIoH-4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gJTsQUcAIoH-4.jpg",
+					"url": "https://t.co/JoIfXY2oyO",
+					"display_url": "pic.twitter.com/JoIfXY2oyO",
+					"expanded_url": "https://twitter.com/ClubIntegralMB/status/1119154750476304384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119154741303341000,
+					"id_str": "1119154741303341058",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gJTsQUcAIoH-4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gJTsQUcAIoH-4.jpg",
+					"url": "https://t.co/JoIfXY2oyO",
+					"display_url": "pic.twitter.com/JoIfXY2oyO",
+					"expanded_url": "https://twitter.com/ClubIntegralMB/status/1119154750476304384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899646823572176900,
+			"id_str": "899646823572176896",
+			"name": "Club Integral Midlands Branch",
+			"screen_name": "ClubIntegralMB",
+			"location": "Birmingham, England",
+			"description": "Music night with good food. 'everything that is weird and wonderful about this fringe of Birmingham.... an exciting and eclectic mix of music' Birmingham Review",
+			"url": "https://t.co/zMpmDzggxC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMpmDzggxC",
+							"expanded_url": "http://www.facebook.com/ClubIntegralMB",
+							"display_url": "facebook.com/ClubIntegralMB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156,
+			"friends_count": 201,
+			"listed_count": 0,
+			"created_at": "Mon Aug 21 14:58:12 +0000 2017",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948340408345559040/ilNCgiq2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948340408345559040/ilNCgiq2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899646823572176896/1523208116",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT! Music from Kenny Process Team, The Happy Couple &amp; Inclementine! Lovely nosh from Ubuntu Foods. Doors 8pm at The Edge, B12 0QH, Birmingham. £5 tickets on sale now til 6pm https://t.co/ytas2hNbst #livemusic #birminghammusic #birmingham #digbeth #greatfriday @friction_arts https://t.co/JoIfXY2oyO"
+	},
+	{
 		"created_at": "Thu Apr 18 21:16:48 +0000 2019",
 		"id": 1118986762578272300,
 		"id_str": "1118986762578272257",
