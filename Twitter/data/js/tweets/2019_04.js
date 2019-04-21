@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 00:01:10 +0000 2019",
+		"id": 1119752901965090800,
+		"id_str": "1119752901965090820",
+		"full_text": "This weekend I did a gig to a crowd in Birmingham that was seated, save for one person dancing eccentrically. https://t.co/kEAL8LD9ut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEAL8LD9ut",
+					"expanded_url": "https://www.instagram.com/p/Bwfkt1RjOC6/",
+					"display_url": "instagram.com/p/Bwfkt1RjOC6/",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61612,
+			"friends_count": 5912,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This weekend I did a gig to a crowd in Birmingham that was seated, save for one person dancing eccentrically. https://t.co/kEAL8LD9ut"
+	},
+	{
+		"created_at": "Sat Apr 20 23:39:01 +0000 2019",
+		"id": 1119747325772091400,
+		"id_str": "1119747325772091395",
+		"full_text": "It would be a real struggle to make #duvetknowitsEaster into an actual THING, I think. https://t.co/XLNpI5Qoaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "duvetknowitsEaster",
+					"indices": [
+						36,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XLNpI5Qoaw",
+					"expanded_url": "https://twitter.com/georginaterry/status/1119710479914500098",
+					"display_url": "twitter.com/georginaterry/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61612,
+			"friends_count": 5912,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119710479914500100,
+		"quoted_status_id_str": "1119710479914500098",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XLNpI5Qoaw",
+			"expanded": "https://twitter.com/georginaterry/status/1119710479914500098",
+			"display": "twitter.com/georginaterry/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 20 21:12:36 +0000 2019",
+			"id": 1119710479914500100,
+			"id_str": "1119710479914500098",
+			"full_text": "This is @PippaTerry’s bed at my folks’ this bank holiday. Two sofa cushions pushed together next to my parents’ king size #duvetknowitsEaster @rhodri https://t.co/nUdUs5GoOj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "duvetknowitsEaster",
+						"indices": [
+							122,
+							141
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PippaTerry",
+						"name": "Philly",
+						"id": 349001780,
+						"id_str": "349001780",
+						"indices": [
+							8,
+							19
+						]
+					},
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							142,
+							149
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1119710471786045400,
+						"id_str": "1119710471786045441",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/D4oCvdoXoAElnEC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4oCvdoXoAElnEC.jpg",
+						"url": "https://t.co/nUdUs5GoOj",
+						"display_url": "pic.twitter.com/nUdUs5GoOj",
+						"expanded_url": "https://twitter.com/georginaterry/status/1119710479914500098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119710471786045400,
+						"id_str": "1119710471786045441",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/D4oCvdoXoAElnEC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4oCvdoXoAElnEC.jpg",
+						"url": "https://t.co/nUdUs5GoOj",
+						"display_url": "pic.twitter.com/nUdUs5GoOj",
+						"expanded_url": "https://twitter.com/georginaterry/status/1119710479914500098/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18764035,
+				"id_str": "18764035",
+				"name": "George Terry",
+				"screen_name": "georginaterry",
+				"location": "London, England",
+				"description": "Editor of @CloserOnline - online! • Lover of all dogs and most cheese • HIYA",
+				"url": "https://t.co/1Wj6TJFcyO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1Wj6TJFcyO",
+								"expanded_url": "http://terryterryandtheterriers.wordpress.com",
+								"display_url": "terryterryandtheterriers.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 826,
+				"friends_count": 465,
+				"listed_count": 14,
+				"created_at": "Thu Jan 08 14:00:13 +0000 2009",
+				"favourites_count": 1690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793534006188998656/1bTidG9o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793534006188998656/1bTidG9o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18764035/1416560019",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It would be a real struggle to make #duvetknowitsEaster into an actual THING, I think. https://t.co/XLNpI5Qoaw"
+	},
+	{
+		"created_at": "Sat Apr 20 11:36:47 +0000 2019",
+		"id": 1119565570846933000,
+		"id_str": "1119565570846932998",
+		"full_text": "Doing this tonight, at IKLECTIK, Old Paradise Yard, Carlisle Lane, London SE1. Twanggg. https://t.co/hnw5LzhPxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hnw5LzhPxn",
+					"expanded_url": "https://twitter.com/ClubIntegral/status/1119200762918256641",
+					"display_url": "twitter.com/ClubIntegral/s…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61612,
+			"friends_count": 5912,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119200762918256600,
+		"quoted_status_id_str": "1119200762918256641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hnw5LzhPxn",
+			"expanded": "https://twitter.com/ClubIntegral/status/1119200762918256641",
+			"display": "twitter.com/ClubIntegral/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 11:27:10 +0000 2019",
+			"id": 1119200762918256600,
+			"id_str": "1119200762918256641",
+			"full_text": "Saturday is set to be HOT, perfect in fact for Kenny Process Team &amp; Ronald Frazer Monro, Howie Reeve, and The Happy Couple. From 8pm. @iklectikartlab Tickets £10/£7 on the door.\nhttps://t.co/vRhLLZKcQR https://t.co/C1n65cJSvi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iklectikartlab",
+						"name": "I K L E C T I K",
+						"id": 2598052255,
+						"id_str": "2598052255",
+						"indices": [
+							138,
+							153
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vRhLLZKcQR",
+						"expanded_url": "https://www.clubintegral.com/",
+						"display_url": "clubintegral.com",
+						"indices": [
+							182,
+							205
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1119200641455464400,
+						"id_str": "1119200641455464448",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D4gzDbpXoAAjKWt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4gzDbpXoAAjKWt.jpg",
+						"url": "https://t.co/C1n65cJSvi",
+						"display_url": "pic.twitter.com/C1n65cJSvi",
+						"expanded_url": "https://twitter.com/ClubIntegral/status/1119200762918256641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 970,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 970,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119200641455464400,
+						"id_str": "1119200641455464448",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D4gzDbpXoAAjKWt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4gzDbpXoAAjKWt.jpg",
+						"url": "https://t.co/C1n65cJSvi",
+						"display_url": "pic.twitter.com/C1n65cJSvi",
+						"expanded_url": "https://twitter.com/ClubIntegral/status/1119200762918256641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 970,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 970,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110418147,
+				"id_str": "110418147",
+				"name": "Club Integral",
+				"screen_name": "ClubIntegral",
+				"location": "",
+				"description": "Left-field music and performance at venues around London - ... This adventurous music series continues... Wire Magazine",
+				"url": "http://t.co/Q3qsAprWbp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Q3qsAprWbp",
+								"expanded_url": "http://clubintegral.wordpress.com/",
+								"display_url": "clubintegral.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1124,
+				"friends_count": 2103,
+				"listed_count": 14,
+				"created_at": "Mon Feb 01 13:36:50 +0000 2010",
+				"favourites_count": 577,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1126,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3220183526/dfbbd50d25d6884fc254975e3c1fbeee_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3220183526/dfbbd50d25d6884fc254975e3c1fbeee_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110418147/1450200952",
+				"profile_link_color": "E22FEB",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Doing this tonight, at IKLECTIK, Old Paradise Yard, Carlisle Lane, London SE1. Twanggg. https://t.co/hnw5LzhPxn"
+	},
+	{
 		"created_at": "Fri Apr 19 17:40:25 +0000 2019",
 		"id": 1119294694649995300,
 		"id_str": "1119294694649995265",
