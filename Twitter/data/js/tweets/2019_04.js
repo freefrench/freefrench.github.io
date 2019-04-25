@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 19:12:20 +0000 2019",
+		"id": 1121129765061181400,
+		"id_str": "1121129765061181440",
+		"full_text": "I question the wisdom of allowing comments on a BBC News article about Easyjet banning nuts on all flights. Trust me, it's bad.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61553,
+			"friends_count": 5915,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I question the wisdom of allowing comments on a BBC News article about Easyjet banning nuts on all flights. Trust me, it's bad."
+	},
+	{
+		"created_at": "Wed Apr 24 08:39:36 +0000 2019",
+		"id": 1120970534592839700,
+		"id_str": "1120970534592839680",
+		"full_text": "@tompeck I prefer it with a bit of Elgar underneath it: https://t.co/TWgamQaXkP",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tompeck",
+					"name": "Tom Peck",
+					"id": 19884529,
+					"id_str": "19884529",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120970452539781100,
+					"id_str": "1120970452539781120",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120970452539781120/pu/img/1nmQlXILv2B_HztN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120970452539781120/pu/img/1nmQlXILv2B_HztN.jpg",
+					"url": "https://t.co/TWgamQaXkP",
+					"display_url": "pic.twitter.com/TWgamQaXkP",
+					"expanded_url": "https://twitter.com/rhodri/status/1120970534592839680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120970452539781100,
+					"id_str": "1120970452539781120",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120970452539781120/pu/img/1nmQlXILv2B_HztN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120970452539781120/pu/img/1nmQlXILv2B_HztN.jpg",
+					"url": "https://t.co/TWgamQaXkP",
+					"display_url": "pic.twitter.com/TWgamQaXkP",
+					"expanded_url": "https://twitter.com/rhodri/status/1120970534592839680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41942,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120970452539781120/pu/vid/640x360/9u0r1RjUw0PMIobA.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120970452539781120/pu/vid/1280x720/CO-P3U0uqjlowJTK.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120970452539781120/pu/vid/320x180/A9RWBMdYCbfWszBe.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1120970452539781120/pu/pl/YX_4GKuY5NH1SeFP.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1120961354725318700,
+		"in_reply_to_status_id_str": "1120961354725318657",
+		"in_reply_to_user_id": 19884529,
+		"in_reply_to_user_id_str": "19884529",
+		"in_reply_to_screen_name": "tompeck",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61553,
+			"friends_count": 5915,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tompeck I prefer it with a bit of Elgar underneath it: https://t.co/TWgamQaXkP"
+	},
+	{
+		"created_at": "Wed Apr 24 08:04:18 +0000 2019",
+		"id": 1120960101739790300,
+		"id_str": "1120961648859262977",
+		"full_text": "I genuinely believe that within my lifetime cats will be able to give us hepatitis through telepathy. And I’ll be honest I find that even scarier than the burglars currently in my house. https://t.co/WgkSbXqDuY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WgkSbXqDuY",
+					"expanded_url": "https://twitter.com/dpjhodges/status/1120706743334514689",
+					"display_url": "twitter.com/dpjhodges/stat…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56140927,
+			"id_str": "56140927",
+			"name": "Tom Neenan",
+			"screen_name": "TNeenan",
+			"location": "",
+			"description": "For 2019 Tour details visit: https://t.co/JYKtGH4ONH\nWriting: @ITG_Ltd Acting: @Ebdon Profile pic: @KitDraws:",
+			"url": "https://t.co/JYKtGH4ONH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JYKtGH4ONH",
+							"expanded_url": "http://tomneenan.com",
+							"display_url": "tomneenan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JYKtGH4ONH",
+							"expanded_url": "http://tomneenan.com",
+							"display_url": "tomneenan.com",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5575,
+			"friends_count": 1298,
+			"listed_count": 72,
+			"created_at": "Sun Jul 12 17:26:57 +0000 2009",
+			"favourites_count": 4176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046710081293873153/nD3EbggN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046710081293873153/nD3EbggN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56140927/1532040973",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120706743334514700,
+		"quoted_status_id_str": "1120706743334514689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WgkSbXqDuY",
+			"expanded": "https://twitter.com/dpjhodges/status/1120706743334514689",
+			"display": "twitter.com/dpjhodges/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 15:11:23 +0000 2019",
+			"id": 1120706743334514700,
+			"id_str": "1120706743334514689",
+			"full_text": "I genuinely think that within my lifetime we will see people going to jail for the crime of Climate Change Denial. And I'll be honest, I find that even scarier than global warming.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62123765,
+				"id_str": "62123765",
+				"name": "(((Dan Hodges)))",
+				"screen_name": "DPJHodges",
+				"location": "",
+				"description": "Commentator Mail on Sunday. 'Worst political pundit in the West' - Glenn Greenwald. Didn't attend private school. Mingled with Tories.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 118625,
+				"friends_count": 10454,
+				"listed_count": 1722,
+				"created_at": "Sat Aug 01 21:35:56 +0000 2009",
+				"favourites_count": 162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 125106,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1018744149053526016/9fvmUEGq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018744149053526016/9fvmUEGq_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 574,
+			"favorite_count": 2228,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 236,
+		"favorite_count": 1829,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I genuinely believe that within my lifetime cats will be able to give us hepatitis through telepathy. And I’ll be honest I find that even scarier than the burglars currently in my house. https://t.co/WgkSbXqDuY"
+	},
+	{
 		"created_at": "Tue Apr 23 22:44:46 +0000 2019",
 		"id": 1120820838473904100,
 		"id_str": "1120820838473904128",
