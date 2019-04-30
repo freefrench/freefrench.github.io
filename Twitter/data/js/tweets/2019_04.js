@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 21:20:54 +0000 2019",
+		"id": 1122974058373615600,
+		"id_str": "1122974058373615617",
+		"full_text": "If you've got 12 minutes spare, I just found this lovely thing on iPlayer from 1959, where John Betjeman wanders around a still-ruined postwar London reading his verse. Sixty years on, we watch it back and play Spot The Street.  https://t.co/fDI2k2qoZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fDI2k2qoZa",
+					"expanded_url": "https://www.bbc.co.uk/iplayer/episode/p022kr11/monitor-a-poet-in-london",
+					"display_url": "bbc.co.uk/iplayer/episod…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61997,
+			"friends_count": 5942,
+			"listed_count": 1068,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you've got 12 minutes spare, I just found this lovely thing on iPlayer from 1959, where John Betjeman wanders around a still-ruined postwar London reading his verse. Sixty years on, we watch it back and play Spot The Street.  https://t.co/fDI2k2qoZa"
+	},
+	{
+		"created_at": "Mon Apr 29 07:14:21 +0000 2019",
+		"id": 1121143088213319700,
+		"id_str": "1122761018617233408",
+		"full_text": "please please please watch this https://t.co/eiK7G52RDF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121143007309369300,
+					"id_str": "1121143007309369344",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121143007309369344/pu/img/XMLJvZNJraZvz3xf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121143007309369344/pu/img/XMLJvZNJraZvz3xf.jpg",
+					"url": "https://t.co/eiK7G52RDF",
+					"display_url": "pic.twitter.com/eiK7G52RDF",
+					"expanded_url": "https://twitter.com/Embotronic/status/1121143088213319681/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121143007309369300,
+					"id_str": "1121143007309369344",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121143007309369344/pu/img/XMLJvZNJraZvz3xf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121143007309369344/pu/img/XMLJvZNJraZvz3xf.jpg",
+					"url": "https://t.co/eiK7G52RDF",
+					"display_url": "pic.twitter.com/eiK7G52RDF",
+					"expanded_url": "https://twitter.com/Embotronic/status/1121143088213319681/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 39334,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121143007309369344/pu/vid/480x600/Vwenm-vl3yqpIovJ.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121143007309369344/pu/vid/320x400/Fg9K8ym4e5VfPCoI.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121143007309369344/pu/pl/qmJwDhrwIfpurb7N.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121143007309369344/pu/vid/360x450/9d8TL1K7KGQWGXn2.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 482404783,
+			"id_str": "482404783",
+			"name": "Em",
+			"screen_name": "Embotronic",
+			"location": "all pronouns all the time",
+			"description": "enby bisexualist | gamedev & writer | L&R | bitsyfolk💖 | i need to cross a border that's hard to define | 70% cute",
+			"url": "https://t.co/Y8eX318wf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y8eX318wf7",
+							"expanded_url": "https://empha.itch.io/",
+							"display_url": "empha.itch.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350,
+			"friends_count": 330,
+			"listed_count": 7,
+			"created_at": "Fri Feb 03 21:36:30 +0000 2012",
+			"favourites_count": 55356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115972206964748289/7mgDOthU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115972206964748289/7mgDOthU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/482404783/1548424210",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29496,
+		"favorite_count": 73134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "please please please watch this https://t.co/eiK7G52RDF"
+	},
+	{
 		"created_at": "Sun Apr 28 21:28:15 +0000 2019",
 		"id": 1122613524193267700,
 		"id_str": "1122613524193267713",
