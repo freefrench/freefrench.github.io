@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 10:45:17 +0000 2019",
+		"id": 1127887531813539800,
+		"id_str": "1127887531813539841",
+		"full_text": "@LucyWalkerBB Pretty much :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LucyWalkerBB",
+					"name": "Lucy Walker",
+					"id": 518517913,
+					"id_str": "518517913",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1127884737362702300,
+		"in_reply_to_status_id_str": "1127884737362702336",
+		"in_reply_to_user_id": 518517913,
+		"in_reply_to_user_id_str": "518517913",
+		"in_reply_to_screen_name": "LucyWalkerBB",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61896,
+			"friends_count": 5980,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LucyWalkerBB Pretty much :)"
+	},
+	{
+		"created_at": "Mon May 13 07:43:19 +0000 2019",
+		"id": 1127643200494108700,
+		"id_str": "1127841738872246272",
+		"full_text": "I may have had something to do with this. Who knew that you can help to raise awareness of gynae cancers with a bit of judicious editing of morning TV and pop music? https://t.co/TB70eI9dHI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126808978137264100,
+					"id_str": "1126808978137264130",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1126808978137264130/img/6lQkThrN311FXxXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1126808978137264130/img/6lQkThrN311FXxXy.jpg",
+					"url": "https://t.co/TB70eI9dHI",
+					"display_url": "pic.twitter.com/TB70eI9dHI",
+					"expanded_url": "https://twitter.com/eveappeal/status/1127642093583851520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1127642093583851500,
+					"source_status_id_str": "1127642093583851520",
+					"source_user_id": 75037497,
+					"source_user_id_str": "75037497"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126808978137264100,
+					"id_str": "1126808978137264130",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1126808978137264130/img/6lQkThrN311FXxXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1126808978137264130/img/6lQkThrN311FXxXy.jpg",
+					"url": "https://t.co/TB70eI9dHI",
+					"display_url": "pic.twitter.com/TB70eI9dHI",
+					"expanded_url": "https://twitter.com/eveappeal/status/1127642093583851520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1127642093583851500,
+					"source_status_id_str": "1127642093583851520",
+					"source_user_id": 75037497,
+					"source_user_id_str": "75037497",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59800,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1126808978137264130/vid/1280x720/LM5G-RHWi-N18MWB.mp4?tag=12"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1126808978137264130/vid/320x180/M4gDGu6AlYFX4sfl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1126808978137264130/pl/7jFi3nwRVvvmVUX8.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1126808978137264130/vid/640x360/qw3V36bPtumYAkfq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 75037497,
+							"id_str": "75037497",
+							"name": "The Eve Appeal",
+							"screen_name": "eveappeal",
+							"location": "UK",
+							"description": "Women’s cancer charity raising awareness & funding research in the #GynaeCancers WOMB|OVARIAN|CERVICAL|VULVAL|VAGINAL #KnowYourBody #GetLippy #TalkingTaboos",
+							"url": "https://t.co/W1rC5wx3q4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/W1rC5wx3q4",
+											"expanded_url": "http://www.eveappeal.org.uk",
+											"display_url": "eveappeal.org.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11749,
+							"friends_count": 5238,
+							"listed_count": 264,
+							"created_at": "Thu Sep 17 15:25:38 +0000 2009",
+							"favourites_count": 25782,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 33412,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/765532042079633408/9sSdABd-_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/765532042079633408/9sSdABd-_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/75037497/1556720381",
+							"profile_link_color": "C60C30",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61896,
+			"friends_count": 5980,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I may have had something to do with this. Who knew that you can help to raise awareness of gynae cancers with a bit of judicious editing of morning TV and pop music? https://t.co/TB70eI9dHI"
+	},
+	{
+		"created_at": "Mon May 13 07:40:30 +0000 2019",
+		"id": 1127841030227861500,
+		"id_str": "1127841030227861504",
+		"full_text": "@JasmineSarais @bulbenergy hello Bulb, I also have this question.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasmineSarais",
+					"name": "JAZ 🐊",
+					"id": 769505114780557300,
+					"id_str": "769505114780557312",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "bulbenergy",
+					"name": "Bulb",
+					"id": 3345398506,
+					"id_str": "3345398506",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1127488320362242000,
+		"in_reply_to_status_id_str": "1127488320362242049",
+		"in_reply_to_user_id": 769505114780557300,
+		"in_reply_to_user_id_str": "769505114780557312",
+		"in_reply_to_screen_name": "JasmineSarais",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61896,
+			"friends_count": 5980,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JasmineSarais @bulbenergy hello Bulb, I also have this question."
+	},
+	{
 		"created_at": "Sun May 12 18:47:31 +0000 2019",
 		"id": 1127646504410341400,
 		"id_str": "1127646504410341376",
