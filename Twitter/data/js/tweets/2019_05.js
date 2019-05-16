@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 22:23:58 +0000 2019",
+		"id": 1128788136836948000,
+		"id_str": "1128788136836947969",
+		"full_text": "@weirwrite @DreamThemesUK I do a mean \"Some Mothers\" solo, but the middle section – man, have you heard it? It's AMAZING https://t.co/vasT9jmJCH",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weirwrite",
+					"name": "G. K. Weir",
+					"id": 2345657696,
+					"id_str": "2345657696",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DreamThemesUK",
+					"name": "Dream Themes",
+					"id": 2166720072,
+					"id_str": "2166720072",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vasT9jmJCH",
+					"expanded_url": "https://www.youtube.com/watch?v=4mJWCfGj8Jk",
+					"display_url": "youtube.com/watch?v=4mJWCf…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1128747367534977000,
+		"in_reply_to_status_id_str": "1128747367534977024",
+		"in_reply_to_user_id": 2345657696,
+		"in_reply_to_user_id_str": "2345657696",
+		"in_reply_to_screen_name": "weirwrite",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61878,
+			"friends_count": 5986,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@weirwrite @DreamThemesUK I do a mean \"Some Mothers\" solo, but the middle section – man, have you heard it? It's AMAZING https://t.co/vasT9jmJCH"
+	},
+	{
+		"created_at": "Wed May 15 17:39:10 +0000 2019",
+		"id": 1128716464695971800,
+		"id_str": "1128716464695971841",
+		"full_text": "@Kezekiel @DreamThemesUK We used to play it but we stopped because it was always a bit of a downer for some reason :)",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kezekiel",
+					"name": "Kerry McQueeney",
+					"id": 135941576,
+					"id_str": "135941576",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "DreamThemesUK",
+					"name": "Dream Themes",
+					"id": 2166720072,
+					"id_str": "2166720072",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1128711758762455000,
+		"in_reply_to_status_id_str": "1128711758762455040",
+		"in_reply_to_user_id": 135941576,
+		"in_reply_to_user_id_str": "135941576",
+		"in_reply_to_screen_name": "Kezekiel",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61878,
+			"friends_count": 5986,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Kezekiel @DreamThemesUK We used to play it but we stopped because it was always a bit of a downer for some reason :)"
+	},
+	{
+		"created_at": "Wed May 15 16:18:23 +0000 2019",
+		"id": 1128696134384459800,
+		"id_str": "1128696134384459778",
+		"full_text": "@Kezekiel @DreamThemesUK Not as yet! We've been a bit quiet and are planning a resurgence.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kezekiel",
+					"name": "Kerry McQueeney",
+					"id": 135941576,
+					"id_str": "135941576",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "DreamThemesUK",
+					"name": "Dream Themes",
+					"id": 2166720072,
+					"id_str": "2166720072",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1128690512507166700,
+		"in_reply_to_status_id_str": "1128690512507166720",
+		"in_reply_to_user_id": 135941576,
+		"in_reply_to_user_id_str": "135941576",
+		"in_reply_to_screen_name": "Kezekiel",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61878,
+			"friends_count": 5986,
+			"listed_count": 1066,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Kezekiel @DreamThemesUK Not as yet! We've been a bit quiet and are planning a resurgence."
+	},
+	{
+		"created_at": "Wed May 15 11:10:06 +0000 2019",
+		"id": 1128560620125806600,
+		"id_str": "1128618553404461056",
+		"full_text": "Have a listen to this week’s pod as @scrittipolitti’s Green Gartside talks famous collaborations, musical reinventions, social anxiety and more with @TedKessler1. Also available on Spotify, Google Play &amp; Planet Radio. https://t.co/NkPCI53rB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"screen_name": "TedKessler1",
+					"name": "Ted Kessler",
+					"id": 368971084,
+					"id_str": "368971084",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NkPCI53rB3",
+					"expanded_url": "https://podcasts.apple.com/gb/podcast/q-presents-the-making-of/id1455521769?i=1000437988800",
+					"display_url": "podcasts.apple.com/gb/podcast/q-p…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20428265,
+			"id_str": "20428265",
+			"name": "Q Magazine",
+			"screen_name": "QMagazine",
+			"location": "London, England",
+			"description": "The world's greatest music magazine.",
+			"url": "https://t.co/NwolDd8eh6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NwolDd8eh6",
+							"expanded_url": "http://www.qthemusic.com",
+							"display_url": "qthemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140881,
+			"friends_count": 1063,
+			"listed_count": 2940,
+			"created_at": "Mon Feb 09 11:03:11 +0000 2009",
+			"favourites_count": 2643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22509,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/512643875/Q_LOGOweb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/512643875/Q_LOGOweb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20428265/1445613114",
+			"profile_link_color": "E0001C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "2B2B2B",
+			"profile_text_color": "9F9D9D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have a listen to this week’s pod as @scrittipolitti’s Green Gartside talks famous collaborations, musical reinventions, social anxiety and more with @TedKessler1. Also available on Spotify, Google Play &amp; Planet Radio. https://t.co/NkPCI53rB3"
+	},
+	{
 		"created_at": "Tue May 14 21:16:42 +0000 2019",
 		"id": 1128408819795669000,
 		"id_str": "1128408819795668992",
@@ -1421,7 +1907,7 @@ Grailbird.data.tweets_2019_05 =
 				},
 				{
 					"screen_name": "wiilassie",
-					"name": "Edith S 🧜‍♀️",
+					"name": "Edith S 🧜♀️",
 					"id": 14716838,
 					"id_str": "14716838",
 					"indices": [
