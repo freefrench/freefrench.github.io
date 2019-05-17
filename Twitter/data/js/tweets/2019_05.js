@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 11:23:18 +0000 2019",
+		"id": 1128712226980925400,
+		"id_str": "1128984262135439360",
+		"full_text": "It's been two days and I can't stop wondering why this stock photo exists. https://t.co/6RfuGBnYvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128712224464351200,
+					"id_str": "1128712224464351234",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D6n9ybjWsAIHHPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6n9ybjWsAIHHPI.jpg",
+					"url": "https://t.co/6RfuGBnYvC",
+					"display_url": "pic.twitter.com/6RfuGBnYvC",
+					"expanded_url": "https://twitter.com/biancdee/status/1128712226980925446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128712224464351200,
+					"id_str": "1128712224464351234",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D6n9ybjWsAIHHPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6n9ybjWsAIHHPI.jpg",
+					"url": "https://t.co/6RfuGBnYvC",
+					"display_url": "pic.twitter.com/6RfuGBnYvC",
+					"expanded_url": "https://twitter.com/biancdee/status/1128712226980925446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 473224816,
+			"id_str": "473224816",
+			"name": "Bianca Dee",
+			"screen_name": "biancdee",
+			"location": "London, England",
+			"description": "Silently wishing every day for someone  to start a Grime Karaoke bar in London so that I don't have to. \n\nMarketing for 11:FS.\nBonus member of @BRCKHMPTN.",
+			"url": "https://t.co/CrHWNWN5rG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrHWNWN5rG",
+							"expanded_url": "http://www.linkedin.com/in/biancasarafian/",
+							"display_url": "linkedin.com/in/biancasaraf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380,
+			"friends_count": 768,
+			"listed_count": 2,
+			"created_at": "Tue Jan 24 19:21:55 +0000 2012",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02070A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983670457344946178/ugfHTCVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983670457344946178/ugfHTCVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/473224816/1558000231",
+			"profile_link_color": "4BBBB3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3798b82d031ee49c",
+			"url": "https://api.twitter.com/1.1/geo/id/3798b82d031ee49c.json",
+			"place_type": "city",
+			"name": "Merton",
+			"full_name": "Merton, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.254269,
+							51.379947
+						],
+						[
+							-0.124309,
+							51.379947
+						],
+						[
+							-0.124309,
+							51.441804
+						],
+						[
+							-0.254269,
+							51.441804
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2909,
+		"favorite_count": 10758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been two days and I can't stop wondering why this stock photo exists. https://t.co/6RfuGBnYvC"
+	},
+	{
 		"created_at": "Wed May 15 22:23:58 +0000 2019",
 		"id": 1128788136836948000,
 		"id_str": "1128788136836947969",
