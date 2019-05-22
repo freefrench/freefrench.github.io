@@ -1,6 +1,1748 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 22:56:04 +0000 2019",
+		"id": 1130970543702892500,
+		"id_str": "1130970543702892545",
+		"full_text": "@Dorianlynskey People like her make me want to paint myself in woad and live in a dwelling made of wattle and fucking daub.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dorianlynskey",
+					"name": "Dorian Lynskey",
+					"id": 35463810,
+					"id_str": "35463810",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130969963223801900,
+		"in_reply_to_status_id_str": "1130969963223801856",
+		"in_reply_to_user_id": 35463810,
+		"in_reply_to_user_id_str": "35463810",
+		"in_reply_to_screen_name": "Dorianlynskey",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dorianlynskey People like her make me want to paint myself in woad and live in a dwelling made of wattle and fucking daub."
+	},
+	{
+		"created_at": "Tue May 21 22:54:06 +0000 2019",
+		"id": 1130970047516729300,
+		"id_str": "1130970047516729344",
+		"full_text": "I dunno if anyone feels like becoming massively depressed before bedtime, but I’ve found the ideal video if that’s your bag. Get stuck in and reap the meagre rewards. https://t.co/kPlacp1oX6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kPlacp1oX6",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1130957968692961280",
+					"display_url": "twitter.com/JimMFelton/sta…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130957968692961300,
+		"quoted_status_id_str": "1130957968692961280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kPlacp1oX6",
+			"expanded": "https://twitter.com/JimMFelton/status/1130957968692961280",
+			"display": "twitter.com/JimMFelton/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 21 22:06:06 +0000 2019",
+			"id": 1130957968692961300,
+			"id_str": "1130957968692961280",
+			"full_text": "This ridiculous footage of a Brexiteer being called a traitory snowflake for not quite being brexity enough is an amazing summary of where Brexit is right now\nhttps://t.co/D9YhUSwZSg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1130934770668646400,
+						"id_str": "1130934770668646402",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1130934770668646402/img/_FmgkM_P-4lcWwo5.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1130934770668646402/img/_FmgkM_P-4lcWwo5.jpg",
+						"url": "https://t.co/D9YhUSwZSg",
+						"display_url": "pic.twitter.com/D9YhUSwZSg",
+						"expanded_url": "https://twitter.com/BBCWalesNews/status/1130940872445579264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1130940872445579300,
+						"source_status_id_str": "1130940872445579264",
+						"source_user_id": 306197611,
+						"source_user_id_str": "306197611"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130934770668646400,
+						"id_str": "1130934770668646402",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1130934770668646402/img/_FmgkM_P-4lcWwo5.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1130934770668646402/img/_FmgkM_P-4lcWwo5.jpg",
+						"url": "https://t.co/D9YhUSwZSg",
+						"display_url": "pic.twitter.com/D9YhUSwZSg",
+						"expanded_url": "https://twitter.com/BBCWalesNews/status/1130940872445579264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1130940872445579300,
+						"source_status_id_str": "1130940872445579264",
+						"source_user_id": 306197611,
+						"source_user_id_str": "306197611",
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": false,
+							"monetizable": false,
+							"source_user": {
+								"id": 306197611,
+								"id_str": "306197611",
+								"name": "BBC Wales News",
+								"screen_name": "BBCWalesNews",
+								"location": "Wales",
+								"description": "Breaking news, features & analysis.  Instagram: https://t.co/WFiEymC1Iw • Politics: @WalesPolitics • Sport: @BBCSportWales",
+								"url": "https://t.co/BVSckf763H",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/BVSckf763H",
+												"expanded_url": "http://bbc.co.uk/walesnews",
+												"display_url": "bbc.co.uk/walesnews",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/WFiEymC1Iw",
+												"expanded_url": "http://bbc.in/inwales",
+												"display_url": "bbc.in/inwales",
+												"indices": [
+													48,
+													71
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 88104,
+								"friends_count": 366,
+								"listed_count": 714,
+								"created_at": "Fri May 27 13:20:26 +0000 2011",
+								"favourites_count": 844,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 64294,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "CA0813",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1121048858866409479/otzUPL7J_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121048858866409479/otzUPL7J_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/306197611/1541972954",
+								"profile_link_color": "CA0813",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2904913023,
+				"id_str": "2904913023",
+				"name": "James Felton",
+				"screen_name": "JimMFelton",
+				"location": "",
+				"description": "TV and Radio comedy writer: BAFTA winning The Dog Ate My Homework, The Guessing Game, BTN & others. Writer/social media @iflscience",
+				"url": "https://t.co/tOglfqGCnz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tOglfqGCnz",
+								"expanded_url": "https://twitter.com/search?q=from%3Ajimmfelton%20-%20exclude%3Areplies%20min_retweets%3A300&src=typd",
+								"display_url": "twitter.com/search?q=from%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90002,
+				"friends_count": 3823,
+				"listed_count": 695,
+				"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+				"favourites_count": 121440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1552594375",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 547,
+			"favorite_count": 1622,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I dunno if anyone feels like becoming massively depressed before bedtime, but I’ve found the ideal video if that’s your bag. Get stuck in and reap the meagre rewards. https://t.co/kPlacp1oX6"
+	},
+	{
+		"created_at": "Tue May 21 19:26:11 +0000 2019",
+		"id": 1130917725268848600,
+		"id_str": "1130917725268848643",
+		"full_text": "@sesp @paperclipracket I know!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sesp",
+					"name": "Sarah",
+					"id": 17054747,
+					"id_str": "17054747",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "paperclipracket",
+					"name": "nath",
+					"id": 16577187,
+					"id_str": "16577187",
+					"indices": [
+						6,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130917650836742100,
+		"in_reply_to_status_id_str": "1130917650836742144",
+		"in_reply_to_user_id": 17054747,
+		"in_reply_to_user_id_str": "17054747",
+		"in_reply_to_screen_name": "sesp",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sesp @paperclipracket I know!"
+	},
+	{
+		"created_at": "Tue May 21 19:25:20 +0000 2019",
+		"id": 1130917509123723300,
+		"id_str": "1130917509123723264",
+		"full_text": "@mchllcy Not only is it real, it’s eight minutes long.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mchllcy",
+					"name": "Michael Lacey",
+					"id": 294156421,
+					"id_str": "294156421",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130915479693004800,
+		"in_reply_to_status_id_str": "1130915479693004801",
+		"in_reply_to_user_id": 294156421,
+		"in_reply_to_user_id_str": "294156421",
+		"in_reply_to_screen_name": "mchllcy",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mchllcy Not only is it real, it’s eight minutes long."
+	},
+	{
+		"created_at": "Tue May 21 19:19:46 +0000 2019",
+		"id": 1130916109090283500,
+		"id_str": "1130916109090283528",
+		"full_text": "@paperclipracket New Culture Revolution in Angel! Gutted.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paperclipracket",
+					"name": "nath",
+					"id": 16577187,
+					"id_str": "16577187",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130915428505727000,
+		"in_reply_to_status_id_str": "1130915428505726976",
+		"in_reply_to_user_id": 16577187,
+		"in_reply_to_user_id_str": "16577187",
+		"in_reply_to_screen_name": "paperclipracket",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paperclipracket New Culture Revolution in Angel! Gutted."
+	},
+	{
+		"created_at": "Tue May 21 19:04:48 +0000 2019",
+		"id": 1130912341166612500,
+		"id_str": "1130912341166612480",
+		"full_text": "Anyway, here’s the full thing, and it’s worth sticking around for the flying camels. I’m dead proud of all its many ridiculousnesses and pointlessnesses. We play at The Victoria, London E8 next week, Friday 31st May. https://t.co/sVidXjqDUu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sVidXjqDUu",
+					"expanded_url": "https://youtu.be/rHT27-Dzweg",
+					"display_url": "youtu.be/rHT27-Dzweg",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130912117488521200,
+		"in_reply_to_status_id_str": "1130912117488521216",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyway, here’s the full thing, and it’s worth sticking around for the flying camels. I’m dead proud of all its many ridiculousnesses and pointlessnesses. We play at The Victoria, London E8 next week, Friday 31st May. https://t.co/sVidXjqDUu"
+	},
+	{
+		"created_at": "Tue May 21 19:03:54 +0000 2019",
+		"id": 1130912117488521200,
+		"id_str": "1130912117488521216",
+		"full_text": "“Some people say they can see sound as colour, I don’t believe they can / They don’t know where imagination ends, or maybe they just want to impress their friends / They make out they’ve got some special secret skill, but I don’t believe them, and I never will”. PROVOCATIVE, HUH?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130911959291793400,
+		"in_reply_to_status_id_str": "1130911959291793408",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Some people say they can see sound as colour, I don’t believe they can / They don’t know where imagination ends, or maybe they just want to impress their friends / They make out they’ve got some special secret skill, but I don’t believe them, and I never will”. PROVOCATIVE, HUH?"
+	},
+	{
+		"created_at": "Tue May 21 19:03:17 +0000 2019",
+		"id": 1130911959291793400,
+		"id_str": "1130911959291793408",
+		"full_text": "I’m in a band called @lostcrowns. I spent a brain-frying amount of time working on this track, called Sound As Colour, in which our singer states his doubts about whether synaesthesia is really a *thing*. The full thing is 8 mins long. This is an excerpt: https://t.co/KtN4uChqE1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lostcrowns",
+					"name": "Lost Crowns",
+					"id": 1057319909510824000,
+					"id_str": "1057319909510823936",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130818142501003300,
+					"id_str": "1130818142501003264",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/D7F6AG_WkAAoK6m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7F6AG_WkAAoK6m.jpg",
+					"url": "https://t.co/KtN4uChqE1",
+					"display_url": "pic.twitter.com/KtN4uChqE1",
+					"expanded_url": "https://twitter.com/lostcrowns/status/1130910882534498305/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1130910882534498300,
+					"source_status_id_str": "1130910882534498305",
+					"source_user_id": 1057319909510824000,
+					"source_user_id_str": "1057319909510823936"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130818142501003300,
+					"id_str": "1130818142501003264",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/D7F6AG_WkAAoK6m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7F6AG_WkAAoK6m.jpg",
+					"url": "https://t.co/KtN4uChqE1",
+					"display_url": "pic.twitter.com/KtN4uChqE1",
+					"expanded_url": "https://twitter.com/lostcrowns/status/1130910882534498305/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1130910882534498300,
+					"source_status_id_str": "1130910882534498305",
+					"source_user_id": 1057319909510824000,
+					"source_user_id_str": "1057319909510823936",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49560,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1130818142501003264/pl/AtYqvtf3Fb8zTNXA.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130818142501003264/vid/1280x720/Mv_sAB1OuoN5v9nC.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130818142501003264/vid/640x360/zJ89tn564D2mx_ir.mp4?tag=12"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130818142501003264/vid/320x180/rucEC9nQYvEF-pOX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Lost Crowns - Sound As Colour",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://www.youtube.com/watch?v=rHT27-Dzweg"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1057319909510824000,
+							"id_str": "1057319909510823936",
+							"name": "Lost Crowns",
+							"screen_name": "lostcrowns",
+							"location": "London, England",
+							"description": "Weird music supergroup, featuring members of Stars In Battledress, Knifeworld, North Sea Radio Orchestra, and Scritti Politti. Album now available to pre-order.",
+							"url": "https://t.co/cdaggnj9Kf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/cdaggnj9Kf",
+											"expanded_url": "http://www.lostcrowns.co.uk",
+											"display_url": "lostcrowns.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 245,
+							"friends_count": 559,
+							"listed_count": 3,
+							"created_at": "Tue Oct 30 17:14:45 +0000 2018",
+							"favourites_count": 44,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 41,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1066991407565541377/wLPWAWuf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066991407565541377/wLPWAWuf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057319909510823936/1542202771",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m in a band called @lostcrowns. I spent a brain-frying amount of time working on this track, called Sound As Colour, in which our singer states his doubts about whether synaesthesia is really a *thing*. The full thing is 8 mins long. This is an excerpt: https://t.co/KtN4uChqE1"
+	},
+	{
+		"created_at": "Tue May 21 17:59:21 +0000 2019",
+		"id": 1130895873012117500,
+		"id_str": "1130895873012117504",
+		"full_text": "@hansmollman @MarinaHyde @ladyhaja @jessbrammar Can I supply the theme tune, which would borrow heavily from “Jake The Peg (diddle-iddle-iddle-um)” thanks",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hansmollman",
+					"name": "Mollie Goodfellow",
+					"id": 86101978,
+					"id_str": "86101978",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MarinaHyde",
+					"name": "Marina Hyde",
+					"id": 308379387,
+					"id_str": "308379387",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "ladyhaja",
+					"name": "Hannah Jane Parkinson",
+					"id": 290735485,
+					"id_str": "290735485",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "jessbrammar",
+					"name": "Jess Brammar",
+					"id": 45806408,
+					"id_str": "45806408",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130804439512690700,
+		"in_reply_to_status_id_str": "1130804439512690690",
+		"in_reply_to_user_id": 86101978,
+		"in_reply_to_user_id_str": "86101978",
+		"in_reply_to_screen_name": "hansmollman",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hansmollman @MarinaHyde @ladyhaja @jessbrammar Can I supply the theme tune, which would borrow heavily from “Jake The Peg (diddle-iddle-iddle-um)” thanks"
+	},
+	{
+		"created_at": "Tue May 21 17:54:45 +0000 2019",
+		"id": 1130894712989208600,
+		"id_str": "1130894712989208577",
+		"full_text": "@DarrenJohnson66 Oh man.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarrenJohnson66",
+					"name": "Darren Johnson",
+					"id": 78615346,
+					"id_str": "78615346",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130894015040282600,
+		"in_reply_to_status_id_str": "1130894015040282626",
+		"in_reply_to_user_id": 78615346,
+		"in_reply_to_user_id_str": "78615346",
+		"in_reply_to_screen_name": "DarrenJohnson66",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DarrenJohnson66 Oh man."
+	},
+	{
+		"created_at": "Tue May 21 17:18:35 +0000 2019",
+		"id": 1130885612037378000,
+		"id_str": "1130885612037378048",
+		"full_text": "@stephencgrant I can even make my own dinner",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephencgrant",
+					"name": "Stephen Grant",
+					"id": 35887286,
+					"id_str": "35887286",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1130885427081175000,
+		"in_reply_to_status_id_str": "1130885427081175041",
+		"in_reply_to_user_id": 35887286,
+		"in_reply_to_user_id_str": "35887286",
+		"in_reply_to_screen_name": "stephencgrant",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stephencgrant I can even make my own dinner"
+	},
+	{
+		"created_at": "Tue May 21 17:16:22 +0000 2019",
+		"id": 1130885054866051100,
+		"id_str": "1130885054866051072",
+		"full_text": "What I’ve discovered in the last few minutes is this: if there’s a restaurant you’ve enjoyed going to for years because it’s always Quiet and Empty, it will eventually shut down on account of always being Quiet and Empty. No shit, huh?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61824,
+			"friends_count": 6003,
+			"listed_count": 1065,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "What I’ve discovered in the last few minutes is this: if there’s a restaurant you’ve enjoyed going to for years because it’s always Quiet and Empty, it will eventually shut down on account of always being Quiet and Empty. No shit, huh?"
+	},
+	{
 		"created_at": "Mon May 20 21:15:45 +0000 2019",
 		"id": 1130582911378513900,
 		"id_str": "1130582911378513921",
