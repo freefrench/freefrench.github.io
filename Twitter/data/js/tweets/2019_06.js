@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 20:23:30 +0000 2019",
+		"id": 1141803782843641900,
+		"id_str": "1141803782843641861",
+		"full_text": "Currently recording the forthcoming @DreamThemesUK release with @dickymoo. The theme tune to @BBCNewsnight has never sounded this majestic. Ditto Murder She Wrote. One hell of a double a-side, eh.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DreamThemesUK",
+					"name": "Dream Themes",
+					"id": 2166720072,
+					"id_str": "2166720072",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "BBCNewsnight",
+					"name": "BBC Newsnight",
+					"id": 20543416,
+					"id_str": "20543416",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61677,
+			"friends_count": 6059,
+			"listed_count": 1063,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Currently recording the forthcoming @DreamThemesUK release with @dickymoo. The theme tune to @BBCNewsnight has never sounded this majestic. Ditto Murder She Wrote. One hell of a double a-side, eh."
+	},
+	{
+		"created_at": "Thu Jun 20 20:20:00 +0000 2019",
+		"id": 1141802901972668400,
+		"id_str": "1141802901972668417",
+		"full_text": "@iainaitch *polishes brass buttons*",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iainaitch",
+					"name": "Iain Aitch",
+					"id": 20504767,
+					"id_str": "20504767",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1141772790917451800,
+		"in_reply_to_status_id_str": "1141772790917451776",
+		"in_reply_to_user_id": 20504767,
+		"in_reply_to_user_id_str": "20504767",
+		"in_reply_to_screen_name": "iainaitch",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61677,
+			"friends_count": 6059,
+			"listed_count": 1063,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iainaitch *polishes brass buttons*"
+	},
+	{
+		"created_at": "Thu Jun 20 18:18:20 +0000 2019",
+		"id": 1141772286657212400,
+		"id_str": "1141772286657212417",
+		"full_text": "One quick way of me assessing people is to make absolutely sure that they don’t assess people in terms of their supposed ability to command a platoon of 36 soldiers. It always works.  Always. https://t.co/22dNwALDtB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/22dNwALDtB",
+					"expanded_url": "https://twitter.com/VictoriaLIVE/status/1141645071399313408",
+					"display_url": "twitter.com/VictoriaLIVE/s…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61677,
+			"friends_count": 6059,
+			"listed_count": 1063,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141645071399313400,
+		"quoted_status_id_str": "1141645071399313408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/22dNwALDtB",
+			"expanded": "https://twitter.com/VictoriaLIVE/status/1141645071399313408",
+			"display": "twitter.com/VictoriaLIVE/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 20 09:52:50 +0000 2019",
+			"id": 1141645071399313400,
+			"id_str": "1141645071399313408",
+			"full_text": "“One quick way of me assessing people is whether I would trust them with a platoon of 36 soldiers if they had to do an attack”\n\nTory MP and ex-Army officer Bob Stewart on why he’s backing Boris Johnson as Prime Minister\n\nhttps://t.co/OuCiTQJuTE #VictoriaLIVE https://t.co/fq66aTsZod",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VictoriaLIVE",
+						"indices": [
+							245,
+							258
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OuCiTQJuTE",
+						"expanded_url": "http://bbc.in/2IU6DQV",
+						"display_url": "bbc.in/2IU6DQV",
+						"indices": [
+							221,
+							244
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1141644934006448100,
+						"id_str": "1141644934006448129",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D9fwIynVAAAd1Em.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9fwIynVAAAd1Em.jpg",
+						"url": "https://t.co/fq66aTsZod",
+						"display_url": "pic.twitter.com/fq66aTsZod",
+						"expanded_url": "https://twitter.com/VictoriaLIVE/status/1141645071399313408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1141644934006448100,
+						"id_str": "1141644934006448129",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D9fwIynVAAAd1Em.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9fwIynVAAAd1Em.jpg",
+						"url": "https://t.co/fq66aTsZod",
+						"display_url": "pic.twitter.com/fq66aTsZod",
+						"expanded_url": "https://twitter.com/VictoriaLIVE/status/1141645071399313408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 85600,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1141644934006448129/vid/640x360/ZR8bZC_9JFJmA79Z.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1141644934006448129/vid/1280x720/xfWRp7CqIvBFInmN.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1141644934006448129/pl/x1CNdI5gFbD2PqRh.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1141644934006448129/vid/480x270/pEzD2h-8f2LDmfG6.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Video",
+							"description": "#VictoriaLIVE",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.bbc.co.uk/programmes/b05qqk5c"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3082499172,
+				"id_str": "3082499172",
+				"name": "Victoria Derbyshire",
+				"screen_name": "VictoriaLIVE",
+				"location": "",
+				"description": "BAFTA-winning news show, on @BBCTwo, @BBCNews & online Mon-Fri 10-11am.  Original stories, exclusive interviews, debate & breaking news. #VictoriaLIVE",
+				"url": "https://t.co/PLURgGS56z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PLURgGS56z",
+								"expanded_url": "http://bbc.co.uk/victoria",
+								"display_url": "bbc.co.uk/victoria",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64077,
+				"friends_count": 3177,
+				"listed_count": 551,
+				"created_at": "Sat Mar 14 22:10:18 +0000 2015",
+				"favourites_count": 3244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25056,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102487738668978176/NKBw9pqe_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102487738668978176/NKBw9pqe_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3082499172/1551701205",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 160,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One quick way of me assessing people is to make absolutely sure that they don’t assess people in terms of their supposed ability to command a platoon of 36 soldiers. It always works.  Always. https://t.co/22dNwALDtB"
+	},
+	{
+		"created_at": "Thu Jun 20 15:43:33 +0000 2019",
+		"id": 1141527175394410500,
+		"id_str": "1141733333262569473",
+		"full_text": "This (real) video from GE on how to reset their \"C\" light bulbs is the most incredible how-to video you'll ever see.\n\nThey want to see how far they can push their customers before they snap.   https://t.co/gbXOc543fy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gbXOc543fy",
+					"expanded_url": "https://youtu.be/1BB6wj6RyKo",
+					"display_url": "youtu.be/1BB6wj6RyKo",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813311743,
+			"id_str": "813311743",
+			"name": "Josh Jordan",
+			"screen_name": "NumbersMuncher",
+			"location": "Chicago, IL",
+			"description": "What a time to be alive.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47291,
+			"friends_count": 471,
+			"listed_count": 1512,
+			"created_at": "Sun Sep 09 15:11:00 +0000 2012",
+			"favourites_count": 8545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 60283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914900893706924032/P1zS0T0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914900893706924032/P1zS0T0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813311743/1497497324",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5073,
+		"favorite_count": 12655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This (real) video from GE on how to reset their \"C\" light bulbs is the most incredible how-to video you'll ever see.\n\nThey want to see how far they can push their customers before they snap.   https://t.co/gbXOc543fy"
+	},
+	{
+		"created_at": "Thu Jun 20 08:56:41 +0000 2019",
+		"id": 1141320337084338200,
+		"id_str": "1141630939711361024",
+		"full_text": "“You can’t make Hitler analogies until there are at least six million dead” say people who make Stalin analogies when the top marginal tax rate goes up by 3%.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14911886,
+			"id_str": "14911886",
+			"name": "Jacob T. Levy",
+			"screen_name": "jtlevy",
+			"location": "Montreal, Quebec",
+			"description": "Jacob T. Levy, Tomlinson Prof of Political Theory, McGill. RPF https://t.co/6IHDQBE8Sj Niskanen https://t.co/VzP09U5Zei Opinions here are mine not McGill's.",
+			"url": "https://t.co/xXRVmJpUon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xXRVmJpUon",
+							"expanded_url": "http://jacobtlevy.com",
+							"display_url": "jacobtlevy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6IHDQBE8Sj",
+							"expanded_url": "http://amzn.to/1osWYDC",
+							"display_url": "amzn.to/1osWYDC",
+							"indices": [
+								63,
+								86
+							]
+						},
+						{
+							"url": "https://t.co/VzP09U5Zei",
+							"expanded_url": "http://tinyurl.com/gpu3rzw",
+							"display_url": "tinyurl.com/gpu3rzw",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16791,
+			"friends_count": 879,
+			"listed_count": 449,
+			"created_at": "Mon May 26 18:36:30 +0000 2008",
+			"favourites_count": 64631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084893234126409728/fp2M5AHO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084893234126409728/fp2M5AHO_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18351,
+		"favorite_count": 68770,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“You can’t make Hitler analogies until there are at least six million dead” say people who make Stalin analogies when the top marginal tax rate goes up by 3%."
+	},
+	{
+		"created_at": "Thu Jun 20 08:55:26 +0000 2019",
+		"id": 1141630626702987300,
+		"id_str": "1141630626702987264",
+		"full_text": "@Tesco Your Lea Bridge Rd branch of Tesco Express is like a barren wasteland. Has been for a few days, now. It’s how I imagine supermarkets to look after no deal Brexit. Any chance of getting some food in there?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tesco",
+					"name": "Tesco",
+					"id": 271986064,
+					"id_str": "271986064",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 271986064,
+		"in_reply_to_user_id_str": "271986064",
+		"in_reply_to_screen_name": "Tesco",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61677,
+			"friends_count": 6059,
+			"listed_count": 1063,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Tesco Your Lea Bridge Rd branch of Tesco Express is like a barren wasteland. Has been for a few days, now. It’s how I imagine supermarkets to look after no deal Brexit. Any chance of getting some food in there?"
+	},
+	{
+		"created_at": "Thu Jun 20 06:18:41 +0000 2019",
+		"id": 1141591177419984900,
+		"id_str": "1141591177419984896",
+		"full_text": "@robotmaths Hahah",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robotmaths",
+					"name": "RobotMaths",
+					"id": 19901094,
+					"id_str": "19901094",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1141590588397097000,
+		"in_reply_to_status_id_str": "1141590588397096960",
+		"in_reply_to_user_id": 19901094,
+		"in_reply_to_user_id_str": "19901094",
+		"in_reply_to_screen_name": "robotmaths",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61677,
+			"friends_count": 6059,
+			"listed_count": 1063,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 9908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@robotmaths Hahah"
+	},
+	{
 		"created_at": "Wed Jun 19 23:06:54 +0000 2019",
 		"id": 1141482519348613100,
 		"id_str": "1141482519348613120",
