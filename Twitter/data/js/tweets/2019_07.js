@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 23:38:19 +0000 2019",
+		"id": 1148375793015414800,
+		"id_str": "1148375793015414784",
+		"full_text": "Hello hello. Someone has gone all Christmassy on their house’s ass, but 169 days early. https://t.co/JFwLMWKvhL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148375779203530800,
+					"id_str": "1148375779203530753",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D-_Zr9QWwAEq12P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-_Zr9QWwAEq12P.jpg",
+					"url": "https://t.co/JFwLMWKvhL",
+					"display_url": "pic.twitter.com/JFwLMWKvhL",
+					"expanded_url": "https://twitter.com/rhodri/status/1148375793015414784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148375779203530800,
+					"id_str": "1148375779203530753",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D-_Zr9QWwAEq12P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-_Zr9QWwAEq12P.jpg",
+					"url": "https://t.co/JFwLMWKvhL",
+					"display_url": "pic.twitter.com/JFwLMWKvhL",
+					"expanded_url": "https://twitter.com/rhodri/status/1148375793015414784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61576,
+			"friends_count": 6088,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello hello. Someone has gone all Christmassy on their house’s ass, but 169 days early. https://t.co/JFwLMWKvhL"
+	},
+	{
+		"created_at": "Mon Jul 08 18:19:08 +0000 2019",
+		"id": 1148168371051094000,
+		"id_str": "1148295467761131526",
+		"full_text": "The. Peas. Are. Upside. Down. https://t.co/FgEnLGjMRy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148168293703979000,
+					"id_str": "1148168293703979009",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8c-tiXkAEsl_E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8c-tiXkAEsl_E.jpg",
+					"url": "https://t.co/FgEnLGjMRy",
+					"display_url": "pic.twitter.com/FgEnLGjMRy",
+					"expanded_url": "https://twitter.com/SakeBarry/status/1148168371051094016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148168293703979000,
+					"id_str": "1148168293703979009",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8c-tiXkAEsl_E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8c-tiXkAEsl_E.jpg",
+					"url": "https://t.co/FgEnLGjMRy",
+					"display_url": "pic.twitter.com/FgEnLGjMRy",
+					"expanded_url": "https://twitter.com/SakeBarry/status/1148168371051094016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1099394724648104000,
+			"id_str": "1099394724648103936",
+			"name": "Megan Rapinoe's Lucky Gonk",
+			"screen_name": "SakeBarry",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126,
+			"friends_count": 301,
+			"listed_count": 0,
+			"created_at": "Sat Feb 23 19:45:02 +0000 2019",
+			"favourites_count": 3481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145039280680701952/GmLus2ZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145039280680701952/GmLus2ZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1099394724648103936/1562525170",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 644,
+		"favorite_count": 2433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The. Peas. Are. Upside. Down. https://t.co/FgEnLGjMRy"
+	},
+	{
+		"created_at": "Mon Jul 08 11:53:24 +0000 2019",
+		"id": 1148198394487291900,
+		"id_str": "1148198394487291905",
+		"full_text": "They're still going at lunchtime, btw. Maybe it's a Guinness World Record attempt.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1148146526885220400,
+		"in_reply_to_status_id_str": "1148146526885220353",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61576,
+			"friends_count": 6088,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "They're still going at lunchtime, btw. Maybe it's a Guinness World Record attempt."
+	},
+	{
+		"created_at": "Mon Jul 08 11:52:40 +0000 2019",
+		"id": 1148198208969084900,
+		"id_str": "1148198208969084929",
+		"full_text": "Playing tonight at the Black Heart Camden with psychedelically mindbending @lostcrowns, with Bitch'n'Monk, Andrew Lisle and Colin Webster preceding us: https://t.co/zpniOei9Hr And it sounds like this. https://t.co/ggxGu2lF0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lostcrowns",
+					"name": "Lost Crowns",
+					"id": 1057319909510824000,
+					"id_str": "1057319909510823936",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zpniOei9Hr",
+					"expanded_url": "https://www.seetickets.com/event/lost-crowns/the-black-heart/1391273",
+					"display_url": "seetickets.com/event/lost-cro…",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/ggxGu2lF0W",
+					"expanded_url": "https://www.youtube.com/watch?v=rHT27-Dzweg",
+					"display_url": "youtube.com/watch?v=rHT27-…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61576,
+			"friends_count": 6088,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Playing tonight at the Black Heart Camden with psychedelically mindbending @lostcrowns, with Bitch'n'Monk, Andrew Lisle and Colin Webster preceding us: https://t.co/zpniOei9Hr And it sounds like this. https://t.co/ggxGu2lF0W"
+	},
+	{
+		"created_at": "Mon Jul 08 08:54:52 +0000 2019",
+		"id": 1148153465992032300,
+		"id_str": "1148153465992032256",
+		"full_text": "@twlldun More specifically I think it's \n\n1. Wash Hair",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twlldun",
+					"name": ".",
+					"id": 2399687505,
+					"id_str": "2399687505",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1148153267224043500,
+		"in_reply_to_status_id_str": "1148153267224043520",
+		"in_reply_to_user_id": 2399687505,
+		"in_reply_to_user_id_str": "2399687505",
+		"in_reply_to_screen_name": "twlldun",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61576,
+			"friends_count": 6088,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twlldun More specifically I think it's \n\n1. Wash Hair"
+	},
+	{
 		"created_at": "Sun Jul 07 08:08:41 +0000 2019",
 		"id": 1147779455810789400,
 		"id_str": "1147779455810789382",
