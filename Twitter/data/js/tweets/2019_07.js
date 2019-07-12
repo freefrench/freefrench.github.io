@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 22:59:24 +0000 2019",
+		"id": 1149453161884790800,
+		"id_str": "1149453161884790784",
+		"full_text": "@Mullies @MarianneLevy Extraordinary.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mullies",
+					"name": "Mullies",
+					"id": 19534544,
+					"id_str": "19534544",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MarianneLevy",
+					"name": "Marianne Levy",
+					"id": 67263530,
+					"id_str": "67263530",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1149450531498336300,
+		"in_reply_to_status_id_str": "1149450531498336256",
+		"in_reply_to_user_id": 19534544,
+		"in_reply_to_user_id_str": "19534544",
+		"in_reply_to_screen_name": "Mullies",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61551,
+			"friends_count": 6089,
+			"listed_count": 1061,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Mullies @MarianneLevy Extraordinary."
+	},
+	{
+		"created_at": "Thu Jul 11 22:38:46 +0000 2019",
+		"id": 1149447970246578200,
+		"id_str": "1149447970246578177",
+		"full_text": "@MarianneLevy Honestly, it’s one of the few things that keeps me on here.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarianneLevy",
+					"name": "Marianne Levy",
+					"id": 67263530,
+					"id_str": "67263530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1149447571057848300,
+		"in_reply_to_status_id_str": "1149447571057848320",
+		"in_reply_to_user_id": 67263530,
+		"in_reply_to_user_id_str": "67263530",
+		"in_reply_to_screen_name": "MarianneLevy",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61551,
+			"friends_count": 6089,
+			"listed_count": 1061,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarianneLevy Honestly, it’s one of the few things that keeps me on here."
+	},
+	{
+		"created_at": "Thu Jul 11 22:35:37 +0000 2019",
+		"id": 1149446708348121100,
+		"id_str": "1149447178588438528",
+		"full_text": "🐠　 🐡　　\n　　　　　　　　　　\n　　　　　　　　　 🐟\n　　　 🐡　　　　　　\n　　　　　　　　　　\n　　🌱🌾　　🌱　🌿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/EmojiAquarium\" rel=\"nofollow\">EmojiAquarium</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 829095470873997300,
+			"id_str": "829095470873997317",
+			"name": "Emoji Aquarium",
+			"screen_name": "EmojiAquarium",
+			"location": "Underwater",
+			"description": "I am a bot created by @JoeSondow. Every few hours I show you a tiny aquarium full of interesting fishies. Please do not tap the glass. #botALLY.",
+			"url": "https://t.co/l8YjoK5AKV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l8YjoK5AKV",
+							"expanded_url": "https://gitlab.com/JoeSondow/fishies/tree/master/src/main/java/sondow/fishies",
+							"display_url": "gitlab.com/JoeSondow/fish…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21654,
+			"friends_count": 4,
+			"listed_count": 355,
+			"created_at": "Tue Feb 07 22:32:18 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832001745228148736/dlh__iqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832001745228148736/dlh__iqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/829095470873997317/1487199485",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "🐠　 🐡　　\n　　　　　　　　　　\n　　　　　　　　　 🐟\n　　　 🐡　　　　　　\n　　　　　　　　　　\n　　🌱🌾　　🌱　🌿"
+	},
+	{
+		"created_at": "Thu Jul 11 18:03:32 +0000 2019",
+		"id": 1149378706638561300,
+		"id_str": "1149378706638561285",
+		"full_text": "@NorthernWrites Oh. Shit.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NorthernWrites",
+					"name": "Chris King",
+					"id": 19541062,
+					"id_str": "19541062",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1149378558931931100,
+		"in_reply_to_status_id_str": "1149378558931931137",
+		"in_reply_to_user_id": 19541062,
+		"in_reply_to_user_id_str": "19541062",
+		"in_reply_to_screen_name": "NorthernWrites",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61551,
+			"friends_count": 6089,
+			"listed_count": 1061,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NorthernWrites Oh. Shit."
+	},
+	{
 		"created_at": "Wed Jul 10 22:06:42 +0000 2019",
 		"id": 1149077511285989400,
 		"id_str": "1149077511285989376",
