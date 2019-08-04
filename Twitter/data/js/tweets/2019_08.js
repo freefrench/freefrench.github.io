@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 22:16:57 +0000 2019",
+		"id": 1157777401147023400,
+		"id_str": "1157777401147023360",
+		"full_text": "@tonymerchison @charleston51 @MyLifeStoryUK Also, the magnificent Terry Edwards often has a flute in tow! I’ll shut up now.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonymerchison",
+					"name": "Andy B",
+					"id": 374665858,
+					"id_str": "374665858",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "charleston51",
+					"name": "Charley Stone",
+					"id": 14118733,
+					"id_str": "14118733",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "MyLifeStoryUK",
+					"name": "My Life Story",
+					"id": 413339574,
+					"id_str": "413339574",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1157774076422905900,
+		"in_reply_to_status_id_str": "1157774076422905857",
+		"in_reply_to_user_id": 374665858,
+		"in_reply_to_user_id_str": "374665858",
+		"in_reply_to_screen_name": "tonymerchison",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61440,
+			"friends_count": 6116,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tonymerchison @charleston51 @MyLifeStoryUK Also, the magnificent Terry Edwards often has a flute in tow! I’ll shut up now."
+	},
+	{
+		"created_at": "Sat Aug 03 22:16:04 +0000 2019",
+		"id": 1157777178827853800,
+		"id_str": "1157777178827853825",
+		"full_text": "@tonymerchison @charleston51 @MyLifeStoryUK Huge swathes of wonderful disco music are flute-tastic. Van McCoy! Also, this song has best flute solo ever (3:10)  https://t.co/uc2vB9Trze",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonymerchison",
+					"name": "Andy B",
+					"id": 374665858,
+					"id_str": "374665858",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "charleston51",
+					"name": "Charley Stone",
+					"id": 14118733,
+					"id_str": "14118733",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "MyLifeStoryUK",
+					"name": "My Life Story",
+					"id": 413339574,
+					"id_str": "413339574",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uc2vB9Trze",
+					"expanded_url": "https://youtu.be/DNCKIautZzQ",
+					"display_url": "youtu.be/DNCKIautZzQ",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1157774076422905900,
+		"in_reply_to_status_id_str": "1157774076422905857",
+		"in_reply_to_user_id": 374665858,
+		"in_reply_to_user_id_str": "374665858",
+		"in_reply_to_screen_name": "tonymerchison",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61440,
+			"friends_count": 6116,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tonymerchison @charleston51 @MyLifeStoryUK Huge swathes of wonderful disco music are flute-tastic. Van McCoy! Also, this song has best flute solo ever (3:10)  https://t.co/uc2vB9Trze"
+	},
+	{
+		"created_at": "Sat Aug 03 21:58:58 +0000 2019",
+		"id": 1157772875912351700,
+		"id_str": "1157772875912351744",
+		"full_text": "@jonadowning Whoohoooo!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonadowning",
+					"name": "Jonathan Downing",
+					"id": 56732325,
+					"id_str": "56732325",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1157752150086365200,
+		"in_reply_to_status_id_str": "1157752150086365186",
+		"in_reply_to_user_id": 56732325,
+		"in_reply_to_user_id_str": "56732325",
+		"in_reply_to_screen_name": "jonadowning",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61440,
+			"friends_count": 6116,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jonadowning Whoohoooo!"
+	},
+	{
+		"created_at": "Sat Aug 03 16:58:51 +0000 2019",
+		"id": 1157697349776564200,
+		"id_str": "1157697349776564224",
+		"full_text": "@jefph I only skimmed it but I’m glad he identified the Art Of Noise thing.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jefph",
+					"name": "Duncan Parsons",
+					"id": 94308229,
+					"id_str": "94308229",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1157663320326967300,
+		"in_reply_to_status_id_str": "1157663320326967296",
+		"in_reply_to_user_id": 94308229,
+		"in_reply_to_user_id_str": "94308229",
+		"in_reply_to_screen_name": "jefph",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61440,
+			"friends_count": 6116,
+			"listed_count": 1062,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jefph I only skimmed it but I’m glad he identified the Art Of Noise thing."
+	},
+	{
 		"created_at": "Fri Aug 02 08:23:27 +0000 2019",
 		"id": 1157205081047142400,
 		"id_str": "1157205257174364160",
