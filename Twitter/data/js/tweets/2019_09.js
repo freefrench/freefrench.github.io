@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 19:58:58 +0000 2019",
+		"id": 1178036395111338000,
+		"id_str": "1178036395111337987",
+		"full_text": "Mortality Maths https://t.co/KUJTxBDJ5a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KUJTxBDJ5a",
+					"expanded_url": "https://twitter.com/hiattb/status/1178025227118419968",
+					"display_url": "twitter.com/hiattb/status/…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Not the unworst person you've never not met.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61534,
+			"friends_count": 6214,
+			"listed_count": 1060,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 11265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "9B0B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178025227118420000,
+		"quoted_status_id_str": "1178025227118419968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KUJTxBDJ5a",
+			"expanded": "https://twitter.com/hiattb/status/1178025227118419968",
+			"display": "twitter.com/hiattb/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 19:14:35 +0000 2019",
+			"id": 1178025227118420000,
+			"id_str": "1178025227118419968",
+			"full_text": "Just realized that Nevermind is now exactly as far in the past as Please Please Me was in 1991",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35415506,
+				"id_str": "35415506",
+				"name": "Brian Hiatt",
+				"screen_name": "hiattb",
+				"location": "",
+				"description": "Senior Writer, Rolling Stone. 60+ cover stories. Host, Rolling Stone Music Now podcast, live on @siriusxmvolume. Buy my new book! https://t.co/OCluTqd2he",
+				"url": "https://t.co/mmMl5NgTVV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mmMl5NgTVV",
+								"expanded_url": "https://www.rollingstone.com/t/brian-hiatt/",
+								"display_url": "rollingstone.com/t/brian-hiatt/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OCluTqd2he",
+								"expanded_url": "https://amzn.to/2kQACRV",
+								"display_url": "amzn.to/2kQACRV",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17038,
+				"friends_count": 2892,
+				"listed_count": 410,
+				"created_at": "Sun Apr 26 05:56:56 +0000 2009",
+				"favourites_count": 44015,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138871422565138432/kiziYQBw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138871422565138432/kiziYQBw_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35415506/1398612198",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mortality Maths https://t.co/KUJTxBDJ5a"
+	},
+	{
 		"created_at": "Fri Sep 27 21:48:03 +0000 2019",
 		"id": 1177701461720998000,
 		"id_str": "1177701461720997889",
