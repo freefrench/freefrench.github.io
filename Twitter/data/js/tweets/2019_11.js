@@ -1,6 +1,900 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 18:05:02 +0000 2019",
+		"id": 1194677564830310400,
+		"id_str": "1194677564830310402",
+		"full_text": "@LucyWalkerBB Oh god, Spain. Yes. I was in love with a violinist, and spent the whole trip in emotional meltdown. I remember refusing to use the non-toilet toilets at one concert (hole in ground) and roamed the vicinity looking for a real one. Also: Dali Museum!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LucyWalkerBB",
+					"name": "Lucy Walker",
+					"id": 518517913,
+					"id_str": "518517913",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1194676546323263500,
+		"in_reply_to_status_id_str": "1194676546323263488",
+		"in_reply_to_user_id": 518517913,
+		"in_reply_to_user_id_str": "518517913",
+		"in_reply_to_screen_name": "LucyWalkerBB",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LucyWalkerBB Oh god, Spain. Yes. I was in love with a violinist, and spent the whole trip in emotional meltdown. I remember refusing to use the non-toilet toilets at one concert (hole in ground) and roamed the vicinity looking for a real one. Also: Dali Museum!"
+	},
+	{
+		"created_at": "Wed Nov 13 18:00:26 +0000 2019",
+		"id": 1194676408435564500,
+		"id_str": "1194676408435564544",
+		"full_text": "@LucyWalkerBB Did you \"do\" Cyprus? Paris?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LucyWalkerBB",
+					"name": "Lucy Walker",
+					"id": 518517913,
+					"id_str": "518517913",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1194675891672113200,
+		"in_reply_to_status_id_str": "1194675891672113158",
+		"in_reply_to_user_id": 518517913,
+		"in_reply_to_user_id_str": "518517913",
+		"in_reply_to_screen_name": "LucyWalkerBB",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LucyWalkerBB Did you \"do\" Cyprus? Paris?"
+	},
+	{
+		"created_at": "Wed Nov 13 17:57:05 +0000 2019",
+		"id": 1194675564415770600,
+		"id_str": "1194675564415770624",
+		"full_text": "@LucyWalkerBB Were we in't same orchestra?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LucyWalkerBB",
+					"name": "Lucy Walker",
+					"id": 518517913,
+					"id_str": "518517913",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1194665652545605600,
+		"in_reply_to_status_id_str": "1194665652545605633",
+		"in_reply_to_user_id": 518517913,
+		"in_reply_to_user_id_str": "518517913",
+		"in_reply_to_screen_name": "LucyWalkerBB",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LucyWalkerBB Were we in't same orchestra?"
+	},
+	{
+		"created_at": "Wed Nov 13 17:56:21 +0000 2019",
+		"id": 1194675380881444900,
+		"id_str": "1194675380881444864",
+		"full_text": "@sdobinson Weirdly, it was from the bar in the hotel.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sdobinson",
+					"name": "Sarah Dobinson",
+					"id": 20681947,
+					"id_str": "20681947",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1194669963266678800,
+		"in_reply_to_status_id_str": "1194669963266678787",
+		"in_reply_to_user_id": 20681947,
+		"in_reply_to_user_id_str": "20681947",
+		"in_reply_to_screen_name": "sdobinson",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sdobinson Weirdly, it was from the bar in the hotel."
+	},
+	{
+		"created_at": "Wed Nov 13 13:43:34 +0000 2019",
+		"id": 1194611768045252600,
+		"id_str": "1194611768045252608",
+		"full_text": "@Doctor_J_ @735songs Oh man. Best not to think about it. Unbelievable.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Doctor_J_",
+					"name": "Jason Carty",
+					"id": 15186239,
+					"id_str": "15186239",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "735songs",
+					"name": "Anthony Curtis",
+					"id": 22535241,
+					"id_str": "22535241",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1194611583260995600,
+		"in_reply_to_status_id_str": "1194611583260995584",
+		"in_reply_to_user_id": 15186239,
+		"in_reply_to_user_id_str": "15186239",
+		"in_reply_to_screen_name": "Doctor_J_",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Doctor_J_ @735songs Oh man. Best not to think about it. Unbelievable."
+	},
+	{
+		"created_at": "Wed Nov 13 13:41:04 +0000 2019",
+		"id": 1194611135837806600,
+		"id_str": "1194611135837806592",
+		"full_text": "@Doctor_J_ @735songs The Wizard A True Star show at Hammersmith made me weep. And his Jazz Cafe shows were totally wonderful.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Doctor_J_",
+					"name": "Jason Carty",
+					"id": 15186239,
+					"id_str": "15186239",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "735songs",
+					"name": "Anthony Curtis",
+					"id": 22535241,
+					"id_str": "22535241",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1194610192547139600,
+		"in_reply_to_status_id_str": "1194610192547139584",
+		"in_reply_to_user_id": 15186239,
+		"in_reply_to_user_id_str": "15186239",
+		"in_reply_to_screen_name": "Doctor_J_",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Doctor_J_ @735songs The Wizard A True Star show at Hammersmith made me weep. And his Jazz Cafe shows were totally wonderful."
+	},
+	{
+		"created_at": "Wed Nov 13 13:40:12 +0000 2019",
+		"id": 1194610918778429400,
+		"id_str": "1194610918778429442",
+		"full_text": "@Doctor_J_ @735songs Yep! He played an interminable version of “While My Guitar Gently Weeps”, after which some guy sitting near me shouted out in a near silent hall “Todd! Fuck off!”\n\nHe also actively took the piss out of his old material. Ugh. Fortunately he did gigs later that redeemed him hugely.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Doctor_J_",
+					"name": "Jason Carty",
+					"id": 15186239,
+					"id_str": "15186239",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "735songs",
+					"name": "Anthony Curtis",
+					"id": 22535241,
+					"id_str": "22535241",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1194610192547139600,
+		"in_reply_to_status_id_str": "1194610192547139584",
+		"in_reply_to_user_id": 15186239,
+		"in_reply_to_user_id_str": "15186239",
+		"in_reply_to_screen_name": "Doctor_J_",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Doctor_J_ @735songs Yep! He played an interminable version of “While My Guitar Gently Weeps”, after which some guy sitting near me shouted out in a near silent hall “Todd! Fuck off!”\n\nHe also actively took the piss out of his old material. Ugh. Fortunately he did gigs later that redeemed him hugely."
+	},
+	{
+		"created_at": "Wed Nov 13 13:12:10 +0000 2019",
+		"id": 1194603862591787000,
+		"id_str": "1194603862591787008",
+		"full_text": "@735songs A great tune, that. Really like that album – although when he performed it in London the show was DREADFUL. Fans walking out. LOL.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "735songs",
+					"name": "Anthony Curtis",
+					"id": 22535241,
+					"id_str": "22535241",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1194603559091871700,
+		"in_reply_to_status_id_str": "1194603559091871746",
+		"in_reply_to_user_id": 22535241,
+		"in_reply_to_user_id_str": "22535241",
+		"in_reply_to_screen_name": "735songs",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62333,
+			"friends_count": 6329,
+			"listed_count": 1054,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@735songs A great tune, that. Really like that album – although when he performed it in London the show was DREADFUL. Fans walking out. LOL."
+	},
+	{
 		"created_at": "Wed Nov 13 00:02:54 +0000 2019",
 		"id": 1194405237207031800,
 		"id_str": "1194405237207031808",
@@ -4270,7 +5164,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Kyrome Adams",
 			"screen_name": "MrKAdams_",
 			"location": "Huddersfield, England",
-			"description": "Year 5 teacher👨🏽‍💻",
+			"description": "Year 5 teacher👨🏽💻",
 			"url": null,
 			"entities": {
 				"description": {
