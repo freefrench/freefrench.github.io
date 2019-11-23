@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 23:03:56 +0000 2019",
+		"id": 1198014278751703000,
+		"id_str": "1198014278751703040",
+		"full_text": "@DickyChap Personally, I think of it as: if I work more then I’ll earn more money. Whoop! More to spend! Hurrah! Also, a bit more contributed to the good of the nation! Double bubble! \n\nBut I’m one of those mad people who enjoys his work and likes buying stuff and doesn’t mind paying tax.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DickyChap",
+					"name": "Richard Chapman 🇦🇺🇪🇺🇬🇧🚘🔌 #Tesla #Brexit",
+					"id": 3208000618,
+					"id_str": "3208000618",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1198012875635216400,
+		"in_reply_to_status_id_str": "1198012875635216384",
+		"in_reply_to_user_id": 3208000618,
+		"in_reply_to_user_id_str": "3208000618",
+		"in_reply_to_screen_name": "DickyChap",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62334,
+			"friends_count": 6343,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DickyChap Personally, I think of it as: if I work more then I’ll earn more money. Whoop! More to spend! Hurrah! Also, a bit more contributed to the good of the nation! Double bubble! \n\nBut I’m one of those mad people who enjoys his work and likes buying stuff and doesn’t mind paying tax."
+	},
+	{
+		"created_at": "Fri Nov 22 21:56:53 +0000 2019",
+		"id": 1197997404865417200,
+		"id_str": "1197997404865417217",
+		"full_text": "@CharlotteB1 Yep.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlotteB1",
+					"name": "Charlotte",
+					"id": 20166747,
+					"id_str": "20166747",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1197997141467291600,
+		"in_reply_to_status_id_str": "1197997141467291648",
+		"in_reply_to_user_id": 20166747,
+		"in_reply_to_user_id_str": "20166747",
+		"in_reply_to_screen_name": "CharlotteB1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62334,
+			"friends_count": 6343,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@CharlotteB1 Yep."
+	},
+	{
+		"created_at": "Fri Nov 22 21:54:05 +0000 2019",
+		"id": 1197996698209046500,
+		"id_str": "1197996698209046529",
+		"full_text": "I missed this tweet from back in April. An instructive lesson on how marginal tax rates work, from one of Britain’s leading businessmen. https://t.co/NOU5camDYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197996693943443500,
+					"id_str": "1197996693943443456",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EKAjpViXYAAIsQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKAjpViXYAAIsQv.jpg",
+					"url": "https://t.co/NOU5camDYk",
+					"display_url": "pic.twitter.com/NOU5camDYk",
+					"expanded_url": "https://twitter.com/rhodri/status/1197996698209046529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 641,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 641,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 34,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 2,
+									"y": 130,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 34,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 2,
+									"y": 130,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 56,
+									"y": 30,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 1,
+									"y": 117,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 34,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 2,
+									"y": 130,
+									"h": 184,
+									"w": 184
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197996693943443500,
+					"id_str": "1197996693943443456",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EKAjpViXYAAIsQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKAjpViXYAAIsQv.jpg",
+					"url": "https://t.co/NOU5camDYk",
+					"display_url": "pic.twitter.com/NOU5camDYk",
+					"expanded_url": "https://twitter.com/rhodri/status/1197996698209046529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 641,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 641,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 34,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 2,
+									"y": 130,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 34,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 2,
+									"y": 130,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 56,
+									"y": 30,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 1,
+									"y": 117,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 34,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 2,
+									"y": 130,
+									"h": 184,
+									"w": 184
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62334,
+			"friends_count": 6343,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I missed this tweet from back in April. An instructive lesson on how marginal tax rates work, from one of Britain’s leading businessmen. https://t.co/NOU5camDYk"
+	},
+	{
+		"created_at": "Fri Nov 22 19:42:39 +0000 2019",
+		"id": 1197963622758199300,
+		"id_str": "1197963622758199296",
+		"full_text": "@OshJerand @adamcbest @zachbraff He addresses the anti-semitism of the Borat character in the speech, if you watch it.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OshJerand",
+					"name": "JerandOsh",
+					"id": 1057745085176184800,
+					"id_str": "1057745085176184846",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "adamcbest",
+					"name": "Adam Best",
+					"id": 17261066,
+					"id_str": "17261066",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "zachbraff",
+					"name": "Zach Braff",
+					"id": 76997832,
+					"id_str": "76997832",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1197930764261888000,
+		"in_reply_to_status_id_str": "1197930764261888005",
+		"in_reply_to_user_id": 1057745085176184800,
+		"in_reply_to_user_id_str": "1057745085176184846",
+		"in_reply_to_screen_name": "OshJerand",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62334,
+			"friends_count": 6343,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OshJerand @adamcbest @zachbraff He addresses the anti-semitism of the Borat character in the speech, if you watch it."
+	},
+	{
+		"created_at": "Fri Nov 22 18:46:19 +0000 2019",
+		"id": 1197949444710445000,
+		"id_str": "1197949444710445063",
+		"full_text": "@meicapneb It's been lovely seeing all the pix come in. Huzzah!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meicapneb",
+					"name": "MeicApNeb",
+					"id": 21564434,
+					"id_str": "21564434",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1197929665404579800,
+		"in_reply_to_status_id_str": "1197929665404579840",
+		"in_reply_to_user_id": 21564434,
+		"in_reply_to_user_id_str": "21564434",
+		"in_reply_to_screen_name": "meicapneb",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62334,
+			"friends_count": 6343,
+			"listed_count": 1048,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meicapneb It's been lovely seeing all the pix come in. Huzzah!"
+	},
+	{
 		"created_at": "Thu Nov 21 23:08:38 +0000 2019",
 		"id": 1197653073839173600,
 		"id_str": "1197653073839173633",
@@ -445,7 +1205,7 @@ Grailbird.data.tweets_2019_11 =
 			"created_at": "Fri Nov 15 17:59:00 +0000 2019",
 			"id": 1195400822433038300,
 			"id_str": "1195400822433038336",
-			"full_text": "🎞️ Meet Emma, a life-sized representation of what the average office worker may look like by 2040. 👩🏻‍💼💼🖱️ https://t.co/RCwWleUsP0",
+			"full_text": "🎞️ Meet Emma, a life-sized representation of what the average office worker may look like by 2040. 👩🏻💼💼🖱️ https://t.co/RCwWleUsP0",
 			"truncated": false,
 			"display_text_range": [
 				0,
