@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 23:23:39 +0000 2019",
+		"id": 1200193567739830300,
+		"id_str": "1200193567739830274",
+		"full_text": "I think I’ve become allergic to tribalism. Unwavering, unquestioning support for a thing, whatever it might be. I prefer it when everyone’s a bit vague about stuff, quietly stating their considered preference for a least worst option. So much certainty about. Exhausting.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62344,
+			"friends_count": 6352,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I think I’ve become allergic to tribalism. Unwavering, unquestioning support for a thing, whatever it might be. I prefer it when everyone’s a bit vague about stuff, quietly stating their considered preference for a least worst option. So much certainty about. Exhausting."
+	},
+	{
+		"created_at": "Thu Nov 28 17:02:49 +0000 2019",
+		"id": 1200097728874897400,
+		"id_str": "1200097728874897410",
+		"full_text": "@syzygy @KatyFBrand For more than 10 years! We put out our Greatest Hits album a couple of years ago. 20 tracks across two 7\"s :) https://t.co/jJPqR718u2",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "syzygy",
+					"name": "james Hart | 🎙️🎶💻🏁☕🤗",
+					"id": 1448621,
+					"id_str": "1448621",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "KatyFBrand",
+					"name": "Katy Brand",
+					"id": 32876983,
+					"id_str": "32876983",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jJPqR718u2",
+					"expanded_url": "https://dreamthemes.bandcamp.com/album/20-golden-greats",
+					"display_url": "dreamthemes.bandcamp.com/album/20-golde…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1200085339152552000,
+		"in_reply_to_status_id_str": "1200085339152551938",
+		"in_reply_to_user_id": 1448621,
+		"in_reply_to_user_id_str": "1448621",
+		"in_reply_to_screen_name": "syzygy",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62344,
+			"friends_count": 6352,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@syzygy @KatyFBrand For more than 10 years! We put out our Greatest Hits album a couple of years ago. 20 tracks across two 7\"s :) https://t.co/jJPqR718u2"
+	},
+	{
+		"created_at": "Thu Nov 28 11:02:14 +0000 2019",
+		"id": 1199986043782672400,
+		"id_str": "1200006982717054976",
+		"full_text": "Instead of raking in their Black Friday profits, King of Shaves are converting it to products for us at Beauty Banks. When you buy, you’ll be helping men living in poverty and homelessness to stay clean and groomed, encouraging confidence, social inclusion and employability. https://t.co/ifyJ2T402I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ifyJ2T402I",
+					"expanded_url": "https://twitter.com/kingofshaves/status/1199966380658954240",
+					"display_url": "twitter.com/kingofshaves/s…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19962737,
+			"id_str": "19962737",
+			"name": "Sali Hughes",
+			"screen_name": "salihughes",
+			"location": "Brighton & London",
+			"description": "Columnist, broadcaster, event host, author, Beauty Banks co-founder. Agents: Georgia @ https://t.co/idIBbnh2Mf and Ed @ https://t.co/GhFSsaFtSH",
+			"url": "https://t.co/4WeGwJ2jTp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4WeGwJ2jTp",
+							"expanded_url": "https://www.beautybanks.org.uk/",
+							"display_url": "beautybanks.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/idIBbnh2Mf",
+							"expanded_url": "https://www.rcwlitagency.com",
+							"display_url": "rcwlitagency.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/GhFSsaFtSH",
+							"expanded_url": "http://www.insanitygroup.com",
+							"display_url": "insanitygroup.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 129789,
+			"friends_count": 1571,
+			"listed_count": 1211,
+			"created_at": "Tue Feb 03 10:06:59 +0000 2009",
+			"favourites_count": 15912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002097361852747776/r3GEnDJT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002097361852747776/r3GEnDJT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19962737/1559230388",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199966380658954200,
+		"quoted_status_id_str": "1199966380658954240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ifyJ2T402I",
+			"expanded": "https://twitter.com/kingofshaves/status/1199966380658954240",
+			"display": "twitter.com/kingofshaves/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 28 08:20:54 +0000 2019",
+			"id": 1199966380658954200,
+			"id_str": "1199966380658954240",
+			"full_text": "Announcing 👉 GIVE BLACK FRIDAY \nhttps://t.co/P87cdbf9pJ Supporting 👉 the Beauty Banks Charity \n#GiveBlackFriday 🙏👍\n\n#GIVEBLACKFRIDAY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GiveBlackFriday",
+						"indices": [
+							95,
+							111
+						]
+					},
+					{
+						"text": "GIVEBLACKFRIDAY",
+						"indices": [
+							116,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P87cdbf9pJ",
+						"expanded_url": "https://kingofshaves.com/blogs/news/announcing-king-of-shaves-giveblackfriday-lets-give-black-friday-a-new-meaning",
+						"display_url": "kingofshaves.com/blogs/news/ann…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 809140,
+				"id_str": "809140",
+				"name": "King of Shaves®",
+				"screen_name": "KingofShaves",
+				"location": "In your bathroom",
+				"description": "15bn+ lives shaved since 1993. Query? Advice? Tweet us or email wecare@shave.com and we’re on it! Code Zero's at @mycodezero 👉 2🌍2🌎",
+				"url": "https://t.co/Mik1fpQVxn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mik1fpQVxn",
+								"expanded_url": "http://shave.com",
+								"display_url": "shave.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11768,
+				"friends_count": 5,
+				"listed_count": 229,
+				"created_at": "Sat Mar 03 22:57:18 +0000 2007",
+				"favourites_count": 6823,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 50134,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "46B4EB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167840192960630791/aln3eAOp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167840192960630791/aln3eAOp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/809140/1574930902",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 398,
+		"favorite_count": 1432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Instead of raking in their Black Friday profits, King of Shaves are converting it to products for us at Beauty Banks. When you buy, you’ll be helping men living in poverty and homelessness to stay clean and groomed, encouraging confidence, social inclusion and employability. https://t.co/ifyJ2T402I"
+	},
+	{
+		"created_at": "Thu Nov 28 09:56:51 +0000 2019",
+		"id": 1199990527933984800,
+		"id_str": "1199990527933984768",
+		"full_text": "@MickDickinson @ThangamMP GOOD ARCHIVE WORK!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MickDickinson",
+					"name": "BuzzedUp",
+					"id": 17837355,
+					"id_str": "17837355",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ThangamMP",
+					"name": "Thangam 🕷 girly swot Debbonaire",
+					"id": 262163061,
+					"id_str": "262163061",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1199990350141632500,
+		"in_reply_to_status_id_str": "1199990350141632512",
+		"in_reply_to_user_id": 17837355,
+		"in_reply_to_user_id_str": "17837355",
+		"in_reply_to_screen_name": "MickDickinson",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62344,
+			"friends_count": 6352,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MickDickinson @ThangamMP GOOD ARCHIVE WORK!"
+	},
+	{
+		"created_at": "Thu Nov 28 09:33:54 +0000 2019",
+		"id": 1199984752742285300,
+		"id_str": "1199984752742285313",
+		"full_text": "@MickDickinson @ThangamMP Remember it vividly! In January it’ll be 30 years since we played with you at the Cricketers Oval - your last gig, I think.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MickDickinson",
+					"name": "BuzzedUp",
+					"id": 17837355,
+					"id_str": "17837355",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ThangamMP",
+					"name": "Thangam 🕷 girly swot Debbonaire",
+					"id": 262163061,
+					"id_str": "262163061",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1199983449341333500,
+		"in_reply_to_status_id_str": "1199983449341333504",
+		"in_reply_to_user_id": 17837355,
+		"in_reply_to_user_id_str": "17837355",
+		"in_reply_to_screen_name": "MickDickinson",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62344,
+			"friends_count": 6352,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MickDickinson @ThangamMP Remember it vividly! In January it’ll be 30 years since we played with you at the Cricketers Oval - your last gig, I think."
+	},
+	{
 		"created_at": "Wed Nov 27 23:09:39 +0000 2019",
 		"id": 1199827657032130600,
 		"id_str": "1199827657032130561",
