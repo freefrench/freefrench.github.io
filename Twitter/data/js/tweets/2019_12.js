@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 21:32:30 +0000 2019",
+		"id": 1201977533215981600,
+		"id_str": "1201977533215981568",
+		"full_text": "@batteredcaviar Don't diss Ivor, man. Utterly beautiful.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "batteredcaviar",
+					"name": "Paul",
+					"id": 4588191754,
+					"id_str": "4588191754",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1201971520698044400,
+		"in_reply_to_status_id_str": "1201971520698044417",
+		"in_reply_to_user_id": 4588191754,
+		"in_reply_to_user_id_str": "4588191754",
+		"in_reply_to_screen_name": "batteredcaviar",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62398,
+			"friends_count": 6359,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@batteredcaviar Don't diss Ivor, man. Utterly beautiful."
+	},
+	{
+		"created_at": "Tue Dec 03 11:02:48 +0000 2019",
+		"id": 1201819064169115600,
+		"id_str": "1201819064169115648",
+		"full_text": "@jill_derby Not entirely silly fun! Shelter has been involved with it for the last few years.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jill_derby",
+					"name": "Derby and Jill",
+					"id": 1147590898886303700,
+					"id_str": "1147590898886303745",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1201812291525722000,
+		"in_reply_to_status_id_str": "1201812291525722113",
+		"in_reply_to_user_id": 1147590898886303700,
+		"in_reply_to_user_id_str": "1147590898886303745",
+		"in_reply_to_screen_name": "jill_derby",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62398,
+			"friends_count": 6359,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jill_derby Not entirely silly fun! Shelter has been involved with it for the last few years."
+	},
+	{
+		"created_at": "Tue Dec 03 10:26:04 +0000 2019",
+		"id": 1201809820287979500,
+		"id_str": "1201809820287979521",
+		"full_text": "@JosieRoseMoore Oh yeah! https://t.co/neokp640Zd",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JosieRoseMoore",
+					"name": "Josie Moore",
+					"id": 351505409,
+					"id_str": "351505409",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/neokp640Zd",
+					"expanded_url": "https://www.youtube.com/watch?v=xr48Ow37uto",
+					"display_url": "youtube.com/watch?v=xr48Ow…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1201809286118158300,
+		"in_reply_to_status_id_str": "1201809286118158336",
+		"in_reply_to_user_id": 351505409,
+		"in_reply_to_user_id_str": "351505409",
+		"in_reply_to_screen_name": "JosieRoseMoore",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62398,
+			"friends_count": 6359,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JosieRoseMoore Oh yeah! https://t.co/neokp640Zd"
+	},
+	{
+		"created_at": "Tue Dec 03 09:09:16 +0000 2019",
+		"id": 1201790493832753200,
+		"id_str": "1201790493832753152",
+		"full_text": "@Ian_Fraser @mattleys And it usually turns out that the thing they want to be in The News actually is in The News. Often significantly so. But then, no, it's in the wrong bit of The News, or not prominent enough in The News. I don't envy the people putting together The News. So much anger.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ian_Fraser",
+					"name": "Ian Fraser",
+					"id": 93618872,
+					"id_str": "93618872",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mattleys",
+					"name": "Matt Leys",
+					"id": 20945894,
+					"id_str": "20945894",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1201781519779545000,
+		"in_reply_to_status_id_str": "1201781519779545088",
+		"in_reply_to_user_id": 93618872,
+		"in_reply_to_user_id_str": "93618872",
+		"in_reply_to_screen_name": "Ian_Fraser",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62398,
+			"friends_count": 6359,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ian_Fraser @mattleys And it usually turns out that the thing they want to be in The News actually is in The News. Often significantly so. But then, no, it's in the wrong bit of The News, or not prominent enough in The News. I don't envy the people putting together The News. So much anger."
+	},
+	{
+		"created_at": "Tue Dec 03 09:05:05 +0000 2019",
+		"id": 1201789438885535700,
+		"id_str": "1201789438885535749",
+		"full_text": "@Ian_Fraser @mattleys What bugs me is the implication, evident in the responses to your tweet, that the omission is somehow part of some kind of dark, sinister plot. Everyone is permanently furious that the thing they want to be in The News isn't in The News, and they treat it as a personal affront.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			300
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ian_Fraser",
+					"name": "Ian Fraser",
+					"id": 93618872,
+					"id_str": "93618872",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mattleys",
+					"name": "Matt Leys",
+					"id": 20945894,
+					"id_str": "20945894",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1201781519779545000,
+		"in_reply_to_status_id_str": "1201781519779545088",
+		"in_reply_to_user_id": 93618872,
+		"in_reply_to_user_id_str": "93618872",
+		"in_reply_to_screen_name": "Ian_Fraser",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62398,
+			"friends_count": 6359,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ian_Fraser @mattleys What bugs me is the implication, evident in the responses to your tweet, that the omission is somehow part of some kind of dark, sinister plot. Everyone is permanently furious that the thing they want to be in The News isn't in The News, and they treat it as a personal affront."
+	},
+	{
 		"created_at": "Mon Dec 02 23:41:04 +0000 2019",
 		"id": 1201647500471521300,
 		"id_str": "1201647500471521285",
