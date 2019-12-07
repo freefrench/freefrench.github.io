@@ -1,6 +1,823 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 11:09:06 +0000 2019",
+		"id": 1202907814898864000,
+		"id_str": "1202907814898864128",
+		"full_text": "A lovely little Kenny Process Team tune that we recorded last week, accompanying a short animation of an owl. https://t.co/g2mnAI3v6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g2mnAI3v6T",
+					"expanded_url": "https://twitter.com/SugarFreePlumm/status/1202656377249894400",
+					"display_url": "twitter.com/SugarFreePlumm…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6361,
+			"listed_count": 1045,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202656377249894400,
+		"quoted_status_id_str": "1202656377249894400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g2mnAI3v6T",
+			"expanded": "https://twitter.com/SugarFreePlumm/status/1202656377249894400",
+			"display": "twitter.com/SugarFreePlumm…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 05 18:29:59 +0000 2019",
+			"id": 1202656377249894400,
+			"id_str": "1202656377249894400",
+			"full_text": "Ta-Wit-Ta-Woo #ArtTheBestMedicine. @Arts4Dementia https://t.co/h7ljbOyttQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArtTheBestMedicine",
+						"indices": [
+							14,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Arts4Dementia",
+						"name": "Arts 4 Dementia",
+						"id": 342614228,
+						"id_str": "342614228",
+						"indices": [
+							35,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1202655668643205000,
+						"id_str": "1202655668643205126",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202655668643205126/pu/img/zanJ_Qgyjh1FA5ma.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202655668643205126/pu/img/zanJ_Qgyjh1FA5ma.jpg",
+						"url": "https://t.co/h7ljbOyttQ",
+						"display_url": "pic.twitter.com/h7ljbOyttQ",
+						"expanded_url": "https://twitter.com/SugarFreePlumm/status/1202656377249894400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202655668643205000,
+						"id_str": "1202655668643205126",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202655668643205126/pu/img/zanJ_Qgyjh1FA5ma.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202655668643205126/pu/img/zanJ_Qgyjh1FA5ma.jpg",
+						"url": "https://t.co/h7ljbOyttQ",
+						"display_url": "pic.twitter.com/h7ljbOyttQ",
+						"expanded_url": "https://twitter.com/SugarFreePlumm/status/1202656377249894400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 80367,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1202655668643205126/pu/vid/480x270/GvP4vak-f63tUZDf.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1202655668643205126/pu/vid/960x540/4J-exE64DDTxwG3x.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1202655668643205126/pu/pl/Yqo-mbZbzVUHOs4A.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1202655668643205126/pu/vid/640x360/J1wFWbw2Cs9PBW8D.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 195007032,
+				"id_str": "195007032",
+				"name": "Kevin Plummer",
+				"screen_name": "SugarFreePlumm",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59,
+				"friends_count": 423,
+				"listed_count": 1,
+				"created_at": "Sat Sep 25 15:13:54 +0000 2010",
+				"favourites_count": 144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 87,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202647989598261248/0_ODrZro_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202647989598261248/0_ODrZro_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/195007032/1575568600",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lovely little Kenny Process Team tune that we recorded last week, accompanying a short animation of an owl. https://t.co/g2mnAI3v6T"
+	},
+	{
+		"created_at": "Fri Dec 06 10:04:55 +0000 2019",
+		"id": 1202891663498207200,
+		"id_str": "1202891663498207232",
+		"full_text": "I dunno if anyone is doing Stampageddon this year, but I’m definitely out. https://t.co/l69tg5GBt2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202891649623511000,
+					"id_str": "1202891649623511040",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGHlQcX0AAX6mn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGHlQcX0AAX6mn.jpg",
+					"url": "https://t.co/l69tg5GBt2",
+					"display_url": "pic.twitter.com/l69tg5GBt2",
+					"expanded_url": "https://twitter.com/rhodri/status/1202891663498207232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 542,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 49,
+									"y": 46,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 542,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 49,
+									"y": 46,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 39,
+									"y": 358,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 32,
+									"y": 30,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 542,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 49,
+									"y": 46,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202891649623511000,
+					"id_str": "1202891649623511040",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGHlQcX0AAX6mn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGHlQcX0AAX6mn.jpg",
+					"url": "https://t.co/l69tg5GBt2",
+					"display_url": "pic.twitter.com/l69tg5GBt2",
+					"expanded_url": "https://twitter.com/rhodri/status/1202891663498207232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 542,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 49,
+									"y": 46,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 542,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 49,
+									"y": 46,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 39,
+									"y": 358,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 32,
+									"y": 30,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 542,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 49,
+									"y": 46,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202891650923729000,
+					"id_str": "1202891650923728896",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGHlVSXkAAOer1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGHlVSXkAAOer1.jpg",
+					"url": "https://t.co/l69tg5GBt2",
+					"display_url": "pic.twitter.com/l69tg5GBt2",
+					"expanded_url": "https://twitter.com/rhodri/status/1202891663498207232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 291,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 48,
+									"y": 550,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 291,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 48,
+									"y": 550,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 38,
+									"y": 194,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 32,
+									"y": 368,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 291,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 48,
+									"y": 550,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202891650294538200,
+					"id_str": "1202891650294538240",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGHlS8W4AA3MMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGHlS8W4AA3MMg.jpg",
+					"url": "https://t.co/l69tg5GBt2",
+					"display_url": "pic.twitter.com/l69tg5GBt2",
+					"expanded_url": "https://twitter.com/rhodri/status/1202891663498207232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 342,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 342,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 342,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 81,
+									"y": 214,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6361,
+			"listed_count": 1045,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I dunno if anyone is doing Stampageddon this year, but I’m definitely out. https://t.co/l69tg5GBt2"
+	},
+	{
 		"created_at": "Thu Dec 05 23:55:04 +0000 2019",
 		"id": 1202738189036900400,
 		"id_str": "1202738189036900353",
