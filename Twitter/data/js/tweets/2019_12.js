@@ -1,6 +1,1523 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 23:45:08 +0000 2019",
+		"id": 1203822851272462300,
+		"id_str": "1203822851272462337",
+		"full_text": "I present a lemon mous(s)e. https://t.co/BF04Zv6Z1t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203822834419716000,
+					"id_str": "1203822834419716098",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ELTWfWIXUAIS71l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELTWfWIXUAIS71l.jpg",
+					"url": "https://t.co/BF04Zv6Z1t",
+					"display_url": "pic.twitter.com/BF04Zv6Z1t",
+					"expanded_url": "https://twitter.com/rhodri/status/1203822851272462337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203822834419716000,
+					"id_str": "1203822834419716098",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ELTWfWIXUAIS71l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELTWfWIXUAIS71l.jpg",
+					"url": "https://t.co/BF04Zv6Z1t",
+					"display_url": "pic.twitter.com/BF04Zv6Z1t",
+					"expanded_url": "https://twitter.com/rhodri/status/1203822851272462337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I present a lemon mous(s)e. https://t.co/BF04Zv6Z1t"
+	},
+	{
+		"created_at": "Sun Dec 08 23:43:56 +0000 2019",
+		"id": 1203822549966217200,
+		"id_str": "1203822549966217216",
+		"full_text": "@dogwinters There IS NO OTHER :)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogwinters",
+					"name": "Kat Sommers",
+					"id": 14408265,
+					"id_str": "14408265",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1203822227185115100,
+		"in_reply_to_status_id_str": "1203822227185115137",
+		"in_reply_to_user_id": 14408265,
+		"in_reply_to_user_id_str": "14408265",
+		"in_reply_to_screen_name": "dogwinters",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dogwinters There IS NO OTHER :)"
+	},
+	{
+		"created_at": "Sun Dec 08 23:39:02 +0000 2019",
+		"id": 1203821317168025600,
+		"id_str": "1203821317168025602",
+		"full_text": "I went to see @curtisstigers at Ronnie Scott’s, and I bloody love @curtisstigers. I heartily recommend @curtisstigers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "curtisstigers",
+					"name": "Curtis Stigers",
+					"id": 1465297584,
+					"id_str": "1465297584",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "curtisstigers",
+					"name": "Curtis Stigers",
+					"id": 1465297584,
+					"id_str": "1465297584",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"screen_name": "curtisstigers",
+					"name": "Curtis Stigers",
+					"id": 1465297584,
+					"id_str": "1465297584",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I went to see @curtisstigers at Ronnie Scott’s, and I bloody love @curtisstigers. I heartily recommend @curtisstigers."
+	},
+	{
+		"created_at": "Sun Dec 08 20:25:16 +0000 2019",
+		"id": 1203772553078153200,
+		"id_str": "1203772553078153216",
+		"full_text": "@HennessyKesewa They really are! Formidable and lovely bunch. @HenrySusannah @miramanga @citizenhelene @PetCorvid",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HennessyKesewa",
+					"name": "Kesewa Hennessy",
+					"id": 1109900139693514800,
+					"id_str": "1109900139693514752",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "HenrySusannah",
+					"name": "Susannah Henry",
+					"id": 1648272644,
+					"id_str": "1648272644",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "miramanga",
+					"name": "Mira Manga",
+					"id": 10311892,
+					"id_str": "10311892",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "citizenhelene",
+					"name": "Citizen Helene",
+					"id": 13672572,
+					"id_str": "13672572",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "PetCorvid",
+					"name": "Sharron Fortnam",
+					"id": 1264095944,
+					"id_str": "1264095944",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1203746951059189800,
+		"in_reply_to_status_id_str": "1203746951059189762",
+		"in_reply_to_user_id": 1109900139693514800,
+		"in_reply_to_user_id_str": "1109900139693514752",
+		"in_reply_to_screen_name": "HennessyKesewa",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HennessyKesewa They really are! Formidable and lovely bunch. @HenrySusannah @miramanga @citizenhelene @PetCorvid"
+	},
+	{
+		"created_at": "Sun Dec 08 18:25:06 +0000 2019",
+		"id": 1203742314461614000,
+		"id_str": "1203742314461614080",
+		"full_text": "@_black_peaches_ Nah, just singers and me. Prohibitively small budget.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_black_peaches_",
+					"name": "Black Peaches",
+					"id": 1910707879,
+					"id_str": "1910707879",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1203739336426041300,
+		"in_reply_to_status_id_str": "1203739336426041347",
+		"in_reply_to_user_id": 1910707879,
+		"in_reply_to_user_id_str": "1910707879",
+		"in_reply_to_screen_name": "_black_peaches_",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_black_peaches_ Nah, just singers and me. Prohibitively small budget."
+	},
+	{
+		"created_at": "Sun Dec 08 16:15:14 +0000 2019",
+		"id": 1203709631207551000,
+		"id_str": "1203709631207550984",
+		"full_text": "Toe-curlingly embarrassing. https://t.co/v36BmMYLqY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v36BmMYLqY",
+					"expanded_url": "https://twitter.com/MattHancock/status/1203654807057305600",
+					"display_url": "twitter.com/MattHancock/st…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203654807057305600,
+		"quoted_status_id_str": "1203654807057305600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v36BmMYLqY",
+			"expanded": "https://twitter.com/MattHancock/status/1203654807057305600",
+			"display": "twitter.com/MattHancock/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 08 12:37:23 +0000 2019",
+			"id": 1203654807057305600,
+			"id_str": "1203654807057305600",
+			"full_text": "Contemplating the value of our precious Union, in Fraserburgh harbour #VoteConservative https://t.co/HYeEheeihW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VoteConservative",
+						"indices": [
+							70,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1203654802615554000,
+						"id_str": "1203654802615554048",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/ELQ9qm4X0AADN_l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELQ9qm4X0AADN_l.jpg",
+						"url": "https://t.co/HYeEheeihW",
+						"display_url": "pic.twitter.com/HYeEheeihW",
+						"expanded_url": "https://twitter.com/MattHancock/status/1203654807057305600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 820,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 225,
+										"y": 110,
+										"h": 113,
+										"w": 113
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 339,
+										"y": 167,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 339,
+										"y": 167,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 339,
+										"y": 167,
+										"h": 171,
+										"w": 171
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1203654802615554000,
+						"id_str": "1203654802615554048",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/ELQ9qm4X0AADN_l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELQ9qm4X0AADN_l.jpg",
+						"url": "https://t.co/HYeEheeihW",
+						"display_url": "pic.twitter.com/HYeEheeihW",
+						"expanded_url": "https://twitter.com/MattHancock/status/1203654807057305600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 820,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 225,
+										"y": 110,
+										"h": 113,
+										"w": 113
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 339,
+										"y": 167,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 339,
+										"y": 167,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 339,
+										"y": 167,
+										"h": 171,
+										"w": 171
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19825835,
+				"id_str": "19825835",
+				"name": "Matt Hancock",
+				"screen_name": "MattHancock",
+				"location": "Suffolk & London",
+				"description": "Secretary of State for Health & Social Care and Conservative Parliamentary candidate for West Suffolk",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101444,
+				"friends_count": 1231,
+				"listed_count": 1534,
+				"created_at": "Sat Jan 31 18:44:16 +0000 2009",
+				"favourites_count": 2246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17941,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182662019805335554/8AtDBDAB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182662019805335554/8AtDBDAB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19825835/1570803610",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 167,
+			"favorite_count": 812,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Toe-curlingly embarrassing. https://t.co/v36BmMYLqY"
+	},
+	{
+		"created_at": "Sun Dec 08 14:55:08 +0000 2019",
+		"id": 1203689471948013600,
+		"id_str": "1203689471948013568",
+		"full_text": "It’s all the singers from Article 54 in a rehearsal room. Yes! A Special Guest Appearance at An Event, coming soon. https://t.co/hoiCZDN15r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203689465845354500,
+					"id_str": "1203689465845354496",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/ELRdMReXkAAF_aO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELRdMReXkAAF_aO.jpg",
+					"url": "https://t.co/hoiCZDN15r",
+					"display_url": "pic.twitter.com/hoiCZDN15r",
+					"expanded_url": "https://twitter.com/rhodri/status/1203689471948013568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 767,
+									"y": 120,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 577,
+									"y": 50,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 414,
+									"y": 116,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 372,
+									"y": 292,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 812,
+									"y": 303,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 767,
+									"y": 120,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 577,
+									"y": 50,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 414,
+									"y": 116,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 372,
+									"y": 292,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 812,
+									"y": 303,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 767,
+									"y": 120,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 577,
+									"y": 50,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 414,
+									"y": 116,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 372,
+									"y": 292,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 812,
+									"y": 303,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 509,
+									"y": 79,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 383,
+									"y": 33,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 274,
+									"y": 77,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 247,
+									"y": 193,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 539,
+									"y": 201,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203689465845354500,
+					"id_str": "1203689465845354496",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/ELRdMReXkAAF_aO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELRdMReXkAAF_aO.jpg",
+					"url": "https://t.co/hoiCZDN15r",
+					"display_url": "pic.twitter.com/hoiCZDN15r",
+					"expanded_url": "https://twitter.com/rhodri/status/1203689471948013568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 767,
+									"y": 120,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 577,
+									"y": 50,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 414,
+									"y": 116,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 372,
+									"y": 292,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 812,
+									"y": 303,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 767,
+									"y": 120,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 577,
+									"y": 50,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 414,
+									"y": 116,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 372,
+									"y": 292,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 812,
+									"y": 303,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 767,
+									"y": 120,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 577,
+									"y": 50,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 414,
+									"y": 116,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 372,
+									"y": 292,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 812,
+									"y": 303,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 509,
+									"y": 79,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 383,
+									"y": 33,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 274,
+									"y": 77,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 247,
+									"y": 193,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 539,
+									"y": 201,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62395,
+			"friends_count": 6364,
+			"listed_count": 1044,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 12930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s all the singers from Article 54 in a rehearsal room. Yes! A Special Guest Appearance at An Event, coming soon. https://t.co/hoiCZDN15r"
+	},
+	{
 		"created_at": "Sat Dec 07 06:02:15 +0000 2019",
 		"id": 1203192979554545700,
 		"id_str": "1203192979554545664",
