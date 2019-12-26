@@ -1,6 +1,812 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 19:28:06 +0000 2019",
+		"id": 1209918759747674000,
+		"id_str": "1209918759747674113",
+		"full_text": "@stuheritage I hear you brother",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuheritage",
+					"name": "Stuart Heritage",
+					"id": 14183111,
+					"id_str": "14183111",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1209918408772468700,
+		"in_reply_to_status_id_str": "1209918408772468738",
+		"in_reply_to_user_id": 14183111,
+		"in_reply_to_user_id_str": "14183111",
+		"in_reply_to_screen_name": "stuheritage",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63853,
+			"friends_count": 6376,
+			"listed_count": 1043,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stuheritage I hear you brother"
+	},
+	{
+		"created_at": "Wed Dec 25 13:17:12 +0000 2019",
+		"id": 7038537211,
+		"id_str": "1209825420784353281",
+		"full_text": "for christmas i got a broken pair of \"tweezers\" and a \"tweezer repair kit\", which is also broken",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16298441,
+			"id_str": "16298441",
+			"name": "wint",
+			"screen_name": "dril",
+			"location": "Los Angeles, CA",
+			"description": "do not contact me with scams\npatreon: https://t.co/7s3kzPVS58\nbook: https://t.co/EEkj3HsC6h\npdf: https://t.co/exiXvbtJLz",
+			"url": "https://t.co/gFieIN1TkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gFieIN1TkS",
+							"expanded_url": "http://www.wint.co",
+							"display_url": "wint.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7s3kzPVS58",
+							"expanded_url": "http://patreon.com/dril",
+							"display_url": "patreon.com/dril",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/EEkj3HsC6h",
+							"expanded_url": "http://amzn.to/2PtWjS5",
+							"display_url": "amzn.to/2PtWjS5",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/exiXvbtJLz",
+							"expanded_url": "http://gum.co/drilbook",
+							"display_url": "gum.co/drilbook",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1469224,
+			"friends_count": 268,
+			"listed_count": 4750,
+			"created_at": "Mon Sep 15 17:21:54 +0000 2008",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847818629840228354/VXyQHfn0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847818629840228354/VXyQHfn0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16298441/1394248006",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "5B5BA8",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1344,
+		"favorite_count": 2982,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "for christmas i got a broken pair of \"tweezers\" and a \"tweezer repair kit\", which is also broken"
+	},
+	{
+		"created_at": "Wed Dec 25 12:00:36 +0000 2019",
+		"id": 1209806144170086400,
+		"id_str": "1209806144170086400",
+		"full_text": "@McKelvie And you!!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McKelvie",
+					"name": "Jamie McKelvie",
+					"id": 14276679,
+					"id_str": "14276679",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1209805601095737300,
+		"in_reply_to_status_id_str": "1209805601095737346",
+		"in_reply_to_user_id": 14276679,
+		"in_reply_to_user_id_str": "14276679",
+		"in_reply_to_screen_name": "McKelvie",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63853,
+			"friends_count": 6376,
+			"listed_count": 1043,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@McKelvie And you!!"
+	},
+	{
+		"created_at": "Wed Dec 25 11:35:23 +0000 2019",
+		"id": 1209797932632948700,
+		"id_str": "1209799797676396545",
+		"full_text": "A very Merry Christmas from all of us at Remainiacs, with some seasonal disco from our good friends, @rhodri's band Article 54. Sound up loud! https://t.co/zsqACreqnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209796783234269200,
+					"id_str": "1209796783234269185",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209796783234269185/pu/img/73Zw2RDE0dNW-3EB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209796783234269185/pu/img/73Zw2RDE0dNW-3EB.jpg",
+					"url": "https://t.co/zsqACreqnv",
+					"display_url": "pic.twitter.com/zsqACreqnv",
+					"expanded_url": "https://twitter.com/RemainiacsCast/status/1209797932632948736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209796783234269200,
+					"id_str": "1209796783234269185",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209796783234269185/pu/img/73Zw2RDE0dNW-3EB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209796783234269185/pu/img/73Zw2RDE0dNW-3EB.jpg",
+					"url": "https://t.co/zsqACreqnv",
+					"display_url": "pic.twitter.com/zsqACreqnv",
+					"expanded_url": "https://twitter.com/RemainiacsCast/status/1209797932632948736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24958,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209796783234269185/pu/vid/480x270/tOtw_8DBzYYTu427.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209796783234269185/pu/vid/640x360/iyzxGGwoIZPvPxIm.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209796783234269185/pu/vid/960x540/08Bu9OrkDyGHKqRO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1209796783234269185/pu/pl/oTRNWIbDdgZQZvQJ.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866692350961233900,
+			"id_str": "866692350961233920",
+			"name": "Remainiacs Podcast",
+			"screen_name": "RemainiacsCast",
+			"location": "London, European Union",
+			"description": "The podcast for people who won't just shut up and accept Brexit. https://t.co/hFp0xCyuf9 https://t.co/h72oaARa2T",
+			"url": "https://t.co/eS9z5OSkWf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eS9z5OSkWf",
+							"expanded_url": "http://acast.com/remainiacs",
+							"display_url": "acast.com/remainiacs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hFp0xCyuf9",
+							"expanded_url": "http://www.patreon.com/remainiacscast",
+							"display_url": "patreon.com/remainiacscast",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/h72oaARa2T",
+							"expanded_url": "http://www.remainiacs.com",
+							"display_url": "remainiacs.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36532,
+			"friends_count": 1976,
+			"listed_count": 337,
+			"created_at": "Mon May 22 16:28:53 +0000 2017",
+			"favourites_count": 11831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094921934633160705/oUkwMJ19_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094921934633160705/oUkwMJ19_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866692350961233920/1532717420",
+			"profile_link_color": "003399",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very Merry Christmas from all of us at Remainiacs, with some seasonal disco from our good friends, @rhodri's band Article 54. Sound up loud! https://t.co/zsqACreqnv"
+	},
+	{
+		"created_at": "Wed Dec 25 08:49:58 +0000 2019",
+		"id": 1209758168701657000,
+		"id_str": "1209758168701657088",
+		"full_text": "@McKelvie It’s ok it’s just a film x",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McKelvie",
+					"name": "Jamie McKelvie",
+					"id": 14276679,
+					"id_str": "14276679",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1209613148967309300,
+		"in_reply_to_status_id_str": "1209613148967309312",
+		"in_reply_to_user_id": 14276679,
+		"in_reply_to_user_id_str": "14276679",
+		"in_reply_to_screen_name": "McKelvie",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63853,
+			"friends_count": 6376,
+			"listed_count": 1043,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@McKelvie It’s ok it’s just a film x"
+	},
+	{
+		"created_at": "Wed Dec 25 00:28:46 +0000 2019",
+		"id": 1209632039063961600,
+		"id_str": "1209632039063961602",
+		"full_text": "@Philippa_Perry @paulprobson I deleted my reply coz I didn’t want to be neggy either. But y’know. *gestures around with arm*",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philippa_Perry",
+					"name": "Philippa_Perry",
+					"id": 18667799,
+					"id_str": "18667799",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "paulprobson",
+					"name": "Paul ♓️",
+					"id": 138420089,
+					"id_str": "138420089",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1209631255664439300,
+		"in_reply_to_status_id_str": "1209631255664439296",
+		"in_reply_to_user_id": 18667799,
+		"in_reply_to_user_id_str": "18667799",
+		"in_reply_to_screen_name": "Philippa_Perry",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63853,
+			"friends_count": 6376,
+			"listed_count": 1043,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Philippa_Perry @paulprobson I deleted my reply coz I didn’t want to be neggy either. But y’know. *gestures around with arm*"
+	},
+	{
 		"created_at": "Tue Dec 24 23:32:55 +0000 2019",
 		"id": 1209617982206488600,
 		"id_str": "1209617982206488576",
@@ -1622,7 +2428,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "Simon Smith",
 			"screen_name": "Vauncey",
 			"location": "Manchester, UK",
-			"description": "CEO & video game Producer/Director @thumbfood • Chair @gameopolisMCR • Diversity Campaigner 🏳️‍🌈 • @wigj Board • BAFTA member • #AFOL",
+			"description": "CEO & video game Producer/Director @thumbfood • Chair @gameopolisMCR • Diversity Campaigner 🏳️🌈 • @wigj Board • BAFTA member • #AFOL",
 			"url": "https://t.co/27kFRRbyM6",
 			"entities": {
 				"url": {
@@ -3470,7 +4276,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Tue Dec 24 22:38:25 +0000 2019",
 		"id": 1209603680644878300,
 		"id_str": "1209604268564582402",
-		"full_text": "Sharing a room with my sister at my parents. She’s hung up her hair extensions underneath the traditional compact buffet server and warming tray and bicycle helmet storage area 🤷🏻‍♀️ @rhodri #duvetknowitschristmas https://t.co/PDclYcO3C2",
+		"full_text": "Sharing a room with my sister at my parents. She’s hung up her hair extensions underneath the traditional compact buffet server and warming tray and bicycle helmet storage area 🤷🏻♀️ @rhodri #duvetknowitschristmas https://t.co/PDclYcO3C2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3687,7 +4493,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Sharing a room with my sister at my parents. She’s hung up her hair extensions underneath the traditional compact buffet server and warming tray and bicycle helmet storage area 🤷🏻‍♀️ @rhodri #duvetknowitschristmas https://t.co/PDclYcO3C2"
+		"text": "Sharing a room with my sister at my parents. She’s hung up her hair extensions underneath the traditional compact buffet server and warming tray and bicycle helmet storage area 🤷🏻♀️ @rhodri #duvetknowitschristmas https://t.co/PDclYcO3C2"
 	},
 	{
 		"created_at": "Tue Dec 24 22:38:14 +0000 2019",
@@ -4124,7 +4930,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "Seb 💅🏻",
 			"screen_name": "SebWhite",
 			"location": "Hackney native",
-			"description": "“The ultimate reverse tomboy.” Creative exec producer/strategist: @qmmunitypod, @FEAVERANDWHITE, @theQuietus & @WDILtv. 🏳️‍⚧️ Non-binary (they/he)",
+			"description": "“The ultimate reverse tomboy.” Creative exec producer/strategist: @qmmunitypod, @FEAVERANDWHITE, @theQuietus & @WDILtv. 🏳️⚧️ Non-binary (they/he)",
 			"url": "https://t.co/vyTM3XtOMu",
 			"entities": {
 				"url": {
@@ -13174,7 +13980,7 @@ Grailbird.data.tweets_2019_12 =
 		"user": {
 			"id": 142673651,
 			"id_str": "142673651",
-			"name": "A Pretty Blonde In Tight Pants 🏳️‍🌈🇪🇺",
+			"name": "A Pretty Blonde In Tight Pants 🏳️🌈🇪🇺",
 			"screen_name": "stewiebirnie",
 			"location": "In the kitchen at parties",
 			"description": "48%, Remoaner, Bleeding heart, Leftie Luvvie, do-gooder, saboteur, enemy of the people #gingerly #RockHudson. Opinions generally stolen from someone else.",
@@ -24355,7 +25161,7 @@ Grailbird.data.tweets_2019_12 =
 				"name": "Hilary Mitchell - Edinburgh Live Editor",
 				"screen_name": "Hilary_W",
 				"location": "Edinburgh, Scotland",
-				"description": "Editor @EdinburghLive_ Formerly Scotland Editor @BuzzFeedUK, formerly sub-editor @StandardIssueUK, formerly child. LGB with the T 🏳️‍🌈",
+				"description": "Editor @EdinburghLive_ Formerly Scotland Editor @BuzzFeedUK, formerly sub-editor @StandardIssueUK, formerly child. LGB with the T 🏳️🌈",
 				"url": "https://t.co/PThmYKoCcM",
 				"entities": {
 					"url": {
