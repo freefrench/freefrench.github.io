@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 08:29:30 +0000 2020",
+		"id": 1214101671514689500,
+		"id_str": "1214101671514689538",
+		"full_text": "Just heard this new thing by @TheOrielles on @laurenlaverne’s show and it’s perked me right up. DIY disco FTW https://t.co/TLJi2oueCD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheOrielles",
+					"name": "The Orielles",
+					"id": 502950166,
+					"id_str": "502950166",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "laurenlaverne",
+					"name": "Lauren Laverne",
+					"id": 89486038,
+					"id_str": "89486038",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TLJi2oueCD",
+					"expanded_url": "https://youtu.be/nddI40VfRsM",
+					"display_url": "youtu.be/nddI40VfRsM",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writes words for publication, emits tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Brexit therapy in disco format.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63719,
+			"friends_count": 6384,
+			"listed_count": 1040,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just heard this new thing by @TheOrielles on @laurenlaverne’s show and it’s perked me right up. DIY disco FTW https://t.co/TLJi2oueCD"
+	},
+	{
 		"created_at": "Sun Jan 05 23:30:06 +0000 2020",
 		"id": 1213965763008172000,
 		"id_str": "1213965930746789888",
