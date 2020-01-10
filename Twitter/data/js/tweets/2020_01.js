@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 13:07:32 +0000 2020",
+		"id": 1215258806390788000,
+		"id_str": "1215258806390788097",
+		"full_text": "@gdpreston @christt Only marginally",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdpreston",
+					"name": "gdpreston",
+					"id": 23945714,
+					"id_str": "23945714",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "christt",
+					"name": "Chris Thorpe-Tracey ⧖",
+					"id": 5934312,
+					"id_str": "5934312",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1215258226423484400,
+		"in_reply_to_status_id_str": "1215258226423484417",
+		"in_reply_to_user_id": 23945714,
+		"in_reply_to_user_id_str": "23945714",
+		"in_reply_to_screen_name": "gdpreston",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63685,
+			"friends_count": 6385,
+			"listed_count": 1039,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gdpreston @christt Only marginally"
+	},
+	{
+		"created_at": "Thu Jan 09 13:04:53 +0000 2020",
+		"id": 1215252294306082800,
+		"id_str": "1215258138229780480",
+		"full_text": "Can we set up a trending rota, just for the sake of ease?\nMon: Allison Pearson\nTues: Sarah Vine\nWeds: Piers Morgan\nThurs: Toby Young\nFri: Wildcard day for allcomers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354541717,
+			"id_str": "354541717",
+			"name": "Michael Hann",
+			"screen_name": "MichaelAHann",
+			"location": "",
+			"description": "Writer and editor (Guardian, Financial Times, Spectator, The Economist, Uncut, The Quietus and more). Also: QPR, pork products. Open to commissions.",
+			"url": "https://t.co/MkkwMyCCXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MkkwMyCCXI",
+							"expanded_url": "http://www.guardian.co.uk/profile/michaelhann",
+							"display_url": "guardian.co.uk/profile/michae…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11312,
+			"friends_count": 1848,
+			"listed_count": 233,
+			"created_at": "Sat Aug 13 22:11:11 +0000 2011",
+			"favourites_count": 1714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919150916917440512/dOGiRZao_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919150916917440512/dOGiRZao_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354541717/1437464744",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 161,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Can we set up a trending rota, just for the sake of ease?\nMon: Allison Pearson\nTues: Sarah Vine\nWeds: Piers Morgan\nThurs: Toby Young\nFri: Wildcard day for allcomers"
+	},
+	{
+		"created_at": "Thu Jan 09 13:02:56 +0000 2020",
+		"id": 1215257647768797200,
+		"id_str": "1215257647768797184",
+		"full_text": "I was once scolded by Miriam Margolyes for accidentally failing to hold a door open for her, so I see this tale as karmic justice https://t.co/wiYpDl256o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wiYpDl256o",
+					"expanded_url": "https://twitter.com/theseagullah/status/1215226484803153925",
+					"display_url": "twitter.com/theseagullah/s…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63685,
+			"friends_count": 6385,
+			"listed_count": 1039,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215226484803154000,
+		"quoted_status_id_str": "1215226484803153925",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wiYpDl256o",
+			"expanded": "https://twitter.com/theseagullah/status/1215226484803153925",
+			"display": "twitter.com/theseagullah/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 10:59:06 +0000 2020",
+			"id": 1215226484803154000,
+			"id_str": "1215226484803153925",
+			"full_text": "this miriam margolyes story is incredible https://t.co/xbTfglj6dH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215226432160518100,
+						"id_str": "1215226432160518144",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215226432160518144/pu/img/dVktr0vBHy_81g9Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215226432160518144/pu/img/dVktr0vBHy_81g9Z.jpg",
+						"url": "https://t.co/xbTfglj6dH",
+						"display_url": "pic.twitter.com/xbTfglj6dH",
+						"expanded_url": "https://twitter.com/theseagullah/status/1215226484803153925/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215226432160518100,
+						"id_str": "1215226432160518144",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215226432160518144/pu/img/dVktr0vBHy_81g9Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215226432160518144/pu/img/dVktr0vBHy_81g9Z.jpg",
+						"url": "https://t.co/xbTfglj6dH",
+						"display_url": "pic.twitter.com/xbTfglj6dH",
+						"expanded_url": "https://twitter.com/theseagullah/status/1215226484803153925/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 57067,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215226432160518144/pu/vid/480x270/6O2WqDjHhC3lkuE2.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215226432160518144/pu/vid/640x360/BRD6MONCOIBxT3A2.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215226432160518144/pu/vid/1280x720/YKWPRH5PeL8tQymh.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1215226432160518144/pu/pl/8aUMA_0kc0Ckt0cU.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1016405535304962000,
+				"id_str": "1016405535304962049",
+				"name": "the bird of britain",
+				"screen_name": "theseagullah",
+				"location": "UK",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98,
+				"friends_count": 89,
+				"listed_count": 0,
+				"created_at": "Mon Jul 09 19:35:38 +0000 2018",
+				"favourites_count": 77,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203070701814632448/V6arzUBh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203070701814632448/V6arzUBh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1016405535304962049/1531166269",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1480,
+			"favorite_count": 7165,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was once scolded by Miriam Margolyes for accidentally failing to hold a door open for her, so I see this tale as karmic justice https://t.co/wiYpDl256o"
+	},
+	{
 		"created_at": "Wed Jan 08 23:08:50 +0000 2020",
 		"id": 1215047740528431000,
 		"id_str": "1215047740528431104",
