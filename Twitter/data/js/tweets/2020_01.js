@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 15:05:19 +0000 2020",
+		"id": 1217100387632799700,
+		"id_str": "1217100387632799745",
+		"full_text": "@ladyhaja @scouserachel We must strive to displace it by tweeting about inconsequential shit",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ladyhaja",
+					"name": "Hannah Jane Parkinson",
+					"id": 290735485,
+					"id_str": "290735485",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "scouserachel",
+					"name": "scouserachel",
+					"id": 29713919,
+					"id_str": "29713919",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1217099801130651600,
+		"in_reply_to_status_id_str": "1217099801130651649",
+		"in_reply_to_user_id": 290735485,
+		"in_reply_to_user_id_str": "290735485",
+		"in_reply_to_screen_name": "ladyhaja",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63633,
+			"friends_count": 6385,
+			"listed_count": 1038,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 130007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ladyhaja @scouserachel We must strive to displace it by tweeting about inconsequential shit"
+	},
+	{
+		"created_at": "Tue Jan 14 13:18:36 +0000 2020",
+		"id": 1217073531684606000,
+		"id_str": "1217073531684605953",
+		"full_text": "Ask again, but say “And how about if there was a Centerparcs on the moon” https://t.co/8LkH8kKBIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8LkH8kKBIS",
+					"expanded_url": "https://twitter.com/YouGov/status/1217041173266804736",
+					"display_url": "twitter.com/YouGov/status/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63633,
+			"friends_count": 6385,
+			"listed_count": 1038,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 130007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217041173266804700,
+		"quoted_status_id_str": "1217041173266804736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8LkH8kKBIS",
+			"expanded": "https://twitter.com/YouGov/status/1217041173266804736",
+			"display": "twitter.com/YouGov/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 11:10:01 +0000 2020",
+			"id": 1217041173266804700,
+			"id_str": "1217041173266804736",
+			"full_text": "Half of Brits wouldn't want to take a trip to the moon, even if their safety were guaranteed. The top reasons:\n\nNot interested - 23%\nNot enough to see/do - 11%\nRather visit other places on Earth - 10%\n\"No point\" - 9%\nReject guaranteed safety premise - 9%\n\nhttps://t.co/AKgnTswMiP https://t.co/fytX6fo9ao",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AKgnTswMiP",
+						"expanded_url": "https://yougov.co.uk/topics/science/articles-reports/2019/07/20/half-britons-wouldnt-want-go-moon-even-if-their-sa?utm_source=twitter&utm_medium=website_article&utm_campaign=moon",
+						"display_url": "yougov.co.uk/topics/science…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1217041150567157800,
+						"id_str": "1217041150567157760",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EOPMenCWkAAzXtl.png",
+						"media_url_https": "https://pbs.twimg.com/media/EOPMenCWkAAzXtl.png",
+						"url": "https://t.co/fytX6fo9ao",
+						"display_url": "pic.twitter.com/fytX6fo9ao",
+						"expanded_url": "https://twitter.com/YouGov/status/1217041173266804736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 93,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 530,
+										"y": 367,
+										"h": 102,
+										"w": 102
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 887,
+										"y": 166,
+										"h": 150,
+										"w": 150
+									},
+									{
+										"x": 944,
+										"y": 654,
+										"h": 183,
+										"w": 183
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 282,
+										"y": 52,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 300,
+										"y": 208,
+										"h": 58,
+										"w": 58
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 851,
+										"y": 159,
+										"h": 143,
+										"w": 143
+									},
+									{
+										"x": 905,
+										"y": 627,
+										"h": 175,
+										"w": 175
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217041150567157800,
+						"id_str": "1217041150567157760",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EOPMenCWkAAzXtl.png",
+						"media_url_https": "https://pbs.twimg.com/media/EOPMenCWkAAzXtl.png",
+						"url": "https://t.co/fytX6fo9ao",
+						"display_url": "pic.twitter.com/fytX6fo9ao",
+						"expanded_url": "https://twitter.com/YouGov/status/1217041173266804736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 498,
+										"y": 93,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 530,
+										"y": 367,
+										"h": 102,
+										"w": 102
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 887,
+										"y": 166,
+										"h": 150,
+										"w": 150
+									},
+									{
+										"x": 944,
+										"y": 654,
+										"h": 183,
+										"w": 183
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 282,
+										"y": 52,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 300,
+										"y": 208,
+										"h": 58,
+										"w": 58
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 851,
+										"y": 159,
+										"h": 143,
+										"w": 143
+									},
+									{
+										"x": 905,
+										"y": 627,
+										"h": 175,
+										"w": 175
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1217041146662334500,
+			"in_reply_to_status_id_str": "1217041146662334464",
+			"in_reply_to_user_id": 14810076,
+			"in_reply_to_user_id_str": "14810076",
+			"in_reply_to_screen_name": "YouGov",
+			"user": {
+				"id": 14810076,
+				"id_str": "14810076",
+				"name": "YouGov",
+				"screen_name": "YouGov",
+				"location": "Earth",
+				"description": "Exploring what the world thinks, every day",
+				"url": "http://t.co/aAxsytYPqd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aAxsytYPqd",
+								"expanded_url": "http://www.YouGov.com",
+								"display_url": "YouGov.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 202363,
+				"friends_count": 420,
+				"listed_count": 3095,
+				"created_at": "Sat May 17 11:50:07 +0000 2008",
+				"favourites_count": 23,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15013,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172492958001696769/0JUhr2DK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172492958001696769/0JUhr2DK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14810076/1568379080",
+				"profile_link_color": "644AAB",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "31373A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 323,
+			"favorite_count": 809,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ask again, but say “And how about if there was a Centerparcs on the moon” https://t.co/8LkH8kKBIS"
+	},
+	{
 		"created_at": "Sun Jan 12 22:35:09 +0000 2020",
 		"id": 1216488816653021200,
 		"id_str": "1216488816653021184",
