@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 22:14:18 +0000 2020",
+		"id": 1220711078100897800,
+		"id_str": "1220832220916654080",
+		"full_text": "Thread time!\n\nMeet Mary Burchell, one of the most successful romance writers EVER. Over 110 Mills &amp; Boons to her name.\n\nGot an image of her in your head now, right? Bin it.\n\nBecause Mary is a Righteous Gentile.\n\nShe wrote books to fund her efforts to help Jews escape Nazi Germany https://t.co/MB1tOEmfFM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220711065337696300,
+					"id_str": "1220711065337696256",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EPDWPw7XkAAhcsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPDWPw7XkAAhcsT.jpg",
+					"url": "https://t.co/MB1tOEmfFM",
+					"display_url": "pic.twitter.com/MB1tOEmfFM",
+					"expanded_url": "https://twitter.com/garius/status/1220711078100897793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1040,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 183,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 183,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 183,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 119,
+									"h": 256,
+									"w": 256
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220711065337696300,
+					"id_str": "1220711065337696256",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EPDWPw7XkAAhcsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPDWPw7XkAAhcsT.jpg",
+					"url": "https://t.co/MB1tOEmfFM",
+					"display_url": "pic.twitter.com/MB1tOEmfFM",
+					"expanded_url": "https://twitter.com/garius/status/1220711078100897793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1040,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 183,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 183,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 183,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 119,
+									"h": 256,
+									"w": 256
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7709782,
+			"id_str": "7709782",
+			"name": "John Bull",
+			"screen_name": "garius",
+			"location": "Walthamstow, England",
+			"description": "Author of the Brexit Tapes. Editor of @lonrec.  Historian. Journalist. Strategy game streamer. Half a celebrity according to HMRC.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19547,
+			"friends_count": 635,
+			"listed_count": 209,
+			"created_at": "Wed Jul 25 11:53:07 +0000 2007",
+			"favourites_count": 14850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963504197655252994/U04hQBYj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963504197655252994/U04hQBYj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7709782/1553550036",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1036,
+		"favorite_count": 1737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread time!\n\nMeet Mary Burchell, one of the most successful romance writers EVER. Over 110 Mills &amp; Boons to her name.\n\nGot an image of her in your head now, right? Bin it.\n\nBecause Mary is a Righteous Gentile.\n\nShe wrote books to fund her efforts to help Jews escape Nazi Germany https://t.co/MB1tOEmfFM"
+	},
+	{
+		"created_at": "Fri Jan 24 21:14:26 +0000 2020",
+		"id": 1220817155354255400,
+		"id_str": "1220817155354255360",
+		"full_text": "@faceofboe I’m touched that you got that far.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "faceofboe",
+					"name": "Gillian",
+					"id": 15439055,
+					"id_str": "15439055",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1220816914462711800,
+		"in_reply_to_status_id_str": "1220816914462711811",
+		"in_reply_to_user_id": 15439055,
+		"in_reply_to_user_id_str": "15439055",
+		"in_reply_to_screen_name": "faceofboe",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63597,
+			"friends_count": 6385,
+			"listed_count": 1039,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 130095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@faceofboe I’m touched that you got that far."
+	},
+	{
 		"created_at": "Thu Jan 23 12:40:03 +0000 2020",
 		"id": 1220325318440996900,
 		"id_str": "1220325318440996866",
