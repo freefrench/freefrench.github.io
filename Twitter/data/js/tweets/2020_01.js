@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 23:12:01 +0000 2020",
+		"id": 1221933912185876500,
+		"id_str": "1221933912185876480",
+		"full_text": "@QUninteresting Yes",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QUninteresting",
+					"name": "Patty O'Dawes",
+					"id": 999931308213198800,
+					"id_str": "999931308213198848",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1221930244837462000,
+		"in_reply_to_status_id_str": "1221930244837462016",
+		"in_reply_to_user_id": 999931308213198800,
+		"in_reply_to_user_id_str": "999931308213198848",
+		"in_reply_to_screen_name": "QUninteresting",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63584,
+			"friends_count": 6393,
+			"listed_count": 1040,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@QUninteresting Yes"
+	},
+	{
+		"created_at": "Mon Jan 27 09:51:38 +0000 2020",
+		"id": 1221534536309395500,
+		"id_str": "1221732488617263104",
+		"full_text": "Show me a better Harold Wilson meme. I'll wait. https://t.co/qOmS8jWOcW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221534531292926000,
+					"id_str": "1221534531292925952",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPDLyqWkAAzYUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPDLyqWkAAzYUS.jpg",
+					"url": "https://t.co/qOmS8jWOcW",
+					"display_url": "pic.twitter.com/qOmS8jWOcW",
+					"expanded_url": "https://twitter.com/gerrylynch/status/1221534536309395456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 728,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 656,
+									"y": 171,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 610,
+									"y": 585,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 193,
+									"y": 693,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 478,
+									"y": 183,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 568,
+									"y": 161,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 152,
+									"y": 70,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 173,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 515,
+									"y": 126,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 464,
+									"y": 121,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 432,
+									"y": 414,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 136,
+									"y": 491,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 338,
+									"y": 129,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 402,
+									"y": 114,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 107,
+									"y": 49,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 728,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 656,
+									"y": 171,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 610,
+									"y": 585,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 193,
+									"y": 693,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 478,
+									"y": 183,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 568,
+									"y": 161,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 152,
+									"y": 70,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 728,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 656,
+									"y": 171,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 610,
+									"y": 585,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 193,
+									"y": 693,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 478,
+									"y": 183,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 568,
+									"y": 161,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 152,
+									"y": 70,
+									"h": 203,
+									"w": 203
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221534531292926000,
+					"id_str": "1221534531292925952",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPDLyqWkAAzYUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPDLyqWkAAzYUS.jpg",
+					"url": "https://t.co/qOmS8jWOcW",
+					"display_url": "pic.twitter.com/qOmS8jWOcW",
+					"expanded_url": "https://twitter.com/gerrylynch/status/1221534536309395456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 728,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 656,
+									"y": 171,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 610,
+									"y": 585,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 193,
+									"y": 693,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 478,
+									"y": 183,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 568,
+									"y": 161,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 152,
+									"y": 70,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 173,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 515,
+									"y": 126,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 464,
+									"y": 121,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 432,
+									"y": 414,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 136,
+									"y": 491,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 338,
+									"y": 129,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 402,
+									"y": 114,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 107,
+									"y": 49,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 728,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 656,
+									"y": 171,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 610,
+									"y": 585,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 193,
+									"y": 693,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 478,
+									"y": 183,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 568,
+									"y": 161,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 152,
+									"y": 70,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 245,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 728,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 656,
+									"y": 171,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 610,
+									"y": 585,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 193,
+									"y": 693,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 478,
+									"y": 183,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 568,
+									"y": 161,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 152,
+									"y": 70,
+									"h": 203,
+									"w": 203
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22487830,
+			"id_str": "22487830",
+			"name": "Gerry Lynch",
+			"screen_name": "gerrylynch",
+			"location": "Moving target centred on: 51° ",
+			"description": "Trainee Anglican priest at @sshoxford/@UniOfOxford student. Past Comms Director @DioSalisbury & Exec Dir @AllianceParty. Belfast boy. Radio ham. Politics geek.",
+			"url": "https://t.co/5RKMYt3dYi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5RKMYt3dYi",
+							"expanded_url": "http://facebook.com/gi0rtn",
+							"display_url": "facebook.com/gi0rtn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4165,
+			"friends_count": 1894,
+			"listed_count": 116,
+			"created_at": "Mon Mar 02 14:24:49 +0000 2009",
+			"favourites_count": 29032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/784804817323560961/jKkBElP4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/784804817323560961/jKkBElP4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22487830/1492215715",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "616ba1df27270916",
+			"url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+			"place_type": "city",
+			"name": "Oxford",
+			"full_name": "Oxford, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.289608,
+							51.7122668
+						],
+						[
+							-1.1772587,
+							51.7122668
+						],
+						[
+							-1.1772587,
+							51.796305
+						],
+						[
+							-1.289608,
+							51.796305
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 534,
+		"favorite_count": 2741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Show me a better Harold Wilson meme. I'll wait. https://t.co/qOmS8jWOcW"
+	},
+	{
+		"created_at": "Mon Jan 27 09:24:37 +0000 2020",
+		"id": 1221725689835085800,
+		"id_str": "1221725689835085825",
+		"full_text": "@_bransby_ Yes! Hang on, no.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_bransby_",
+					"name": "Bransby",
+					"id": 94366481,
+					"id_str": "94366481",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1221723067270955000,
+		"in_reply_to_status_id_str": "1221723067270955008",
+		"in_reply_to_user_id": 94366481,
+		"in_reply_to_user_id_str": "94366481",
+		"in_reply_to_screen_name": "_bransby_",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63584,
+			"friends_count": 6393,
+			"listed_count": 1040,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_bransby_ Yes! Hang on, no."
+	},
+	{
+		"created_at": "Mon Jan 27 09:11:53 +0000 2020",
+		"id": 1221722486557085700,
+		"id_str": "1221722486557085696",
+		"full_text": "The bloke who lives over the road now owns three cars. (This is a terraced street with on-street parking.) Third one recently joined the pack. I’ve been shaking my head at this, but then I remembered that I own six guitars.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63584,
+			"friends_count": 6393,
+			"listed_count": 1040,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The bloke who lives over the road now owns three cars. (This is a terraced street with on-street parking.) Third one recently joined the pack. I’ve been shaking my head at this, but then I remembered that I own six guitars."
+	},
+	{
 		"created_at": "Sun Jan 26 22:55:19 +0000 2020",
 		"id": 1221567319157170200,
 		"id_str": "1221567319157170176",
