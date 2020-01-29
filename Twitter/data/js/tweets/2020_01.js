@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 19:13:28 +0000 2020",
+		"id": 1222236265929760800,
+		"id_str": "1222236265929760768",
+		"full_text": "@randyseverino Deal. 😀",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "randyseverino",
+					"name": "Randy Severino",
+					"id": 258101110,
+					"id_str": "258101110",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1222219701767422000,
+		"in_reply_to_status_id_str": "1222219701767421952",
+		"in_reply_to_user_id": 258101110,
+		"in_reply_to_user_id_str": "258101110",
+		"in_reply_to_screen_name": "randyseverino",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63580,
+			"friends_count": 6394,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@randyseverino Deal. 😀"
+	},
+	{
+		"created_at": "Tue Jan 28 13:38:37 +0000 2020",
+		"id": 1222149830056693800,
+		"id_str": "1222151997304033280",
+		"full_text": "Classic Pyongyang Times headline. Maybe the best ever. https://t.co/HGQiyrddaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222068454464856000,
+					"id_str": "1222068454464856067",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EPWoyNeWoAM9VfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPWoyNeWoAM9VfO.jpg",
+					"url": "https://t.co/HGQiyrddaq",
+					"display_url": "pic.twitter.com/HGQiyrddaq",
+					"expanded_url": "https://twitter.com/Draylien/status/1222149830056693761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1065,
+							"h": 1600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 385,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 72,
+									"y": 633,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 5,
+									"y": 91,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 679,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 127,
+									"y": 1117,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 10,
+									"y": 160,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 906,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 170,
+									"y": 1489,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 14,
+									"y": 214,
+									"h": 206,
+									"w": 206
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 906,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 170,
+									"y": 1489,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 14,
+									"y": 214,
+									"h": 206,
+									"w": 206
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222068454464856000,
+					"id_str": "1222068454464856067",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EPWoyNeWoAM9VfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPWoyNeWoAM9VfO.jpg",
+					"url": "https://t.co/HGQiyrddaq",
+					"display_url": "pic.twitter.com/HGQiyrddaq",
+					"expanded_url": "https://twitter.com/Draylien/status/1222149830056693761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1065,
+							"h": 1600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 385,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 72,
+									"y": 633,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 5,
+									"y": 91,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 679,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 127,
+									"y": 1117,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 10,
+									"y": 160,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 906,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 170,
+									"y": 1489,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 14,
+									"y": 214,
+									"h": 206,
+									"w": 206
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 906,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 170,
+									"y": 1489,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 14,
+									"y": 214,
+									"h": 206,
+									"w": 206
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26474942,
+			"id_str": "26474942",
+			"name": "Andray Abrahamian",
+			"screen_name": "Draylien",
+			"location": "",
+			"description": "Formerly Choson Exchange, Koret Fellow at Stanford, Griffith Asia Inst. Tweets on North Korea, Myanmar, Asia. Retweets mean nothing. Tweets too, often.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2204,
+			"friends_count": 621,
+			"listed_count": 94,
+			"created_at": "Wed Mar 25 11:22:29 +0000 2009",
+			"favourites_count": 1981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145495506811936768/VlgBTeh1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145495506811936768/VlgBTeh1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26474942/1515534370",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Classic Pyongyang Times headline. Maybe the best ever. https://t.co/HGQiyrddaq"
+	},
+	{
+		"created_at": "Tue Jan 28 11:43:19 +0000 2020",
+		"id": 1222122983810052000,
+		"id_str": "1222122983810052097",
+		"full_text": "@alirodger @ofallmyhopes @DavidGArnold I'll add it to the list.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alirodger",
+					"name": "Alison Rodger",
+					"id": 23747324,
+					"id_str": "23747324",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ofallmyhopes",
+					"name": "Lindsay Arielle",
+					"id": 331770974,
+					"id_str": "331770974",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "DavidGArnold",
+					"name": "DavidGArnold",
+					"id": 18679901,
+					"id_str": "18679901",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1222116693117407200,
+		"in_reply_to_status_id_str": "1222116693117407233",
+		"in_reply_to_user_id": 23747324,
+		"in_reply_to_user_id_str": "23747324",
+		"in_reply_to_screen_name": "alirodger",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63580,
+			"friends_count": 6394,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alirodger @ofallmyhopes @DavidGArnold I'll add it to the list."
+	},
+	{
+		"created_at": "Tue Jan 28 10:26:10 +0000 2020",
+		"id": 1222103568427163600,
+		"id_str": "1222103568427163650",
+		"full_text": "@petefowlerart That’s so neat that it must be tempting to completely switch career paths.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petefowlerart",
+					"name": "Pete Fowler",
+					"id": 110406890,
+					"id_str": "110406890",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1222103120844599300,
+		"in_reply_to_status_id_str": "1222103120844599296",
+		"in_reply_to_user_id": 110406890,
+		"in_reply_to_user_id_str": "110406890",
+		"in_reply_to_screen_name": "petefowlerart",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63580,
+			"friends_count": 6394,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@petefowlerart That’s so neat that it must be tempting to completely switch career paths."
+	},
+	{
 		"created_at": "Mon Jan 27 23:12:01 +0000 2020",
 		"id": 1221933912185876500,
 		"id_str": "1221933912185876480",
