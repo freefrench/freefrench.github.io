@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 16:21:58 +0000 2020",
+		"id": 1224367432384557000,
+		"id_str": "1224367432384557056",
+		"full_text": "@sfgreenwood Not the same, but I noticed that the creator has digitised them and made them available online for a tenner: https://t.co/vOF8hkx4FV",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sfgreenwood",
+					"name": "Simon Greenwood",
+					"id": 6468862,
+					"id_str": "6468862",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vOF8hkx4FV",
+					"expanded_url": "http://iludwig.co.uk/?page_id=23",
+					"display_url": "iludwig.co.uk/?page_id=23",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1224366280200900600,
+		"in_reply_to_status_id_str": "1224366280200900610",
+		"in_reply_to_user_id": 6468862,
+		"in_reply_to_user_id_str": "6468862",
+		"in_reply_to_screen_name": "sfgreenwood",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63560,
+			"friends_count": 6404,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sfgreenwood Not the same, but I noticed that the creator has digitised them and made them available online for a tenner: https://t.co/vOF8hkx4FV"
+	},
+	{
+		"created_at": "Mon Feb 03 16:15:18 +0000 2020",
+		"id": 1224365754616893400,
+		"id_str": "1224365754616893440",
+		"full_text": "@sfgreenwood It was part of a Beethoven thing at the Guildhall School of Music. Just a daytime thing \"for families\". I did mention it in December when I saw it in a Barbican programme, but evidently it whizzed up the timeline :) https://t.co/uxa91p6L8M",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sfgreenwood",
+					"name": "Simon Greenwood",
+					"id": 6468862,
+					"id_str": "6468862",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uxa91p6L8M",
+					"expanded_url": "https://twitter.com/rhodri/status/1201639445277151232",
+					"display_url": "twitter.com/rhodri/status/…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1224325062045708300,
+		"in_reply_to_status_id_str": "1224325062045708295",
+		"in_reply_to_user_id": 6468862,
+		"in_reply_to_user_id_str": "6468862",
+		"in_reply_to_screen_name": "sfgreenwood",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63560,
+			"friends_count": 6404,
+			"listed_count": 1041,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 13670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201639445277151200,
+		"quoted_status_id_str": "1201639445277151232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uxa91p6L8M",
+			"expanded": "https://twitter.com/rhodri/status/1201639445277151232",
+			"display": "twitter.com/rhodri/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 23:09:03 +0000 2019",
+			"id": 1201639445277151200,
+			"id_str": "1201639445277151232",
+			"full_text": "Got wind of this event at the Barbican in Feb, a tribute to the 1970s BBC cartoon Ludwig. Musical egg! Yes, of course I must go. https://t.co/JILrSan7fB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1201639434627752000,
+						"id_str": "1201639434627751938",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/EK0UswEWoAILnNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK0UswEWoAILnNi.jpg",
+						"url": "https://t.co/JILrSan7fB",
+						"display_url": "pic.twitter.com/JILrSan7fB",
+						"expanded_url": "https://twitter.com/rhodri/status/1201639445277151232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 224,
+										"y": 224,
+										"h": 101,
+										"w": 101
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 224,
+										"y": 224,
+										"h": 101,
+										"w": 101
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 148,
+										"y": 148,
+										"h": 67,
+										"w": 67
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 224,
+										"y": 224,
+										"h": 101,
+										"w": 101
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1201639434627752000,
+						"id_str": "1201639434627751938",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/EK0UswEWoAILnNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK0UswEWoAILnNi.jpg",
+						"url": "https://t.co/JILrSan7fB",
+						"display_url": "pic.twitter.com/JILrSan7fB",
+						"expanded_url": "https://twitter.com/rhodri/status/1201639445277151232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 224,
+										"y": 224,
+										"h": 101,
+										"w": 101
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 224,
+										"y": 224,
+										"h": 101,
+										"w": 101
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 148,
+										"y": 148,
+										"h": 67,
+										"w": 67
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 224,
+										"y": 224,
+										"h": 101,
+										"w": 101
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1524841,
+				"id_str": "1524841",
+				"name": "Rhodri Marsden",
+				"screen_name": "rhodri",
+				"location": "London, United Kingdom",
+				"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+				"url": "https://t.co/aoc7DmVmLD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aoc7DmVmLD",
+								"expanded_url": "http://rhodri.info",
+								"display_url": "rhodri.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63560,
+				"friends_count": 6404,
+				"listed_count": 1041,
+				"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+				"favourites_count": 13670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 130170,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "424242",
+				"profile_text_color": "999999",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 105,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sfgreenwood It was part of a Beethoven thing at the Guildhall School of Music. Just a daytime thing \"for families\". I did mention it in December when I saw it in a Barbican programme, but evidently it whizzed up the timeline :) https://t.co/uxa91p6L8M"
+	},
+	{
 		"created_at": "Sun Feb 02 21:23:20 +0000 2020",
 		"id": 1224080886163034000,
 		"id_str": "1224080886163034119",
