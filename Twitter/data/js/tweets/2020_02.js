@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 20:21:57 +0000 2020",
+		"id": 1231974515950997500,
+		"id_str": "1232037971215421441",
+		"full_text": "But for anyone about to vent their rage online, even to a company - please remember there's a human on the other end of it, and try to be kind.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231974514759782400,
+		"in_reply_to_status_id_str": "1231974514759782402",
+		"in_reply_to_user_id": 46422935,
+		"in_reply_to_user_id_str": "46422935",
+		"in_reply_to_screen_name": "YorkshireTea",
+		"user": {
+			"id": 46422935,
+			"id_str": "46422935",
+			"name": "Yorkshire Tea",
+			"screen_name": "YorkshireTea",
+			"location": "Harrogate, Yorkshire",
+			"description": "Watch our new TV ads: https://t.co/E3frPSnjIq",
+			"url": "https://t.co/kHHgFIjetv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kHHgFIjetv",
+							"expanded_url": "http://www.yorkshiretea.co.uk",
+							"display_url": "yorkshiretea.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/E3frPSnjIq",
+							"expanded_url": "https://bit.ly/2mm0UtQ",
+							"display_url": "bit.ly/2mm0UtQ",
+							"indices": [
+								22,
+								45
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 138907,
+			"friends_count": 3443,
+			"listed_count": 731,
+			"created_at": "Thu Jun 11 16:20:25 +0000 2009",
+			"favourites_count": 24997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0DFE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836893218394542081/ASSp7Ez__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836893218394542081/ASSp7Ez__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46422935/1562328358",
+			"profile_link_color": "F0241D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAE9F0",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3506,
+		"favorite_count": 33540,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "But for anyone about to vent their rage online, even to a company - please remember there's a human on the other end of it, and try to be kind."
+	},
+	{
+		"created_at": "Mon Feb 24 20:19:55 +0000 2020",
+		"id": 1232037459476799500,
+		"id_str": "1232037459476799489",
+		"full_text": "@MLBrook They’re doing a brilliant job.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MLBrook",
+					"name": "Michelle Brook",
+					"id": 101013718,
+					"id_str": "101013718",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1232035653749264400,
+		"in_reply_to_status_id_str": "1232035653749264392",
+		"in_reply_to_user_id": 101013718,
+		"in_reply_to_user_id_str": "101013718",
+		"in_reply_to_screen_name": "MLBrook",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63693,
+			"friends_count": 6447,
+			"listed_count": 1037,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MLBrook They’re doing a brilliant job."
+	},
+	{
 		"created_at": "Sun Feb 23 22:01:00 +0000 2020",
 		"id": 1231700512267001900,
 		"id_str": "1231700512267001863",
