@@ -1,6 +1,857 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 08 18:52:53 +0000 2020",
+		"id": 1236726599099265000,
+		"id_str": "1236726599099265027",
+		"full_text": "@DNAtkinson Another version!!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DNAtkinson",
+					"name": "David N Atkinson",
+					"id": 26328151,
+					"id_str": "26328151",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1236726339161505800,
+		"in_reply_to_status_id_str": "1236726339161505797",
+		"in_reply_to_user_id": 26328151,
+		"in_reply_to_user_id_str": "26328151",
+		"in_reply_to_screen_name": "DNAtkinson",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63671,
+			"friends_count": 6277,
+			"listed_count": 1037,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DNAtkinson Another version!!!"
+	},
+	{
+		"created_at": "Sun Mar 08 18:42:18 +0000 2020",
+		"id": 1236723937792405500,
+		"id_str": "1236723937792405505",
+		"full_text": "You say it’s a rug or a mink coat, but this is the version on Wikipedia. Eesh https://t.co/t32ZbQy2p0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236723933732311000,
+					"id_str": "1236723933732311042",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ESm53YNWkAIR-9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESm53YNWkAIR-9Y.jpg",
+					"url": "https://t.co/t32ZbQy2p0",
+					"display_url": "pic.twitter.com/t32ZbQy2p0",
+					"expanded_url": "https://twitter.com/rhodri/status/1236723937792405505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236723933732311000,
+					"id_str": "1236723933732311042",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ESm53YNWkAIR-9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESm53YNWkAIR-9Y.jpg",
+					"url": "https://t.co/t32ZbQy2p0",
+					"display_url": "pic.twitter.com/t32ZbQy2p0",
+					"expanded_url": "https://twitter.com/rhodri/status/1236723937792405505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1236721772277489700,
+		"in_reply_to_status_id_str": "1236721772277489666",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63671,
+			"friends_count": 6277,
+			"listed_count": 1037,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You say it’s a rug or a mink coat, but this is the version on Wikipedia. Eesh https://t.co/t32ZbQy2p0"
+	},
+	{
+		"created_at": "Sun Mar 08 18:33:42 +0000 2020",
+		"id": 1236721772277489700,
+		"id_str": "1236721772277489666",
+		"full_text": "Just marvelling at the cover of the album “Barry White Sings For Someone You Love” by, er, Barry White. I don’t even know what’s going on here, but it appears to be human flesh. Which bit, and whose flesh, I’ve got no idea. Erk. https://t.co/m6rZ3PBpjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236721759858106400,
+					"id_str": "1236721759858106368",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/ESm3415WoAAalwq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESm3415WoAAalwq.jpg",
+					"url": "https://t.co/m6rZ3PBpjK",
+					"display_url": "pic.twitter.com/m6rZ3PBpjK",
+					"expanded_url": "https://twitter.com/rhodri/status/1236721772277489666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236721759858106400,
+					"id_str": "1236721759858106368",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/ESm3415WoAAalwq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESm3415WoAAalwq.jpg",
+					"url": "https://t.co/m6rZ3PBpjK",
+					"display_url": "pic.twitter.com/m6rZ3PBpjK",
+					"expanded_url": "https://twitter.com/rhodri/status/1236721772277489666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63671,
+			"friends_count": 6277,
+			"listed_count": 1037,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just marvelling at the cover of the album “Barry White Sings For Someone You Love” by, er, Barry White. I don’t even know what’s going on here, but it appears to be human flesh. Which bit, and whose flesh, I’ve got no idea. Erk. https://t.co/m6rZ3PBpjK"
+	},
+	{
+		"created_at": "Sun Mar 08 08:32:58 +0000 2020",
+		"id": 1236569503368085500,
+		"id_str": "1236570591844589568",
+		"full_text": "This #InternationalWomensDay I salute women doing the real work to address sexist power structures that leave women - all women - behind. Words can help but deeds are the only thing that’s going to get anything done around here.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalWomensDay",
+					"indices": [
+						5,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21089816,
+			"id_str": "21089816",
+			"name": "Sophie Wilkinson",
+			"screen_name": "sophwilkinson",
+			"location": "East London",
+			"description": "freelance journalist for a lot of places & associate lecturer @londonmetuni.\ntips and commissions:\nsophiewilkinsonjournalist@gmail.com \nInsty: swilkogram",
+			"url": "https://t.co/em5iGh50UI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/em5iGh50UI",
+							"expanded_url": "https://www.sophie-wilkinson.com",
+							"display_url": "sophie-wilkinson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18591,
+			"friends_count": 1359,
+			"listed_count": 198,
+			"created_at": "Tue Feb 17 13:53:06 +0000 2009",
+			"favourites_count": 29413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000807",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188465526605074434/L-RUJFih_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188465526605074434/L-RUJFih_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21089816/1546597556",
+			"profile_link_color": "1A5236",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This #InternationalWomensDay I salute women doing the real work to address sexist power structures that leave women - all women - behind. Words can help but deeds are the only thing that’s going to get anything done around here."
+	},
+	{
+		"created_at": "Sun Mar 08 08:13:44 +0000 2020",
+		"id": 1236565751559061500,
+		"id_str": "1236565751559061504",
+		"full_text": "Extremely pleasing. https://t.co/KJb8feLVHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KJb8feLVHC",
+					"expanded_url": "https://twitter.com/whoainteresting/status/1236295018698031105",
+					"display_url": "twitter.com/whoainterestin…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63671,
+			"friends_count": 6277,
+			"listed_count": 1037,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236295018698031000,
+		"quoted_status_id_str": "1236295018698031105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KJb8feLVHC",
+			"expanded": "https://twitter.com/whoainteresting/status/1236295018698031105",
+			"display": "twitter.com/whoainterestin…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 14:17:56 +0000 2020",
+			"id": 1236295018698031000,
+			"id_str": "1236295018698031105",
+			"full_text": "How globes were made in 1955 https://t.co/aAXJ9GwpwH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236294963815518200,
+						"id_str": "1236294963815518210",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236294963815518210/pu/img/nRu4dZIxPy1G4jb6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236294963815518210/pu/img/nRu4dZIxPy1G4jb6.jpg",
+						"url": "https://t.co/aAXJ9GwpwH",
+						"display_url": "pic.twitter.com/aAXJ9GwpwH",
+						"expanded_url": "https://twitter.com/WhoaInteresting/status/1236295018698031105/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236294963815518200,
+						"id_str": "1236294963815518210",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236294963815518210/pu/img/nRu4dZIxPy1G4jb6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236294963815518210/pu/img/nRu4dZIxPy1G4jb6.jpg",
+						"url": "https://t.co/aAXJ9GwpwH",
+						"display_url": "pic.twitter.com/aAXJ9GwpwH",
+						"expanded_url": "https://twitter.com/WhoaInteresting/status/1236295018698031105/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 62100,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1236294963815518210/pu/pl/X6PQFh0_yGXcNlW-.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236294963815518210/pu/vid/360x360/VCEm2kkWCLPIwT4N.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://zodab.com\" rel=\"nofollow\">Zodab</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 882710790196916200,
+				"id_str": "882710790196916224",
+				"name": "Whoa Interesting",
+				"screen_name": "WhoaInteresting",
+				"location": "",
+				"description": "Follow for all things #interesting.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105985,
+				"friends_count": 2659,
+				"listed_count": 251,
+				"created_at": "Wed Jul 05 21:20:27 +0000 2017",
+				"favourites_count": 24443,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9128,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882719582774992897/BOCm1TpR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882719582774992897/BOCm1TpR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/882710790196916224/1499292959",
+				"profile_link_color": "0000CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2254,
+			"favorite_count": 7988,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 181,
+		"favorite_count": 814,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Extremely pleasing. https://t.co/KJb8feLVHC"
+	},
+	{
 		"created_at": "Sat Mar 07 23:07:49 +0000 2020",
 		"id": 1236428370398843000,
 		"id_str": "1236428370398842882",
