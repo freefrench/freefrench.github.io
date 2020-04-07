@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 18:44:46 +0000 2020",
+		"id": 1247233804886061000,
+		"id_str": "1247233804886061057",
+		"full_text": "But he's managed to set himself up at home, doing three shows a day, three days a week on Zoom. If you need to keep kids occupied for half an hour of music and silliness, you can book places here: https://t.co/l8rsh1A8Fb End of recommendation! 2/2 https://t.co/TCpdDaPnXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l8rsh1A8Fb",
+					"expanded_url": "http://happity.co.uk/sparkysongs",
+					"display_url": "happity.co.uk/sparkysongs",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247233767959380000,
+					"id_str": "1247233767959379973",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/EU8QgPsXQAUd3mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU8QgPsXQAUd3mw.jpg",
+					"url": "https://t.co/TCpdDaPnXw",
+					"display_url": "pic.twitter.com/TCpdDaPnXw",
+					"expanded_url": "https://twitter.com/rhodri/status/1247233804886061057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247233767959380000,
+					"id_str": "1247233767959379973",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/EU8QgPsXQAUd3mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU8QgPsXQAUd3mw.jpg",
+					"url": "https://t.co/TCpdDaPnXw",
+					"display_url": "pic.twitter.com/TCpdDaPnXw",
+					"expanded_url": "https://twitter.com/rhodri/status/1247233804886061057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1247232999512518700,
+		"in_reply_to_status_id_str": "1247232999512518658",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64020,
+			"friends_count": 6314,
+			"listed_count": 1039,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But he's managed to set himself up at home, doing three shows a day, three days a week on Zoom. If you need to keep kids occupied for half an hour of music and silliness, you can book places here: https://t.co/l8rsh1A8Fb End of recommendation! 2/2 https://t.co/TCpdDaPnXw"
+	},
+	{
+		"created_at": "Mon Apr 06 18:41:34 +0000 2020",
+		"id": 1247232999512518700,
+		"id_str": "1247232999512518658",
+		"full_text": "My bandmate and dear pal Richard is a top-notch children's entertainer for his day job. Look at him go! https://t.co/3FbRehB34Z \n\nHe normally does three shows every weekday for under-fives. Not easy to do at the moment. Almost impossible, in fact. 1/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3FbRehB34Z",
+					"expanded_url": "https://www.youtube.com/watch?v=rHCjdSsiBAY",
+					"display_url": "youtube.com/watch?v=rHCjdS…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64020,
+			"friends_count": 6314,
+			"listed_count": 1039,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My bandmate and dear pal Richard is a top-notch children's entertainer for his day job. Look at him go! https://t.co/3FbRehB34Z \n\nHe normally does three shows every weekday for under-fives. Not easy to do at the moment. Almost impossible, in fact. 1/2"
+	},
+	{
+		"created_at": "Mon Apr 06 08:56:34 +0000 2020",
+		"id": 1247085781400912000,
+		"id_str": "1247085781400911872",
+		"full_text": "@Tynegall Not now, I'm working. #weakhumour",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "weakhumour",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tynegall",
+					"name": "SueN",
+					"id": 816007010537836500,
+					"id_str": "816007010537836544",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1247085585854062600,
+		"in_reply_to_status_id_str": "1247085585854062593",
+		"in_reply_to_user_id": 816007010537836500,
+		"in_reply_to_user_id_str": "816007010537836544",
+		"in_reply_to_screen_name": "Tynegall",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64020,
+			"friends_count": 6314,
+			"listed_count": 1039,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 14941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 130934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Tynegall Not now, I'm working. #weakhumour"
+	},
+	{
 		"created_at": "Sun Apr 05 21:46:01 +0000 2020",
 		"id": 1246917032764940300,
 		"id_str": "1246917032764940290",
