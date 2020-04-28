@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 20:16:01 +0000 2020",
+		"id": 1254866914154811400,
+		"id_str": "1254866914154811393",
+		"full_text": "@pfoinkle It's a tough old world.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pfoinkle",
+					"name": "pfoinkle",
+					"id": 15671455,
+					"id_str": "15671455",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1254866553776083000,
+		"in_reply_to_status_id_str": "1254866553776082945",
+		"in_reply_to_user_id": 15671455,
+		"in_reply_to_user_id_str": "15671455",
+		"in_reply_to_screen_name": "pfoinkle",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63931,
+			"friends_count": 6329,
+			"listed_count": 1036,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pfoinkle It's a tough old world."
+	},
+	{
+		"created_at": "Mon Apr 27 19:46:08 +0000 2020",
+		"id": 1254511581825818600,
+		"id_str": "1254859394245779456",
+		"full_text": "When @chrisgreybrexit finally loses his cool, do not - I REPEAT: do not - get in his way. This is ferocious.\n\nIt is also beyond well-deserved. #TeamChris #GoProfGrey\n\nhttps://t.co/0meXIQhdoO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamChris",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "GoProfGrey",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrisgreybrexit",
+					"name": "Chris Grey",
+					"id": 830808076756328400,
+					"id_str": "830808076756328448",
+					"indices": [
+						5,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0meXIQhdoO",
+					"expanded_url": "https://chrisgreybrexitblog.blogspot.com/2020/04/coronavirus-and-brexit.html?m=1",
+					"display_url": "chrisgreybrexitblog.blogspot.com/2020/04/corona…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3390960802,
+			"id_str": "3390960802",
+			"name": "Sune Auken",
+			"screen_name": "SuneAuken",
+			"location": "University of Copenhagen",
+			"description": "Genre researcher, cheerleader, content accumulator, daily reminder. Friend and ally. Tweets on #genre and stuff. Pastor's wife. #ClimateChange.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14414,
+			"friends_count": 10084,
+			"listed_count": 70,
+			"created_at": "Fri Jul 24 12:25:36 +0000 2015",
+			"favourites_count": 94703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "981CEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243842487652843521/cEKXlL-c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243842487652843521/cEKXlL-c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3390960802/1578659675",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When @chrisgreybrexit finally loses his cool, do not - I REPEAT: do not - get in his way. This is ferocious.\n\nIt is also beyond well-deserved. #TeamChris #GoProfGrey\n\nhttps://t.co/0meXIQhdoO"
+	},
+	{
+		"created_at": "Mon Apr 27 08:49:26 +0000 2020",
+		"id": 1254694130007113700,
+		"id_str": "1254694130007113729",
+		"full_text": "@KayWorboys Hahahahah",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KayWorboys",
+					"name": "Kay Worboys Writer",
+					"id": 311089947,
+					"id_str": "311089947",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1254693805045035000,
+		"in_reply_to_status_id_str": "1254693805045035009",
+		"in_reply_to_user_id": 311089947,
+		"in_reply_to_user_id_str": "311089947",
+		"in_reply_to_screen_name": "KayWorboys",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Did a Brexit disco album.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63931,
+			"friends_count": 6329,
+			"listed_count": 1036,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@KayWorboys Hahahahah"
+	},
+	{
 		"created_at": "Sun Apr 26 21:28:05 +0000 2020",
 		"id": 1254522663575453700,
 		"id_str": "1254522663575453702",
