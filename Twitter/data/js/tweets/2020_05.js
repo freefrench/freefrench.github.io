@@ -1,6 +1,1164 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 19:42:19 +0000 2020",
+		"id": 1261743802081050600,
+		"id_str": "1261743802081050632",
+		"full_text": "@salihughes @estellecostanza And that",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "salihughes",
+					"name": "Sali Hughes",
+					"id": 19962737,
+					"id_str": "19962737",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "estellecostanza",
+					"name": "John Niven HQ",
+					"id": 601172661,
+					"id_str": "601172661",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1261743770804125700,
+		"in_reply_to_status_id_str": "1261743770804125696",
+		"in_reply_to_user_id": 19962737,
+		"in_reply_to_user_id_str": "19962737",
+		"in_reply_to_screen_name": "salihughes",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63837,
+			"friends_count": 6347,
+			"listed_count": 948,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@salihughes @estellecostanza And that"
+	},
+	{
+		"created_at": "Sat May 16 19:40:06 +0000 2020",
+		"id": 1261743244817453000,
+		"id_str": "1261743244817453058",
+		"full_text": "@almurray “I can’t do my work”",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "almurray",
+					"name": "Al Murray - DKMS.ORG.UK",
+					"id": 144112800,
+					"id_str": "144112800",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1261742203451461600,
+		"in_reply_to_status_id_str": "1261742203451461634",
+		"in_reply_to_user_id": 144112800,
+		"in_reply_to_user_id_str": "144112800",
+		"in_reply_to_screen_name": "almurray",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63837,
+			"friends_count": 6347,
+			"listed_count": 948,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@almurray “I can’t do my work”"
+	},
+	{
+		"created_at": "Sat May 16 19:39:42 +0000 2020",
+		"id": 1261743143638139000,
+		"id_str": "1261743143638138881",
+		"full_text": "@salihughes @estellecostanza I always laugh when you say “nervo”",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "salihughes",
+					"name": "Sali Hughes",
+					"id": 19962737,
+					"id_str": "19962737",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "estellecostanza",
+					"name": "John Niven HQ",
+					"id": 601172661,
+					"id_str": "601172661",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1261742355692077000,
+		"in_reply_to_status_id_str": "1261742355692077058",
+		"in_reply_to_user_id": 19962737,
+		"in_reply_to_user_id_str": "19962737",
+		"in_reply_to_screen_name": "salihughes",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63837,
+			"friends_count": 6347,
+			"listed_count": 948,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@salihughes @estellecostanza I always laugh when you say “nervo”"
+	},
+	{
+		"created_at": "Sat May 16 19:37:43 +0000 2020",
+		"id": 1261731815976550400,
+		"id_str": "1261742647062003712",
+		"full_text": "Farewell Fred Willard, one of the funniest ever https://t.co/Iv6gN7NuN4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261731747462623200,
+					"id_str": "1261731747462623234",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261731747462623234/pu/img/Hl0UYq-xM0jtb6PS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261731747462623234/pu/img/Hl0UYq-xM0jtb6PS.jpg",
+					"url": "https://t.co/Iv6gN7NuN4",
+					"display_url": "pic.twitter.com/Iv6gN7NuN4",
+					"expanded_url": "https://twitter.com/darrenrichman/status/1261731815976550401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261731747462623200,
+					"id_str": "1261731747462623234",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261731747462623234/pu/img/Hl0UYq-xM0jtb6PS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261731747462623234/pu/img/Hl0UYq-xM0jtb6PS.jpg",
+					"url": "https://t.co/Iv6gN7NuN4",
+					"display_url": "pic.twitter.com/Iv6gN7NuN4",
+					"expanded_url": "https://twitter.com/darrenrichman/status/1261731815976550401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 120480,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1261731747462623234/pu/pl/ZXw-KGATquf1bnG0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1261731747462623234/pu/vid/480x270/Q2q919RdNEeDY0EF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1261731747462623234/pu/vid/640x360/nJrl-Icr7p70MozM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 175135520,
+			"id_str": "175135520",
+			"name": "Darren Richman",
+			"screen_name": "darrenrichman",
+			"location": "London",
+			"description": "Write? Err. Blog? Grr. Jew? Ish. Made a film for @HistoryUK. Represented by @literarywhore. Co-writer of Re-run the Fun: My Life as Pat Sharp for @LittleBrownUK",
+			"url": "https://t.co/YNghXDezis",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YNghXDezis",
+							"expanded_url": "https://www.littlebrown.co.uk/titles/pat-sharp/re-run-the-fun/9781472134660/",
+							"display_url": "littlebrown.co.uk/titles/pat-sha…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8465,
+			"friends_count": 835,
+			"listed_count": 136,
+			"created_at": "Thu Aug 05 18:44:23 +0000 2010",
+			"favourites_count": 63671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 62658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166716034646253568/bD6HkTeY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166716034646253568/bD6HkTeY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/175135520/1586502762",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 683,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Farewell Fred Willard, one of the funniest ever https://t.co/Iv6gN7NuN4"
+	},
+	{
+		"created_at": "Sat May 16 12:33:21 +0000 2020",
+		"id": 1261571363963310000,
+		"id_str": "1261635848816267265",
+		"full_text": "IKEA have released instructions for making different types of furniture forts... https://t.co/uhrz5nzjNP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261571343826464800,
+					"id_str": "1261571343826464769",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIAc_-WsAEfasr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIAc_-WsAEfasr.jpg",
+					"url": "https://t.co/uhrz5nzjNP",
+					"display_url": "pic.twitter.com/uhrz5nzjNP",
+					"expanded_url": "https://twitter.com/mini_lebowski/status/1261571363963310086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1060,
+							"h": 1070,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1060,
+							"h": 1070,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261571343826464800,
+					"id_str": "1261571343826464769",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIAc_-WsAEfasr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIAc_-WsAEfasr.jpg",
+					"url": "https://t.co/uhrz5nzjNP",
+					"display_url": "pic.twitter.com/uhrz5nzjNP",
+					"expanded_url": "https://twitter.com/mini_lebowski/status/1261571363963310086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1060,
+							"h": 1070,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1060,
+							"h": 1070,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261571349216137200,
+					"id_str": "1261571349216137217",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIAdUDWkAECLY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIAdUDWkAECLY-.jpg",
+					"url": "https://t.co/uhrz5nzjNP",
+					"display_url": "pic.twitter.com/uhrz5nzjNP",
+					"expanded_url": "https://twitter.com/mini_lebowski/status/1261571363963310086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1049,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261571354270277600,
+					"id_str": "1261571354270277633",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIAdm4WoAEy12D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIAdm4WoAEy12D.jpg",
+					"url": "https://t.co/uhrz5nzjNP",
+					"display_url": "pic.twitter.com/uhrz5nzjNP",
+					"expanded_url": "https://twitter.com/mini_lebowski/status/1261571363963310086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1048,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261571359106351000,
+					"id_str": "1261571359106351109",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIAd45XQAUblqz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIAd45XQAUblqz.jpg",
+					"url": "https://t.co/uhrz5nzjNP",
+					"display_url": "pic.twitter.com/uhrz5nzjNP",
+					"expanded_url": "https://twitter.com/mini_lebowski/status/1261571363963310086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108697764,
+			"id_str": "108697764",
+			"name": "Big_lebowski",
+			"screen_name": "mini_lebowski",
+			"location": "",
+			"description": "Reception teacher. Previously Head of School. SLE (English). Have taught every yr gp. Qualified forest school leader, wife, mum to two boys, #EYtwittertagteam",
+			"url": "https://t.co/mO4tfd4pJk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mO4tfd4pJk",
+							"expanded_url": "https://www.teachwire.net/authors/sarah-watkins",
+							"display_url": "teachwire.net/authors/sarah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15120,
+			"friends_count": 9593,
+			"listed_count": 60,
+			"created_at": "Tue Jan 26 19:45:28 +0000 2010",
+			"favourites_count": 283023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069324864807419904/CO-XTKal_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069324864807419904/CO-XTKal_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108697764/1554015443",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7750,
+		"favorite_count": 22444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IKEA have released instructions for making different types of furniture forts... https://t.co/uhrz5nzjNP"
+	},
+	{
+		"created_at": "Sat May 16 12:31:29 +0000 2020",
+		"id": 1261635380505448400,
+		"id_str": "1261635380505448448",
+		"full_text": "@hattiehattie @harrywalker1 Grating runs the risk of small bits of cheese escaping. Slicing preserves the cheese’s structural integrity and reduces cheese-related anxiety.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hattiehattie",
+					"name": "Hattie Crisell",
+					"id": 19568190,
+					"id_str": "19568190",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "harrywalker1",
+					"name": "Harriet Walker",
+					"id": 36909203,
+					"id_str": "36909203",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1261634907593474000,
+		"in_reply_to_status_id_str": "1261634907593474049",
+		"in_reply_to_user_id": 19568190,
+		"in_reply_to_user_id_str": "19568190",
+		"in_reply_to_screen_name": "hattiehattie",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63837,
+			"friends_count": 6347,
+			"listed_count": 948,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hattiehattie @harrywalker1 Grating runs the risk of small bits of cheese escaping. Slicing preserves the cheese’s structural integrity and reduces cheese-related anxiety."
+	},
+	{
+		"created_at": "Sat May 16 07:24:53 +0000 2020",
+		"id": 1261558223204688000,
+		"id_str": "1261558223204687872",
+		"full_text": "@paulmccourt I can’t believe it’ll happen. Scritti had October tour plans and they’ve been bumped to 2021 :(",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulmccourt",
+					"name": "Olaf Aminute",
+					"id": 20275446,
+					"id_str": "20275446",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1261554267023978500,
+		"in_reply_to_status_id_str": "1261554267023978496",
+		"in_reply_to_user_id": 20275446,
+		"in_reply_to_user_id_str": "20275446",
+		"in_reply_to_screen_name": "paulmccourt",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63837,
+			"friends_count": 6347,
+			"listed_count": 948,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paulmccourt I can’t believe it’ll happen. Scritti had October tour plans and they’ve been bumped to 2021 :("
+	},
+	{
+		"created_at": "Sat May 16 07:06:42 +0000 2020",
+		"id": 1261553646711472000,
+		"id_str": "1261553646711472128",
+		"full_text": "@LauraWright1000 @FelicityCloake They’re so good. We did her banana bread the other day and it was GLORIOUS.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LauraWright1000",
+					"name": "Laura Wright",
+					"id": 78612470,
+					"id_str": "78612470",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "FelicityCloake",
+					"name": "Felicity Cloake",
+					"id": 24683976,
+					"id_str": "24683976",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1261546777637015600,
+		"in_reply_to_status_id_str": "1261546777637015553",
+		"in_reply_to_user_id": 78612470,
+		"in_reply_to_user_id_str": "78612470",
+		"in_reply_to_screen_name": "LauraWright1000",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63837,
+			"friends_count": 6347,
+			"listed_count": 948,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 15913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LauraWright1000 @FelicityCloake They’re so good. We did her banana bread the other day and it was GLORIOUS."
+	},
+	{
 		"created_at": "Fri May 15 19:21:27 +0000 2020",
 		"id": 1261376163865387000,
 		"id_str": "1261376163865387010",
@@ -142,7 +1300,7 @@ Grailbird.data.tweets_2020_05 =
 				},
 				{
 					"screen_name": "pimlicat",
-					"name": "Naomi Smith 🇬🇧🇪🇺🏳️‍🌈",
+					"name": "Naomi Smith 🇬🇧🇪🇺🏳️🌈",
 					"id": 19491239,
 					"id_str": "19491239",
 					"indices": [
