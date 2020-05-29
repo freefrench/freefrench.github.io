@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 11:42:17 +0000 2020",
+		"id": 1265751570127388700,
+		"id_str": "1265971655018516481",
+		"full_text": "Heard man reports that the govt. strategy for the #Cummings scandal now is to repeatedly insist that 'people want us to move on'\n\nI can't speak for all people, but @BorisJohnson, Cummings, and the rest of your sock puppet cabinet, here's why I absolutely won't be 'moving on'\n\n/1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Cummings",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BorisJohnson",
+					"name": "Boris Johnson #StayAlert",
+					"id": 3131144855,
+					"id_str": "3131144855",
+					"indices": [
+						164,
+						177
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20474878,
+			"id_str": "20474878",
+			"name": "Dean Burnett",
+			"screen_name": "garwboy",
+			"location": "Cardiff",
+			"description": "Neuroscientist writer/humourist. Author of 'The Idiot Brain' 'The Happy Brain' & 'Brain Yapping' at the Cosmic Shambles network. https://t.co/QCA59w96uL",
+			"url": "https://t.co/8QGPFjRqSk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8QGPFjRqSk",
+							"expanded_url": "https://cosmicshambles.com/words/blogs/deanburnett",
+							"display_url": "cosmicshambles.com/words/blogs/de…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QCA59w96uL",
+							"expanded_url": "http://www.deanburnett.com/",
+							"display_url": "deanburnett.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39977,
+			"friends_count": 2292,
+			"listed_count": 1024,
+			"created_at": "Mon Feb 09 22:45:43 +0000 2009",
+			"favourites_count": 1641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089819785641279488/KTK1FBcs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089819785641279488/KTK1FBcs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20474878/1587373767",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1022,
+		"favorite_count": 2199,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Heard man reports that the govt. strategy for the #Cummings scandal now is to repeatedly insist that 'people want us to move on'\n\nI can't speak for all people, but @BorisJohnson, Cummings, and the rest of your sock puppet cabinet, here's why I absolutely won't be 'moving on'\n\n/1"
+	},
+	{
 		"created_at": "Tue May 26 22:08:25 +0000 2020",
 		"id": 1265404447448019000,
 		"id_str": "1265404447448018944",
