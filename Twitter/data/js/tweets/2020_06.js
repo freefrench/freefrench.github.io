@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 10:36:04 +0000 2020",
+		"id": 1269940640772735000,
+		"id_str": "1269941255888351235",
+		"full_text": "Green releases a solo single on Friday June 19th, featuring two songs by folk singer Anne Briggs: \"Tangled Man\" and \"Wishing Well\". Pre-order at Rough Trade: https://t.co/CG1CezgKT7\n\nGreen has this to say about it: https://t.co/zwLnB2MRgn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CG1CezgKT7",
+					"expanded_url": "https://www.roughtrade.com/gb/green-gartside",
+					"display_url": "roughtrade.com/gb/green-garts…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269940528537374700,
+					"id_str": "1269940528537374720",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-8LqlXkAA6q7N.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-8LqlXkAA6q7N.png",
+					"url": "https://t.co/zwLnB2MRgn",
+					"display_url": "pic.twitter.com/zwLnB2MRgn",
+					"expanded_url": "https://twitter.com/scrittipolitti/status/1269940640772734976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 747,
+							"h": 845,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 747,
+							"h": 845,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269940528537374700,
+					"id_str": "1269940528537374720",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-8LqlXkAA6q7N.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-8LqlXkAA6q7N.png",
+					"url": "https://t.co/zwLnB2MRgn",
+					"display_url": "pic.twitter.com/zwLnB2MRgn",
+					"expanded_url": "https://twitter.com/scrittipolitti/status/1269940640772734976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 747,
+							"h": 845,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 747,
+							"h": 845,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37718280,
+			"id_str": "37718280",
+			"name": "Scritti Politti",
+			"screen_name": "scrittipolitti",
+			"location": "",
+			"description": "Official Twitter account. Operated by @rhodri.",
+			"url": "http://t.co/yF6Sb85KuM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/yF6Sb85KuM",
+							"expanded_url": "http://scritti.net",
+							"display_url": "scritti.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5202,
+			"friends_count": 5,
+			"listed_count": 84,
+			"created_at": "Mon May 04 18:17:32 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CAC3B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801101596/early-8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801101596/early-8_normal.jpg",
+			"profile_link_color": "6E5326",
+			"profile_sidebar_border_color": "AD9468",
+			"profile_sidebar_fill_color": "CAC3B9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Green releases a solo single on Friday June 19th, featuring two songs by folk singer Anne Briggs: \"Tangled Man\" and \"Wishing Well\". Pre-order at Rough Trade: https://t.co/CG1CezgKT7\n\nGreen has this to say about it: https://t.co/zwLnB2MRgn"
+	},
+	{
 		"created_at": "Sun Jun 07 19:34:21 +0000 2020",
 		"id": 1269714129746456600,
 		"id_str": "1269714330230153216",
