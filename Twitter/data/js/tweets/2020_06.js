@@ -1,6 +1,1083 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 18:20:18 +0000 2020",
+		"id": 1273681963782672400,
+		"id_str": "1273681963782672385",
+		"full_text": "@JWHperc @PaulEmerySound @realjahwobble BEAUTIFUL! ♥️",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWHperc",
+					"name": "James Hedgecock",
+					"id": 757314454254133200,
+					"id_str": "757314454254133249",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "PaulEmerySound",
+					"name": "Paul Emery",
+					"id": 261614586,
+					"id_str": "261614586",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "realjahwobble",
+					"name": "Jah Wobble",
+					"id": 283636451,
+					"id_str": "283636451",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1273678959130091500,
+		"in_reply_to_status_id_str": "1273678959130091526",
+		"in_reply_to_user_id": 757314454254133200,
+		"in_reply_to_user_id_str": "757314454254133249",
+		"in_reply_to_screen_name": "JWHperc",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63644,
+			"friends_count": 6373,
+			"listed_count": 945,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 16664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JWHperc @PaulEmerySound @realjahwobble BEAUTIFUL! ♥️"
+	},
+	{
+		"created_at": "Thu Jun 18 17:47:27 +0000 2020",
+		"id": 1273673696058589200,
+		"id_str": "1273673696058589185",
+		"full_text": "@ladyjoanna Me too, probably",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ladyjoanna",
+					"name": "Jo N",
+					"id": 21653268,
+					"id_str": "21653268",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1273669020378706000,
+		"in_reply_to_status_id_str": "1273669020378705922",
+		"in_reply_to_user_id": 21653268,
+		"in_reply_to_user_id_str": "21653268",
+		"in_reply_to_screen_name": "ladyjoanna",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63644,
+			"friends_count": 6373,
+			"listed_count": 945,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 16664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ladyjoanna Me too, probably"
+	},
+	{
+		"created_at": "Thu Jun 18 16:45:37 +0000 2020",
+		"id": 1273658135836864500,
+		"id_str": "1273658135836864513",
+		"full_text": "@PaulEmerySound @realjahwobble https://t.co/QMS5IssXdG",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulEmerySound",
+					"name": "Paul Emery",
+					"id": 261614586,
+					"id_str": "261614586",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "realjahwobble",
+					"name": "Jah Wobble",
+					"id": 283636451,
+					"id_str": "283636451",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273658074931355600,
+					"id_str": "1273658074931355650",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273658074931355650/pu/img/vRtFNGa32A13LjPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273658074931355650/pu/img/vRtFNGa32A13LjPI.jpg",
+					"url": "https://t.co/QMS5IssXdG",
+					"display_url": "pic.twitter.com/QMS5IssXdG",
+					"expanded_url": "https://twitter.com/rhodri/status/1273658135836864513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273658074931355600,
+					"id_str": "1273658074931355650",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273658074931355650/pu/img/vRtFNGa32A13LjPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273658074931355650/pu/img/vRtFNGa32A13LjPI.jpg",
+					"url": "https://t.co/QMS5IssXdG",
+					"display_url": "pic.twitter.com/QMS5IssXdG",
+					"expanded_url": "https://twitter.com/rhodri/status/1273658135836864513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 31333,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273658074931355650/pu/vid/320x568/CVsx_KLg_t9nNmhh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273658074931355650/pu/pl/kj_7PRURyyZ5K9TE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273658074931355650/pu/vid/360x640/FGe7ijRKEQnPL46A.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273658074931355650/pu/vid/720x1280/BenXKN061gBKpvs6.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1273327400600944600,
+		"in_reply_to_status_id_str": "1273327400600944641",
+		"in_reply_to_user_id": 261614586,
+		"in_reply_to_user_id_str": "261614586",
+		"in_reply_to_screen_name": "PaulEmerySound",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63644,
+			"friends_count": 6373,
+			"listed_count": 945,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 16664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@PaulEmerySound @realjahwobble https://t.co/QMS5IssXdG"
+	},
+	{
+		"created_at": "Thu Jun 18 16:29:36 +0000 2020",
+		"id": 1273654104657625000,
+		"id_str": "1273654104657625089",
+		"full_text": "When Jah Wobble shows us all the bassline to Poptones on an iPad, I dutifully grab an iPad and play along ♥️ https://t.co/1iB8kjMV4r https://t.co/dQOAq8RROW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1iB8kjMV4r",
+					"expanded_url": "https://twitter.com/realjahwobble/status/1273326558103719938",
+					"display_url": "twitter.com/realjahwobble/…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273654044280737800,
+					"id_str": "1273654044280737793",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273654044280737793/pu/img/5t9_hhZT3ZoLGq13.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273654044280737793/pu/img/5t9_hhZT3ZoLGq13.jpg",
+					"url": "https://t.co/dQOAq8RROW",
+					"display_url": "pic.twitter.com/dQOAq8RROW",
+					"expanded_url": "https://twitter.com/rhodri/status/1273654104657625089/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273654044280737800,
+					"id_str": "1273654044280737793",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273654044280737793/pu/img/5t9_hhZT3ZoLGq13.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273654044280737793/pu/img/5t9_hhZT3ZoLGq13.jpg",
+					"url": "https://t.co/dQOAq8RROW",
+					"display_url": "pic.twitter.com/dQOAq8RROW",
+					"expanded_url": "https://twitter.com/rhodri/status/1273654104657625089/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 31333,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273654044280737793/pu/vid/720x1280/KNeuXFqKV3Uh3MNS.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273654044280737793/pu/vid/320x568/vJohs23WBfRjuJoz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273654044280737793/pu/pl/lVoixz0QVj5IzjJh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273654044280737793/pu/vid/360x640/JXuorHEI00rhUFmp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63644,
+			"friends_count": 6373,
+			"listed_count": 945,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 16664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273326558103720000,
+		"quoted_status_id_str": "1273326558103719938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1iB8kjMV4r",
+			"expanded": "https://twitter.com/realjahwobble/status/1273326558103719938",
+			"display": "twitter.com/realjahwobble/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 17 18:48:03 +0000 2020",
+			"id": 1273326558103720000,
+			"id_str": "1273326558103719938",
+			"full_text": "Tonight, on twitter,  I have received requests for a tutorial re the B line to Poptones . So whilst sitting in front of the telly I played a bass simulation programme on me iPad with one hand , and held me phone in the other to video it . Tricky but nailed it on first take 👊 https://t.co/I3vBNEtAkv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1273326477711458300,
+						"id_str": "1273326477711458304",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273326477711458304/pu/img/5NkvVMMRsdJvihzM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273326477711458304/pu/img/5NkvVMMRsdJvihzM.jpg",
+						"url": "https://t.co/I3vBNEtAkv",
+						"display_url": "pic.twitter.com/I3vBNEtAkv",
+						"expanded_url": "https://twitter.com/realjahwobble/status/1273326558103719938/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273326477711458300,
+						"id_str": "1273326477711458304",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273326477711458304/pu/img/5NkvVMMRsdJvihzM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273326477711458304/pu/img/5NkvVMMRsdJvihzM.jpg",
+						"url": "https://t.co/I3vBNEtAkv",
+						"display_url": "pic.twitter.com/I3vBNEtAkv",
+						"expanded_url": "https://twitter.com/realjahwobble/status/1273326558103719938/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 31493,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1273326477711458304/pu/vid/480x270/B5p3rqt_AheGhwaw.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1273326477711458304/pu/vid/1280x720/S3QHoFdrd0_wqcKE.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1273326477711458304/pu/pl/x7YUWclJrGZFDFDn.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1273326477711458304/pu/vid/640x360/ch1lnvAAhPhW6yJ0.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 283636451,
+				"id_str": "283636451",
+				"name": "Jah Wobble",
+				"screen_name": "realjahwobble",
+				"location": "London",
+				"description": "live@jahwobble.com to book shows. To see my art /photos https://t.co/RGAYDkAC9F    https://t.co/JT0GE2781j",
+				"url": "https://t.co/tvYv4lwhs5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tvYv4lwhs5",
+								"expanded_url": "http://jahwobble.com",
+								"display_url": "jahwobble.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RGAYDkAC9F",
+								"expanded_url": "http://Instagram.com/real_jah_wobble",
+								"display_url": "Instagram.com/real_jah_wobble",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/JT0GE2781j",
+								"expanded_url": "https://jahwobble.bandcamp.com/",
+								"display_url": "jahwobble.bandcamp.com",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20106,
+				"friends_count": 618,
+				"listed_count": 176,
+				"created_at": "Sun Apr 17 18:03:36 +0000 2011",
+				"favourites_count": 37311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22979,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068321698901123072/y0A2tFRs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068321698901123072/y0A2tFRs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/283636451/1543542718",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 147,
+			"favorite_count": 845,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When Jah Wobble shows us all the bassline to Poptones on an iPad, I dutifully grab an iPad and play along ♥️ https://t.co/1iB8kjMV4r https://t.co/dQOAq8RROW"
+	},
+	{
+		"created_at": "Thu Jun 18 16:09:45 +0000 2020",
+		"id": 1273630517896925200,
+		"id_str": "1273649108444762115",
+		"full_text": "Can you see these lampshade frames or are you too drunk? https://t.co/8CJkEoCGja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273630506383560700,
+					"id_str": "1273630506383560705",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EazYMpQX0AEXxk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EazYMpQX0AEXxk8.jpg",
+					"url": "https://t.co/8CJkEoCGja",
+					"display_url": "pic.twitter.com/8CJkEoCGja",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1273630517896925186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273630506383560700,
+					"id_str": "1273630506383560705",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EazYMpQX0AEXxk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EazYMpQX0AEXxk8.jpg",
+					"url": "https://t.co/8CJkEoCGja",
+					"display_url": "pic.twitter.com/8CJkEoCGja",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1273630517896925186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 594682319,
+			"id_str": "594682319",
+			"name": "M S Upholstery",
+			"screen_name": "mick_sheridan",
+			"location": "Llangadog, Wales.",
+			"description": "Specialist in Welsh wool and other British wool fabrics. Reupholstery and original designs. And yes, I'm also the Guerrilla Upholsterer.",
+			"url": "http://t.co/li0OxsBovD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/li0OxsBovD",
+							"expanded_url": "http://msupholstery.blogspot.com",
+							"display_url": "msupholstery.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 937,
+			"friends_count": 115,
+			"listed_count": 12,
+			"created_at": "Wed May 30 15:36:38 +0000 2012",
+			"favourites_count": 2924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2369698347/fy4lwbzxrm7r3m2x7137_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2369698347/fy4lwbzxrm7r3m2x7137_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594682319/1365510950",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can you see these lampshade frames or are you too drunk? https://t.co/8CJkEoCGja"
+	},
+	{
 		"created_at": "Wed Jun 17 20:57:53 +0000 2020",
 		"id": 1273359231668945000,
 		"id_str": "1273359231668944896",
