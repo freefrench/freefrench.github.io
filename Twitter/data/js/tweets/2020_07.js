@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 08:01:19 +0000 2020",
+		"id": 1283552151441203200,
+		"id_str": "1284035439679229952",
+		"full_text": "If you ever need a reason to not get into a comment-section debate, remember this as proof that it’s almost certainly a waste of time: https://t.co/moZwJc5v4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283552146286403600,
+					"id_str": "1283552146286403586",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EdAX4GIXYAIUir_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdAX4GIXYAIUir_.jpg",
+					"url": "https://t.co/moZwJc5v4a",
+					"display_url": "pic.twitter.com/moZwJc5v4a",
+					"expanded_url": "https://twitter.com/kwilliamhuitt/status/1283552151441203200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283552146286403600,
+					"id_str": "1283552146286403586",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EdAX4GIXYAIUir_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdAX4GIXYAIUir_.jpg",
+					"url": "https://t.co/moZwJc5v4a",
+					"display_url": "pic.twitter.com/moZwJc5v4a",
+					"expanded_url": "https://twitter.com/kwilliamhuitt/status/1283552151441203200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1283552146286403600,
+					"id_str": "1283552146286403588",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EdAX4GIXYAQQIZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdAX4GIXYAQQIZA.jpg",
+					"url": "https://t.co/moZwJc5v4a",
+					"display_url": "pic.twitter.com/moZwJc5v4a",
+					"expanded_url": "https://twitter.com/kwilliamhuitt/status/1283552151441203200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 820,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 757,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1283552146286358500,
+					"id_str": "1283552146286358530",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EdAX4GIWsAId2zl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdAX4GIWsAId2zl.jpg",
+					"url": "https://t.co/moZwJc5v4a",
+					"display_url": "pic.twitter.com/moZwJc5v4a",
+					"expanded_url": "https://twitter.com/kwilliamhuitt/status/1283552151441203200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1283552146298896400,
+					"id_str": "1283552146298896384",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EdAX4GLWAAAieP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdAX4GLWAAAieP3.jpg",
+					"url": "https://t.co/moZwJc5v4a",
+					"display_url": "pic.twitter.com/moZwJc5v4a",
+					"expanded_url": "https://twitter.com/kwilliamhuitt/status/1283552151441203200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 823,
+							"h": 1312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 753,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350596202,
+			"id_str": "1350596202",
+			"name": "K. William Huitt",
+			"screen_name": "kwilliamhuitt",
+			"location": "",
+			"description": "Husband. Philosophy MA student. Aquinas stan begrudgingly enamored of analytic philosophy. Christian but \"totally\" not like “that.” Expect nerdy memes.",
+			"url": "https://t.co/saqqGeE27w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/saqqGeE27w",
+							"expanded_url": "https://www.youtube.com/channel/UCKJBVc7rroKFppB406JtHVA",
+							"display_url": "youtube.com/channel/UCKJBV…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1141,
+			"friends_count": 888,
+			"listed_count": 8,
+			"created_at": "Sun Apr 14 00:50:58 +0000 2013",
+			"favourites_count": 6936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194052795000852487/O5z5IokH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194052795000852487/O5z5IokH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350596202/1577591841",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15194,
+		"favorite_count": 70050,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you ever need a reason to not get into a comment-section debate, remember this as proof that it’s almost certainly a waste of time: https://t.co/moZwJc5v4a"
+	},
+	{
 		"created_at": "Thu Jul 16 21:25:07 +0000 2020",
 		"id": 1283875333960327200,
 		"id_str": "1283875333960327169",
