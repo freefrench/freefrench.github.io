@@ -1,6 +1,1055 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 26 18:10:16 +0000 2020",
+		"id": 1287292864754483200,
+		"id_str": "1287450178954436608",
+		"full_text": "Seat now available to bus travellers on the A4067 at Abercraf. Seat (once a bedside table) upholstery inspired by the dresses of @otobokebeaver https://t.co/XkFcSVUi8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "otobokebeaver",
+					"name": "おとぼけビ～バ～",
+					"id": 300962486,
+					"id_str": "300962486",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287292855233523700,
+					"id_str": "1287292855233523712",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed1iCA4XsAAOlgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed1iCA4XsAAOlgn.jpg",
+					"url": "https://t.co/XkFcSVUi8w",
+					"display_url": "pic.twitter.com/XkFcSVUi8w",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1287292864754483201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1396,
+							"h": 1218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287292855233523700,
+					"id_str": "1287292855233523712",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed1iCA4XsAAOlgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed1iCA4XsAAOlgn.jpg",
+					"url": "https://t.co/XkFcSVUi8w",
+					"display_url": "pic.twitter.com/XkFcSVUi8w",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1287292864754483201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1396,
+							"h": 1218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1287292855246033000,
+					"id_str": "1287292855246032896",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed1iCA7WkAAAjFV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed1iCA7WkAAAjFV.jpg",
+					"url": "https://t.co/XkFcSVUi8w",
+					"display_url": "pic.twitter.com/XkFcSVUi8w",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1287292864754483201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1263,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1053,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 594682319,
+			"id_str": "594682319",
+			"name": "M S Upholstery",
+			"screen_name": "mick_sheridan",
+			"location": "Llangadog, Wales.",
+			"description": "Specialist in Welsh wool and other British wool fabrics. Reupholstery and original designs. And yes, I'm also the Guerrilla Upholsterer.",
+			"url": "http://t.co/li0OxsBovD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/li0OxsBovD",
+							"expanded_url": "http://msupholstery.blogspot.com",
+							"display_url": "msupholstery.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945,
+			"friends_count": 115,
+			"listed_count": 12,
+			"created_at": "Wed May 30 15:36:38 +0000 2012",
+			"favourites_count": 2992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2369698347/fy4lwbzxrm7r3m2x7137_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2369698347/fy4lwbzxrm7r3m2x7137_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594682319/1365510950",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seat now available to bus travellers on the A4067 at Abercraf. Seat (once a bedside table) upholstery inspired by the dresses of @otobokebeaver https://t.co/XkFcSVUi8w"
+	},
+	{
+		"created_at": "Sun Jul 26 14:37:01 +0000 2020",
+		"id": 1287396511438037000,
+		"id_str": "1287396511438036994",
+		"full_text": "Without wishing to turn Twitter into LinkedIn, I’ve been working with Stephanie at @infobeautiful. She’s a brilliant sociologist, researcher, all round ideas person. I’d hire her in a heartbeat if I employed people, which I don’t. ⬇️ https://t.co/9OfyI0lHw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "infobeautiful",
+					"name": "Information is Beautiful",
+					"id": 54680395,
+					"id_str": "54680395",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9OfyI0lHw5",
+					"expanded_url": "https://twitter.com/starlingorigin/status/1287386040261541890",
+					"display_url": "twitter.com/starlingorigin…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63394,
+			"friends_count": 6432,
+			"listed_count": 938,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 17519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1287386040261542000,
+		"quoted_status_id_str": "1287386040261541890",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9OfyI0lHw5",
+			"expanded": "https://twitter.com/starlingorigin/status/1287386040261541890",
+			"display": "twitter.com/starlingorigin…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 26 13:55:25 +0000 2020",
+			"id": 1287386040261542000,
+			"id_str": "1287386040261541890",
+			"full_text": "I'd love to find a job where I can contribute to social change. A postdoc or similar in fields related to international development, gender equality etc., or research-based work in the third sector would be ideal. Anywhere in the world. Appreciate any hot tips! #JobSearch",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JobSearch",
+						"indices": [
+							262,
+							272
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1082598467833344000,
+				"id_str": "1082598467833344000",
+				"name": "Stephanie Starling",
+				"screen_name": "StarlingOrigin",
+				"location": "United Kingdom",
+				"description": "Feminist Sociologist | Lead Researcher @infobeautiful / @beautiful__news | PhD in Women's Studies",
+				"url": "https://t.co/kyYZolEs05",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kyYZolEs05",
+								"expanded_url": "http://www.stephaniestarling.com",
+								"display_url": "stephaniestarling.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143,
+				"friends_count": 171,
+				"listed_count": 3,
+				"created_at": "Tue Jan 08 11:22:43 +0000 2019",
+				"favourites_count": 225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 140,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228740244800970753/iclLl1Qz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228740244800970753/iclLl1Qz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082598467833344000/1576520748",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Without wishing to turn Twitter into LinkedIn, I’ve been working with Stephanie at @infobeautiful. She’s a brilliant sociologist, researcher, all round ideas person. I’d hire her in a heartbeat if I employed people, which I don’t. ⬇️ https://t.co/9OfyI0lHw5"
+	},
+	{
+		"created_at": "Sun Jul 26 14:22:06 +0000 2020",
+		"id": 1287392755212329000,
+		"id_str": "1287392755212328960",
+		"full_text": "“What’s the prognosis, bitch?” Michael Atherton mis-addresses his fellow commentator, Ian Bishop. https://t.co/SkrLglSlYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287392722891022300,
+					"id_str": "1287392722891022339",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287392722891022339/pu/img/POUA8WrDGKLnRzPi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287392722891022339/pu/img/POUA8WrDGKLnRzPi.jpg",
+					"url": "https://t.co/SkrLglSlYC",
+					"display_url": "pic.twitter.com/SkrLglSlYC",
+					"expanded_url": "https://twitter.com/rhodri/status/1287392755212328960/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287392722891022300,
+					"id_str": "1287392722891022339",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287392722891022339/pu/img/POUA8WrDGKLnRzPi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287392722891022339/pu/img/POUA8WrDGKLnRzPi.jpg",
+					"url": "https://t.co/SkrLglSlYC",
+					"display_url": "pic.twitter.com/SkrLglSlYC",
+					"expanded_url": "https://twitter.com/rhodri/status/1287392755212328960/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3787,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1287392722891022339/pu/vid/1280x720/SMP44gX0m1NfstYz.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1287392722891022339/pu/vid/640x360/XEyhIFCF5NqfB6Zx.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1287392722891022339/pu/vid/480x270/-WI0VHnx4SI032S9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1287392722891022339/pu/pl/pB6qhC-J_XZUogYP.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63394,
+			"friends_count": 6432,
+			"listed_count": 938,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 17519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“What’s the prognosis, bitch?” Michael Atherton mis-addresses his fellow commentator, Ian Bishop. https://t.co/SkrLglSlYC"
+	},
+	{
+		"created_at": "Sun Jul 26 14:14:14 +0000 2020",
+		"id": 1287390775895097300,
+		"id_str": "1287390775895097346",
+		"full_text": "@mattborkin I’m not sure, but I bought one at an airport about 4 years ago and I still have that one.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattborkin",
+					"name": "Matt Borkin",
+					"id": 136723910,
+					"id_str": "136723910",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1287388019595649000,
+		"in_reply_to_status_id_str": "1287388019595649024",
+		"in_reply_to_user_id": 136723910,
+		"in_reply_to_user_id_str": "136723910",
+		"in_reply_to_screen_name": "mattborkin",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63394,
+			"friends_count": 6432,
+			"listed_count": 938,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 17519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattborkin I’m not sure, but I bought one at an airport about 4 years ago and I still have that one."
+	},
+	{
+		"created_at": "Sun Jul 26 11:32:26 +0000 2020",
+		"id": 1287350059617714200,
+		"id_str": "1287350059617714176",
+		"full_text": "@ChrisTheDJ On it https://t.co/YFsRtzYJrt",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisTheDJ",
+					"name": "Chris Merriman",
+					"id": 16404418,
+					"id_str": "16404418",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287350053728923600,
+					"id_str": "1287350053728923653",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed2WDZ4XsAUngJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed2WDZ4XsAUngJh.jpg",
+					"url": "https://t.co/YFsRtzYJrt",
+					"display_url": "pic.twitter.com/YFsRtzYJrt",
+					"expanded_url": "https://twitter.com/rhodri/status/1287350059617714176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287350053728923600,
+					"id_str": "1287350053728923653",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed2WDZ4XsAUngJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed2WDZ4XsAUngJh.jpg",
+					"url": "https://t.co/YFsRtzYJrt",
+					"display_url": "pic.twitter.com/YFsRtzYJrt",
+					"expanded_url": "https://twitter.com/rhodri/status/1287350059617714176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1287299477511049200,
+		"in_reply_to_status_id_str": "1287299477511049216",
+		"in_reply_to_user_id": 16404418,
+		"in_reply_to_user_id_str": "16404418",
+		"in_reply_to_screen_name": "ChrisTheDJ",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63394,
+			"friends_count": 6432,
+			"listed_count": 938,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 17519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ChrisTheDJ On it https://t.co/YFsRtzYJrt"
+	},
+	{
+		"created_at": "Sun Jul 26 11:29:34 +0000 2020",
+		"id": 1287349338251964400,
+		"id_str": "1287349338251964419",
+		"full_text": "@ChrisTheDJ You’ve inspired me to digitise the thing this afternoon for the delight of my family.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisTheDJ",
+					"name": "Chris Merriman",
+					"id": 16404418,
+					"id_str": "16404418",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1287299477511049200,
+		"in_reply_to_status_id_str": "1287299477511049216",
+		"in_reply_to_user_id": 16404418,
+		"in_reply_to_user_id_str": "16404418",
+		"in_reply_to_screen_name": "ChrisTheDJ",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63394,
+			"friends_count": 6432,
+			"listed_count": 938,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 17519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisTheDJ You’ve inspired me to digitise the thing this afternoon for the delight of my family."
+	},
+	{
 		"created_at": "Sat Jul 25 21:29:53 +0000 2020",
 		"id": 1287138025290510300,
 		"id_str": "1287138025290510343",
