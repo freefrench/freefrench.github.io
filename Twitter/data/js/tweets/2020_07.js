@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 16:56:06 +0000 2020",
+		"id": 1289242380722245600,
+		"id_str": "1289243453650432001",
+		"full_text": "Proof, if proof were needed, that satirical disco music makes everything better. Genius @rhodri https://t.co/xep2DHxQ6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289241637730824200,
+					"id_str": "1289241637730824193",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EeROcFaWsAE0HSQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeROcFaWsAE0HSQ.jpg",
+					"url": "https://t.co/xep2DHxQ6T",
+					"display_url": "pic.twitter.com/xep2DHxQ6T",
+					"expanded_url": "https://twitter.com/mattappleby/status/1289242380722245632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 838,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289241637730824200,
+					"id_str": "1289241637730824193",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EeROcFaWsAE0HSQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeROcFaWsAE0HSQ.jpg",
+					"url": "https://t.co/xep2DHxQ6T",
+					"display_url": "pic.twitter.com/xep2DHxQ6T",
+					"expanded_url": "https://twitter.com/mattappleby/status/1289242380722245632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 838,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20167402,
+			"id_str": "20167402",
+			"name": "Matt Appleby",
+			"screen_name": "mattappleby",
+			"location": "51.478198,-3.176056",
+			"description": "Independent strategic communications consultant - CIPR Found. Chartered Practitioner FCIPR FRSA. Half of #HankCardiff podcast. Volunteer director @rcmamarkets",
+			"url": "https://t.co/V1rX4ALycm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1rX4ALycm",
+							"expanded_url": "http://www.easyteas.co.uk",
+							"display_url": "easyteas.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4025,
+			"friends_count": 4014,
+			"listed_count": 146,
+			"created_at": "Thu Feb 05 17:34:41 +0000 2009",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027885113495965696/CY5BN7Np_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027885113495965696/CY5BN7Np_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20167402/1413016240",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proof, if proof were needed, that satirical disco music makes everything better. Genius @rhodri https://t.co/xep2DHxQ6T"
+	},
+	{
 		"created_at": "Thu Jul 30 20:24:35 +0000 2020",
 		"id": 1288890561710231600,
 		"id_str": "1288933529087139841",
