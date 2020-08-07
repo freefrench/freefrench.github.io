@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 15:54:45 +0000 2020",
+		"id": 1291402339639844900,
+		"id_str": "1291402339639844867",
+		"full_text": "@Reading_Tegan It’s wondrous. X",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reading_Tegan",
+					"name": "Tegan",
+					"id": 1237648972119851000,
+					"id_str": "1237648972119851009",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1291400034085265400,
+		"in_reply_to_status_id_str": "1291400034085265409",
+		"in_reply_to_user_id": 1237648972119851000,
+		"in_reply_to_user_id_str": "1237648972119851009",
+		"in_reply_to_screen_name": "Reading_Tegan",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63369,
+			"friends_count": 6444,
+			"listed_count": 941,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 17671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Reading_Tegan It’s wondrous. X"
+	},
+	{
+		"created_at": "Thu Aug 06 11:49:32 +0000 2020",
+		"id": 1291338245947691000,
+		"id_str": "1291340628706590721",
+		"full_text": "You're right, Liz. What about people who want to drive at 36mph in a 30mph zone, and not get fined. We should be fighting for their rights, and trying to make sense of their world. https://t.co/Iu2UnXdhZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iu2UnXdhZL",
+					"expanded_url": "https://twitter.com/LizKershawDJ/status/1290688261460041728",
+					"display_url": "twitter.com/LizKershawDJ/s…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302049284,
+			"id_str": "302049284",
+			"name": "Andrew Male",
+			"screen_name": "Andr6wMale",
+			"location": "andr6wmale@gmail.com",
+			"description": "Writing on music, books, radio, film & TV for MOJO, Sight & Sound, Guardian, Sunday Times, Radio Times. Rife with anomalies. Grounded for dreaminess.",
+			"url": "https://t.co/mFVlFX6VQf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mFVlFX6VQf",
+							"expanded_url": "https://www.theguardian.com/profile/andrew-male",
+							"display_url": "theguardian.com/profile/andrew…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23343,
+			"friends_count": 1997,
+			"listed_count": 243,
+			"created_at": "Fri May 20 14:23:15 +0000 2011",
+			"favourites_count": 265214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795556226167926784/SgCbNP5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795556226167926784/SgCbNP5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302049284/1518904199",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290688261460041700,
+		"quoted_status_id_str": "1290688261460041728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Iu2UnXdhZL",
+			"expanded": "https://twitter.com/LizKershawDJ/status/1290688261460041728",
+			"display": "twitter.com/LizKershawDJ/s…"
+		},
+		"retweet_count": 4,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You're right, Liz. What about people who want to drive at 36mph in a 30mph zone, and not get fined. We should be fighting for their rights, and trying to make sense of their world. https://t.co/Iu2UnXdhZL"
+	},
+	{
 		"created_at": "Wed Aug 05 18:44:03 +0000 2020",
 		"id": 1291082555735842800,
 		"id_str": "1291082555735842816",
