@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 16 13:37:04 +0000 2020",
+		"id": 1294991114177523700,
+		"id_str": "1294991569192460288",
+		"full_text": "You shouldn't worry about why you get unfollowed. If I'm in a bad mood I can unfollow someone for the smallest of reasons. A friend once told me, \"Oh I unfollowed that prick. He spelt 'ceiling' wrong.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26116063,
+			"id_str": "26116063",
+			"name": "Graeme Swanson",
+			"screen_name": "swansonian",
+			"location": "Scotlandish ",
+			"description": "\"Save your sassy asides for your windowless bars\"   see also: @marswasrubbish, @50Graeme",
+			"url": "https://t.co/MnEwHSWqyA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MnEwHSWqyA",
+							"expanded_url": "http://50wordsforfilm.wordpress.com",
+							"display_url": "50wordsforfilm.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 1259,
+			"listed_count": 48,
+			"created_at": "Mon Mar 23 23:09:31 +0000 2009",
+			"favourites_count": 25091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175080831590813696/A5OY1Q60_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175080831590813696/A5OY1Q60_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26116063/1460994176",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "You shouldn't worry about why you get unfollowed. If I'm in a bad mood I can unfollow someone for the smallest of reasons. A friend once told me, \"Oh I unfollowed that prick. He spelt 'ceiling' wrong.\""
+	},
+	{
 		"created_at": "Fri Aug 14 22:12:14 +0000 2020",
 		"id": 1294396438399594500,
 		"id_str": "1294396438399594497",
