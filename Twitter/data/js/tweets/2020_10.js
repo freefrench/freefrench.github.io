@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 20:20:49 +0000 2020",
+		"id": 1315024509825581000,
+		"id_str": "1315024509825581059",
+		"full_text": "If, like me, you’re partial to disco, post disco and boogie from the late 1970s and early 80s, Helene’s monthly show really is a gift. Love it. https://t.co/YKaVblqUYi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YKaVblqUYi",
+					"expanded_url": "https://twitter.com/citizenhelene/status/1314914986574127112",
+					"display_url": "twitter.com/citizenhelene/…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63589,
+			"friends_count": 6513,
+			"listed_count": 940,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 19107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314914986574127000,
+		"quoted_status_id_str": "1314914986574127112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YKaVblqUYi",
+			"expanded": "https://twitter.com/citizenhelene/status/1314914986574127112",
+			"display": "twitter.com/citizenhelene/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 10 13:05:37 +0000 2020",
+			"id": 1314914986574127000,
+			"id_str": "1314914986574127112",
+			"full_text": "If you missed my @sohoradio show on Thursday, you can listen back to it here https://t.co/6p8Vjg6bLN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sohoradio",
+						"name": "Soho Radio",
+						"id": 1384684488,
+						"id_str": "1384684488",
+						"indices": [
+							17,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6p8Vjg6bLN",
+						"expanded_url": "https://www.mixcloud.com/sohoradio/citizen-helene-08102020/",
+						"display_url": "mixcloud.com/sohoradio/citi…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13672572,
+				"id_str": "13672572",
+				"name": "Citizen Helene",
+				"screen_name": "citizenhelene",
+				"location": "bookings(at)citizenhelene.com",
+				"description": "Boogie bitch. DJ and musician (@galaxybrainwave, @maryepworth live band). Monthly show on @sohoradio. Mixes: https://t.co/m9LHWP9H1e. (She/her)",
+				"url": "https://t.co/ZE2ERISxrG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZE2ERISxrG",
+								"expanded_url": "http://citizenhelene.com",
+								"display_url": "citizenhelene.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/m9LHWP9H1e",
+								"expanded_url": "http://bit.ly/CHMixes",
+								"display_url": "bit.ly/CHMixes",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3458,
+				"friends_count": 3029,
+				"listed_count": 81,
+				"created_at": "Tue Feb 19 14:11:16 +0000 2008",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 116766,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1211598054064832512/0u3LQMdh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211598054064832512/0u3LQMdh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13672572/1461670853",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If, like me, you’re partial to disco, post disco and boogie from the late 1970s and early 80s, Helene’s monthly show really is a gift. Love it. https://t.co/YKaVblqUYi"
+	},
+	{
 		"created_at": "Fri Oct 09 13:35:36 +0000 2020",
 		"id": 1314560144064344000,
 		"id_str": "1314560144064344067",
