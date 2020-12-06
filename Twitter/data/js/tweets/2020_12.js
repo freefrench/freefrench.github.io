@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 23:17:37 +0000 2020",
+		"id": 1335345102512771000,
+		"id_str": "1335362721794101248",
+		"full_text": "Hi, @chancetherapper. If you are very obviously a rapper why did you put it in your stage name? I cannot stop thinking about this.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chancetherapper",
+					"name": "Chance The Rapper",
+					"id": 181572333,
+					"id_str": "181572333",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 874896877,
+			"id_str": "874896877",
+			"name": "Dionne Warwick",
+			"screen_name": "_DionneWarwick",
+			"location": "",
+			"description": "🥳I’m turning 80! All I want for my birthday is a donation to Hunger: Not Impossible to help feed families in need.👇🏽",
+			"url": "https://t.co/9lmp3EwnlF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9lmp3EwnlF",
+							"expanded_url": "https://bit.ly/2IMJvHS",
+							"display_url": "bit.ly/2IMJvHS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64839,
+			"friends_count": 4839,
+			"listed_count": 362,
+			"created_at": "Fri Oct 12 03:58:27 +0000 2012",
+			"favourites_count": 1062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "452D03",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182494346114813954/GRD8YwiZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182494346114813954/GRD8YwiZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/874896877/1583528455",
+			"profile_link_color": "113CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4739,
+		"favorite_count": 38812,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hi, @chancetherapper. If you are very obviously a rapper why did you put it in your stage name? I cannot stop thinking about this."
+	},
+	{
+		"created_at": "Sat Dec 05 11:11:41 +0000 2020",
+		"id": 1335180034764583000,
+		"id_str": "1335180034764582912",
+		"full_text": "@gareth71 The video has surely taken on a life of its own, an independent being.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gareth71",
+					"name": "Gareth",
+					"id": 22427430,
+					"id_str": "22427430",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1335179886403711000,
+		"in_reply_to_status_id_str": "1335179886403710977",
+		"in_reply_to_user_id": 22427430,
+		"in_reply_to_user_id_str": "22427430",
+		"in_reply_to_screen_name": "gareth71",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63927,
+			"friends_count": 6575,
+			"listed_count": 935,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 21603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gareth71 The video has surely taken on a life of its own, an independent being."
+	},
+	{
 		"created_at": "Fri Dec 04 23:57:22 +0000 2020",
 		"id": 1335010336529899500,
 		"id_str": "1335010336529899521",
