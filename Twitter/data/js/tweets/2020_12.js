@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 20:22:14 +0000 2020",
+		"id": 1340753494404378600,
+		"id_str": "1340754405432434691",
+		"full_text": "As ever, the only thing getting me through is that time Ariana Grande tried to get a 7 rings tattoo in Japanese but accidentally got the word for a type of clay stove so she corrected it but then it translated as “Japanese bbq finger” ❤️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24408348,
+			"id_str": "24408348",
+			"name": "Stevie Martin",
+			"screen_name": "5tevieM",
+			"location": "London",
+			"description": "Writer and comedian and cohost of @nobodypanicpod & @mightdeletepod and I faff about on https://t.co/2ATGP5FBbf fine fine. @5tevieM on IG fine.",
+			"url": "https://t.co/kUqUgCCQZW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kUqUgCCQZW",
+							"expanded_url": "https://avalonuk.com/clients/stevie-martin/",
+							"display_url": "avalonuk.com/clients/stevie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2ATGP5FBbf",
+							"expanded_url": "http://twitch.tv/5tevieM",
+							"display_url": "twitch.tv/5tevieM",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40600,
+			"friends_count": 2310,
+			"listed_count": 196,
+			"created_at": "Sat Mar 14 18:32:33 +0000 2009",
+			"favourites_count": 23465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24408348/1604691958",
+			"profile_link_color": "504D4E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "B48484",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 160,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As ever, the only thing getting me through is that time Ariana Grande tried to get a 7 rings tattoo in Japanese but accidentally got the word for a type of clay stove so she corrected it but then it translated as “Japanese bbq finger” ❤️"
+	},
+	{
+		"created_at": "Sun Dec 20 20:17:33 +0000 2020",
+		"id": 1340753224735854600,
+		"id_str": "1340753224735854600",
+		"full_text": "@jennycolgan It’s the kind of task I relish, which may have blinded me to its inherent difficulties.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennycolgan",
+					"name": "Jenny An Island Hotel is out now! Colgan",
+					"id": 19445224,
+					"id_str": "19445224",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340746683030888400,
+		"in_reply_to_status_id_str": "1340746683030888451",
+		"in_reply_to_user_id": 19445224,
+		"in_reply_to_user_id_str": "19445224",
+		"in_reply_to_screen_name": "jennycolgan",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64048,
+			"friends_count": 6605,
+			"listed_count": 936,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jennycolgan It’s the kind of task I relish, which may have blinded me to its inherent difficulties."
+	},
+	{
+		"created_at": "Sun Dec 20 19:41:57 +0000 2020",
+		"id": 1340744264280584200,
+		"id_str": "1340744264280584193",
+		"full_text": "@jennycolgan Oh god, I know. Total nightmare.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennycolgan",
+					"name": "Jenny An Island Hotel is out now! Colgan",
+					"id": 19445224,
+					"id_str": "19445224",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340737533114781700,
+		"in_reply_to_status_id_str": "1340737533114781697",
+		"in_reply_to_user_id": 19445224,
+		"in_reply_to_user_id_str": "19445224",
+		"in_reply_to_screen_name": "jennycolgan",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64048,
+			"friends_count": 6605,
+			"listed_count": 936,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jennycolgan Oh god, I know. Total nightmare."
+	},
+	{
+		"created_at": "Sun Dec 20 19:08:47 +0000 2020",
+		"id": 1340735917397598200,
+		"id_str": "1340735917397598209",
+		"full_text": "@Baddiel Merry fucking Christmas.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Baddiel",
+					"name": "David Baddiel",
+					"id": 18774246,
+					"id_str": "18774246",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340735510239711200,
+		"in_reply_to_status_id_str": "1340735510239711232",
+		"in_reply_to_user_id": 18774246,
+		"in_reply_to_user_id_str": "18774246",
+		"in_reply_to_screen_name": "Baddiel",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64048,
+			"friends_count": 6605,
+			"listed_count": 936,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Baddiel Merry fucking Christmas."
+	},
+	{
 		"created_at": "Sat Dec 19 21:47:50 +0000 2020",
 		"id": 1340413556370641000,
 		"id_str": "1340413556370640896",
@@ -449,7 +872,7 @@ Grailbird.data.tweets_2020_12 =
 		"user": {
 			"id": 6069772,
 			"id_str": "6069772",
-			"name": "Phoenix CS Andrews 🏳️‍⚧️",
+			"name": "Phoenix CS Andrews 🏳️⚧️",
 			"screen_name": "pennyb",
 			"location": "Leeds, UK",
 			"description": "Writer, powerlifter, drag, trans masc. PhD, bylines Times/Slate/Prospect/Independent https://t.co/vJPLT5q3kb they/them penny@pennybphd.com Agent: JP Marshall",
@@ -2789,7 +3212,7 @@ Grailbird.data.tweets_2020_12 =
 				},
 				{
 					"screen_name": "Esther9982",
-					"name": "👩‍💻 Esther Baker 👩‍💻",
+					"name": "👩💻 Esther Baker 👩💻",
 					"id": 221574668,
 					"id_str": "221574668",
 					"indices": [
