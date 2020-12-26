@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 17:58:18 +0000 2020",
+		"id": 1342530120045748200,
+		"id_str": "1342530120045748224",
+		"full_text": "Thankfully I found a chicken at a petrol station. You can take that statement however you want.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1342495901647044600,
+		"in_reply_to_status_id_str": "1342495901647044608",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67188,
+			"friends_count": 6631,
+			"listed_count": 940,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thankfully I found a chicken at a petrol station. You can take that statement however you want."
+	},
+	{
+		"created_at": "Fri Dec 25 15:42:19 +0000 2020",
+		"id": 1342495901647044600,
+		"id_str": "1342495901647044608",
+		"full_text": "We can add our household to the chorus of people complaining about  rotten turkeys stinking to high heaven, supposedly best before 26 Dec. Cheers @sainsburys.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sainsburys",
+					"name": "Sainsbury's",
+					"id": 80685646,
+					"id_str": "80685646",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67188,
+			"friends_count": 6631,
+			"listed_count": 940,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "We can add our household to the chorus of people complaining about  rotten turkeys stinking to high heaven, supposedly best before 26 Dec. Cheers @sainsburys."
+	},
+	{
+		"created_at": "Fri Dec 25 10:45:17 +0000 2020",
+		"id": 1342421147879665700,
+		"id_str": "1342421147879665664",
+		"full_text": "@SarahMillican75 @crisis_uk Thanks Sarah! Merry Xmas!!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahMillican75",
+					"name": "Sarah Millican",
+					"id": 20244875,
+					"id_str": "20244875",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "crisis_uk",
+					"name": "Crisis",
+					"id": 95204203,
+					"id_str": "95204203",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1342417730021052400,
+		"in_reply_to_status_id_str": "1342417730021052416",
+		"in_reply_to_user_id": 20244875,
+		"in_reply_to_user_id_str": "20244875",
+		"in_reply_to_screen_name": "SarahMillican75",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67188,
+			"friends_count": 6631,
+			"listed_count": 940,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@SarahMillican75 @crisis_uk Thanks Sarah! Merry Xmas!!"
+	},
+	{
+		"created_at": "Fri Dec 25 08:47:41 +0000 2020",
+		"id": 1342391554435133400,
+		"id_str": "1342391554435133440",
+		"full_text": "@michael_dennis @crisis_uk And to you!!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michael_dennis",
+					"name": "Michael Dennis",
+					"id": 19294241,
+					"id_str": "19294241",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "crisis_uk",
+					"name": "Crisis",
+					"id": 95204203,
+					"id_str": "95204203",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1342391457391530000,
+		"in_reply_to_status_id_str": "1342391457391529984",
+		"in_reply_to_user_id": 19294241,
+		"in_reply_to_user_id_str": "19294241",
+		"in_reply_to_screen_name": "michael_dennis",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67188,
+			"friends_count": 6631,
+			"listed_count": 940,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 22709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@michael_dennis @crisis_uk And to you!!"
+	},
+	{
 		"created_at": "Fri Dec 25 00:09:11 +0000 2020",
 		"id": 1342261069604151300,
 		"id_str": "1342261069604151297",
@@ -6877,7 +7310,7 @@ Grailbird.data.tweets_2020_12 =
 			"user_mentions": [
 				{
 					"screen_name": "alexandra_wall",
-					"name": "Alex Wall 🧜‍♀️",
+					"name": "Alex Wall 🧜♀️",
 					"id": 33500958,
 					"id_str": "33500958",
 					"indices": [
@@ -7099,7 +7532,7 @@ Grailbird.data.tweets_2020_12 =
 			"user": {
 				"id": 33500958,
 				"id_str": "33500958",
-				"name": "Alex Wall 🧜‍♀️",
+				"name": "Alex Wall 🧜♀️",
 				"screen_name": "alexandra_wall",
 				"location": "London via Lisbon",
 				"description": "Head of All 4 Editorial @Channel4. London via Lisboa. Views mine. Sometimes I sing. IG: @alexisagirl",
@@ -15051,7 +15484,7 @@ Grailbird.data.tweets_2020_12 =
 				"name": "Nicole Sykes",
 				"screen_name": "NicoleSykes_",
 				"location": "",
-				"description": "\"Redoubtable\" - Financial Times\nDirector of External Affairs @probonoecon. Formerly Brexit @CBITweets. Charity, politics, numbers, business, cats. She/her🏳️‍🌈",
+				"description": "\"Redoubtable\" - Financial Times\nDirector of External Affairs @probonoecon. Formerly Brexit @CBITweets. Charity, politics, numbers, business, cats. She/her🏳️🌈",
 				"url": null,
 				"entities": {
 					"description": {
@@ -26866,7 +27299,7 @@ Grailbird.data.tweets_2020_12 =
 				"name": "Anyer ❄️",
 				"screen_name": "Anyerfillag",
 				"location": "",
-				"description": "| School Theatre Technician | Sci-Fi/Fantasy Geek | Lover of all things Autumn & Halloween | 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇺 | 🏳️‍🌈Ally | She/Her | #WeMakeEvents🔴 |",
+				"description": "| School Theatre Technician | Sci-Fi/Fantasy Geek | Lover of all things Autumn & Halloween | 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇺 | 🏳️🌈Ally | She/Her | #WeMakeEvents🔴 |",
 				"url": null,
 				"entities": {
 					"description": {
@@ -29016,7 +29449,7 @@ Grailbird.data.tweets_2020_12 =
 			"created_at": "Mon Dec 17 20:52:22 +0000 2018",
 			"id": 1074769295245221900,
 			"id_str": "1074769295245221888",
-			"full_text": "#duvetknowitschristmas. Awesome....but none of this beats Christmas 2000, when I brought my serious boyfriend home, (aged 22),to find we were allowed in the same room......but Dad had removed the bedroom door 😳🤦🏼‍♀️🤔 https://t.co/VPFCbPRTcr",
+			"full_text": "#duvetknowitschristmas. Awesome....but none of this beats Christmas 2000, when I brought my serious boyfriend home, (aged 22),to find we were allowed in the same room......but Dad had removed the bedroom door 😳🤦🏼♀️🤔 https://t.co/VPFCbPRTcr",
 			"truncated": false,
 			"display_text_range": [
 				0,
