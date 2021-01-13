@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 20:40:41 +0000 2021",
+		"id": 1349093966466179000,
+		"id_str": "1349093966466179072",
+		"full_text": "@hayleyrose You are WELCOME.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hayleyrose",
+					"name": "Hayley Rose",
+					"id": 19817346,
+					"id_str": "19817346",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1349084415041925000,
+		"in_reply_to_status_id_str": "1349084415041925123",
+		"in_reply_to_user_id": 19817346,
+		"in_reply_to_user_id_str": "19817346",
+		"in_reply_to_screen_name": "hayleyrose",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67039,
+			"friends_count": 6640,
+			"listed_count": 937,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 23030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hayleyrose You are WELCOME."
+	},
+	{
+		"created_at": "Tue Jan 12 09:53:54 +0000 2021",
+		"id": 1348929243321757700,
+		"id_str": "1348931198203146241",
+		"full_text": "🍄🍄🍄🍄🍄🍄🍄🍄🍄\n🍄🍄🧀🍄🌱🌱🌱🍄🍄\n🍄🌱🌱🍄🌱🍄🌱🌱🍄\n🍄🌱🍄🍄🌱🍄🍄🌱🍄\n🍄🌱🌱🍄🌱🍄🍄🌱🐁\n🍄🍄🌱🌱🌱🍄🍄🍄🍄\n🍄🍄🍄🍄🍄🍄🍄🍄🍄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com/EmojiMeadow\" rel=\"nofollow\">EmojiMeadow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 836370086294245400,
+			"id_str": "836370086294245376",
+			"name": "Emoji Meadow",
+			"screen_name": "EmojiMeadow",
+			"location": "Outside",
+			"description": "I am a bot created by @JoeSondow. Every few hours I show you a tiny meadow full of grass and flowers. https://t.co/I8qlXalCSp",
+			"url": "https://t.co/2g5apoRPtN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2g5apoRPtN",
+							"expanded_url": "https://gitlab.com/JoeSondow/meadow/tree/master/src/main/java/sondow/meadow",
+							"display_url": "gitlab.com/JoeSondow/mead…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/I8qlXalCSp",
+							"expanded_url": "http://patreon.com/JoeSondow",
+							"display_url": "patreon.com/JoeSondow",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13439,
+			"friends_count": 7,
+			"listed_count": 260,
+			"created_at": "Tue Feb 28 00:19:02 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838214013712359424/AIflIR2N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838214013712359424/AIflIR2N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/836370086294245376/1488680828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "🍄🍄🍄🍄🍄🍄🍄🍄🍄\n🍄🍄🧀🍄🌱🌱🌱🍄🍄\n🍄🌱🌱🍄🌱🍄🌱🌱🍄\n🍄🌱🍄🍄🌱🍄🍄🌱🍄\n🍄🌱🌱🍄🌱🍄🍄🌱🐁\n🍄🍄🌱🌱🌱🍄🍄🍄🍄\n🍄🍄🍄🍄🍄🍄🍄🍄🍄"
+	},
+	{
 		"created_at": "Mon Jan 11 22:39:11 +0000 2021",
 		"id": 1348761400588566500,
 		"id_str": "1348761400588566529",
