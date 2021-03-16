@@ -1,6 +1,735 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 15 22:22:33 +0000 2021",
+		"id": 1371587651862691800,
+		"id_str": "1371587651862691854",
+		"full_text": "Apparently I should have left it where it was and I've probably killed it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1371529796899995600,
+		"in_reply_to_status_id_str": "1371529796899995648",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66605,
+			"friends_count": 6659,
+			"listed_count": 935,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 24570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Apparently I should have left it where it was and I've probably killed it."
+	},
+	{
+		"created_at": "Mon Mar 15 22:12:37 +0000 2021",
+		"id": 1371585152896368600,
+		"id_str": "1371585152896368645",
+		"full_text": "@missdeeoconnell Apparently I should have left it where it was and I've probably killed it.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "missdeeoconnell",
+					"name": "Dee O'Connell",
+					"id": 128863091,
+					"id_str": "128863091",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1371558611760074800,
+		"in_reply_to_status_id_str": "1371558611760074757",
+		"in_reply_to_user_id": 128863091,
+		"in_reply_to_user_id_str": "128863091",
+		"in_reply_to_screen_name": "missdeeoconnell",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66605,
+			"friends_count": 6659,
+			"listed_count": 935,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 24570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@missdeeoconnell Apparently I should have left it where it was and I've probably killed it."
+	},
+	{
+		"created_at": "Mon Mar 15 22:12:00 +0000 2021",
+		"id": 1371584997933596700,
+		"id_str": "1371584997933596680",
+		"full_text": "Indeed. I'm happy to acknowledge that @Deepak47489457 took this photo of a pink robin that I tweeted a year ago and which got 34,600 likes because we were all feeling depressed. https://t.co/RkOvshadwb https://t.co/ChAsz2DicL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deepak47489457",
+					"name": "Deepak Karra",
+					"id": 1360896863465918500,
+					"id_str": "1360896863465918471",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RkOvshadwb",
+					"expanded_url": "https://twitter.com/Deepak47489457/status/1371564854142590978",
+					"display_url": "twitter.com/Deepak47489457…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1371584886302195700,
+					"id_str": "1371584886302195714",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EwjZL-dWQAIezoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwjZL-dWQAIezoR.jpg",
+					"url": "https://t.co/ChAsz2DicL",
+					"display_url": "pic.twitter.com/ChAsz2DicL",
+					"expanded_url": "https://twitter.com/rhodri/status/1371584997933596680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1371584886302195700,
+					"id_str": "1371584886302195714",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EwjZL-dWQAIezoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwjZL-dWQAIezoR.jpg",
+					"url": "https://t.co/ChAsz2DicL",
+					"display_url": "pic.twitter.com/ChAsz2DicL",
+					"expanded_url": "https://twitter.com/rhodri/status/1371584997933596680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66605,
+			"friends_count": 6659,
+			"listed_count": 935,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 24570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371564854142591000,
+		"quoted_status_id_str": "1371564854142590978",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RkOvshadwb",
+			"expanded": "https://twitter.com/Deepak47489457/status/1371564854142590978",
+			"display": "twitter.com/Deepak47489457…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 15 20:51:58 +0000 2021",
+			"id": 1371564854142591000,
+			"id_str": "1371564854142590978",
+			"full_text": "@rhodri Greetings from Australia. I was wondering if you could credit the legal owner of this photo. Thanks.",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1237290568398536700,
+			"in_reply_to_status_id_str": "1237290568398536704",
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 1360896863465918500,
+				"id_str": "1360896863465918471",
+				"name": "Deepak Karra",
+				"screen_name": "Deepak47489457",
+				"location": "Melbourne, Victoria",
+				"description": "Wildlife photographer\nhttps://t.co/ufUijr9H6O",
+				"url": "https://t.co/ufUijr9H6O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ufUijr9H6O",
+								"expanded_url": "https://www.instagram.com/deepak_karra/",
+								"display_url": "instagram.com/deepak_karra/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ufUijr9H6O",
+								"expanded_url": "https://www.instagram.com/deepak_karra/",
+								"display_url": "instagram.com/deepak_karra/",
+								"indices": [
+									22,
+									45
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Sun Feb 14 10:22:30 +0000 2021",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1360897399162478592/fxBQb0z8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360897399162478592/fxBQb0z8_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indeed. I'm happy to acknowledge that @Deepak47489457 took this photo of a pink robin that I tweeted a year ago and which got 34,600 likes because we were all feeling depressed. https://t.co/RkOvshadwb https://t.co/ChAsz2DicL"
+	},
+	{
+		"created_at": "Mon Mar 15 19:03:16 +0000 2021",
+		"id": 1371537497545642000,
+		"id_str": "1371537497545641988",
+		"full_text": "@themikehm Oh.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "themikehm",
+					"name": "💙 Mike",
+					"id": 2683754853,
+					"id_str": "2683754853",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1371534555874746400,
+		"in_reply_to_status_id_str": "1371534555874746373",
+		"in_reply_to_user_id": 2683754853,
+		"in_reply_to_user_id_str": "2683754853",
+		"in_reply_to_screen_name": "themikehm",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66605,
+			"friends_count": 6659,
+			"listed_count": 935,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 24570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@themikehm Oh."
+	},
+	{
+		"created_at": "Mon Mar 15 18:36:05 +0000 2021",
+		"id": 1371530658422657000,
+		"id_str": "1371530658422657024",
+		"full_text": "@ejp72 An extraordinary thing to find in a basement. No idea how it got there.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ejp72",
+					"name": "Liz Wears A Mask 💙",
+					"id": 241725535,
+					"id_str": "241725535",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1371530031151874000,
+		"in_reply_to_status_id_str": "1371530031151874050",
+		"in_reply_to_user_id": 241725535,
+		"in_reply_to_user_id_str": "241725535",
+		"in_reply_to_screen_name": "ejp72",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66605,
+			"friends_count": 6659,
+			"listed_count": 935,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 24570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ejp72 An extraordinary thing to find in a basement. No idea how it got there."
+	},
+	{
 		"created_at": "Sun Mar 14 09:07:40 +0000 2021",
 		"id": 1371025222493692000,
 		"id_str": "1371025222493691908",
