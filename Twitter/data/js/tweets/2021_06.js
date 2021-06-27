@@ -1,6 +1,104 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 21:42:32 +0000 2021",
+		"id": 1408738399033467000,
+		"id_str": "1408903531650764800",
+		"full_text": "Cleaning lady followed by vaporous creature at Ebbw Vale dry cleaners. #EbbwVale #EbbwValeDryCleaners",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EbbwVale",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "EbbwValeDryCleaners",
+					"indices": [
+						81,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.therewillbeanimals.com\" rel=\"nofollow\">GhostAlertTweeter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924064224342626300,
+			"id_str": "924064224342626305",
+			"name": "Ghost Lab UK",
+			"screen_name": "UKGhostAlerts",
+			"location": "United Kingdom",
+			"description": "Established in 1977 by James Callaghan's government, the National Ghost Laboratory is the largest and longest running institution of its kind in the world.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 388,
+			"listed_count": 4,
+			"created_at": "Sat Oct 28 00:04:14 +0000 2017",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925291816450174976/XSsAFwO1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925291816450174976/XSsAFwO1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924064224342626305/1509216358",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Cleaning lady followed by vaporous creature at Ebbw Vale dry cleaners. #EbbwVale #EbbwValeDryCleaners"
+	},
+	{
 		"created_at": "Fri Jun 25 11:42:09 +0000 2021",
 		"id": 1408390053324279800,
 		"id_str": "1408390053324279814",
