@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 20:00:02 +0000 2021",
+		"id": 1411052062511710200,
+		"id_str": "1411052062511710209",
+		"full_text": "My sis. Her last day as Director of Student and Academic Services at City. Over 25 years working at her (and my) alma mater. And now off to do her own thing. ♥️ https://t.co/V2gsdKCZe4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V2gsdKCZe4",
+					"expanded_url": "https://twitter.com/susannahmarsden/status/1410890987422064643",
+					"display_url": "twitter.com/susannahmarsde…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67355,
+			"friends_count": 6784,
+			"listed_count": 936,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 27113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410890987422064600,
+		"quoted_status_id_str": "1410890987422064643",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V2gsdKCZe4",
+			"expanded": "https://twitter.com/susannahmarsden/status/1410890987422064643",
+			"display": "twitter.com/susannahmarsde…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 02 09:19:59 +0000 2021",
+			"id": 1410890987422064600,
+			"id_str": "1410890987422064643",
+			"full_text": "A last and a first. Today is my last day at City. This is my first tweet. Thank you to @CityUniLondon for the brilliant people and support. Onto something new now from August https://t.co/f7Oy6ItVP1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CityUniLondon",
+						"name": "City, University of London",
+						"id": 22611252,
+						"id_str": "22611252",
+						"indices": [
+							87,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/f7Oy6ItVP1",
+						"expanded_url": "http://www.susannahmarsden.co.uk",
+						"display_url": "susannahmarsden.co.uk",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1399679343648034800,
+				"id_str": "1399679343648034816",
+				"name": "Susannah Marsden",
+				"screen_name": "SusannahMarsden",
+				"location": "Hertfordshire, UK",
+				"description": "Higher Education Leader and Consultant. Runner. Musician. Gardener",
+				"url": "https://t.co/fbRtNbjK79",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fbRtNbjK79",
+								"expanded_url": "http://www.susannahmarsden.co.uk",
+								"display_url": "susannahmarsden.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21,
+				"friends_count": 71,
+				"listed_count": 0,
+				"created_at": "Tue Jun 01 10:49:06 +0000 2021",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399679505787150336/lSGFKTSv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399679505787150336/lSGFKTSv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1399679343648034816/1622558403",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My sis. Her last day as Director of Student and Academic Services at City. Over 25 years working at her (and my) alma mater. And now off to do her own thing. ♥️ https://t.co/V2gsdKCZe4"
+	},
+	{
 		"created_at": "Thu Jul 01 18:51:51 +0000 2021",
 		"id": 1410672515442040800,
 		"id_str": "1410672515442040832",
