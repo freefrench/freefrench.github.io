@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 20:43:17 +0000 2021",
+		"id": 1430984765767831600,
+		"id_str": "1430994279867064330",
+		"full_text": "Dear @AllisonPearson - I’m a GP and a father of two (aged 3 and 1). I haven’t seen my kids for 4 days straight because I’ve been working 14hr days. So before you write articles judging my ‘work life balance’ - come and spend a day doing what we do and feeling how we feel. Thanks. https://t.co/mj8sIS3teD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AllisonPearson",
+					"name": "Allison Pearson",
+					"id": 137413599,
+					"id_str": "137413599",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430984759778369500,
+					"id_str": "1430984759778369536",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E9vhDq2WYAAd0Cq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9vhDq2WYAAd0Cq.jpg",
+					"url": "https://t.co/mj8sIS3teD",
+					"display_url": "pic.twitter.com/mj8sIS3teD",
+					"expanded_url": "https://twitter.com/Dr_Gopal_Mehta/status/1430984765767831556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 885,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 885,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430984759778369500,
+					"id_str": "1430984759778369536",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E9vhDq2WYAAd0Cq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9vhDq2WYAAd0Cq.jpg",
+					"url": "https://t.co/mj8sIS3teD",
+					"display_url": "pic.twitter.com/mj8sIS3teD",
+					"expanded_url": "https://twitter.com/Dr_Gopal_Mehta/status/1430984765767831556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 885,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 885,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1118964406946340900,
+			"id_str": "1118964406946340865",
+			"name": "Dr Gopal Mehta",
+			"screen_name": "Dr_Gopal_Mehta",
+			"location": "",
+			"description": "GP Partner Richmond Road Medical Centre, London Fields PCN Clinical Director, Board Member City & Hackney GP Confederation, LMC Rep, Devoted Dad, Husband & Son",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 293,
+			"listed_count": 0,
+			"created_at": "Thu Apr 18 19:47:58 +0000 2019",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118965633356636166/sJcUkzpx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118965633356636166/sJcUkzpx_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 493,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear @AllisonPearson - I’m a GP and a father of two (aged 3 and 1). I haven’t seen my kids for 4 days straight because I’ve been working 14hr days. So before you write articles judging my ‘work life balance’ - come and spend a day doing what we do and feeling how we feel. Thanks. https://t.co/mj8sIS3teD"
+	},
+	{
+		"created_at": "Thu Aug 26 18:06:58 +0000 2021",
+		"id": 1430954939451383800,
+		"id_str": "1430954939451383814",
+		"full_text": "@pauldn1 Whey-hey!!!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pauldn1",
+					"name": "paul dolan",
+					"id": 388308409,
+					"id_str": "388308409",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1430954140302258200,
+		"in_reply_to_status_id_str": "1430954140302258181",
+		"in_reply_to_user_id": 388308409,
+		"in_reply_to_user_id_str": "388308409",
+		"in_reply_to_screen_name": "pauldn1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68837,
+			"friends_count": 6826,
+			"listed_count": 932,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 28461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pauldn1 Whey-hey!!!"
+	},
+	{
+		"created_at": "Thu Aug 26 09:15:09 +0000 2021",
+		"id": 1430821103837061000,
+		"id_str": "1430821103837061121",
+		"full_text": "@wabsnazsm @Richard_Linear Jesus.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wabsnazsm",
+					"name": "Sean C... (🌋)",
+					"id": 21998841,
+					"id_str": "21998841",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Richard_Linear",
+					"name": "Richard Sanderson",
+					"id": 772029843252871200,
+					"id_str": "772029843252871169",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430820393649156000,
+		"in_reply_to_status_id_str": "1430820393649156099",
+		"in_reply_to_user_id": 21998841,
+		"in_reply_to_user_id_str": "21998841",
+		"in_reply_to_screen_name": "wabsnazsm",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68837,
+			"friends_count": 6826,
+			"listed_count": 932,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 28461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wabsnazsm @Richard_Linear Jesus."
+	},
+	{
 		"created_at": "Wed Aug 25 17:57:51 +0000 2021",
 		"id": 1430590260287873000,
 		"id_str": "1430590260287873033",
