@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 23:08:39 +0000 2021",
+		"id": 1440452948446744600,
+		"id_str": "1440452948446744585",
+		"full_text": "@Garbanzo_paul @MBTom_co_uk @scrittipolitti Painstaking sound matching and chord matching over a period of months. Glad it was appreciated!",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Garbanzo_paul",
+					"name": "Paul",
+					"id": 363834609,
+					"id_str": "363834609",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MBTom_co_uk",
+					"name": "MBTom",
+					"id": 983479039,
+					"id_str": "983479039",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1440450097892917200,
+		"in_reply_to_status_id_str": "1440450097892917252",
+		"in_reply_to_user_id": 363834609,
+		"in_reply_to_user_id_str": "363834609",
+		"in_reply_to_screen_name": "Garbanzo_paul",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68833,
+			"friends_count": 6828,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 28957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Garbanzo_paul @MBTom_co_uk @scrittipolitti Painstaking sound matching and chord matching over a period of months. Glad it was appreciated!"
+	},
+	{
+		"created_at": "Tue Sep 21 23:06:52 +0000 2021",
+		"id": 1440452496174977000,
+		"id_str": "1440452496174977024",
+		"full_text": "Just played Cupid &amp; Psyche 85 with @scrittipolitti for the first time ever, innit. Norwich was the recipient. Before the gig I went for a walk with @grovesnor and took a photo of him making a big shadow on a big building. https://t.co/p0dtAPHkwZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "grovesnor",
+					"name": "Rob / Grovesnor",
+					"id": 29228919,
+					"id_str": "29228919",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440452487438221300,
+					"id_str": "1440452487438221318",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E_2D582VQAYzE1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_2D582VQAYzE1I.jpg",
+					"url": "https://t.co/p0dtAPHkwZ",
+					"display_url": "pic.twitter.com/p0dtAPHkwZ",
+					"expanded_url": "https://twitter.com/rhodri/status/1440452496174977024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440452487438221300,
+					"id_str": "1440452487438221318",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E_2D582VQAYzE1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_2D582VQAYzE1I.jpg",
+					"url": "https://t.co/p0dtAPHkwZ",
+					"display_url": "pic.twitter.com/p0dtAPHkwZ",
+					"expanded_url": "https://twitter.com/rhodri/status/1440452496174977024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68833,
+			"friends_count": 6828,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 28957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just played Cupid &amp; Psyche 85 with @scrittipolitti for the first time ever, innit. Norwich was the recipient. Before the gig I went for a walk with @grovesnor and took a photo of him making a big shadow on a big building. https://t.co/p0dtAPHkwZ"
+	},
+	{
 		"created_at": "Mon Sep 20 15:02:33 +0000 2021",
 		"id": 1439968228030259200,
 		"id_str": "1439968228030259204",
