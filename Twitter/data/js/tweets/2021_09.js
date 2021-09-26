@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 25 23:41:28 +0000 2021",
+		"id": 1441910757038383000,
+		"id_str": "1441910757038383106",
+		"full_text": "@bush_martin @scrittipolitti All part of the show",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bush_martin",
+					"name": "Martin Bush 💙",
+					"id": 1284319999,
+					"id_str": "1284319999",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1441910148717551600,
+		"in_reply_to_status_id_str": "1441910148717551616",
+		"in_reply_to_user_id": 1284319999,
+		"in_reply_to_user_id_str": "1284319999",
+		"in_reply_to_screen_name": "bush_martin",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68886,
+			"friends_count": 6843,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 29104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bush_martin @scrittipolitti All part of the show"
+	},
+	{
+		"created_at": "Sat Sep 25 23:36:34 +0000 2021",
+		"id": 1441909521660604400,
+		"id_str": "1441909521660604416",
+		"full_text": "@carlshwrth @scrittipolitti Oh, Carl. Thank you. That gig was a journey 😬",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carlshwrth",
+					"name": "Carl Ashworth",
+					"id": 148855902,
+					"id_str": "148855902",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1441907987094937600,
+		"in_reply_to_status_id_str": "1441907987094937600",
+		"in_reply_to_user_id": 148855902,
+		"in_reply_to_user_id_str": "148855902",
+		"in_reply_to_screen_name": "carlshwrth",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68886,
+			"friends_count": 6843,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 29104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@carlshwrth @scrittipolitti Oh, Carl. Thank you. That gig was a journey 😬"
+	},
+	{
+		"created_at": "Sat Sep 25 23:00:15 +0000 2021",
+		"id": 1441899767412535300,
+		"id_str": "1441900383799070724",
+		"full_text": "So this happened tonight. Bit emosh actually. Green’s voice is like an angel. Such an important band for me growing up. Encore was At Last I Am Free by @nilerodgers Nearly in tears. @rhodri kept his cool despite tech problems. Lovely evening. https://t.co/mwskve2RuP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nilerodgers",
+					"name": "Nile Rodgers",
+					"id": 19997751,
+					"id_str": "19997751",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1441899759996911600,
+					"id_str": "1441899759996911616",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FAKoMTRWQAAJZke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAKoMTRWQAAJZke.jpg",
+					"url": "https://t.co/mwskve2RuP",
+					"display_url": "pic.twitter.com/mwskve2RuP",
+					"expanded_url": "https://twitter.com/EddyRhead/status/1441899767412535297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441899759996911600,
+					"id_str": "1441899759996911616",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FAKoMTRWQAAJZke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAKoMTRWQAAJZke.jpg",
+					"url": "https://t.co/mwskve2RuP",
+					"display_url": "pic.twitter.com/mwskve2RuP",
+					"expanded_url": "https://twitter.com/EddyRhead/status/1441899767412535297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44490531,
+			"id_str": "44490531",
+			"name": "Just Some Fella 🇸🇩",
+			"screen_name": "EddyRhead",
+			"location": "",
+			"description": "\"You're not gentle Jesus - you're just some fella\"",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2893,
+			"friends_count": 1141,
+			"listed_count": 38,
+			"created_at": "Wed Jun 03 23:39:45 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A60A82",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201627136970416128/3ceTGGuP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201627136970416128/3ceTGGuP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44490531/1366665615",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "7B0985",
+			"profile_sidebar_fill_color": "820882",
+			"profile_text_color": "0F1EBF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So this happened tonight. Bit emosh actually. Green’s voice is like an angel. Such an important band for me growing up. Encore was At Last I Am Free by @nilerodgers Nearly in tears. @rhodri kept his cool despite tech problems. Lovely evening. https://t.co/mwskve2RuP"
+	},
+	{
+		"created_at": "Sat Sep 25 22:48:53 +0000 2021",
+		"id": 1441897523069821000,
+		"id_str": "1441897523069820932",
+		"full_text": "The best backstage gift ever (can’t actually remember any other backstage gifts ever). Thank you @zippysno1fan ♥️ https://t.co/pgrqSo4haK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zippysno1fan",
+					"name": "Mr.B.",
+					"id": 223829461,
+					"id_str": "223829461",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1441897516610605000,
+					"id_str": "1441897516610605063",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAKmJuAX0AcdPPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAKmJuAX0AcdPPd.jpg",
+					"url": "https://t.co/pgrqSo4haK",
+					"display_url": "pic.twitter.com/pgrqSo4haK",
+					"expanded_url": "https://twitter.com/rhodri/status/1441897523069820932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441897516610605000,
+					"id_str": "1441897516610605063",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAKmJuAX0AcdPPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAKmJuAX0AcdPPd.jpg",
+					"url": "https://t.co/pgrqSo4haK",
+					"display_url": "pic.twitter.com/pgrqSo4haK",
+					"expanded_url": "https://twitter.com/rhodri/status/1441897523069820932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit tunes (Scritti Politti, Dream Themes, Lost Crowns, Kenny Process Team). Capable, reliable, pliable.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68886,
+			"friends_count": 6843,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 29104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best backstage gift ever (can’t actually remember any other backstage gifts ever). Thank you @zippysno1fan ♥️ https://t.co/pgrqSo4haK"
+	},
+	{
 		"created_at": "Sat Sep 25 00:04:48 +0000 2021",
 		"id": 1441554241277948000,
 		"id_str": "1441554241277947908",
@@ -765,7 +1368,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Fri Sep 24 21:58:11 +0000 2021",
 		"id": 1441495028862537700,
 		"id_str": "1441522375703601156",
-		"full_text": "Yes fucking please ⁦@rhodri⁩ ⁦@scrittipolitti⁩ https://t.co/XJByF9efzI",
+		"full_text": "Yes fucking please @rhodri @scrittipolitti https://t.co/XJByF9efzI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -955,7 +1558,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Yes fucking please ⁦@rhodri⁩ ⁦@scrittipolitti⁩ https://t.co/XJByF9efzI"
+		"text": "Yes fucking please @rhodri @scrittipolitti https://t.co/XJByF9efzI"
 	},
 	{
 		"created_at": "Fri Sep 24 19:22:38 +0000 2021",
