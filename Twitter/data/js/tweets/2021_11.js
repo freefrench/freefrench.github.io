@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 21:55:17 +0000 2021",
+		"id": 1459641041640951800,
+		"id_str": "1459641041640951823",
+		"full_text": "@DrSchwitters @BeatCombo @scrittipolitti @OfficialOMD @EventimApollo We save that for the encore usually",
+		"truncated": false,
+		"display_text_range": [
+			69,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrSchwitters",
+					"name": "Phil",
+					"id": 1931825178,
+					"id_str": "1931825178",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BeatCombo",
+					"name": "Paul Wood",
+					"id": 20429745,
+					"id_str": "20429745",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "OfficialOMD",
+					"name": "Orchestral Manoeuvres in the Dark",
+					"id": 30004537,
+					"id_str": "30004537",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "EventimApollo",
+					"name": "Eventim Apollo",
+					"id": 66114201,
+					"id_str": "66114201",
+					"indices": [
+						54,
+						68
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459638153158004700,
+		"in_reply_to_status_id_str": "1459638153158004740",
+		"in_reply_to_user_id": 1931825178,
+		"in_reply_to_user_id_str": "1931825178",
+		"in_reply_to_screen_name": "DrSchwitters",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69183,
+			"friends_count": 6882,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 30336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrSchwitters @BeatCombo @scrittipolitti @OfficialOMD @EventimApollo We save that for the encore usually"
+	},
+	{
+		"created_at": "Sat Nov 13 21:42:51 +0000 2021",
+		"id": 1459617459384770600,
+		"id_str": "1459637913197686794",
+		"full_text": "Have to say that @scrittipolitti supporting @OfficialOMD tonight at @EventimApollo is one of the best support acts I’ve seen in 40 years 👏👏👏. What a uniquely great band https://t.co/GiCpzkgFk2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "OfficialOMD",
+					"name": "Orchestral Manoeuvres in the Dark",
+					"id": 30004537,
+					"id_str": "30004537",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "EventimApollo",
+					"name": "Eventim Apollo",
+					"id": 66114201,
+					"id_str": "66114201",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459617454334910500,
+					"id_str": "1459617454334910469",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEGaV2GXoAU67HI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEGaV2GXoAU67HI.jpg",
+					"url": "https://t.co/GiCpzkgFk2",
+					"display_url": "pic.twitter.com/GiCpzkgFk2",
+					"expanded_url": "https://twitter.com/BeatCombo/status/1459617459384770566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459617454334910500,
+					"id_str": "1459617454334910469",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEGaV2GXoAU67HI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEGaV2GXoAU67HI.jpg",
+					"url": "https://t.co/GiCpzkgFk2",
+					"display_url": "pic.twitter.com/GiCpzkgFk2",
+					"expanded_url": "https://twitter.com/BeatCombo/status/1459617459384770566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20429745,
+			"id_str": "20429745",
+			"name": "Paul Wood",
+			"screen_name": "BeatCombo",
+			"location": "London, England",
+			"description": "“Looking jolly from Stoke” (MES). London, Ottawa, Vancouver. Music fan, cat servant.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 196,
+			"listed_count": 8,
+			"created_at": "Mon Feb 09 11:41:01 +0000 2009",
+			"favourites_count": 6463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014995374065344512/DqW_0coJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014995374065344512/DqW_0coJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20429745/1595742634",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have to say that @scrittipolitti supporting @OfficialOMD tonight at @EventimApollo is one of the best support acts I’ve seen in 40 years 👏👏👏. What a uniquely great band https://t.co/GiCpzkgFk2"
+	},
+	{
+		"created_at": "Sat Nov 13 20:43:14 +0000 2021",
+		"id": 1459622909211775000,
+		"id_str": "1459622909211774976",
+		"full_text": "@BeatCombo @scrittipolitti @OfficialOMD @EventimApollo Thank you, sir!",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeatCombo",
+					"name": "Paul Wood",
+					"id": 20429745,
+					"id_str": "20429745",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "OfficialOMD",
+					"name": "Orchestral Manoeuvres in the Dark",
+					"id": 30004537,
+					"id_str": "30004537",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "EventimApollo",
+					"name": "Eventim Apollo",
+					"id": 66114201,
+					"id_str": "66114201",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459617459384770600,
+		"in_reply_to_status_id_str": "1459617459384770566",
+		"in_reply_to_user_id": 20429745,
+		"in_reply_to_user_id_str": "20429745",
+		"in_reply_to_screen_name": "BeatCombo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69183,
+			"friends_count": 6882,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 30336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BeatCombo @scrittipolitti @OfficialOMD @EventimApollo Thank you, sir!"
+	},
+	{
+		"created_at": "Sat Nov 13 19:00:37 +0000 2021",
+		"id": 1459597082449350700,
+		"id_str": "1459597082449350665",
+		"full_text": "@stuartresurrec1 That was a joke",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartresurrec1",
+					"name": "Stuart C Taylor",
+					"id": 1454752037493694500,
+					"id_str": "1454752037493694464",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459584246650224600,
+		"in_reply_to_status_id_str": "1459584246650224655",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69183,
+			"friends_count": 6882,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 30336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stuartresurrec1 That was a joke"
+	},
+	{
+		"created_at": "Sat Nov 13 18:09:36 +0000 2021",
+		"id": 1459584246650224600,
+		"id_str": "1459584246650224655",
+		"full_text": "@stuartresurrec1 I’m way better than Kate Bush.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartresurrec1",
+					"name": "Stuart C Taylor",
+					"id": 1454752037493694500,
+					"id_str": "1454752037493694464",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459581359878508500,
+		"in_reply_to_status_id_str": "1459581359878508546",
+		"in_reply_to_user_id": 1454752037493694500,
+		"in_reply_to_user_id_str": "1454752037493694464",
+		"in_reply_to_screen_name": "stuartresurrec1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69183,
+			"friends_count": 6882,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 30336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stuartresurrec1 I’m way better than Kate Bush."
+	},
+	{
 		"created_at": "Fri Nov 12 22:48:54 +0000 2021",
 		"id": 1459292147056844800,
 		"id_str": "1459292147056844820",
