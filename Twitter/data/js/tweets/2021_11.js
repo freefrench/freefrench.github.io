@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 15:22:42 +0000 2021",
+		"id": 1465340451251269600,
+		"id_str": "1465340451251269642",
+		"full_text": "@SlimJimSim Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlimJimSim",
+					"name": "Jim Simmons💙",
+					"id": 138016711,
+					"id_str": "138016711",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1465334313730388000,
+		"in_reply_to_status_id_str": "1465334313730387980",
+		"in_reply_to_user_id": 138016711,
+		"in_reply_to_user_id_str": "138016711",
+		"in_reply_to_screen_name": "SlimJimSim",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69252,
+			"friends_count": 6893,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 30632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@SlimJimSim Hahaha"
+	},
+	{
+		"created_at": "Mon Nov 29 14:17:17 +0000 2021",
+		"id": 1465323984715665400,
+		"id_str": "1465323984715665409",
+		"full_text": "The \"get AI to draw you a picture\" thing was too tempting for me to resist. It took about 20 minutes to generate, but this was its attempt at \"rabbits watching a nuclear explosion\". Pretty good. \n\nhttps://t.co/EerQ3CU51D https://t.co/JmbgxtbkM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EerQ3CU51D",
+					"expanded_url": "https://pixray.gob.io/text2image/",
+					"display_url": "pixray.gob.io/text2image/",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465323891476344800,
+					"id_str": "1465323891476344833",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FFXgUNBXMAExVmV.png",
+					"media_url_https": "https://pbs.twimg.com/media/FFXgUNBXMAExVmV.png",
+					"url": "https://t.co/JmbgxtbkM2",
+					"display_url": "pic.twitter.com/JmbgxtbkM2",
+					"expanded_url": "https://twitter.com/rhodri/status/1465323984715665409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465323891476344800,
+					"id_str": "1465323891476344833",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FFXgUNBXMAExVmV.png",
+					"media_url_https": "https://pbs.twimg.com/media/FFXgUNBXMAExVmV.png",
+					"url": "https://t.co/JmbgxtbkM2",
+					"display_url": "pic.twitter.com/JmbgxtbkM2",
+					"expanded_url": "https://twitter.com/rhodri/status/1465323984715665409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69252,
+			"friends_count": 6893,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 30632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The \"get AI to draw you a picture\" thing was too tempting for me to resist. It took about 20 minutes to generate, but this was its attempt at \"rabbits watching a nuclear explosion\". Pretty good. \n\nhttps://t.co/EerQ3CU51D https://t.co/JmbgxtbkM2"
+	},
+	{
 		"created_at": "Sun Nov 28 20:29:47 +0000 2021",
 		"id": 1465055341276708900,
 		"id_str": "1465055341276708871",
