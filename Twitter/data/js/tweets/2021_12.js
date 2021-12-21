@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 19:57:29 +0000 2021",
+		"id": 1473019746715111400,
+		"id_str": "1473019746715111430",
+		"full_text": "@secraney Something will have to happen, but I know not what!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "secraney",
+					"name": "Sarah Crane 💚",
+					"id": 227369430,
+					"id_str": "227369430",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473012329969246200,
+		"in_reply_to_status_id_str": "1473012329969246214",
+		"in_reply_to_user_id": 227369430,
+		"in_reply_to_user_id_str": "227369430",
+		"in_reply_to_screen_name": "secraney",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69703,
+			"friends_count": 6940,
+			"listed_count": 933,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 31527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@secraney Something will have to happen, but I know not what!"
+	},
+	{
+		"created_at": "Mon Dec 20 18:34:12 +0000 2021",
+		"id": 1472981515596406800,
+		"id_str": "1472998786641313794",
+		"full_text": "Johnson: \"We've vaccinated more people as a percentage of our population than virtually anywhere else\"\n\nCountries by vacation rate:\n\n🇦🇪 90% 🇵🇹 89% 🇧🇳 87% 🇸🇬 87% 🇨🇱 85% 🇰🇾 84% 🇲🇹 84% 🇨🇺 84% 🇮🇸  82% 🇰🇷 82% 🇪🇸 80% 🇨🇳 80% 🇰🇭 80% 🇸🇨 79% 🇯🇵 78% 🇲🇾 78% 🇩🇰 76% 🇨🇦 77% 🇮🇪 76% 🇦🇺 76% 🇬🇧 69% https://t.co/qScaCigjVR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472978089370079200,
+					"id_str": "1472978089370079239",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1472978089370079239/pu/img/DKfAhJyTotasPHzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1472978089370079239/pu/img/DKfAhJyTotasPHzB.jpg",
+					"url": "https://t.co/qScaCigjVR",
+					"display_url": "pic.twitter.com/qScaCigjVR",
+					"expanded_url": "https://twitter.com/AdamJSchwarz/status/1472981515596406785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472978089370079200,
+					"id_str": "1472978089370079239",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1472978089370079239/pu/img/DKfAhJyTotasPHzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1472978089370079239/pu/img/DKfAhJyTotasPHzB.jpg",
+					"url": "https://t.co/qScaCigjVR",
+					"display_url": "pic.twitter.com/qScaCigjVR",
+					"expanded_url": "https://twitter.com/AdamJSchwarz/status/1472981515596406785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							571,
+							318
+						],
+						"duration_millis": 5973,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1472978089370079239/pu/vid/646x360/5-jrOJ10BRZ-BqR4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1472978089370079239/pu/pl/sZkooEzwsYNvAYNQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1472978089370079239/pu/vid/484x270/SpPNqRsJF90YRQud.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1472978089370079239/pu/vid/1142x636/CwCYkO-jGQUamewQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282307872,
+			"id_str": "282307872",
+			"name": "Adam Schwarz",
+			"screen_name": "AdamJSchwarz",
+			"location": "London, United Kingdom",
+			"description": "Writer & Political Commentator | Founder https://t.co/hzDKsMkTZh | E-Commerce Entrepreneur | Policy Scrutiny | Former Policy Advisor",
+			"url": "https://t.co/VAfKSskMbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VAfKSskMbC",
+							"expanded_url": "https://www.linkedin.com/in/adamjschwarz/",
+							"display_url": "linkedin.com/in/adamjschwar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hzDKsMkTZh",
+							"expanded_url": "http://EasyPaws.co.uk",
+							"display_url": "EasyPaws.co.uk",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13127,
+			"friends_count": 2228,
+			"listed_count": 70,
+			"created_at": "Thu Apr 14 23:43:51 +0000 2011",
+			"favourites_count": 4415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384298012797669384/EtjZS-Zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384298012797669384/EtjZS-Zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282307872/1606346956",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2005,
+		"favorite_count": 3505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Johnson: \"We've vaccinated more people as a percentage of our population than virtually anywhere else\"\n\nCountries by vacation rate:\n\n🇦🇪 90% 🇵🇹 89% 🇧🇳 87% 🇸🇬 87% 🇨🇱 85% 🇰🇾 84% 🇲🇹 84% 🇨🇺 84% 🇮🇸  82% 🇰🇷 82% 🇪🇸 80% 🇨🇳 80% 🇰🇭 80% 🇸🇨 79% 🇯🇵 78% 🇲🇾 78% 🇩🇰 76% 🇨🇦 77% 🇮🇪 76% 🇦🇺 76% 🇬🇧 69% https://t.co/qScaCigjVR"
+	},
+	{
+		"created_at": "Mon Dec 20 18:10:42 +0000 2021",
+		"id": 1472992873331277800,
+		"id_str": "1472992873331277824",
+		"full_text": "@bowdren1 I'll surely be doing something, but it's hard to know what shape it's going to take, what with everything *gestures around with arm*",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bowdren1",
+					"name": "Emotional Support Peacock",
+					"id": 159557447,
+					"id_str": "159557447",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1472985727466102800,
+		"in_reply_to_status_id_str": "1472985727466102793",
+		"in_reply_to_user_id": 159557447,
+		"in_reply_to_user_id_str": "159557447",
+		"in_reply_to_screen_name": "bowdren1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69703,
+			"friends_count": 6940,
+			"listed_count": 933,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 31527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bowdren1 I'll surely be doing something, but it's hard to know what shape it's going to take, what with everything *gestures around with arm*"
+	},
+	{
+		"created_at": "Mon Dec 20 16:58:23 +0000 2021",
+		"id": 1472974675420627000,
+		"id_str": "1472974675420626944",
+		"full_text": "It's the fifth year of this audiobook advent calendar, and it's really rather lovely. (Yes, I'm 20 days late.) Lots more to explore via the Spotify link, too. https://t.co/XP70POOuf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XP70POOuf0",
+					"expanded_url": "https://twitter.com/skelington/status/1466148177493565444",
+					"display_url": "twitter.com/skelington/sta…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69703,
+			"friends_count": 6940,
+			"listed_count": 933,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 31527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1466148177493565400,
+		"quoted_status_id_str": "1466148177493565444",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XP70POOuf0",
+			"expanded": "https://twitter.com/skelington/status/1466148177493565444",
+			"display": "twitter.com/skelington/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 01 20:52:19 +0000 2021",
+			"id": 1466148177493565400,
+			"id_str": "1466148177493565444",
+			"full_text": "The Ghosts of Christmas Presents - an audiobook advent calendar.\nChapter 1:  In which Mr Benedict Nail, who does not approve of Christmas, neighbours or music, finds himself assailed by all three and does not enjoy it\nhttps://t.co/4kN3dNQQnm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4kN3dNQQnm",
+						"expanded_url": "https://open.spotify.com/episode/006m5eODsCmIODjrO591ZT?si=45aa2b22d8d540c9",
+						"display_url": "open.spotify.com/episode/006m5e…",
+						"indices": [
+							218,
+							241
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1863291,
+				"id_str": "1863291",
+				"name": "Tobias Sturt",
+				"screen_name": "skelington",
+				"location": "London",
+				"description": "Writing words about making pictures about collecting numbers. New book, “Communicating with Data Visualisation”: https://t.co/sPtUWihmlY",
+				"url": "https://t.co/Mll6qp6U2b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mll6qp6U2b",
+								"expanded_url": "http://www.ruritania.co.uk",
+								"display_url": "ruritania.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sPtUWihmlY",
+								"expanded_url": "https://www.addtwodigital.com/book",
+								"display_url": "addtwodigital.com/book",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 881,
+				"friends_count": 1182,
+				"listed_count": 32,
+				"created_at": "Thu Mar 22 11:52:54 +0000 2007",
+				"favourites_count": 7120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10666,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072838024537497600/jeiwiN77_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072838024537497600/jeiwiN77_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1863291/1556117796",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's the fifth year of this audiobook advent calendar, and it's really rather lovely. (Yes, I'm 20 days late.) Lots more to explore via the Spotify link, too. https://t.co/XP70POOuf0"
+	},
+	{
+		"created_at": "Mon Dec 20 11:10:41 +0000 2021",
+		"id": 1472887173078786000,
+		"id_str": "1472887173078786064",
+		"full_text": "@candraprabha02 Ooh, that's GOOD.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "candraprabha02",
+					"name": "Candraprabha",
+					"id": 1426495097240236000,
+					"id_str": "1426495097240236041",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1472886557677965300,
+		"in_reply_to_status_id_str": "1472886557677965314",
+		"in_reply_to_user_id": 1426495097240236000,
+		"in_reply_to_user_id_str": "1426495097240236041",
+		"in_reply_to_screen_name": "candraprabha02",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69703,
+			"friends_count": 6940,
+			"listed_count": 933,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 31527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 136610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@candraprabha02 Ooh, that's GOOD."
+	},
+	{
 		"created_at": "Sun Dec 19 23:18:02 +0000 2021",
 		"id": 1472688666350915600,
 		"id_str": "1472707826908860423",
@@ -1872,7 +2639,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Sun Dec 19 20:20:11 +0000 2021",
 		"id": 1472662861604393000,
 		"id_str": "1472663072410066946",
-		"full_text": "@rhodri stuck in outdoor loo in the Dominican Republic, doorframe warped in rainy season. off peak at night, shouted for help for around an hour. Eventually rescued, all hotel staff laughed every time they spotted me after. Husband ‘didn’t want to question’ why I’d been gone so long 🤷🏽‍♀️",
+		"full_text": "@rhodri stuck in outdoor loo in the Dominican Republic, doorframe warped in rainy season. off peak at night, shouted for help for around an hour. Eventually rescued, all hotel staff laughed every time they spotted me after. Husband ‘didn’t want to question’ why I’d been gone so long 🤷🏽♀️",
 		"truncated": false,
 		"display_text_range": [
 			8,
@@ -1960,7 +2727,7 @@ Grailbird.data.tweets_2021_12 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "@rhodri stuck in outdoor loo in the Dominican Republic, doorframe warped in rainy season. off peak at night, shouted for help for around an hour. Eventually rescued, all hotel staff laughed every time they spotted me after. Husband ‘didn’t want to question’ why I’d been gone so long 🤷🏽‍♀️"
+		"text": "@rhodri stuck in outdoor loo in the Dominican Republic, doorframe warped in rainy season. off peak at night, shouted for help for around an hour. Eventually rescued, all hotel staff laughed every time they spotted me after. Husband ‘didn’t want to question’ why I’d been gone so long 🤷🏽♀️"
 	},
 	{
 		"created_at": "Sun Dec 19 20:19:33 +0000 2021",
