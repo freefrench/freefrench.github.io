@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 20:38:26 +0000 2022",
+		"id": 1486733736083292200,
+		"id_str": "1486800788580188165",
+		"full_text": "It’s Holocaust Memorial Day. This year, I’m thinking of a woman called Sulamita Szapiro. Here she is as a student. We weren’t related and I don’t even know much about her, but I’m pretty sure that remembering her still falls to me. This is a thread about why. https://t.co/HMNqKbnxCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486733699294982100,
+					"id_str": "1486733699294982150",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHwbCYUcAY4Z3r.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHwbCYUcAY4Z3r.png",
+					"url": "https://t.co/HMNqKbnxCS",
+					"display_url": "pic.twitter.com/HMNqKbnxCS",
+					"expanded_url": "https://twitter.com/hugorifkind/status/1486733736083292163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 641,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 769,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486733699294982100,
+					"id_str": "1486733699294982150",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHwbCYUcAY4Z3r.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHwbCYUcAY4Z3r.png",
+					"url": "https://t.co/HMNqKbnxCS",
+					"display_url": "pic.twitter.com/HMNqKbnxCS",
+					"expanded_url": "https://twitter.com/hugorifkind/status/1486733736083292163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 641,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 769,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20526449,
+			"id_str": "20526449",
+			"name": "Hugo Rifkind",
+			"screen_name": "hugorifkind",
+			"location": "",
+			"description": "I didn't write the headline, though.\n\nWriting @thetimes, talking @timesradio every Saturday, 10am -1pm",
+			"url": "https://t.co/Ic4C2Mm1Zm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ic4C2Mm1Zm",
+							"expanded_url": "https://www.thetimes.co.uk/profile/hugo-rifkind?page=1",
+							"display_url": "thetimes.co.uk/profile/hugo-r…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203178,
+			"friends_count": 1996,
+			"listed_count": 1458,
+			"created_at": "Tue Feb 10 17:05:12 +0000 2009",
+			"favourites_count": 21798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 79517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410674254648119296/qipFV34Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410674254648119296/qipFV34Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20526449/1467049091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7495,
+		"favorite_count": 22164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s Holocaust Memorial Day. This year, I’m thinking of a woman called Sulamita Szapiro. Here she is as a student. We weren’t related and I don’t even know much about her, but I’m pretty sure that remembering her still falls to me. This is a thread about why. https://t.co/HMNqKbnxCS"
+	},
+	{
 		"created_at": "Wed Jan 26 20:43:48 +0000 2022",
 		"id": 1486439753515999200,
 		"id_str": "1486439753515999241",
