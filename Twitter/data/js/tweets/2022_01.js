@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 12:12:37 +0000 2022",
+		"id": 1487014200933245000,
+		"id_str": "1487035883392049153",
+		"full_text": "I got the Spoook @SubstackInc up and running. If you don't know, Spoook is my little media organisation. On the Substack I'm writing about music (and wider pop culture) in a way I think music should be written about. You can subscribe for just £5 a month! https://t.co/JfSrEp49lk https://t.co/2Xvt1iZyzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SubstackInc",
+					"name": "Substack",
+					"id": 877295296828522500,
+					"id_str": "877295296828522496",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JfSrEp49lk",
+					"expanded_url": "http://Spoook.substack.com",
+					"display_url": "Spoook.substack.com",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1487014043021893600,
+					"id_str": "1487014043021893634",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLvZMJWYAIxkqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLvZMJWYAIxkqS.jpg",
+					"url": "https://t.co/2Xvt1iZyzf",
+					"display_url": "pic.twitter.com/2Xvt1iZyzf",
+					"expanded_url": "https://twitter.com/jamesjammcmahon/status/1487014200933244934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487014043021893600,
+					"id_str": "1487014043021893634",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLvZMJWYAIxkqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLvZMJWYAIxkqS.jpg",
+					"url": "https://t.co/2Xvt1iZyzf",
+					"display_url": "pic.twitter.com/2Xvt1iZyzf",
+					"expanded_url": "https://twitter.com/jamesjammcmahon/status/1487014200933244934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37943909,
+			"id_str": "37943909",
+			"name": "james mcmahon",
+			"screen_name": "jamesjammcmahon",
+			"location": "",
+			"description": "journalist. doncaster rovers football club. listen to my radio 4 documentary https://t.co/qJ39WO0zi3. and: https://t.co/wrgF47aMHp",
+			"url": "https://t.co/AuiPPYToos",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AuiPPYToos",
+							"expanded_url": "http://www.jamesjammcmahon.com",
+							"display_url": "jamesjammcmahon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ39WO0zi3",
+							"expanded_url": "https://www.bbc.co.uk/programmes/m0012pm5",
+							"display_url": "bbc.co.uk/programmes/m00…",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/wrgF47aMHp",
+							"expanded_url": "http://linktr.ee/jamesjammcmahon",
+							"display_url": "linktr.ee/jamesjammcmahon",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33588,
+			"friends_count": 4529,
+			"listed_count": 348,
+			"created_at": "Tue May 05 15:18:07 +0000 2009",
+			"favourites_count": 8110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461684144795262985/w52Of21i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461684144795262985/w52Of21i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37943909/1637327651",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I got the Spoook @SubstackInc up and running. If you don't know, Spoook is my little media organisation. On the Substack I'm writing about music (and wider pop culture) in a way I think music should be written about. You can subscribe for just £5 a month! https://t.co/JfSrEp49lk https://t.co/2Xvt1iZyzf"
+	},
+	{
+		"created_at": "Fri Jan 28 12:12:08 +0000 2022",
+		"id": 1487035764131209200,
+		"id_str": "1487035764131209219",
+		"full_text": "Heh. I just searched Twitter for \"Womanzaar\" and was heartened to see that I wasn't the only one.\n\nhttps://t.co/ibQ8wLGv4o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ibQ8wLGv4o",
+					"expanded_url": "https://twitter.com/theerrorloglady/status/5713791672",
+					"display_url": "twitter.com/theerrorloglad…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1487035648343224300,
+		"in_reply_to_status_id_str": "1487035648343224321",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71302,
+			"friends_count": 6995,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 32893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 5713791672,
+		"quoted_status_id_str": "5713791672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ibQ8wLGv4o",
+			"expanded": "https://twitter.com/theerrorloglady/status/5713791672",
+			"display": "twitter.com/theerrorloglad…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 14 17:38:04 +0000 2009",
+			"id": 5713791672,
+			"id_str": "5713791672",
+			"full_text": "@kariebookish @kirstenmarie for years I thought it was womanzaar (like a bazaar for women) cos I didn't understand the Southern accents :)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kariebookish",
+						"name": "Karie Westermann",
+						"id": 386445771,
+						"id_str": "386445771",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "kirstenmarie",
+						"name": "King KM",
+						"id": 15749219,
+						"id_str": "15749219",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 16382879,
+			"in_reply_to_user_id_str": "16382879",
+			"in_reply_to_screen_name": "karietweets",
+			"user": {
+				"id": 14882328,
+				"id_str": "14882328",
+				"name": "The Error Log Lady",
+				"screen_name": "theerrorloglady",
+				"location": "Oxford, UK",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 205,
+				"friends_count": 240,
+				"listed_count": 13,
+				"created_at": "Fri May 23 14:53:09 +0000 2008",
+				"favourites_count": 449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3317,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017848271602143233/k2lgRYd1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017848271602143233/k2lgRYd1_normal.jpg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heh. I just searched Twitter for \"Womanzaar\" and was heartened to see that I wasn't the only one.\n\nhttps://t.co/ibQ8wLGv4o"
+	},
+	{
+		"created_at": "Fri Jan 28 12:11:41 +0000 2022",
+		"id": 1487035648343224300,
+		"id_str": "1487035648343224321",
+		"full_text": "When I was little my mum would listen to Woman's Hour on the radio. But I never saw \"Woman's Hour\" written down until well into my teens, so thanks to plummy BBC pronounciation I spent most of my childhood thinking it was \"Womanzaar\". Whatever that is. What's that? Dunno.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71302,
+			"friends_count": 6995,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 32893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "When I was little my mum would listen to Woman's Hour on the radio. But I never saw \"Woman's Hour\" written down until well into my teens, so thanks to plummy BBC pronounciation I spent most of my childhood thinking it was \"Womanzaar\". Whatever that is. What's that? Dunno."
+	},
+	{
+		"created_at": "Fri Jan 28 10:18:23 +0000 2022",
+		"id": 1487007136110555100,
+		"id_str": "1487007136110555141",
+		"full_text": "@individual35837 @LevParikian HARD MODERN SIR, thanks very much",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "individual35837",
+					"name": "Someone - looking under the sofa for apes",
+					"id": 71211005,
+					"id_str": "71211005",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "LevParikian",
+					"name": "Lev Parikian",
+					"id": 29979762,
+					"id_str": "29979762",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1487003668570423300,
+		"in_reply_to_status_id_str": "1487003668570423298",
+		"in_reply_to_user_id": 71211005,
+		"in_reply_to_user_id_str": "71211005",
+		"in_reply_to_screen_name": "individual35837",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71302,
+			"friends_count": 6995,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 32893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@individual35837 @LevParikian HARD MODERN SIR, thanks very much"
+	},
+	{
+		"created_at": "Fri Jan 28 09:56:57 +0000 2022",
+		"id": 1487001745347776500,
+		"id_str": "1487001745347776513",
+		"full_text": "@AlexTheGeordie Damn. I love those guys.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexTheGeordie",
+					"name": "GeordieAlex",
+					"id": 751847423627100200,
+					"id_str": "751847423627100161",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1487001470767706000,
+		"in_reply_to_status_id_str": "1487001470767706112",
+		"in_reply_to_user_id": 751847423627100200,
+		"in_reply_to_user_id_str": "751847423627100161",
+		"in_reply_to_screen_name": "AlexTheGeordie",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71302,
+			"friends_count": 6995,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 32893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlexTheGeordie Damn. I love those guys."
+	},
+	{
 		"created_at": "Thu Jan 27 20:38:26 +0000 2022",
 		"id": 1486733736083292200,
 		"id_str": "1486800788580188165",
