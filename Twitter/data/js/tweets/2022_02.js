@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 17:30:22 +0000 2022",
+		"id": 1489290175578579000,
+		"id_str": "1489290175578578952",
+		"full_text": "Today, in a moment of acute self awareness, I realised that if I see someone accidentally dropping something on the street I will *always* make this noise and this face. https://t.co/r1BtEP1Uly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489290128052916200,
+					"id_str": "1489290128052916224",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489290128052916224/pu/img/XCiQUS_x9komLkEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489290128052916224/pu/img/XCiQUS_x9komLkEY.jpg",
+					"url": "https://t.co/r1BtEP1Uly",
+					"display_url": "pic.twitter.com/r1BtEP1Uly",
+					"expanded_url": "https://twitter.com/rhodri/status/1489290175578578952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489290128052916200,
+					"id_str": "1489290128052916224",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489290128052916224/pu/img/XCiQUS_x9komLkEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489290128052916224/pu/img/XCiQUS_x9komLkEY.jpg",
+					"url": "https://t.co/r1BtEP1Uly",
+					"display_url": "pic.twitter.com/r1BtEP1Uly",
+					"expanded_url": "https://twitter.com/rhodri/status/1489290175578578952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 2266,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489290128052916224/pu/vid/1280x720/VE2J0IdvhXO-mFRU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1489290128052916224/pu/pl/9jj2AN3NJEGG5ofn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489290128052916224/pu/vid/640x360/Z6gnlRKdWTTSVOSB.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489290128052916224/pu/vid/480x270/AlsaUcsq0XjARo4q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71357,
+			"friends_count": 7006,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 33103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, in a moment of acute self awareness, I realised that if I see someone accidentally dropping something on the street I will *always* make this noise and this face. https://t.co/r1BtEP1Uly"
+	},
+	{
+		"created_at": "Thu Feb 03 15:57:42 +0000 2022",
+		"id": 1489266858226339800,
+		"id_str": "1489266858226339840",
+		"full_text": "@AngelaWMiller Yeah! A couple of weeks ago!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AngelaWMiller",
+					"name": "Angela Miller",
+					"id": 65296750,
+					"id_str": "65296750",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1489262004858544000,
+		"in_reply_to_status_id_str": "1489262004858544128",
+		"in_reply_to_user_id": 65296750,
+		"in_reply_to_user_id_str": "65296750",
+		"in_reply_to_screen_name": "AngelaWMiller",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71357,
+			"friends_count": 7006,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 33103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AngelaWMiller Yeah! A couple of weeks ago!"
+	},
+	{
+		"created_at": "Thu Feb 03 12:23:43 +0000 2022",
+		"id": 1489213004285632500,
+		"id_str": "1489213004285632513",
+		"full_text": "@kt_grant It’s not even a rebate, it’s a loan. Gee-whiz.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kt_grant",
+					"name": "Katie Grant",
+					"id": 332831782,
+					"id_str": "332831782",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1489194685243568000,
+		"in_reply_to_status_id_str": "1489194685243568131",
+		"in_reply_to_user_id": 332831782,
+		"in_reply_to_user_id_str": "332831782",
+		"in_reply_to_screen_name": "kt_grant",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound (Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes.) Capable, reliable, pliable, available.",
+			"url": "https://t.co/aoc7DmVmLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aoc7DmVmLD",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71357,
+			"friends_count": 7006,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 33103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kt_grant It’s not even a rebate, it’s a loan. Gee-whiz."
+	},
+	{
 		"created_at": "Wed Feb 02 22:15:05 +0000 2022",
 		"id": 1488999440182653000,
 		"id_str": "1488999440182652936",
