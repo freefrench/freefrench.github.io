@@ -1,6 +1,770 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 18:00:44 +0000 2022",
+		"id": 1499444678818943000,
+		"id_str": "1499444678818942976",
+		"full_text": "I think I probably deserve one on the grounds of only being utterly incompetent every so often https://t.co/ZhecgqwND0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZhecgqwND0",
+					"expanded_url": "https://twitter.com/BBCPolitics/status/1499434294091132929",
+					"display_url": "twitter.com/BBCPolitics/st…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71460,
+			"friends_count": 7028,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 33685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499434294091133000,
+		"quoted_status_id_str": "1499434294091132929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZhecgqwND0",
+			"expanded": "https://twitter.com/BBCPolitics/status/1499434294091132929",
+			"display": "twitter.com/BBCPolitics/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 03 17:19:28 +0000 2022",
+			"id": 1499434294091133000,
+			"id_str": "1499434294091132929",
+			"full_text": "Former education secretary Gavin Williamson, who was sacked last year, to get knighthood\n\nhttps://t.co/DOGqEI5ltl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DOGqEI5ltl",
+						"expanded_url": "https://bit.ly/35Og8Ao",
+						"display_url": "bit.ly/35Og8Ao",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 621533,
+				"id_str": "621533",
+				"name": "BBC Politics",
+				"screen_name": "BBCPolitics",
+				"location": "London",
+				"description": "The best of the BBC's political coverage.",
+				"url": "https://t.co/Dxv8pB4tPc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dxv8pB4tPc",
+								"expanded_url": "http://www.bbc.co.uk/politics",
+								"display_url": "bbc.co.uk/politics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 872000,
+				"friends_count": 17,
+				"listed_count": 9834,
+				"created_at": "Wed Jan 10 12:34:33 +0000 2007",
+				"favourites_count": 32,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 113473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150756359497015298/xXj2IfkW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150756359497015298/xXj2IfkW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/621533/1637313525",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 217,
+			"favorite_count": 408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think I probably deserve one on the grounds of only being utterly incompetent every so often https://t.co/ZhecgqwND0"
+	},
+	{
+		"created_at": "Thu Mar 03 12:55:58 +0000 2022",
+		"id": 1499362816041656300,
+		"id_str": "1499367983466090504",
+		"full_text": "\"cute\" doing a lot of work here https://t.co/vOa3ttoeHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499362813181141000,
+					"id_str": "1499362813181141001",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7OiN0XoAkblUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM7OiN0XoAkblUn.jpg",
+					"url": "https://t.co/vOa3ttoeHt",
+					"display_url": "pic.twitter.com/vOa3ttoeHt",
+					"expanded_url": "https://twitter.com/scrapegroat/status/1499362816041656322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499362813181141000,
+					"id_str": "1499362813181141001",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7OiN0XoAkblUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM7OiN0XoAkblUn.jpg",
+					"url": "https://t.co/vOa3ttoeHt",
+					"display_url": "pic.twitter.com/vOa3ttoeHt",
+					"expanded_url": "https://twitter.com/scrapegroat/status/1499362816041656322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20555137,
+			"id_str": "20555137",
+			"name": "Nicola",
+			"screen_name": "scrapegroat",
+			"location": "",
+			"description": "I don't even know no loud crash",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7076,
+			"friends_count": 801,
+			"listed_count": 21,
+			"created_at": "Tue Feb 10 23:00:03 +0000 2009",
+			"favourites_count": 200955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1482674836451344390/8nQXB851_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482674836451344390/8nQXB851_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20555137/1525027155",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 380,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"cute\" doing a lot of work here https://t.co/vOa3ttoeHt"
+	},
+	{
+		"created_at": "Thu Mar 03 12:18:07 +0000 2022",
+		"id": 1499358456607912000,
+		"id_str": "1499358456607911936",
+		"full_text": "@icod https://t.co/AtgV1eKGZ6",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "icod",
+					"name": "iCod",
+					"id": 18605725,
+					"id_str": "18605725",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499358445358784500,
+					"id_str": "1499358445358784514",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7Kj-aXoAIT9ji.png",
+					"media_url_https": "https://pbs.twimg.com/media/FM7Kj-aXoAIT9ji.png",
+					"url": "https://t.co/AtgV1eKGZ6",
+					"display_url": "pic.twitter.com/AtgV1eKGZ6",
+					"expanded_url": "https://twitter.com/rhodri/status/1499358456607911936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499358445358784500,
+					"id_str": "1499358445358784514",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7Kj-aXoAIT9ji.png",
+					"media_url_https": "https://pbs.twimg.com/media/FM7Kj-aXoAIT9ji.png",
+					"url": "https://t.co/AtgV1eKGZ6",
+					"display_url": "pic.twitter.com/AtgV1eKGZ6",
+					"expanded_url": "https://twitter.com/rhodri/status/1499358456607911936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1499284849827405800,
+		"in_reply_to_status_id_str": "1499284849827405824",
+		"in_reply_to_user_id": 18605725,
+		"in_reply_to_user_id_str": "18605725",
+		"in_reply_to_screen_name": "icod",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71460,
+			"friends_count": 7028,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 33685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@icod https://t.co/AtgV1eKGZ6"
+	},
+	{
+		"created_at": "Thu Mar 03 11:34:32 +0000 2022",
+		"id": 1499347489874497500,
+		"id_str": "1499347489874497539",
+		"full_text": "@ooooopm @aquatimmy Uh, he went before the invasion. (See attached from his website.)\n\nI guess you watched his videos when he went to the Donbass, months ago, talking to normal people about their lives amid the conflict. I guess that was war tourism too? But you kept watching? Righty-ho. https://t.co/ZEUV92fjFq",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ooooopm",
+					"name": "Oisín P. Murphy",
+					"id": 2525757672,
+					"id_str": "2525757672",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "aquatimmy",
+					"name": "Timmy",
+					"id": 1486427551807557600,
+					"id_str": "1486427551807557636",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499347209225228300,
+					"id_str": "1499347209225228291",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7AV8jX0AMYy4B.png",
+					"media_url_https": "https://pbs.twimg.com/media/FM7AV8jX0AMYy4B.png",
+					"url": "https://t.co/ZEUV92fjFq",
+					"display_url": "pic.twitter.com/ZEUV92fjFq",
+					"expanded_url": "https://twitter.com/rhodri/status/1499347489874497539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 624,
+							"h": 275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499347209225228300,
+					"id_str": "1499347209225228291",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7AV8jX0AMYy4B.png",
+					"media_url_https": "https://pbs.twimg.com/media/FM7AV8jX0AMYy4B.png",
+					"url": "https://t.co/ZEUV92fjFq",
+					"display_url": "pic.twitter.com/ZEUV92fjFq",
+					"expanded_url": "https://twitter.com/rhodri/status/1499347489874497539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 624,
+							"h": 275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1499342225020436500,
+		"in_reply_to_status_id_str": "1499342225020436481",
+		"in_reply_to_user_id": 2525757672,
+		"in_reply_to_user_id_str": "2525757672",
+		"in_reply_to_screen_name": "ooooopm",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71460,
+			"friends_count": 7028,
+			"listed_count": 934,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 33685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ooooopm @aquatimmy Uh, he went before the invasion. (See attached from his website.)\n\nI guess you watched his videos when he went to the Donbass, months ago, talking to normal people about their lives amid the conflict. I guess that was war tourism too? But you kept watching? Righty-ho. https://t.co/ZEUV92fjFq"
+	},
+	{
 		"created_at": "Wed Mar 02 21:05:56 +0000 2022",
 		"id": 1499128900101845000,
 		"id_str": "1499128900101844992",
