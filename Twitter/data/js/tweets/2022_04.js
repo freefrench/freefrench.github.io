@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 11 17:35:05 +0000 2022",
+		"id": 1513571352413978600,
+		"id_str": "1513571352413978628",
+		"full_text": "@TheRhodri @PererinCymraeg Power to our elbows",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRhodri",
+					"name": "Rhodri",
+					"id": 1023165902941036500,
+					"id_str": "1023165902941036544",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PererinCymraeg",
+					"name": "Rhodri Williams",
+					"id": 312947097,
+					"id_str": "312947097",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1513569430344806400,
+		"in_reply_to_status_id_str": "1513569430344806403",
+		"in_reply_to_user_id": 1023165902941036500,
+		"in_reply_to_user_id_str": "1023165902941036544",
+		"in_reply_to_screen_name": "TheRhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71643,
+			"friends_count": 7044,
+			"listed_count": 932,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 34531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheRhodri @PererinCymraeg Power to our elbows"
+	},
+	{
+		"created_at": "Mon Apr 11 13:22:12 +0000 2022",
+		"id": 1513507710347919400,
+		"id_str": "1513507710347919360",
+		"full_text": "@SwimmersJackson @CitizenMeh @KenSweeney TBH I don't really know why I'm defending gigs in London, where I have certainly had some of the most appalling evenings of my life surrounded by utter wankers. I forgot about those ones, I guess.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwimmersJackson",
+					"name": "Swimmers Jackson",
+					"id": 198119119,
+					"id_str": "198119119",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "CitizenMeh",
+					"name": "Nie mój cyrk, nie moje małpy 🇺🇦🇺🇦🇺🇦",
+					"id": 20615578,
+					"id_str": "20615578",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "KenSweeney",
+					"name": "Ken Sweeney",
+					"id": 20935326,
+					"id_str": "20935326",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1513501745736994800,
+		"in_reply_to_status_id_str": "1513501745736994819",
+		"in_reply_to_user_id": 198119119,
+		"in_reply_to_user_id_str": "198119119",
+		"in_reply_to_screen_name": "SwimmersJackson",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71643,
+			"friends_count": 7044,
+			"listed_count": 932,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 34531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SwimmersJackson @CitizenMeh @KenSweeney TBH I don't really know why I'm defending gigs in London, where I have certainly had some of the most appalling evenings of my life surrounded by utter wankers. I forgot about those ones, I guess."
+	},
+	{
+		"created_at": "Mon Apr 11 12:27:09 +0000 2022",
+		"id": 1513493857228497000,
+		"id_str": "1513493857228496896",
+		"full_text": "@SwimmersJackson @KenSweeney I love playing in Ireland, but I don’t think it’s fair to dismiss London audiences as being nonchalant eyebrow-raisers. Had countless experiences in London crowds where everyone has lost their collective shit",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwimmersJackson",
+					"name": "Swimmers Jackson",
+					"id": 198119119,
+					"id_str": "198119119",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "KenSweeney",
+					"name": "Ken Sweeney",
+					"id": 20935326,
+					"id_str": "20935326",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513448834554339300,
+		"in_reply_to_status_id_str": "1513448834554339330",
+		"in_reply_to_user_id": 198119119,
+		"in_reply_to_user_id_str": "198119119",
+		"in_reply_to_screen_name": "SwimmersJackson",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71643,
+			"friends_count": 7044,
+			"listed_count": 932,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 34531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SwimmersJackson @KenSweeney I love playing in Ireland, but I don’t think it’s fair to dismiss London audiences as being nonchalant eyebrow-raisers. Had countless experiences in London crowds where everyone has lost their collective shit"
+	},
+	{
 		"created_at": "Sun Apr 10 02:14:57 +0000 2022",
 		"id": 1512977403831894000,
 		"id_str": "1512977403831894021",
