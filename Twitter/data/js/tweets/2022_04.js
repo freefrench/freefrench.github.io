@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 12:16:04 +0000 2022",
+		"id": 1514881852171038700,
+		"id_str": "1514940621122908173",
+		"full_text": "Same joke every Easter https://t.co/ae0hp36gbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514881848270336000,
+					"id_str": "1514881848270336002",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FQXxA8rXMAIVlHq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQXxA8rXMAIVlHq.jpg",
+					"url": "https://t.co/ae0hp36gbB",
+					"display_url": "pic.twitter.com/ae0hp36gbB",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1514881852171038726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514881848270336000,
+					"id_str": "1514881848270336002",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FQXxA8rXMAIVlHq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQXxA8rXMAIVlHq.jpg",
+					"url": "https://t.co/ae0hp36gbB",
+					"display_url": "pic.twitter.com/ae0hp36gbB",
+					"expanded_url": "https://twitter.com/mick_sheridan/status/1514881852171038726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 594682319,
+			"id_str": "594682319",
+			"name": "M S Upholstery",
+			"screen_name": "mick_sheridan",
+			"location": "Llangadog, Wales.",
+			"description": "Reupholstery - specialist in Welsh/British wool fabrics. And yes, I'm also the Guerrilla Upholsterer. Exiled LTFC fan.",
+			"url": "https://t.co/51ZWrC9Sx1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/51ZWrC9Sx1",
+							"expanded_url": "http://msupholstery.blogspot.com",
+							"display_url": "msupholstery.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 970,
+			"friends_count": 105,
+			"listed_count": 12,
+			"created_at": "Wed May 30 15:36:38 +0000 2012",
+			"favourites_count": 3790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2369698347/fy4lwbzxrm7r3m2x7137_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2369698347/fy4lwbzxrm7r3m2x7137_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594682319/1365510950",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Same joke every Easter https://t.co/ae0hp36gbB"
+	},
+	{
 		"created_at": "Thu Apr 14 19:46:26 +0000 2022",
 		"id": 1514691570460774400,
 		"id_str": "1514691570460774410",
