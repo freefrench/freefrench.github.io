@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 19:00:27 +0000 2022",
+		"id": 1517579100948418600,
+		"id_str": "1517579100948418560",
+		"full_text": "@victorianclare I was given it as a gift and it's marvellous.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "victorianclare",
+					"name": "Dr Clare Clarke",
+					"id": 276644113,
+					"id_str": "276644113",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517578395986636800,
+		"in_reply_to_status_id_str": "1517578395986636801",
+		"in_reply_to_user_id": 276644113,
+		"in_reply_to_user_id_str": "276644113",
+		"in_reply_to_screen_name": "victorianclare",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71670,
+			"friends_count": 7050,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 34675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@victorianclare I was given it as a gift and it's marvellous."
+	},
+	{
+		"created_at": "Fri Apr 22 19:00:07 +0000 2022",
+		"id": 1517579016995225600,
+		"id_str": "1517579016995225604",
+		"full_text": "@DrAndrewV2 @DrWilkinsonSci https://t.co/1BfttR5UBO",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrAndrewV2",
+					"name": "Jenny Andrew",
+					"id": 134506643,
+					"id_str": "134506643",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DrWilkinsonSci",
+					"name": "Bill Wilkinson 🌈",
+					"id": 1857710880,
+					"id_str": "1857710880",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517579008724066300,
+					"id_str": "1517579008724066305",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ-GEWWWYAEkHDe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQ-GEWWWYAEkHDe.png",
+					"url": "https://t.co/1BfttR5UBO",
+					"display_url": "pic.twitter.com/1BfttR5UBO",
+					"expanded_url": "https://twitter.com/rhodri/status/1517579016995225604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517579008724066300,
+					"id_str": "1517579008724066305",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ-GEWWWYAEkHDe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQ-GEWWWYAEkHDe.png",
+					"url": "https://t.co/1BfttR5UBO",
+					"display_url": "pic.twitter.com/1BfttR5UBO",
+					"expanded_url": "https://twitter.com/rhodri/status/1517579016995225604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517578727663841300,
+		"in_reply_to_status_id_str": "1517578727663841281",
+		"in_reply_to_user_id": 134506643,
+		"in_reply_to_user_id_str": "134506643",
+		"in_reply_to_screen_name": "DrAndrewV2",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71670,
+			"friends_count": 7050,
+			"listed_count": 931,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 34675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@DrAndrewV2 @DrWilkinsonSci https://t.co/1BfttR5UBO"
+	},
+	{
 		"created_at": "Thu Apr 21 18:57:37 +0000 2022",
 		"id": 1517215997794652200,
 		"id_str": "1517215997794652160",
