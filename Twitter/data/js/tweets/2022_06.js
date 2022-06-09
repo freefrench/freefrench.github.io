@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 18:53:42 +0000 2022",
+		"id": 1534592363020136400,
+		"id_str": "1534609629577191425",
+		"full_text": "Big fan of this https://t.co/C6frPcUBlT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534592358947356700,
+					"id_str": "1534592358947356673",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FUv3nq4WAAEjfI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUv3nq4WAAEjfI7.jpg",
+					"url": "https://t.co/C6frPcUBlT",
+					"display_url": "pic.twitter.com/C6frPcUBlT",
+					"expanded_url": "https://twitter.com/twlldun/status/1534592363020136450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 966,
+							"h": 1214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534592358947356700,
+					"id_str": "1534592358947356673",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FUv3nq4WAAEjfI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUv3nq4WAAEjfI7.jpg",
+					"url": "https://t.co/C6frPcUBlT",
+					"display_url": "pic.twitter.com/C6frPcUBlT",
+					"expanded_url": "https://twitter.com/twlldun/status/1534592363020136450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 966,
+							"h": 1214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2399687505,
+			"id_str": "2399687505",
+			"name": ".",
+			"screen_name": "twlldun",
+			"location": "",
+			"description": "You may think this is suffering. No. This is salvation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37430,
+			"friends_count": 2004,
+			"listed_count": 246,
+			"created_at": "Mon Mar 10 15:17:04 +0000 2014",
+			"favourites_count": 314715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 195665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497127034451025926/59HSDw7i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497127034451025926/59HSDw7i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2399687505/1580798438",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big fan of this https://t.co/C6frPcUBlT"
+	},
+	{
+		"created_at": "Wed Jun 08 17:03:16 +0000 2022",
+		"id": 1534578905939644400,
+		"id_str": "1534581842069921792",
+		"full_text": "I don’t think any election result in a couple of years will give as much satisfaction as everyone he’s hurt being allowed to queue politely to hoof the man hard in the nuts. Can this be arranged? Otherwise are we even a democracy?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24856916,
+			"id_str": "24856916",
+			"name": "Joel Morris",
+			"screen_name": "gralefrit",
+			"location": "",
+			"description": "Writer and highwayman Representation: United Agents (TV, film, radio, games) Johnson & Alcock (books) Turpin & Ferrers (highway robbery)",
+			"url": "https://t.co/1yyyCyxMxy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1yyyCyxMxy",
+							"expanded_url": "https://pod.link/1614879928",
+							"display_url": "pod.link/1614879928",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10844,
+			"friends_count": 996,
+			"listed_count": 70,
+			"created_at": "Tue Mar 17 08:30:06 +0000 2009",
+			"favourites_count": 63340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223549565401477120/G8Z5tVHl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223549565401477120/G8Z5tVHl_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 113,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I don’t think any election result in a couple of years will give as much satisfaction as everyone he’s hurt being allowed to queue politely to hoof the man hard in the nuts. Can this be arranged? Otherwise are we even a democracy?"
+	},
+	{
 		"created_at": "Tue Jun 07 18:50:51 +0000 2022",
 		"id": 1534246524670169000,
 		"id_str": "1534246524670169091",
