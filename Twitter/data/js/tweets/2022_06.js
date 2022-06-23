@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 20:11:51 +0000 2022",
+		"id": 1539505102779781000,
+		"id_str": "1539702729026715651",
+		"full_text": "Happy birthday to Green Gartside. Here's a remarkable video for Scritti Politti's P.A.s filmed at their Carol Street squat in 1979. The full recording including footage of them assembling sleeves for their Peel Session EP is at https://t.co/9G8KAihCib https://t.co/R366DYSaPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9G8KAihCib",
+					"expanded_url": "https://youtu.be/fn4HC2Dfm_k",
+					"display_url": "youtu.be/fn4HC2Dfm_k",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539504560351461400,
+					"id_str": "1539504560351461376",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539504560351461376/pu/img/QGAS0vqzh20pgJIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539504560351461376/pu/img/QGAS0vqzh20pgJIb.jpg",
+					"url": "https://t.co/R366DYSaPf",
+					"display_url": "pic.twitter.com/R366DYSaPf",
+					"expanded_url": "https://twitter.com/Birmingham_81/status/1539505102779781121/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539504560351461400,
+					"id_str": "1539504560351461376",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539504560351461376/pu/img/QGAS0vqzh20pgJIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539504560351461376/pu/img/QGAS0vqzh20pgJIb.jpg",
+					"url": "https://t.co/R366DYSaPf",
+					"display_url": "pic.twitter.com/R366DYSaPf",
+					"expanded_url": "https://twitter.com/Birmingham_81/status/1539505102779781121/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139880,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539504560351461376/pu/pl/T6hZmB5ybp9d-CKs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539504560351461376/pu/vid/640x360/aA9W06TFhzhqDTKg.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539504560351461376/pu/vid/480x270/MnSsHFJC5MWB64ga.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539504560351461376/pu/vid/960x540/Vg_UCatCUpwwJJpi.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4875035645,
+			"id_str": "4875035645",
+			"name": "Birmingham 81",
+			"screen_name": "Birmingham_81",
+			"location": "London / Deal",
+			"description": "Music, architecture, photography, design etc. Sharing my concert photos taken in Birmingham in 81/82 (hence the name). Plus other stuff I've hoarded",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26667,
+			"friends_count": 1450,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 22:12:41 +0000 2016",
+			"favourites_count": 82623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802468048607309826/dT8ZjAwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802468048607309826/dT8ZjAwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4875035645/1497610316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday to Green Gartside. Here's a remarkable video for Scritti Politti's P.A.s filmed at their Carol Street squat in 1979. The full recording including footage of them assembling sleeves for their Peel Session EP is at https://t.co/9G8KAihCib https://t.co/R366DYSaPf"
+	},
+	{
+		"created_at": "Wed Jun 22 19:08:19 +0000 2022",
+		"id": 1539686741589762000,
+		"id_str": "1539686741589762052",
+		"full_text": "A pal of mine on FB has had the idea of Muppet Jesus Christ Superstar. \"It's perfect. Judas can be a human playing it completely straight, but all the others are muppets. Kermit and Miss Piggy as Jesus and Mary Magdalene.\" Why has this not happened? I have mocked up the enclosed. https://t.co/634wChsCls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539686622576447500,
+					"id_str": "1539686622576447490",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539686622576447490/pu/img/MgKevPq672FRYE8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539686622576447490/pu/img/MgKevPq672FRYE8H.jpg",
+					"url": "https://t.co/634wChsCls",
+					"display_url": "pic.twitter.com/634wChsCls",
+					"expanded_url": "https://twitter.com/rhodri/status/1539686741589762052/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539686622576447500,
+					"id_str": "1539686622576447490",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539686622576447490/pu/img/MgKevPq672FRYE8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539686622576447490/pu/img/MgKevPq672FRYE8H.jpg",
+					"url": "https://t.co/634wChsCls",
+					"display_url": "pic.twitter.com/634wChsCls",
+					"expanded_url": "https://twitter.com/rhodri/status/1539686741589762052/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25483,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539686622576447490/pu/pl/e0jwzxU3Cbw_26tl.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539686622576447490/pu/vid/640x360/BMvytE8K8U3YUH6W.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539686622576447490/pu/vid/1280x720/gXqxMKUh4EjAR4g3.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539686622576447490/pu/vid/480x270/coAjaNV2QSHjOxgv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71798,
+			"friends_count": 7085,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A pal of mine on FB has had the idea of Muppet Jesus Christ Superstar. \"It's perfect. Judas can be a human playing it completely straight, but all the others are muppets. Kermit and Miss Piggy as Jesus and Mary Magdalene.\" Why has this not happened? I have mocked up the enclosed. https://t.co/634wChsCls"
+	},
+	{
 		"created_at": "Sun Jun 19 18:07:46 +0000 2022",
 		"id": 1538584339193204700,
 		"id_str": "1538584339193204736",
