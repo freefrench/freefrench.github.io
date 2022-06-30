@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 19:31:15 +0000 2022",
+		"id": 1542229225327018000,
+		"id_str": "1542229225327017985",
+		"full_text": "I didn’t know that David Bowie narrated Peter and The Wolf - played by the Philadelphia Orchestra - but I do now, and I’m loving it.\n\nhttps://t.co/Gi3EEas5up",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gi3EEas5up",
+					"expanded_url": "https://youtu.be/9vr4JRbz8Yg",
+					"display_url": "youtu.be/9vr4JRbz8Yg",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71804,
+			"friends_count": 7097,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I didn’t know that David Bowie narrated Peter and The Wolf - played by the Philadelphia Orchestra - but I do now, and I’m loving it.\n\nhttps://t.co/Gi3EEas5up"
+	},
+	{
+		"created_at": "Wed Jun 29 19:22:15 +0000 2022",
+		"id": 1542226963426951200,
+		"id_str": "1542226963426951169",
+		"full_text": "@robmanuel Rob! How could you?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robmanuel",
+					"name": "Rob Manuel 🧻",
+					"id": 2285051,
+					"id_str": "2285051",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1542216898925977600,
+		"in_reply_to_status_id_str": "1542216898925977603",
+		"in_reply_to_user_id": 2285051,
+		"in_reply_to_user_id_str": "2285051",
+		"in_reply_to_screen_name": "robmanuel",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71804,
+			"friends_count": 7097,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robmanuel Rob! How could you?"
+	},
+	{
+		"created_at": "Wed Jun 29 19:21:59 +0000 2022",
+		"id": 1542226895202304000,
+		"id_str": "1542226895202304001",
+		"full_text": "@jdyubergeek I saw an amazing video the other day of a guy who was literally just standing in front of a table with nothing on it, pretending to DJ",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jdyubergeek",
+					"name": "James Young",
+					"id": 21778906,
+					"id_str": "21778906",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1542220614592757800,
+		"in_reply_to_status_id_str": "1542220614592757761",
+		"in_reply_to_user_id": 21778906,
+		"in_reply_to_user_id_str": "21778906",
+		"in_reply_to_screen_name": "jdyubergeek",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71804,
+			"friends_count": 7097,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jdyubergeek I saw an amazing video the other day of a guy who was literally just standing in front of a table with nothing on it, pretending to DJ"
+	},
+	{
+		"created_at": "Wed Jun 29 18:35:07 +0000 2022",
+		"id": 1542215102031712300,
+		"id_str": "1542215102031712256",
+		"full_text": "For some reason I get shown lots of videos on Facebook of stereotypically attractive people DJing with a hand affixed to a non-moving fader or knob, and I kind of wish they’d just sit down and stop pretending to do something. https://t.co/8f9cvnXFsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542215097535406000,
+					"id_str": "1542215097535406080",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FWcMdc_XoAAsdZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWcMdc_XoAAsdZy.jpg",
+					"url": "https://t.co/8f9cvnXFsr",
+					"display_url": "pic.twitter.com/8f9cvnXFsr",
+					"expanded_url": "https://twitter.com/rhodri/status/1542215102031712256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 865,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542215097535406000,
+					"id_str": "1542215097535406080",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FWcMdc_XoAAsdZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWcMdc_XoAAsdZy.jpg",
+					"url": "https://t.co/8f9cvnXFsr",
+					"display_url": "pic.twitter.com/8f9cvnXFsr",
+					"expanded_url": "https://twitter.com/rhodri/status/1542215102031712256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 865,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71804,
+			"friends_count": 7097,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For some reason I get shown lots of videos on Facebook of stereotypically attractive people DJing with a hand affixed to a non-moving fader or knob, and I kind of wish they’d just sit down and stop pretending to do something. https://t.co/8f9cvnXFsr"
+	},
+	{
 		"created_at": "Mon Jun 27 13:37:01 +0000 2022",
 		"id": 1541415306458972200,
 		"id_str": "1541415306458972161",
