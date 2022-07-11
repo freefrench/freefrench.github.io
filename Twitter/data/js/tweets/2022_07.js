@@ -1,6 +1,1084 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 10 19:31:47 +0000 2022",
+		"id": 1546215628205424600,
+		"id_str": "1546215628205424640",
+		"full_text": "@HannanCade We will be doing London too, around the same time, with the Mekons, hopefully, TBC.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HannanCade",
+					"name": "John B Good",
+					"id": 967638506,
+					"id_str": "967638506",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546215100658368500,
+		"in_reply_to_status_id_str": "1546215100658368512",
+		"in_reply_to_user_id": 967638506,
+		"in_reply_to_user_id_str": "967638506",
+		"in_reply_to_screen_name": "HannanCade",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71974,
+			"friends_count": 7108,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HannanCade We will be doing London too, around the same time, with the Mekons, hopefully, TBC."
+	},
+	{
+		"created_at": "Sun Jul 10 19:29:09 +0000 2022",
+		"id": 1546214964930789400,
+		"id_str": "1546214964930789376",
+		"full_text": "@rivermanrecords “Make one up!”",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rivermanrecords",
+					"name": "riverman records",
+					"id": 1159929969423868000,
+					"id_str": "1159929969423867905",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546213099849617400,
+		"in_reply_to_status_id_str": "1546213099849617408",
+		"in_reply_to_user_id": 1159929969423868000,
+		"in_reply_to_user_id_str": "1159929969423867905",
+		"in_reply_to_screen_name": "rivermanrecords",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71974,
+			"friends_count": 7108,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rivermanrecords “Make one up!”"
+	},
+	{
+		"created_at": "Sun Jul 10 18:40:46 +0000 2022",
+		"id": 1546202786697826300,
+		"id_str": "1546202786697826310",
+		"full_text": "It’s too hot to sleep, isn’t it, Ivor. https://t.co/3m2Jaj99IN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546202781119398000,
+					"id_str": "1546202781119397888",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FXU3PL9XwAAdanR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXU3PL9XwAAdanR.jpg",
+					"url": "https://t.co/3m2Jaj99IN",
+					"display_url": "pic.twitter.com/3m2Jaj99IN",
+					"expanded_url": "https://twitter.com/rhodri/status/1546202786697826310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546202781119398000,
+					"id_str": "1546202781119397888",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FXU3PL9XwAAdanR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXU3PL9XwAAdanR.jpg",
+					"url": "https://t.co/3m2Jaj99IN",
+					"display_url": "pic.twitter.com/3m2Jaj99IN",
+					"expanded_url": "https://twitter.com/rhodri/status/1546202786697826310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71974,
+			"friends_count": 7108,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 470,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s too hot to sleep, isn’t it, Ivor. https://t.co/3m2Jaj99IN"
+	},
+	{
+		"created_at": "Sun Jul 10 18:39:49 +0000 2022",
+		"id": 1546202547890823200,
+		"id_str": "1546202547890823174",
+		"full_text": "@Palmer1966Tre I don’t think we can pull all of that early stuff together but there will be things we’ve never played before.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Palmer1966Tre",
+					"name": "Trevor Palmer",
+					"id": 3361279810,
+					"id_str": "3361279810",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546202317749371000,
+		"in_reply_to_status_id_str": "1546202317749370883",
+		"in_reply_to_user_id": 3361279810,
+		"in_reply_to_user_id_str": "3361279810",
+		"in_reply_to_screen_name": "Palmer1966Tre",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71974,
+			"friends_count": 7108,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Palmer1966Tre I don’t think we can pull all of that early stuff together but there will be things we’ve never played before."
+	},
+	{
+		"created_at": "Sun Jul 10 18:35:40 +0000 2022",
+		"id": 1546201506533220400,
+		"id_str": "1546201506533220352",
+		"full_text": "I don’t think we’ll be playing this, but I wouldn’t mind if we did,\n\nhttps://t.co/8dnovnM6Vo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8dnovnM6Vo",
+					"expanded_url": "https://youtu.be/dSLIDlCdmuI",
+					"display_url": "youtu.be/dSLIDlCdmuI",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546200374645866500,
+		"in_reply_to_status_id_str": "1546200374645866497",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71974,
+			"friends_count": 7108,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t think we’ll be playing this, but I wouldn’t mind if we did,\n\nhttps://t.co/8dnovnM6Vo"
+	},
+	{
+		"created_at": "Sun Jul 10 18:31:10 +0000 2022",
+		"id": 1546200374645866500,
+		"id_str": "1546200374645866497",
+		"full_text": "Yarp. Scritti Politti will indeed be playing some Extremely Old Material at this gig in Leeds with the Mekons in October. https://t.co/6W7gqInOdM https://t.co/4KFDZH6IUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6W7gqInOdM",
+					"expanded_url": "http://www.brudenellsocialclub.co.uk/whats-on/scritti-politti-x-mekons/",
+					"display_url": "brudenellsocialclub.co.uk/whats-on/scrit…",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/4KFDZH6IUF",
+					"expanded_url": "https://twitter.com/palmer1966tre/status/1546042584316903424",
+					"display_url": "twitter.com/palmer1966tre/…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Emit sound: Scritti Politti, Kenny Process Team, Lost Crowns, Dream Themes. Valuable, reliable, affable, available.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71974,
+			"friends_count": 7108,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1546042584316903400,
+		"quoted_status_id_str": "1546042584316903424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4KFDZH6IUF",
+			"expanded": "https://twitter.com/palmer1966tre/status/1546042584316903424",
+			"display": "twitter.com/palmer1966tre/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 10 08:04:10 +0000 2022",
+			"id": 1546042584316903400,
+			"id_str": "1546042584316903424",
+			"full_text": "@DonkinGerardo @AffrenchFfrench @heavenandthesea @showbizwhines1 @ItaloBritNYC @robforster61 @burt_cdburt @JayneMoobs @dickidot09 @cardinalcanary @EdHodgson @biiilyedwards @philk282 @jnanagarbha @djexplain @Charles30181053 @Golfyfun @DazzyJef @WallyTBM Hey Leeds people and beyond - just booked Scritti and Mekons at Brudenell. Get in quick!!! https://t.co/B11iaHITg4",
+			"truncated": false,
+			"display_text_range": [
+				253,
+				343
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DonkinGerardo",
+						"name": "Gerardo Joseph Joseph",
+						"id": 1259574711723405300,
+						"id_str": "1259574711723405314",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "AffrenchFfrench",
+						"name": "Andrew Ffrench",
+						"id": 3109630593,
+						"id_str": "3109630593",
+						"indices": [
+							15,
+							31
+						]
+					},
+					{
+						"screen_name": "heavenandthesea",
+						"name": "Simon_Torchomatic",
+						"id": 743282847746764800,
+						"id_str": "743282847746764800",
+						"indices": [
+							32,
+							48
+						]
+					},
+					{
+						"screen_name": "showbizwhines1",
+						"name": "showbizwhines 💙👕🇺🇦",
+						"id": 1288778917822836700,
+						"id_str": "1288778917822836736",
+						"indices": [
+							49,
+							64
+						]
+					},
+					{
+						"screen_name": "ItaloBritNYC",
+						"name": "Davide",
+						"id": 741599878564974600,
+						"id_str": "741599878564974592",
+						"indices": [
+							65,
+							78
+						]
+					},
+					{
+						"screen_name": "robforster61",
+						"name": "rob forster",
+						"id": 2176152328,
+						"id_str": "2176152328",
+						"indices": [
+							79,
+							92
+						]
+					},
+					{
+						"screen_name": "burt_cdburt",
+						"name": "Colin Burt",
+						"id": 2916509350,
+						"id_str": "2916509350",
+						"indices": [
+							93,
+							105
+						]
+					},
+					{
+						"screen_name": "JayneMoobs",
+						"name": "Jayne Moorby",
+						"id": 571636011,
+						"id_str": "571636011",
+						"indices": [
+							106,
+							117
+						]
+					},
+					{
+						"screen_name": "dickidot09",
+						"name": "Richard Watson",
+						"id": 911293709601394700,
+						"id_str": "911293709601394688",
+						"indices": [
+							118,
+							129
+						]
+					},
+					{
+						"screen_name": "cardinalcanary",
+						"name": "Stephen Carter",
+						"id": 729273052534558700,
+						"id_str": "729273052534558720",
+						"indices": [
+							130,
+							145
+						]
+					},
+					{
+						"screen_name": "EdHodgson",
+						"name": "Ed Hodgson",
+						"id": 397187503,
+						"id_str": "397187503",
+						"indices": [
+							146,
+							156
+						]
+					},
+					{
+						"screen_name": "biiilyedwards",
+						"name": "Billy Edwards",
+						"id": 1046365363808731100,
+						"id_str": "1046365363808731137",
+						"indices": [
+							157,
+							171
+						]
+					},
+					{
+						"screen_name": "philk282",
+						"name": "Phil282",
+						"id": 1182795997,
+						"id_str": "1182795997",
+						"indices": [
+							172,
+							181
+						]
+					},
+					{
+						"screen_name": "jnanagarbha",
+						"name": "jnanagarbha / ash",
+						"id": 16052859,
+						"id_str": "16052859",
+						"indices": [
+							182,
+							194
+						]
+					},
+					{
+						"screen_name": "djexplain",
+						"name": "DJ Explain",
+						"id": 885762373251985400,
+						"id_str": "885762373251985409",
+						"indices": [
+							195,
+							205
+						]
+					},
+					{
+						"screen_name": "Charles30181053",
+						"name": "Charles David Taylor",
+						"id": 1212703020619726800,
+						"id_str": "1212703020619726849",
+						"indices": [
+							206,
+							222
+						]
+					},
+					{
+						"screen_name": "Golfyfun",
+						"name": "Vince Williams🇦🇺🇪🇺💿",
+						"id": 1193522670694027300,
+						"id_str": "1193522670694027264",
+						"indices": [
+							223,
+							232
+						]
+					},
+					{
+						"screen_name": "DazzyJef",
+						"name": "Darren Sifton",
+						"id": 365989330,
+						"id_str": "365989330",
+						"indices": [
+							233,
+							242
+						]
+					},
+					{
+						"screen_name": "WallyTBM",
+						"name": "WallyTBM",
+						"id": 716388234,
+						"id_str": "716388234",
+						"indices": [
+							243,
+							252
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1546042432961273900,
+						"id_str": "1546042432961273856",
+						"indices": [
+							344,
+							367
+						],
+						"media_url": "http://pbs.twimg.com/media/FXSlZshWYAACIG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXSlZshWYAACIG2.jpg",
+						"url": "https://t.co/B11iaHITg4",
+						"display_url": "pic.twitter.com/B11iaHITg4",
+						"expanded_url": "https://twitter.com/Palmer1966Tre/status/1546042584316903424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 542,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1612,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 307,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1546042432961273900,
+						"id_str": "1546042432961273856",
+						"indices": [
+							344,
+							367
+						],
+						"media_url": "http://pbs.twimg.com/media/FXSlZshWYAACIG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXSlZshWYAACIG2.jpg",
+						"url": "https://t.co/B11iaHITg4",
+						"display_url": "pic.twitter.com/B11iaHITg4",
+						"expanded_url": "https://twitter.com/Palmer1966Tre/status/1546042584316903424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 542,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1612,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 307,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1545678043632615400,
+			"in_reply_to_status_id_str": "1545678043632615424",
+			"in_reply_to_user_id": 1259574711723405300,
+			"in_reply_to_user_id_str": "1259574711723405314",
+			"in_reply_to_screen_name": "DonkinGerardo",
+			"user": {
+				"id": 3361279810,
+				"id_str": "3361279810",
+				"name": "Trevor Palmer",
+				"screen_name": "Palmer1966Tre",
+				"location": "Skipton, England",
+				"description": "Londoner in Yorkshire.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 281,
+				"friends_count": 415,
+				"listed_count": 0,
+				"created_at": "Sun Jul 05 20:30:09 +0000 2015",
+				"favourites_count": 24716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12904,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477233603780227073/jM2oNhyE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477233603780227073/jM2oNhyE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3361279810/1641034911",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yarp. Scritti Politti will indeed be playing some Extremely Old Material at this gig in Leeds with the Mekons in October. https://t.co/6W7gqInOdM https://t.co/4KFDZH6IUF"
+	},
+	{
 		"created_at": "Sat Jul 09 07:28:35 +0000 2022",
 		"id": 1545671239431344000,
 		"id_str": "1545671239431344129",
