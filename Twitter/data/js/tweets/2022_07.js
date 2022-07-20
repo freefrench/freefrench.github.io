@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 11:17:29 +0000 2022",
+		"id": 1549352721723039700,
+		"id_str": "1549352721723039747",
+		"full_text": "@samnarr hey Sam, do you do press for Suri? Can you follow me if so? ta.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samnarr",
+					"name": "sam narr",
+					"id": 297667505,
+					"id_str": "297667505",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 297667505,
+		"in_reply_to_user_id_str": "297667505",
+		"in_reply_to_screen_name": "samnarr",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71980,
+			"friends_count": 7110,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@samnarr hey Sam, do you do press for Suri? Can you follow me if so? ta."
+	},
+	{
+		"created_at": "Tue Jul 19 08:53:33 +0000 2022",
+		"id": 1549316502393847800,
+		"id_str": "1549316502393847808",
+		"full_text": "@AaronCupboard1 @InstituteMiles @Scientits Maybe we can get in touch with the guy and let him know.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AaronCupboard1",
+					"name": "Aaron Cupboard",
+					"id": 485581568,
+					"id_str": "485581568",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "InstituteMiles",
+					"name": "El Instituto",
+					"id": 1242400350973440000,
+					"id_str": "1242400350973440000",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "Scientits",
+					"name": "Tits McGee",
+					"id": 19550262,
+					"id_str": "19550262",
+					"indices": [
+						32,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549312607089197000,
+		"in_reply_to_status_id_str": "1549312607089197057",
+		"in_reply_to_user_id": 485581568,
+		"in_reply_to_user_id_str": "485581568",
+		"in_reply_to_screen_name": "AaronCupboard1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71980,
+			"friends_count": 7110,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AaronCupboard1 @InstituteMiles @Scientits Maybe we can get in touch with the guy and let him know."
+	},
+	{
+		"created_at": "Tue Jul 19 07:50:19 +0000 2022",
+		"id": 1549295866460180500,
+		"id_str": "1549300587115823105",
+		"full_text": "@rhodri A guy at my work got an air conditioning unit and put it in his bedroom on the weekend, then went out. Unfortunately that's where the thermostat is, so he came back to a cool bedroom but all the radiators on full blast everywhere else in the house.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549125031594266600,
+		"in_reply_to_status_id_str": "1549125031594266625",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1242400350973440000,
+			"id_str": "1242400350973440000",
+			"name": "El Instituto",
+			"screen_name": "InstituteMiles",
+			"location": "",
+			"description": "Residente de El Paso en La Palma. Harlequins, cerveza y otro disparates.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 192,
+			"listed_count": 0,
+			"created_at": "Tue Mar 24 10:38:31 +0000 2020",
+			"favourites_count": 18031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524748467108646916/E9r8Crxa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524748467108646916/E9r8Crxa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1242400350973440000/1602254716",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 216,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@rhodri A guy at my work got an air conditioning unit and put it in his bedroom on the weekend, then went out. Unfortunately that's where the thermostat is, so he came back to a cool bedroom but all the radiators on full blast everywhere else in the house."
+	},
+	{
 		"created_at": "Mon Jul 18 20:12:43 +0000 2022",
 		"id": 1549125031594266600,
 		"id_str": "1549125031594266625",
