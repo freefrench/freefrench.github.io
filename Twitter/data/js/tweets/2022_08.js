@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 19:42:03 +0000 2022",
+		"id": 1555277906607308800,
+		"id_str": "1555277906607308802",
+		"full_text": "@dubber @clutch I imagine that number 952 would be something like \"Lovely, NEXT\"",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubber",
+					"name": "Andrew Dubber",
+					"id": 3044111,
+					"id_str": "3044111",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "clutch",
+					"name": "Clutch Daisy",
+					"id": 14340657,
+					"id_str": "14340657",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555277311976538000,
+		"in_reply_to_status_id_str": "1555277311976538112",
+		"in_reply_to_user_id": 3044111,
+		"in_reply_to_user_id_str": "3044111",
+		"in_reply_to_screen_name": "dubber",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71971,
+			"friends_count": 7103,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dubber @clutch I imagine that number 952 would be something like \"Lovely, NEXT\""
+	},
+	{
+		"created_at": "Thu Aug 04 18:14:06 +0000 2022",
+		"id": 1555254657634943000,
+		"id_str": "1555255772296126467",
+		"full_text": "A letter from John Steinbeck to Marilyn Monroe in 1955, how could she refuse!?\n\n“He has his foot in the door of puberty, but that is only one of his problems. You are the other” https://t.co/KPD5JOgIuD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555254526155825200,
+					"id_str": "1555254526155825152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZVfwF7WIAArhjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZVfwF7WIAArhjr.jpg",
+					"url": "https://t.co/KPD5JOgIuD",
+					"display_url": "pic.twitter.com/KPD5JOgIuD",
+					"expanded_url": "https://twitter.com/DannyDutch/status/1555254657634942976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 604,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 604,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555254526155825200,
+					"id_str": "1555254526155825152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZVfwF7WIAArhjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZVfwF7WIAArhjr.jpg",
+					"url": "https://t.co/KPD5JOgIuD",
+					"display_url": "pic.twitter.com/KPD5JOgIuD",
+					"expanded_url": "https://twitter.com/DannyDutch/status/1555254657634942976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 604,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 604,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555219043384434700,
+		"in_reply_to_status_id_str": "1555219043384434688",
+		"in_reply_to_user_id": 20857273,
+		"in_reply_to_user_id_str": "20857273",
+		"in_reply_to_screen_name": "DannyDutch",
+		"user": {
+			"id": 20857273,
+			"id_str": "20857273",
+			"name": "Daniel Holland🎗🏴󠁧󠁢󠁷󠁬󠁳󠁿 ॐ",
+			"screen_name": "DannyDutch",
+			"location": "United Kingdom",
+			"description": "In love with art, nice words, music, design, history and imaginative heists. ▪️ DannyDutch on Instagram ▪️ Back up account 👉🏼@DannyDutchPart2",
+			"url": "https://t.co/rAWSPgwuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rAWSPgwuBz",
+							"expanded_url": "https://linkin.bio/dannydutch",
+							"display_url": "linkin.bio/dannydutch",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52558,
+			"friends_count": 2834,
+			"listed_count": 496,
+			"created_at": "Sat Feb 14 16:52:47 +0000 2009",
+			"favourites_count": 43614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554415392960954368/QAb509cd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554415392960954368/QAb509cd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20857273/1644151812",
+			"profile_link_color": "11A0D4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 91,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A letter from John Steinbeck to Marilyn Monroe in 1955, how could she refuse!?\n\n“He has his foot in the door of puberty, but that is only one of his problems. You are the other” https://t.co/KPD5JOgIuD"
+	},
+	{
 		"created_at": "Tue Aug 02 18:50:55 +0000 2022",
 		"id": 1554540265704145000,
 		"id_str": "1554540265704144897",
