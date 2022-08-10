@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 19:18:41 +0000 2022",
+		"id": 1557083965395271700,
+		"id_str": "1557083965395271680",
+		"full_text": "I mean, look at this, if you can bear it. Desperate. Just desperate. https://t.co/rcKMmdyG7p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rcKMmdyG7p",
+					"expanded_url": "https://twitter.com/johnestevens/status/1557076650436820994",
+					"display_url": "twitter.com/johnestevens/s…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557083368721973200,
+		"in_reply_to_status_id_str": "1557083368721973252",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71968,
+			"friends_count": 7113,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557076650436821000,
+		"quoted_status_id_str": "1557076650436820994",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rcKMmdyG7p",
+			"expanded": "https://twitter.com/johnestevens/status/1557076650436820994",
+			"display": "twitter.com/johnestevens/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 09 18:49:37 +0000 2022",
+			"id": 1557076650436821000,
+			"id_str": "1557076650436820994",
+			"full_text": "It’s all gone a bit “pork markets!” https://t.co/lvCNm1evAN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1557076595986276400,
+						"id_str": "1557076595986276358",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557076595986276358/pu/img/rABxjitZFtSUOyC5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557076595986276358/pu/img/rABxjitZFtSUOyC5.jpg",
+						"url": "https://t.co/lvCNm1evAN",
+						"display_url": "pic.twitter.com/lvCNm1evAN",
+						"expanded_url": "https://twitter.com/johnestevens/status/1557076650436820994/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1557076595986276400,
+						"id_str": "1557076595986276358",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557076595986276358/pu/img/rABxjitZFtSUOyC5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557076595986276358/pu/img/rABxjitZFtSUOyC5.jpg",
+						"url": "https://t.co/lvCNm1evAN",
+						"display_url": "pic.twitter.com/lvCNm1evAN",
+						"expanded_url": "https://twitter.com/johnestevens/status/1557076650436820994/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 26148,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1557076595986276358/pu/vid/480x270/1TkXZKsqKloyDyZ3.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1557076595986276358/pu/pl/I-lbsuWOOuhaMUS-.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1557076595986276358/pu/vid/640x360/toZH21FjF6BhjHmo.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1557076595986276358/pu/vid/1280x720/-kkj0sGlPudsNaBg.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12233422,
+				"id_str": "12233422",
+				"name": "John Stevens",
+				"screen_name": "johnestevens",
+				"location": "London via Cornwall",
+				"description": "Daily Mail's deputy political editor. Always looking for stories: DMs open or johnstevens3@proton.me",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36193,
+				"friends_count": 3986,
+				"listed_count": 775,
+				"created_at": "Mon Jan 14 20:37:03 +0000 2008",
+				"favourites_count": 19025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20999,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1521537543451389953/aeLQU1-v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521537543451389953/aeLQU1-v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12233422/1551294814",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 187,
+			"favorite_count": 1766,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, look at this, if you can bear it. Desperate. Just desperate. https://t.co/rcKMmdyG7p"
+	},
+	{
+		"created_at": "Tue Aug 09 19:16:18 +0000 2022",
+		"id": 1557083368721973200,
+		"id_str": "1557083368721973252",
+		"full_text": "I might have put the word \"more\" in the wrong place in that tweet, which is indicative of the kind of difficulties  Liz Truss is causing me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557082788888731600,
+		"in_reply_to_status_id_str": "1557082788888731649",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71968,
+			"friends_count": 7113,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I might have put the word \"more\" in the wrong place in that tweet, which is indicative of the kind of difficulties  Liz Truss is causing me."
+	},
+	{
+		"created_at": "Tue Aug 09 19:15:24 +0000 2022",
+		"id": 1557083139649970200,
+		"id_str": "1557083139649970178",
+		"full_text": "@Carl0sAlbert0 Yes, I know.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Carl0sAlbert0",
+					"name": "Duke Silver",
+					"id": 76716368,
+					"id_str": "76716368",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557082994506178600,
+		"in_reply_to_status_id_str": "1557082994506178565",
+		"in_reply_to_user_id": 76716368,
+		"in_reply_to_user_id_str": "76716368",
+		"in_reply_to_screen_name": "Carl0sAlbert0",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71968,
+			"friends_count": 7113,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Carl0sAlbert0 Yes, I know."
+	},
+	{
+		"created_at": "Tue Aug 09 19:14:00 +0000 2022",
+		"id": 1557082788888731600,
+		"id_str": "1557082788888731649",
+		"full_text": "I really don’t want to have to think more about Liz Truss than I already do, which is already way, way too much.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71968,
+			"friends_count": 7113,
+			"listed_count": 926,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 35958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I really don’t want to have to think more about Liz Truss than I already do, which is already way, way too much."
+	},
+	{
+		"created_at": "Tue Aug 09 11:36:37 +0000 2022",
+		"id": 1556957401319891000,
+		"id_str": "1556967682741882887",
+		"full_text": "My friend Dean is a highly talented sculptor. He grew up in Beeston, trained as a welder then taught himself to sculpt. He's a mighty fine artist &amp; one of the few working-class ones. He usually does at least 2 other jobs to fund his sculpting. 1/9 https://t.co/7FrD779n0Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556953076115849200,
+					"id_str": "1556953076115849216",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtoktnWQAAi5AI.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZtoktnWQAAi5AI.png",
+					"url": "https://t.co/7FrD779n0Q",
+					"display_url": "pic.twitter.com/7FrD779n0Q",
+					"expanded_url": "https://twitter.com/rosegeorge3/status/1556957401319890944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556953076115849200,
+					"id_str": "1556953076115849216",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtoktnWQAAi5AI.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZtoktnWQAAi5AI.png",
+					"url": "https://t.co/7FrD779n0Q",
+					"display_url": "pic.twitter.com/7FrD779n0Q",
+					"expanded_url": "https://twitter.com/rosegeorge3/status/1556957401319890944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48839054,
+			"id_str": "48839054",
+			"name": "Rose George",
+			"screen_name": "rosegeorge3",
+			"location": "Yorkshire",
+			"description": "Adult human female. Author: The Big Necessity 🚽, Ninety Percent of Everything ⚓️, Nine Pints 🆎. Agent: Erin Malone @wmebooks. Going fishing 🐟",
+			"url": "https://t.co/GpsuuhblrQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GpsuuhblrQ",
+							"expanded_url": "http://www.rosegeorge.com",
+							"display_url": "rosegeorge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10626,
+			"friends_count": 1181,
+			"listed_count": 260,
+			"created_at": "Fri Jun 19 21:42:43 +0000 2009",
+			"favourites_count": 2945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412449657188405253/2iLM5zCk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412449657188405253/2iLM5zCk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48839054/1589276712",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My friend Dean is a highly talented sculptor. He grew up in Beeston, trained as a welder then taught himself to sculpt. He's a mighty fine artist &amp; one of the few working-class ones. He usually does at least 2 other jobs to fund his sculpting. 1/9 https://t.co/7FrD779n0Q"
+	},
+	{
 		"created_at": "Mon Aug 08 17:44:09 +0000 2022",
 		"id": 1556697788527919000,
 		"id_str": "1556697788527919104",
