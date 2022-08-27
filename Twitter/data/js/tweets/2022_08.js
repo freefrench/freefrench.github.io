@@ -1,6 +1,1337 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 18:15:41 +0000 2022",
+		"id": 1563228706809602000,
+		"id_str": "1563228706809602048",
+		"full_text": "This is also true, and what a lovely thing it is. https://t.co/Lwb9OclTxt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lwb9OclTxt",
+					"expanded_url": "https://twitter.com/BillyReevesOK/status/1563225132172054529",
+					"display_url": "twitter.com/BillyReevesOK/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71976,
+			"friends_count": 7116,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1563225132172054500,
+		"quoted_status_id_str": "1563225132172054529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lwb9OclTxt",
+			"expanded": "https://twitter.com/BillyReevesOK/status/1563225132172054529",
+			"display": "twitter.com/BillyReevesOK/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 26 18:01:29 +0000 2022",
+			"id": 1563225132172054500,
+			"id_str": "1563225132172054529",
+			"full_text": "Pre-order my solo album! I'm on the same label as the Skids! It's got @rhodri all over it.\nhttps://t.co/5gb8ScHXDK https://t.co/cCzKhyNaQU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							70,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5gb8ScHXDK",
+						"expanded_url": "https://shop.lastnightfromglasgow.com/products/billy-reeves-nostalgia-of-the-future-lp-cd-dl?_pos=1&_sid=af0e97c48&_ss=r",
+						"display_url": "shop.lastnightfromglasgow.com/products/billy…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1563225129978499000,
+						"id_str": "1563225129978499072",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FbGw-TBVEAAlXyc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbGw-TBVEAAlXyc.jpg",
+						"url": "https://t.co/cCzKhyNaQU",
+						"display_url": "pic.twitter.com/cCzKhyNaQU",
+						"expanded_url": "https://twitter.com/BillyReevesOK/status/1563225132172054529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 672,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 935,
+								"h": 946,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 935,
+								"h": 946,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1563225129978499000,
+						"id_str": "1563225129978499072",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FbGw-TBVEAAlXyc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbGw-TBVEAAlXyc.jpg",
+						"url": "https://t.co/cCzKhyNaQU",
+						"display_url": "pic.twitter.com/cCzKhyNaQU",
+						"expanded_url": "https://twitter.com/BillyReevesOK/status/1563225132172054529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 672,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 935,
+								"h": 946,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 935,
+								"h": 946,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2601723038,
+				"id_str": "2601723038",
+				"name": "Billy Reeves",
+				"screen_name": "BillyReevesOK",
+				"location": "Egham",
+				"description": "RTs not endorsements.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2649,
+				"friends_count": 893,
+				"listed_count": 15,
+				"created_at": "Thu Jul 03 14:07:00 +0000 2014",
+				"favourites_count": 15182,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13960,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542879930551238656/nDz4kRMq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542879930551238656/nDz4kRMq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2601723038/1654870301",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is also true, and what a lovely thing it is. https://t.co/Lwb9OclTxt"
+	},
+	{
+		"created_at": "Fri Aug 26 18:14:56 +0000 2022",
+		"id": 1563228515780046800,
+		"id_str": "1563228515780046853",
+		"full_text": "This is true. Also features the wondrous @MohsinSiddiqi6. https://t.co/lXiBIRN5lu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MohsinSiddiqi6",
+					"name": "Mohsin Siddiqi",
+					"id": 967319401727975400,
+					"id_str": "967319401727975424",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lXiBIRN5lu",
+					"expanded_url": "https://twitter.com/MaxTundra/status/1563226025215299586",
+					"display_url": "twitter.com/MaxTundra/stat…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71976,
+			"friends_count": 7116,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1563226025215299600,
+		"quoted_status_id_str": "1563226025215299586",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lXiBIRN5lu",
+			"expanded": "https://twitter.com/MaxTundra/status/1563226025215299586",
+			"display": "twitter.com/MaxTundra/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 26 18:05:02 +0000 2022",
+			"id": 1563226025215299600,
+			"id_str": "1563226025215299586",
+			"full_text": "One thing you probably don’t know about me and @rhodri is that we recorded this cover version of Metallica’s Enter Sandman. https://t.co/vbSBCbW22X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							47,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vbSBCbW22X",
+						"expanded_url": "https://youtube.com/watch?v=GnkKXZJU9xc",
+						"display_url": "youtube.com/watch?v=GnkKXZ…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1562830167374180400,
+			"in_reply_to_status_id_str": "1562830167374180352",
+			"in_reply_to_user_id": 47351056,
+			"in_reply_to_user_id_str": "47351056",
+			"in_reply_to_screen_name": "MaxTundra",
+			"user": {
+				"id": 47351056,
+				"id_str": "47351056",
+				"name": "Max Tundra",
+				"screen_name": "MaxTundra",
+				"location": "London",
+				"description": "Reissues & Remixtape out now: https://t.co/V3fOiLwnlQ",
+				"url": "https://t.co/ZeHoP9LaBS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZeHoP9LaBS",
+								"expanded_url": "https://maxtundra.com",
+								"display_url": "maxtundra.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/V3fOiLwnlQ",
+								"expanded_url": "http://linktr.ee/maxtundra",
+								"display_url": "linktr.ee/maxtundra",
+								"indices": [
+									30,
+									53
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7424,
+				"friends_count": 3410,
+				"listed_count": 213,
+				"created_at": "Mon Jun 15 14:46:37 +0000 2009",
+				"favourites_count": 55248,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47804,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361344815707914240/NoleWMji_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361344815707914240/NoleWMji_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47351056/1591173153",
+				"profile_link_color": "0A9458",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "E9EBD6",
+				"profile_text_color": "1D241D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is true. Also features the wondrous @MohsinSiddiqi6. https://t.co/lXiBIRN5lu"
+	},
+	{
+		"created_at": "Fri Aug 26 12:51:25 +0000 2022",
+		"id": 1563147100845535200,
+		"id_str": "1563147100845535232",
+		"full_text": "@twinmaker You win.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twinmaker",
+					"name": "twinmaker",
+					"id": 20714432,
+					"id_str": "20714432",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1563145352751943700,
+		"in_reply_to_status_id_str": "1563145352751943686",
+		"in_reply_to_user_id": 20714432,
+		"in_reply_to_user_id_str": "20714432",
+		"in_reply_to_screen_name": "twinmaker",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71976,
+			"friends_count": 7116,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twinmaker You win."
+	},
+	{
+		"created_at": "Fri Aug 26 12:44:00 +0000 2022",
+		"id": 1563118241483931600,
+		"id_str": "1563145233487265792",
+		"full_text": "'There is NO cutting back. There is NO Money Saving Expert. You could put me into one of those households and do every trick in the book and I wouldn't even get close to scratching the sides of what is needed.'\n\n@MartinSLewis says how he'd stop rising energy bills.\n\n@mrjamesob https://t.co/Yz327qcdna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinSLewis",
+					"name": "Martin Lewis",
+					"id": 252569527,
+					"id_str": "252569527",
+					"indices": [
+						212,
+						225
+					]
+				},
+				{
+					"screen_name": "mrjamesob",
+					"name": "James Oh Brien",
+					"id": 152656121,
+					"id_str": "152656121",
+					"indices": [
+						267,
+						277
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563118018967773200,
+					"id_str": "1563118018967773184",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFPtNVWYAAouef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFPtNVWYAAouef.jpg",
+					"url": "https://t.co/Yz327qcdna",
+					"display_url": "pic.twitter.com/Yz327qcdna",
+					"expanded_url": "https://twitter.com/LBC/status/1563118241483931654/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563118018967773200,
+					"id_str": "1563118018967773184",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFPtNVWYAAouef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFPtNVWYAAouef.jpg",
+					"url": "https://t.co/Yz327qcdna",
+					"display_url": "pic.twitter.com/Yz327qcdna",
+					"expanded_url": "https://twitter.com/LBC/status/1563118241483931654/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 216894,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1563118018967773184/vid/1280x720/KQvIdTZ2ZGQqtHPX.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1563118018967773184/pl/SQ3f2pthi5bl63Vw.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1563118018967773184/vid/640x360/rfy8iulv04T-Ct7u.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1563118018967773184/vid/480x270/j-gwzwcrQv5S4l9J.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Martin Lewis says how he'd stop rising energy bills. ",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20973388,
+			"id_str": "20973388",
+			"name": "LBC",
+			"screen_name": "LBC",
+			"location": "United Kingdom",
+			"description": "Leading Britain's Conversation. For breaking news alerts, follow @LBCNews. Listen live on @globalplayer",
+			"url": "https://t.co/fI8exPioWw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fI8exPioWw",
+							"expanded_url": "http://www.lbc.co.uk",
+							"display_url": "lbc.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570686,
+			"friends_count": 2216,
+			"listed_count": 2818,
+			"created_at": "Mon Feb 16 09:36:59 +0000 2009",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 208682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "26314F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542765728998346753/emTIVyR1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542765728998346753/emTIVyR1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20973388/1618142403",
+			"profile_link_color": "E61F02",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "37ABD2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3680,
+		"favorite_count": 10282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'There is NO cutting back. There is NO Money Saving Expert. You could put me into one of those households and do every trick in the book and I wouldn't even get close to scratching the sides of what is needed.'\n\n@MartinSLewis says how he'd stop rising energy bills.\n\n@mrjamesob https://t.co/Yz327qcdna"
+	},
+	{
+		"created_at": "Fri Aug 26 12:39:22 +0000 2022",
+		"id": 1563144069555310600,
+		"id_str": "1563144069555310592",
+		"full_text": "@twinmaker Absolutely",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twinmaker",
+					"name": "twinmaker",
+					"id": 20714432,
+					"id_str": "20714432",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1563134283107094500,
+		"in_reply_to_status_id_str": "1563134283107094531",
+		"in_reply_to_user_id": 20714432,
+		"in_reply_to_user_id_str": "20714432",
+		"in_reply_to_screen_name": "twinmaker",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71976,
+			"friends_count": 7116,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twinmaker Absolutely"
+	},
+	{
+		"created_at": "Fri Aug 26 10:49:45 +0000 2022",
+		"id": 1563116483563376600,
+		"id_str": "1563116483563376645",
+		"full_text": "@FinShakespeare Sure, it was one of many things we looked into, but it was abundantly clear at the border that the French customs guys would accept nothing other than an ATA Carnet",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FinShakespeare",
+					"name": "Finlay Shakespeare",
+					"id": 3360319761,
+					"id_str": "3360319761",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1563105638238290000,
+		"in_reply_to_status_id_str": "1563105638238289925",
+		"in_reply_to_user_id": 3360319761,
+		"in_reply_to_user_id_str": "3360319761",
+		"in_reply_to_screen_name": "FinShakespeare",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71976,
+			"friends_count": 7116,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FinShakespeare Sure, it was one of many things we looked into, but it was abundantly clear at the border that the French customs guys would accept nothing other than an ATA Carnet"
+	},
+	{
+		"created_at": "Fri Aug 26 10:47:40 +0000 2022",
+		"id": 1563115957467639800,
+		"id_str": "1563115957467639809",
+		"full_text": "@BarryDallman88 @WeAreTheMU I'm not blaming the MU, which is why I said \"unintentionally\" – it's just a mass of contradictory information which seems to change rapidly, like the new requirement for a GMR (goods movement reference). I mean, what?",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BarryDallman88",
+					"name": "Barry Dallman",
+					"id": 109226864,
+					"id_str": "109226864",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "WeAreTheMU",
+					"name": "Musicians' Union",
+					"id": 116720443,
+					"id_str": "116720443",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1563102747842384000,
+		"in_reply_to_status_id_str": "1563102747842383872",
+		"in_reply_to_user_id": 109226864,
+		"in_reply_to_user_id_str": "109226864",
+		"in_reply_to_screen_name": "BarryDallman88",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71976,
+			"friends_count": 7116,
+			"listed_count": 925,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BarryDallman88 @WeAreTheMU I'm not blaming the MU, which is why I said \"unintentionally\" – it's just a mass of contradictory information which seems to change rapidly, like the new requirement for a GMR (goods movement reference). I mean, what?"
+	},
+	{
+		"created_at": "Fri Aug 26 08:05:08 +0000 2022",
+		"id": 1563074830450143200,
+		"id_str": "1563075056745717760",
+		"full_text": "We'll be supporting @Hot_Chip at the first of their Brixton Academy shows, on Wednesday September 21st. Tickets via the Hot Chip website: https://t.co/PQ47m8R737",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hot_Chip",
+					"name": "Hot Chip",
+					"id": 20425155,
+					"id_str": "20425155",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PQ47m8R737",
+					"expanded_url": "https://www.hot-chip.co.uk/index#shopify-section-1610384634cc365d35",
+					"display_url": "hot-chip.co.uk/index#shopify-…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37718280,
+			"id_str": "37718280",
+			"name": "Scritti Politti",
+			"screen_name": "scrittipolitti",
+			"location": "",
+			"description": "Official Twitter account. Operated by @rhodri.",
+			"url": "http://t.co/yF6Sb85KuM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/yF6Sb85KuM",
+							"expanded_url": "http://scritti.net",
+							"display_url": "scritti.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7581,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Mon May 04 18:17:32 +0000 2009",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CAC3B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801101596/early-8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801101596/early-8_normal.jpg",
+			"profile_link_color": "6E5326",
+			"profile_sidebar_border_color": "AD9468",
+			"profile_sidebar_fill_color": "CAC3B9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'll be supporting @Hot_Chip at the first of their Brixton Academy shows, on Wednesday September 21st. Tickets via the Hot Chip website: https://t.co/PQ47m8R737"
+	},
+	{
 		"created_at": "Thu Aug 25 20:35:30 +0000 2022",
 		"id": 1562901504264401000,
 		"id_str": "1562901504264400897",
