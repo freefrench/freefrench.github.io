@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 19:51:17 +0000 2022",
+		"id": 1570862908321730600,
+		"id_str": "1570862908321730561",
+		"full_text": "@LUC66 Well, there was the guard who fainted. And the Queen’s kids showing up.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LUC66",
+					"name": "Lucy ⚓️",
+					"id": 20628783,
+					"id_str": "20628783",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570856103185109000,
+		"in_reply_to_status_id_str": "1570856103185108994",
+		"in_reply_to_user_id": 20628783,
+		"in_reply_to_user_id_str": "20628783",
+		"in_reply_to_screen_name": "LUC66",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71981,
+			"friends_count": 7130,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LUC66 Well, there was the guard who fainted. And the Queen’s kids showing up."
+	},
+	{
+		"created_at": "Fri Sep 16 19:48:19 +0000 2022",
+		"id": 1570862162977132500,
+		"id_str": "1570862162977132545",
+		"full_text": "I think I needed to see this as a counterpoint to the MANY hours I’ve spent watching people moving through that room on TV. https://t.co/fBKFZ0fZKZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fBKFZ0fZKZ",
+					"expanded_url": "https://twitter.com/_richardparry_/status/1570706799975862272",
+					"display_url": "twitter.com/_richardparry_…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71981,
+			"friends_count": 7130,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570706799975862300,
+		"quoted_status_id_str": "1570706799975862272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fBKFZ0fZKZ",
+			"expanded": "https://twitter.com/_richardparry_/status/1570706799975862272",
+			"display": "twitter.com/_richardparry_…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 09:30:58 +0000 2022",
+			"id": 1570706799975862300,
+			"id_str": "1570706799975862272",
+			"full_text": "I’ve come up with an interim solution to the queuing issue to see the Queen’s coffin in Westminster, let me know what you think, it’s not perfect but I don’t see anyone else coming up with anything https://t.co/RIstM7kIT8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1570706618236665900,
+						"id_str": "1570706618236665860",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570706618236665860/pu/img/R_-954xwMHnH_FPF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570706618236665860/pu/img/R_-954xwMHnH_FPF.jpg",
+						"url": "https://t.co/RIstM7kIT8",
+						"display_url": "pic.twitter.com/RIstM7kIT8",
+						"expanded_url": "https://twitter.com/_RichardParry_/status/1570706799975862272/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570706618236665900,
+						"id_str": "1570706618236665860",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570706618236665860/pu/img/R_-954xwMHnH_FPF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570706618236665860/pu/img/R_-954xwMHnH_FPF.jpg",
+						"url": "https://t.co/RIstM7kIT8",
+						"display_url": "pic.twitter.com/RIstM7kIT8",
+						"expanded_url": "https://twitter.com/_RichardParry_/status/1570706799975862272/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 73333,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570706618236665860/pu/vid/320x568/bFg74V4A6MUPhw2g.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570706618236665860/pu/vid/480x852/D1bg99yDQHZw9_SV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1570706618236665860/pu/pl/txcrfCJK6hXz1_Fc.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570706618236665860/pu/vid/720x1280/mPYMoLrQw899B76X.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 550782554,
+				"id_str": "550782554",
+				"name": "Richard Parry",
+				"screen_name": "_RichardParry_",
+				"location": "Auckland, New Zealand",
+				"description": "New Zealand based Artist, Jerk of all trades, Blender-er",
+				"url": "https://t.co/M9UZBpqKPI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M9UZBpqKPI",
+								"expanded_url": "http://instagram.com/_richardparry_",
+								"display_url": "instagram.com/_richardparry_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11063,
+				"friends_count": 432,
+				"listed_count": 104,
+				"created_at": "Wed Apr 11 07:32:42 +0000 2012",
+				"favourites_count": 9291,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1517071808000045056/8a77sZYY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517071808000045056/8a77sZYY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/550782554/1529373683",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10554,
+			"favorite_count": 65986,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think I needed to see this as a counterpoint to the MANY hours I’ve spent watching people moving through that room on TV. https://t.co/fBKFZ0fZKZ"
+	},
+	{
 		"created_at": "Thu Sep 15 19:37:26 +0000 2022",
 		"id": 1570497036092579800,
 		"id_str": "1570497036092579841",
