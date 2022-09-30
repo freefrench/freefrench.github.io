@@ -1,6 +1,2288 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 20:59:56 +0000 2022",
+		"id": 1575591226744909800,
+		"id_str": "1575591226744909826",
+		"full_text": "@HolstaT Heh https://t.co/PvKYmMXfub",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HolstaT",
+					"name": "Holly Thomas",
+					"id": 189321105,
+					"id_str": "189321105",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575591221912805400,
+					"id_str": "1575591221912805402",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd2f3lVWIBo6HMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd2f3lVWIBo6HMo.jpg",
+					"url": "https://t.co/PvKYmMXfub",
+					"display_url": "pic.twitter.com/PvKYmMXfub",
+					"expanded_url": "https://twitter.com/rhodri/status/1575591226744909826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575591221912805400,
+					"id_str": "1575591221912805402",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd2f3lVWIBo6HMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd2f3lVWIBo6HMo.jpg",
+					"url": "https://t.co/PvKYmMXfub",
+					"display_url": "pic.twitter.com/PvKYmMXfub",
+					"expanded_url": "https://twitter.com/rhodri/status/1575591226744909826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575585304261849000,
+		"in_reply_to_status_id_str": "1575585304261849088",
+		"in_reply_to_user_id": 189321105,
+		"in_reply_to_user_id_str": "189321105",
+		"in_reply_to_screen_name": "HolstaT",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@HolstaT Heh https://t.co/PvKYmMXfub"
+	},
+	{
+		"created_at": "Thu Sep 29 20:05:49 +0000 2022",
+		"id": 1575577609945350100,
+		"id_str": "1575577609945350146",
+		"full_text": "@RowleyfileRRR A) Don’t worry so much B) oh god I’m going to be bald",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RowleyfileRRR",
+					"name": "Simon Rowlands",
+					"id": 37955429,
+					"id_str": "37955429",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575572651304964000,
+		"in_reply_to_status_id_str": "1575572651304964097",
+		"in_reply_to_user_id": 37955429,
+		"in_reply_to_user_id_str": "37955429",
+		"in_reply_to_screen_name": "RowleyfileRRR",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RowleyfileRRR A) Don’t worry so much B) oh god I’m going to be bald"
+	},
+	{
+		"created_at": "Thu Sep 29 19:35:53 +0000 2022",
+		"id": 1575570078128476200,
+		"id_str": "1575570078128476160",
+		"full_text": "@LeithMotive That’s what I was aiming for, obvs. Smith circa 83",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeithMotive",
+					"name": "Carbon. Based.",
+					"id": 19816004,
+					"id_str": "19816004",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575569909374890000,
+		"in_reply_to_status_id_str": "1575569909374889988",
+		"in_reply_to_user_id": 19816004,
+		"in_reply_to_user_id_str": "19816004",
+		"in_reply_to_screen_name": "LeithMotive",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LeithMotive That’s what I was aiming for, obvs. Smith circa 83"
+	},
+	{
+		"created_at": "Thu Sep 29 19:35:09 +0000 2022",
+		"id": 1575569893432643600,
+		"id_str": "1575569893432643584",
+		"full_text": "@mhoulden Indeed",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhoulden",
+					"name": "Marcus Houlden",
+					"id": 17258017,
+					"id_str": "17258017",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575568975584727000,
+		"in_reply_to_status_id_str": "1575568975584727045",
+		"in_reply_to_user_id": 17258017,
+		"in_reply_to_user_id_str": "17258017",
+		"in_reply_to_screen_name": "mhoulden",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mhoulden Indeed"
+	},
+	{
+		"created_at": "Thu Sep 29 19:34:49 +0000 2022",
+		"id": 1575569809181646800,
+		"id_str": "1575569809181646848",
+		"full_text": "18 vs now. https://t.co/5HEm7PjqDt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575569785877831700,
+					"id_str": "1575569785877831690",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd2MX14WIAoHwj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd2MX14WIAoHwj2.jpg",
+					"url": "https://t.co/5HEm7PjqDt",
+					"display_url": "pic.twitter.com/5HEm7PjqDt",
+					"expanded_url": "https://twitter.com/rhodri/status/1575569809181646848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 711,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575569785877831700,
+					"id_str": "1575569785877831690",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd2MX14WIAoHwj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd2MX14WIAoHwj2.jpg",
+					"url": "https://t.co/5HEm7PjqDt",
+					"display_url": "pic.twitter.com/5HEm7PjqDt",
+					"expanded_url": "https://twitter.com/rhodri/status/1575569809181646848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 711,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575569785873637400,
+					"id_str": "1575569785873637377",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd2MX13WIAEYX_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd2MX13WIAEYX_r.jpg",
+					"url": "https://t.co/5HEm7PjqDt",
+					"display_url": "pic.twitter.com/5HEm7PjqDt",
+					"expanded_url": "https://twitter.com/rhodri/status/1575569809181646848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 229,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "18 vs now. https://t.co/5HEm7PjqDt"
+	},
+	{
+		"created_at": "Thu Sep 29 19:24:53 +0000 2022",
+		"id": 1575567306146472000,
+		"id_str": "1575567306146471942",
+		"full_text": "This may as well say\n\n“A typical first time buyer in London moving into a representative terraced house will save £13.6m on stamp duty &amp; £1.2m on the household's energy bills - and if they earn £3.6m almost an additional £400,000 on tax. \n\nThis is around £12.6bn in total.” https://t.co/TGVBKFdJ2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TGVBKFdJ2e",
+					"expanded_url": "https://twitter.com/hmtreasury/status/1575493522265759744",
+					"display_url": "twitter.com/hmtreasury/sta…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575493522265759700,
+		"quoted_status_id_str": "1575493522265759744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TGVBKFdJ2e",
+			"expanded": "https://twitter.com/hmtreasury/status/1575493522265759744",
+			"display": "twitter.com/hmtreasury/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 14:31:41 +0000 2022",
+			"id": 1575493522265759700,
+			"id_str": "1575493522265759744",
+			"full_text": "Thanks to the Growth Plan, a typical first time buyer in London moving into a representative terraced house will save £11,250 on stamp duty &amp; £1,050 on the household's energy bills - and if they earn £30,000 almost an additional £400 on tax. \n\nThis is around £12,700 in total. https://t.co/3AcYRqFjXv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1575493274831184000,
+						"id_str": "1575493274831183872",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Fd1GyUBUYAAnE6d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fd1GyUBUYAAnE6d.jpg",
+						"url": "https://t.co/3AcYRqFjXv",
+						"display_url": "pic.twitter.com/3AcYRqFjXv",
+						"expanded_url": "https://twitter.com/hmtreasury/status/1575493522265759744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 959,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575493274831184000,
+						"id_str": "1575493274831183872",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Fd1GyUBUYAAnE6d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fd1GyUBUYAAnE6d.jpg",
+						"url": "https://t.co/3AcYRqFjXv",
+						"display_url": "pic.twitter.com/3AcYRqFjXv",
+						"expanded_url": "https://twitter.com/hmtreasury/status/1575493522265759744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 959,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18904582,
+				"id_str": "18904582",
+				"name": "HM Treasury",
+				"screen_name": "hmtreasury",
+				"location": "Westminster, London",
+				"description": "We're the UK Government's economic and finance ministry. Our aim is to promote strong and sustainable economic growth.",
+				"url": "https://t.co/aDKSF1zwp1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aDKSF1zwp1",
+								"expanded_url": "https://www.gov.uk/government/organisations/hm-treasury",
+								"display_url": "gov.uk/government/org…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 442782,
+				"friends_count": 981,
+				"listed_count": 3147,
+				"created_at": "Mon Jan 12 16:04:17 +0000 2009",
+				"favourites_count": 537,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11049,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1572133272829759492/Avi1Aw4B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572133272829759492/Avi1Aw4B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18904582/1663912340",
+				"profile_link_color": "AF292E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3D0CC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This may as well say\n\n“A typical first time buyer in London moving into a representative terraced house will save £13.6m on stamp duty &amp; £1.2m on the household's energy bills - and if they earn £3.6m almost an additional £400,000 on tax. \n\nThis is around £12.6bn in total.” https://t.co/TGVBKFdJ2e"
+	},
+	{
+		"created_at": "Thu Sep 29 18:18:24 +0000 2022",
+		"id": 1575525326809026600,
+		"id_str": "1575550578188779521",
+		"full_text": "@BritainElects @YouGov Well those were fun figures to put into the electoral calculator. https://t.co/xQ9weqetsb",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritainElects",
+					"name": "Britain Elects",
+					"id": 1541364193,
+					"id_str": "1541364193",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "YouGov",
+					"name": "YouGov",
+					"id": 14810076,
+					"id_str": "14810076",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575525323965403100,
+					"id_str": "1575525323965403137",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1j70WXEAEh-Pw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1j70WXEAEh-Pw.jpg",
+					"url": "https://t.co/xQ9weqetsb",
+					"display_url": "pic.twitter.com/xQ9weqetsb",
+					"expanded_url": "https://twitter.com/BarumDean/status/1575525326809026564/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575525323965403100,
+					"id_str": "1575525323965403137",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1j70WXEAEh-Pw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1j70WXEAEh-Pw.jpg",
+					"url": "https://t.co/xQ9weqetsb",
+					"display_url": "pic.twitter.com/xQ9weqetsb",
+					"expanded_url": "https://twitter.com/BarumDean/status/1575525326809026564/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1575522731101245400,
+		"in_reply_to_status_id_str": "1575522731101245440",
+		"in_reply_to_user_id": 1541364193,
+		"in_reply_to_user_id_str": "1541364193",
+		"in_reply_to_screen_name": "BritainElects",
+		"user": {
+			"id": 1245974226,
+			"id_str": "1245974226",
+			"name": "Dean Morrison 🇺🇦🇪🇺#FBPE #RejoinEU",
+			"screen_name": "BarumDean",
+			"location": "Hastings, England",
+			"description": "Fan of experts. Ecologist.\nWe're in a climate crisis and need to act now.\n #FBPE #RejoinEU #YNWA #SlavaUkraini",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6830,
+			"friends_count": 7411,
+			"listed_count": 23,
+			"created_at": "Wed Mar 06 12:28:14 +0000 2013",
+			"favourites_count": 331590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256297310046347267/QhPEagkm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256297310046347267/QhPEagkm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1245974226/1664484551",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BritainElects @YouGov Well those were fun figures to put into the electoral calculator. https://t.co/xQ9weqetsb"
+	},
+	{
+		"created_at": "Thu Sep 29 12:42:57 +0000 2022",
+		"id": 1575454518506053600,
+		"id_str": "1575466157787709441",
+		"full_text": "This is a tragedy of epic proportions. The World Service is one of the best thing Britain offers the world. \nhttps://t.co/nZBhFTTehp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nZBhFTTehp",
+					"expanded_url": "https://www.telegraph.co.uk/news/2022/09/29/bbc-cut-382-jobs-bbc-world-service/",
+					"display_url": "telegraph.co.uk/news/2022/09/2…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 765541344295223300,
+			"id_str": "765541344295223296",
+			"name": "Oliver Barnes",
+			"screen_name": "mroliverbarnes",
+			"location": "London",
+			"description": "Leisure industries correspondent @FT 📩 oliver.barnes@ft.com 📆 Before: Health & science @FT + @BBCNews 📲 WhatsApp/Signal: +44 7517 499 709",
+			"url": "https://t.co/Jo1PFpq49i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jo1PFpq49i",
+							"expanded_url": "https://bit.ly/3He8jRt",
+							"display_url": "bit.ly/3He8jRt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12626,
+			"friends_count": 5031,
+			"listed_count": 151,
+			"created_at": "Tue Aug 16 13:30:54 +0000 2016",
+			"favourites_count": 11239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567765708775235584/qm4q2w6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567765708775235584/qm4q2w6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/765541344295223296/1630241441",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 383,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a tragedy of epic proportions. The World Service is one of the best thing Britain offers the world. \nhttps://t.co/nZBhFTTehp"
+	},
+	{
+		"created_at": "Thu Sep 29 12:25:21 +0000 2022",
+		"id": 1575461726874701800,
+		"id_str": "1575461726874701825",
+		"full_text": "@helbo1 @scrittipolitti @Sage_Gateshead Dicky’s set list with his unusual annotations! Heh",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helbo1",
+					"name": "𝙷𝚎𝚕𝚎𝚗 𝙱𝚞𝚕𝚕 ☕️",
+					"id": 52357630,
+					"id_str": "52357630",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "scrittipolitti",
+					"name": "Scritti Politti",
+					"id": 37718280,
+					"id_str": "37718280",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "Sage_Gateshead",
+					"name": "Sage Gateshead",
+					"id": 88945267,
+					"id_str": "88945267",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575402306853638100,
+		"in_reply_to_status_id_str": "1575402306853638144",
+		"in_reply_to_user_id": 52357630,
+		"in_reply_to_user_id_str": "52357630",
+		"in_reply_to_screen_name": "helbo1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helbo1 @scrittipolitti @Sage_Gateshead Dicky’s set list with his unusual annotations! Heh"
+	},
+	{
+		"created_at": "Thu Sep 29 08:36:11 +0000 2022",
+		"id": 1575404055584710700,
+		"id_str": "1575404055584710659",
+		"full_text": "@DwdDave Really? Seems unlikely that the prime minister of the UK can't cancel an appearance on the breakfast show of BBC Radio Lancashire for whatever spurious reason she might want to concoct...",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DwdDave",
+					"name": "Dave Cridland",
+					"id": 1846739046,
+					"id_str": "1846739046",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1575392585727856600,
+		"in_reply_to_status_id_str": "1575392585727856640",
+		"in_reply_to_user_id": 1846739046,
+		"in_reply_to_user_id_str": "1846739046",
+		"in_reply_to_screen_name": "DwdDave",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DwdDave Really? Seems unlikely that the prime minister of the UK can't cancel an appearance on the breakfast show of BBC Radio Lancashire for whatever spurious reason she might want to concoct..."
+	},
+	{
+		"created_at": "Thu Sep 29 07:46:55 +0000 2022",
+		"id": 1575391659059290000,
+		"id_str": "1575391659059290112",
+		"full_text": "Oh my sweet Christ. Someone presumably set up a load of local radio interviews for Truss because they thought she’d get an easy ride. Nope. https://t.co/61TRkon3we",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/61TRkon3we",
+					"expanded_url": "https://twitter.com/dinosofos/status/1575389891453648901",
+					"display_url": "twitter.com/dinosofos/stat…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575389891453649000,
+		"quoted_status_id_str": "1575389891453648901",
+		"quoted_status_permalink": {
+			"url": "https://t.co/61TRkon3we",
+			"expanded": "https://twitter.com/dinosofos/status/1575389891453648901",
+			"display": "twitter.com/dinosofos/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 07:39:54 +0000 2022",
+			"id": 1575389891453649000,
+			"id_str": "1575389891453648901",
+			"full_text": "Liz Truss crumbles under questioning from @GrahamLiver on @BBCLancashire about local consent for fracking. https://t.co/nDp2t5815P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrahamLiver",
+						"name": "Graham Liver",
+						"id": 20138828,
+						"id_str": "20138828",
+						"indices": [
+							42,
+							54
+						]
+					},
+					{
+						"screen_name": "BBCLancashire",
+						"name": "BBC Lancashire",
+						"id": 72795766,
+						"id_str": "72795766",
+						"indices": [
+							58,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1575389580320292900,
+						"id_str": "1575389580320292869",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1575389580320292869/pu/img/aIJa36XzDCjZGZRW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1575389580320292869/pu/img/aIJa36XzDCjZGZRW.jpg",
+						"url": "https://t.co/nDp2t5815P",
+						"display_url": "pic.twitter.com/nDp2t5815P",
+						"expanded_url": "https://twitter.com/dinosofos/status/1575389891453648901/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 806,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 860,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575389580320292900,
+						"id_str": "1575389580320292869",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1575389580320292869/pu/img/aIJa36XzDCjZGZRW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1575389580320292869/pu/img/aIJa36XzDCjZGZRW.jpg",
+						"url": "https://t.co/nDp2t5815P",
+						"display_url": "pic.twitter.com/nDp2t5815P",
+						"expanded_url": "https://twitter.com/dinosofos/status/1575389891453648901/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 806,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 860,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								43,
+								64
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1575389580320292869/pu/vid/720x1070/V7KfpXvlKOxWwlZ6.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1575389580320292869/pu/pl/RUbCNTn30Q_f_V2k.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1575389580320292869/pu/vid/320x476/Ts699dFRoFmERdxx.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1575389580320292869/pu/vid/480x714/6T6H0Y0J7zCDhHS0.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18701897,
+				"id_str": "18701897",
+				"name": "Dino Sofos",
+				"screen_name": "dinosofos",
+				"location": "London / Sheffield",
+				"description": "Founder CEO, @Persephonica | Creator of the BBC’s Brexitcast, Newscast & Americast | Executive Producer of The News Agents podcast | dino@persephonica.com",
+				"url": "https://t.co/cyhejfqSYl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cyhejfqSYl",
+								"expanded_url": "http://www.persephonica.com",
+								"display_url": "persephonica.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39666,
+				"friends_count": 3247,
+				"listed_count": 292,
+				"created_at": "Tue Jan 06 23:49:12 +0000 2009",
+				"favourites_count": 20947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20456,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455120845106565124/XfkyJcuT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455120845106565124/XfkyJcuT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18701897/1645641701",
+				"profile_link_color": "636363",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7427,
+			"favorite_count": 27370,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 73,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh my sweet Christ. Someone presumably set up a load of local radio interviews for Truss because they thought she’d get an easy ride. Nope. https://t.co/61TRkon3we"
+	},
+	{
+		"created_at": "Thu Sep 29 07:39:02 +0000 2022",
+		"id": 1575389673647661000,
+		"id_str": "1575389673647661058",
+		"full_text": "@sfgreenwood Although finding them all on the BBC Sounds could prove to be a truly Herculean task",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sfgreenwood",
+					"name": "Simon Greenwood - in the same place all the time",
+					"id": 6468862,
+					"id_str": "6468862",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575388382502555600,
+		"in_reply_to_status_id_str": "1575388382502555648",
+		"in_reply_to_user_id": 6468862,
+		"in_reply_to_user_id_str": "6468862",
+		"in_reply_to_screen_name": "sfgreenwood",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sfgreenwood Although finding them all on the BBC Sounds could prove to be a truly Herculean task"
+	},
+	{
+		"created_at": "Thu Sep 29 07:08:21 +0000 2022",
+		"id": 1575381952596779000,
+		"id_str": "1575381952596779010",
+		"full_text": "Despite myself I am listening to Liz Truss on BBC Leeds, and it’s like listening to a government employee pressing coloured buttons, each one of which triggers a recording of Liz Truss saying a sentence.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575379393106661400,
+		"in_reply_to_status_id_str": "1575379393106661377",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 190,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Despite myself I am listening to Liz Truss on BBC Leeds, and it’s like listening to a government employee pressing coloured buttons, each one of which triggers a recording of Liz Truss saying a sentence."
+	},
+	{
+		"created_at": "Thu Sep 29 06:58:11 +0000 2022",
+		"id": 1575379393106661400,
+		"id_str": "1575379393106661377",
+		"full_text": "If I wasn’t busy doing something else I’d record all of these interviews and subject them to a word cloud analysis to reveal that she used a grand total of 40 different words https://t.co/GSso44ULee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GSso44ULee",
+					"expanded_url": "https://twitter.com/scottygb/status/1575209631949148160",
+					"display_url": "twitter.com/scottygb/statu…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71996,
+			"friends_count": 7137,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575209631949148200,
+		"quoted_status_id_str": "1575209631949148160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GSso44ULee",
+			"expanded": "https://twitter.com/scottygb/status/1575209631949148160",
+			"display": "twitter.com/scottygb/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 28 19:43:36 +0000 2022",
+			"id": 1575209631949148200,
+			"id_str": "1575209631949148160",
+			"full_text": "Here are the BBC Local Radio Stations PM Liz Truss is on tomorrow morning and their timings.\n\n0800 LEEDS\n0808 NORFOLK\n0815 KENT\n0822 LANCASHIRE \n0830 NOTTINGHAM\n0838 TEES\n0845 BRISTOL\n0852 STOKE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15721456,
+				"id_str": "15721456",
+				"name": "Scott Bryan",
+				"screen_name": "scottygb",
+				"location": "East London",
+				"description": "TV critic and broadcaster. Must Watch podcast on @bbc5live and @BBCSounds. Dyslexic. scottglennbryan@gmail.com.",
+				"url": "https://t.co/wlBd2JY9T6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wlBd2JY9T6",
+								"expanded_url": "http://www.scottybryan.com",
+								"display_url": "scottybryan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92073,
+				"friends_count": 3561,
+				"listed_count": 614,
+				"created_at": "Mon Aug 04 12:33:01 +0000 2008",
+				"favourites_count": 37166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 83859,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15721456/1406021532",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 804,
+			"favorite_count": 2225,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I wasn’t busy doing something else I’d record all of these interviews and subject them to a word cloud analysis to reveal that she used a grand total of 40 different words https://t.co/GSso44ULee"
+	},
+	{
 		"created_at": "Wed Sep 28 20:28:40 +0000 2022",
 		"id": 1575220973111890000,
 		"id_str": "1575220973111889921",
