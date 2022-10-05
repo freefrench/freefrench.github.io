@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 18:58:10 +0000 2022",
+		"id": 1577372523066441700,
+		"id_str": "1577372523066441731",
+		"full_text": "What I’m desperate to hear is whether she thinks she has been “Delivering For The British People When It Comes To Their Energy Bills” https://t.co/hWUJQjSaj7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hWUJQjSaj7",
+					"expanded_url": "https://twitter.com/trussliz/status/1577347905626800130",
+					"display_url": "twitter.com/trussliz/statu…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72014,
+			"friends_count": 7140,
+			"listed_count": 923,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 36741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577347905626800000,
+		"quoted_status_id_str": "1577347905626800130",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hWUJQjSaj7",
+			"expanded": "https://twitter.com/trussliz/status/1577347905626800130",
+			"display": "twitter.com/trussliz/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 04 17:20:21 +0000 2022",
+			"id": 1577347905626800000,
+			"id_str": "1577347905626800130",
+			"full_text": "Watch my speech to @Conservatives Party Conference live at 11:05AM tomorrow.\n\n#CPC22 https://t.co/5CHK0ytt4Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CPC22",
+						"indices": [
+							78,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Conservatives",
+						"name": "Conservatives",
+						"id": 14281853,
+						"id_str": "14281853",
+						"indices": [
+							19,
+							33
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577347838924701700,
+						"id_str": "1577347838924701696",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/FePdgJpWQAA_jID.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FePdgJpWQAA_jID.jpg",
+						"url": "https://t.co/5CHK0ytt4Q",
+						"display_url": "pic.twitter.com/5CHK0ytt4Q",
+						"expanded_url": "https://twitter.com/trussliz/status/1577347905626800130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577347838924701700,
+						"id_str": "1577347838924701696",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/FePdgJpWQAA_jID.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FePdgJpWQAA_jID.jpg",
+						"url": "https://t.co/5CHK0ytt4Q",
+						"display_url": "pic.twitter.com/5CHK0ytt4Q",
+						"expanded_url": "https://twitter.com/trussliz/status/1577347905626800130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65357102,
+				"id_str": "65357102",
+				"name": "Liz Truss",
+				"screen_name": "trussliz",
+				"location": "",
+				"description": "Prime Minister of the United Kingdom of Great Britain and Northern Ireland. Leader of the Conservative and Unionist Party. MP for South West Norfolk.",
+				"url": "https://t.co/nJj8hn2Y5U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nJj8hn2Y5U",
+								"expanded_url": "https://www.elizabethtruss.com",
+								"display_url": "elizabethtruss.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 670247,
+				"friends_count": 2119,
+				"listed_count": 3346,
+				"created_at": "Thu Aug 13 13:04:53 +0000 2009",
+				"favourites_count": 2242,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10540,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "878287",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1514636699946602499/hUoOgAOz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514636699946602499/hUoOgAOz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65357102/1664668888",
+				"profile_link_color": "2E2E2E",
+				"profile_sidebar_border_color": "A7B4BA",
+				"profile_sidebar_fill_color": "AAAAAD",
+				"profile_text_color": "140E14",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 387,
+			"favorite_count": 2522,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What I’m desperate to hear is whether she thinks she has been “Delivering For The British People When It Comes To Their Energy Bills” https://t.co/hWUJQjSaj7"
+	},
+	{
 		"created_at": "Mon Oct 03 09:21:39 +0000 2022",
 		"id": 1576865050744455200,
 		"id_str": "1576865050744455168",
