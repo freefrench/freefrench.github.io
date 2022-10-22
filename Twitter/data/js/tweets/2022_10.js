@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 18:57:16 +0000 2022",
+		"id": 1583532890620825600,
+		"id_str": "1583532890620825600",
+		"full_text": "I think the thing that bugs me most about all of this *gestures around with arm* is that there are people who, at some point in the next few days, will be celebrating a “win”. The very idea of there being “winners”. I mean, really. Jeez.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72071,
+			"friends_count": 7150,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I think the thing that bugs me most about all of this *gestures around with arm* is that there are people who, at some point in the next few days, will be celebrating a “win”. The very idea of there being “winners”. I mean, really. Jeez."
+	},
+	{
+		"created_at": "Fri Oct 21 17:57:24 +0000 2022",
+		"id": 1583517286039974000,
+		"id_str": "1583517826186633216",
+		"full_text": "Looking forward to the day this feels completely irrelevant https://t.co/mc0u59VkGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583517058544935000,
+					"id_str": "1583517058544934912",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnIX_pXoAAXw0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnIX_pXoAAXw0o.jpg",
+					"url": "https://t.co/mc0u59VkGy",
+					"display_url": "pic.twitter.com/mc0u59VkGy",
+					"expanded_url": "https://twitter.com/beckybarnicoat/status/1583517286039973889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 463,
+							"h": 469,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 463,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583517058544935000,
+					"id_str": "1583517058544934912",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnIX_pXoAAXw0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnIX_pXoAAXw0o.jpg",
+					"url": "https://t.co/mc0u59VkGy",
+					"display_url": "pic.twitter.com/mc0u59VkGy",
+					"expanded_url": "https://twitter.com/beckybarnicoat/status/1583517286039973889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 463,
+							"h": 469,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 463,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21109189,
+			"id_str": "21109189",
+			"name": "Becky Barnicoat",
+			"screen_name": "beckybarnicoat",
+			"location": "London",
+			"description": "Cartoons and comics for The New Yorker, The New Statesman, and others.",
+			"url": "https://t.co/akkdkvqJFV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/akkdkvqJFV",
+							"expanded_url": "http://beckybarnicoat.com",
+							"display_url": "beckybarnicoat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2907,
+			"friends_count": 1208,
+			"listed_count": 88,
+			"created_at": "Tue Feb 17 17:35:24 +0000 2009",
+			"favourites_count": 7659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455171494334681105/d_QTpmgF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455171494334681105/d_QTpmgF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21109189/1661095441",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 327,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to the day this feels completely irrelevant https://t.co/mc0u59VkGy"
+	},
+	{
+		"created_at": "Fri Oct 21 17:51:38 +0000 2022",
+		"id": 1583516372650274800,
+		"id_str": "1583516372650274816",
+		"full_text": "That’s that, then. He just needs another 70 or so MPs to back him, which of course they will. Then the Tory members will vote for him overwhelmingly. It’s like the worse cheese dream ever. I feel like marching with a placard. https://t.co/W4cFpFennw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W4cFpFennw",
+					"expanded_url": "https://twitter.com/sophyridgesky/status/1583511051022503939",
+					"display_url": "twitter.com/sophyridgesky/…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72071,
+			"friends_count": 7150,
+			"listed_count": 924,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583511051022504000,
+		"quoted_status_id_str": "1583511051022503939",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W4cFpFennw",
+			"expanded": "https://twitter.com/sophyridgesky/status/1583511051022503939",
+			"display": "twitter.com/sophyridgesky/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 21 17:30:29 +0000 2022",
+			"id": 1583511051022504000,
+			"id_str": "1583511051022503939",
+			"full_text": "Boris Johnson ally James Duddridge tells @joncraig that Johnson has told him he is \"up for it\" and \"I'm going to do it, Dudders!\"\n\nhttps://t.co/EDbbynuzHD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "joncraig",
+						"name": "Jon Craig",
+						"id": 14072988,
+						"id_str": "14072988",
+						"indices": [
+							41,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EDbbynuzHD",
+						"expanded_url": "https://news.sky.com/story/next-prime-minister-uk-latest-boris-johnson-rishi-sunak-truss-mordaunt-12593360",
+						"display_url": "news.sky.com/story/next-pri…",
+						"indices": [
+							131,
+							154
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18949349,
+				"id_str": "18949349",
+				"name": "Sophy Ridge",
+				"screen_name": "SophyRidgeSky",
+				"location": "London",
+				"description": "Sky News presenter. Sophy Ridge on Sunday, 8.30am, & the Take with Sophy Ridge, Wednesday 9pm. “Fuelled by canteen hash browns” - the Sunday Times",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 207370,
+				"friends_count": 2418,
+				"listed_count": 2358,
+				"created_at": "Tue Jan 13 19:25:55 +0000 2009",
+				"favourites_count": 11807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32741,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1516736720921939977/iwnFyW5r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516736720921939977/iwnFyW5r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18949349/1650453013",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s that, then. He just needs another 70 or so MPs to back him, which of course they will. Then the Tory members will vote for him overwhelmingly. It’s like the worse cheese dream ever. I feel like marching with a placard. https://t.co/W4cFpFennw"
+	},
+	{
 		"created_at": "Thu Oct 20 16:52:57 +0000 2022",
 		"id": 1583139219760828400,
 		"id_str": "1583139219760828416",
