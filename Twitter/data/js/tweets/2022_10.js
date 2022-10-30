@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 19:51:41 +0000 2022",
+		"id": 1586445690124832800,
+		"id_str": "1586445690124832768",
+		"full_text": "@soozaphone @crobertsbmw It’s so lovely.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soozaphone",
+					"name": "Dr Suzi Gage",
+					"id": 40854900,
+					"id_str": "40854900",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "crobertsbmw",
+					"name": "Chase",
+					"id": 122272497,
+					"id_str": "122272497",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1586445038414098400,
+		"in_reply_to_status_id_str": "1586445038414098437",
+		"in_reply_to_user_id": 40854900,
+		"in_reply_to_user_id_str": "40854900",
+		"in_reply_to_screen_name": "soozaphone",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71985,
+			"friends_count": 7145,
+			"listed_count": 0,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@soozaphone @crobertsbmw It’s so lovely."
+	},
+	{
+		"created_at": "Sat Oct 29 19:42:57 +0000 2022",
+		"id": 1586443489440571400,
+		"id_str": "1586443489440571392",
+		"full_text": "Thanks to this ace little book by ⁦@crobertsbmw⁩, Ivor’s going to have a stellar career in, I dunno, pressing buttons or something. https://t.co/DeTe3FCCKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crobertsbmw",
+					"name": "Chase",
+					"id": 122272497,
+					"id_str": "122272497",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586443412303216600,
+					"id_str": "1586443412303216641",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1586443412303216641/pu/img/9S8u01joTcymJna5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1586443412303216641/pu/img/9S8u01joTcymJna5.jpg",
+					"url": "https://t.co/DeTe3FCCKw",
+					"display_url": "pic.twitter.com/DeTe3FCCKw",
+					"expanded_url": "https://twitter.com/rhodri/status/1586443489440571392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586443412303216600,
+					"id_str": "1586443412303216641",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1586443412303216641/pu/img/9S8u01joTcymJna5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1586443412303216641/pu/img/9S8u01joTcymJna5.jpg",
+					"url": "https://t.co/DeTe3FCCKw",
+					"display_url": "pic.twitter.com/DeTe3FCCKw",
+					"expanded_url": "https://twitter.com/rhodri/status/1586443489440571392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12010,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586443412303216641/pu/vid/480x852/9exH3vB3ewdCDts8.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586443412303216641/pu/vid/320x568/TuN-pvcZ6YanTKVc.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586443412303216641/pu/vid/720x1280/M9rAY-M_8RbXVJO-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1586443412303216641/pu/pl/zdGFXigiFm8N7NEI.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71985,
+			"friends_count": 7145,
+			"listed_count": 0,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to this ace little book by ⁦@crobertsbmw⁩, Ivor’s going to have a stellar career in, I dunno, pressing buttons or something. https://t.co/DeTe3FCCKw"
+	},
+	{
 		"created_at": "Fri Oct 28 18:12:16 +0000 2022",
 		"id": 1586058281155711000,
 		"id_str": "1586058281155710976",
@@ -337,7 +671,7 @@ Grailbird.data.tweets_2022_10 =
 			"user_mentions": [
 				{
 					"screen_name": "filmsonwax",
-					"name": "Horrors of the Films on Wax Museum 🏳️‍⚧️",
+					"name": "Horrors of the Films on Wax Museum 🏳️⚧️",
 					"id": 2204688295,
 					"id_str": "2204688295",
 					"indices": [
