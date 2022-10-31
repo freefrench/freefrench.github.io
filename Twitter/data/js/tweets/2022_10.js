@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 20:57:08 +0000 2022",
+		"id": 1586824546476236800,
+		"id_str": "1586824546476236800",
+		"full_text": "Channel 4 minus 1, another excellent idea. https://t.co/WkriNVswCZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WkriNVswCZ",
+					"expanded_url": "https://twitter.com/johncwdicks/status/1586823522793422852",
+					"display_url": "twitter.com/johncwdicks/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71954,
+			"friends_count": 7147,
+			"listed_count": 921,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1586823522793422800,
+		"quoted_status_id_str": "1586823522793422852",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WkriNVswCZ",
+			"expanded": "https://twitter.com/johncwdicks/status/1586823522793422852",
+			"display": "twitter.com/johncwdicks/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 30 20:53:04 +0000 2022",
+			"id": 1586823522793422800,
+			"id_str": "1586823522793422852",
+			"full_text": "@rhodri When we had babies, my wife suggested a Channel 4-1 channel so we could catch our fix of Grand Designs then sod off to bed early.",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1586524051140665300,
+			"in_reply_to_status_id_str": "1586524051140665345",
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 20012273,
+				"id_str": "20012273",
+				"name": "John Dicks",
+				"screen_name": "johncwdicks",
+				"location": "Woodbridge, Suffolk",
+				"description": "Music, comedy and Arsenal fan. Suffolk-based marketer and director of @ukpopchorus",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 349,
+				"friends_count": 1745,
+				"listed_count": 10,
+				"created_at": "Tue Feb 03 23:08:45 +0000 2009",
+				"favourites_count": 7000,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8928,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1582835219517816833/ZjMBLqAw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1582835219517816833/ZjMBLqAw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20012273/1662740666",
+				"profile_link_color": "AAAA18",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Channel 4 minus 1, another excellent idea. https://t.co/WkriNVswCZ"
+	},
+	{
+		"created_at": "Sun Oct 30 20:14:05 +0000 2022",
+		"id": 1586813711393644500,
+		"id_str": "1586813711393644546",
+		"full_text": "Excellent proposal to end all arguments about Daylight Saving Time. https://t.co/f42DdLizT4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f42DdLizT4",
+					"expanded_url": "https://twitter.com/Editer/status/1586798733080993792",
+					"display_url": "twitter.com/Editer/status/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71954,
+			"friends_count": 7147,
+			"listed_count": 921,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1586798733080993800,
+		"quoted_status_id_str": "1586798733080993792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f42DdLizT4",
+			"expanded": "https://twitter.com/Editer/status/1586798733080993792",
+			"display": "twitter.com/Editer/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 30 19:14:33 +0000 2022",
+			"id": 1586798733080993800,
+			"id_str": "1586798733080993792",
+			"full_text": "@redjane @sroller @rhodri I've always thought we should move all the clocks 30 minutes to the halfway point and leave them there forever.",
+			"truncated": false,
+			"display_text_range": [
+				26,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "redjane",
+						"name": "Jane Roberts",
+						"id": 18241782,
+						"id_str": "18241782",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "sroller",
+						"name": "Steffen Roller 🇨🇦 🇩🇪 🛶",
+						"id": 17121334,
+						"id_str": "17121334",
+						"indices": [
+							9,
+							17
+						]
+					},
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1586694559421145000,
+			"in_reply_to_status_id_str": "1586694559421145088",
+			"in_reply_to_user_id": 18241782,
+			"in_reply_to_user_id_str": "18241782",
+			"in_reply_to_screen_name": "redjane",
+			"user": {
+				"id": 14864376,
+				"id_str": "14864376",
+				"name": "Brian Baresch",
+				"screen_name": "Editer",
+				"location": "New York",
+				"description": "Drawing connections to make sense of things. Editor/blatherer. In my defense, I was left unsupervised. I Profile pic by @TheCovatar. Banner pic by me. he/him.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 513,
+				"friends_count": 283,
+				"listed_count": 47,
+				"created_at": "Thu May 22 04:13:28 +0000 2008",
+				"favourites_count": 5053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26666,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3AF8F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319305279180316674/IWnYHsB0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319305279180316674/IWnYHsB0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14864376/1596191561",
+				"profile_link_color": "93AB96",
+				"profile_sidebar_border_color": "A67668",
+				"profile_sidebar_fill_color": "8F8A86",
+				"profile_text_color": "74A39D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent proposal to end all arguments about Daylight Saving Time. https://t.co/f42DdLizT4"
+	},
+	{
+		"created_at": "Sun Oct 30 01:20:56 +0000 2022",
+		"id": 1586528548235640800,
+		"id_str": "1586528548235640833",
+		"full_text": "@misterHfeatures I had to get up and look at a mechanical clock.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misterHfeatures",
+					"name": "Mr H",
+					"id": 457015214,
+					"id_str": "457015214",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1586527014579998700,
+		"in_reply_to_status_id_str": "1586527014579998721",
+		"in_reply_to_user_id": 457015214,
+		"in_reply_to_user_id_str": "457015214",
+		"in_reply_to_screen_name": "misterHfeatures",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71954,
+			"friends_count": 7147,
+			"listed_count": 921,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@misterHfeatures I had to get up and look at a mechanical clock."
+	},
+	{
 		"created_at": "Sat Oct 29 19:51:41 +0000 2022",
 		"id": 1586445690124832800,
 		"id_str": "1586445690124832768",
@@ -121,7 +662,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Sat Oct 29 19:42:57 +0000 2022",
 		"id": 1586443489440571400,
 		"id_str": "1586443489440571392",
-		"full_text": "Thanks to this ace little book by ⁦@crobertsbmw⁩, Ivor’s going to have a stellar career in, I dunno, pressing buttons or something. https://t.co/DeTe3FCCKw",
+		"full_text": "Thanks to this ace little book by @crobertsbmw, Ivor’s going to have a stellar career in, I dunno, pressing buttons or something. https://t.co/DeTe3FCCKw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -332,7 +873,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Thanks to this ace little book by ⁦@crobertsbmw⁩, Ivor’s going to have a stellar career in, I dunno, pressing buttons or something. https://t.co/DeTe3FCCKw"
+		"text": "Thanks to this ace little book by @crobertsbmw, Ivor’s going to have a stellar career in, I dunno, pressing buttons or something. https://t.co/DeTe3FCCKw"
 	},
 	{
 		"created_at": "Fri Oct 28 18:12:16 +0000 2022",
