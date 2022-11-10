@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 20:47:10 +0000 2022",
+		"id": 1590445917127463000,
+		"id_str": "1590445917127462913",
+		"full_text": "Reading this supposed benefit of Twitter Blue actually made me emit a sonorous groan. https://t.co/PiGzrGFOtK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590445908591779800,
+					"id_str": "1590445908591779840",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FhJmIJgWIAAmaSk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhJmIJgWIAAmaSk.png",
+					"url": "https://t.co/PiGzrGFOtK",
+					"display_url": "pic.twitter.com/PiGzrGFOtK",
+					"expanded_url": "https://twitter.com/rhodri/status/1590445917127462913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 88,
+							"h": 88,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 88,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 88,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 408,
+							"h": 88,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590445908591779800,
+					"id_str": "1590445908591779840",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FhJmIJgWIAAmaSk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhJmIJgWIAAmaSk.png",
+					"url": "https://t.co/PiGzrGFOtK",
+					"display_url": "pic.twitter.com/PiGzrGFOtK",
+					"expanded_url": "https://twitter.com/rhodri/status/1590445917127462913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 88,
+							"h": 88,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 88,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 88,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 408,
+							"h": 88,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71640,
+			"friends_count": 7114,
+			"listed_count": 917,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reading this supposed benefit of Twitter Blue actually made me emit a sonorous groan. https://t.co/PiGzrGFOtK"
+	},
+	{
+		"created_at": "Wed Nov 09 10:12:39 +0000 2022",
+		"id": 1590286235289129000,
+		"id_str": "1590286235289128960",
+		"full_text": "@moonjam @typejunky @ChloeCumming Doesn’t matter which one you’re on.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moonjam",
+					"name": "AJ Jefferies",
+					"id": 16013055,
+					"id_str": "16013055",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "typejunky",
+					"name": "Nick",
+					"id": 12336662,
+					"id_str": "12336662",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "ChloeCumming",
+					"name": "Chloe Cumming",
+					"id": 46625492,
+					"id_str": "46625492",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1590284404039254000,
+		"in_reply_to_status_id_str": "1590284404039254023",
+		"in_reply_to_user_id": 16013055,
+		"in_reply_to_user_id_str": "16013055",
+		"in_reply_to_screen_name": "moonjam",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71640,
+			"friends_count": 7114,
+			"listed_count": 917,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@moonjam @typejunky @ChloeCumming Doesn’t matter which one you’re on."
+	},
+	{
 		"created_at": "Tue Nov 08 21:31:04 +0000 2022",
 		"id": 1590094112153538600,
 		"id_str": "1590094578795032576",
