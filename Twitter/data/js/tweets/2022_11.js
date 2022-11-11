@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 19:28:20 +0000 2022",
+		"id": 1590788465469579300,
+		"id_str": "1590788465469579264",
+		"full_text": "I quite like plaques with bad grammar, tbh. Saw this last week. Glorious. https://t.co/8bPNjTluWc https://t.co/TIJakOtiM7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8bPNjTluWc",
+					"expanded_url": "https://twitter.com/thejeremyvine/status/1590600178415067136",
+					"display_url": "twitter.com/thejeremyvine/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1590788457315635200,
+					"id_str": "1590788457315635205",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FhOdrG8XEAUDNrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhOdrG8XEAUDNrm.jpg",
+					"url": "https://t.co/TIJakOtiM7",
+					"display_url": "pic.twitter.com/TIJakOtiM7",
+					"expanded_url": "https://twitter.com/rhodri/status/1590788465469579264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590788457315635200,
+					"id_str": "1590788457315635205",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FhOdrG8XEAUDNrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhOdrG8XEAUDNrm.jpg",
+					"url": "https://t.co/TIJakOtiM7",
+					"display_url": "pic.twitter.com/TIJakOtiM7",
+					"expanded_url": "https://twitter.com/rhodri/status/1590788465469579264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71628,
+			"friends_count": 7115,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1590600178415067100,
+		"quoted_status_id_str": "1590600178415067136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8bPNjTluWc",
+			"expanded": "https://twitter.com/thejeremyvine/status/1590600178415067136",
+			"display": "twitter.com/thejeremyvine/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 10 07:00:09 +0000 2022",
+			"id": 1590600178415067100,
+			"id_str": "1590600178415067136",
+			"full_text": "What an absolute disgrace to put this up. It would have been more literate if the tree had written it. Even the date is wrong. https://t.co/OacU1k2BL6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1590600174937821200,
+						"id_str": "1590600174937821184",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FhLybobX0AAcT4G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhLybobX0AAcT4G.jpg",
+						"url": "https://t.co/OacU1k2BL6",
+						"display_url": "pic.twitter.com/OacU1k2BL6",
+						"expanded_url": "https://twitter.com/theJeremyVine/status/1590600178415067136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 835,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1590600174937821200,
+						"id_str": "1590600174937821184",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FhLybobX0AAcT4G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhLybobX0AAcT4G.jpg",
+						"url": "https://t.co/OacU1k2BL6",
+						"display_url": "pic.twitter.com/OacU1k2BL6",
+						"expanded_url": "https://twitter.com/theJeremyVine/status/1590600178415067136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 835,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331672974,
+				"id_str": "331672974",
+				"name": "Jeremy Vine",
+				"screen_name": "theJeremyVine",
+				"location": "Radio 2 & Channel 5  ",
+				"description": "It was cold and it rained, so I felt like an actor",
+				"url": "https://t.co/RzJLufdluU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RzJLufdluU",
+								"expanded_url": "https://vm.tiktok.com/ZML1UgXGo/",
+								"display_url": "vm.tiktok.com/ZML1UgXGo/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 785857,
+				"friends_count": 14933,
+				"listed_count": 1943,
+				"created_at": "Fri Jul 08 15:01:21 +0000 2011",
+				"favourites_count": 59181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91303,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1571939194435428354/o6A4gZ7__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571939194435428354/o6A4gZ7__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331672974/1663614483",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 495,
+			"favorite_count": 7930,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I quite like plaques with bad grammar, tbh. Saw this last week. Glorious. https://t.co/8bPNjTluWc https://t.co/TIJakOtiM7"
+	},
+	{
 		"created_at": "Wed Nov 09 20:47:10 +0000 2022",
 		"id": 1590445917127463000,
 		"id_str": "1590445917127462913",
