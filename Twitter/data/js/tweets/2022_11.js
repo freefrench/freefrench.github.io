@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 08:51:11 +0000 2022",
+		"id": 1591715284796297200,
+		"id_str": "1591715284796297216",
+		"full_text": "@JoannaG @jamesglynn No, I’m sorry. What a completely unnecessary load of shite. X",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoannaG",
+					"name": "J Geary ⚡️",
+					"id": 13010422,
+					"id_str": "13010422",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jamesglynn",
+					"name": "J Λ M Ξ S",
+					"id": 29417177,
+					"id_str": "29417177",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1591592753397649400,
+		"in_reply_to_status_id_str": "1591592753397649409",
+		"in_reply_to_user_id": 13010422,
+		"in_reply_to_user_id_str": "13010422",
+		"in_reply_to_screen_name": "JoannaG",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Write features & books. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Reliable, affable, semipermeable.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71614,
+			"friends_count": 7114,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JoannaG @jamesglynn No, I’m sorry. What a completely unnecessary load of shite. X"
+	},
+	{
 		"created_at": "Sat Nov 12 19:20:40 +0000 2022",
 		"id": 1591511313775493000,
 		"id_str": "1591511313775493121",
