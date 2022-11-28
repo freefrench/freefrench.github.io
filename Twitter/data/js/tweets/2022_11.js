@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 18:54:30 +0000 2022",
+		"id": 1596940546047893500,
+		"id_str": "1596940546047893505",
+		"full_text": "@MathewTucker1 I can’t hear that at all, but you prompted me to listen to Of Queues And Cures, so all good :)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MathewTucker1",
+					"name": "Mathew Tucker",
+					"id": 302835763,
+					"id_str": "302835763",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1596877244823392300,
+		"in_reply_to_status_id_str": "1596877244823392257",
+		"in_reply_to_user_id": 302835763,
+		"in_reply_to_user_id_str": "302835763",
+		"in_reply_to_screen_name": "MathewTucker1",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71439,
+			"friends_count": 7116,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MathewTucker1 I can’t hear that at all, but you prompted me to listen to Of Queues And Cures, so all good :)"
+	},
+	{
+		"created_at": "Sun Nov 27 11:05:51 +0000 2022",
+		"id": 1596822607290314800,
+		"id_str": "1596822607290314754",
+		"full_text": "@GraystonThe @Padi_1331 @johnrobb77 @thetradesclub @louderthanwar Here you go :) https://t.co/SptyluQADB",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GraystonThe",
+					"name": "Grayston Unity",
+					"id": 732950626993377300,
+					"id_str": "732950626993377280",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Padi_1331",
+					"name": "Padi",
+					"id": 724757426,
+					"id_str": "724757426",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "johnrobb77",
+					"name": "john robb",
+					"id": 21263059,
+					"id_str": "21263059",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "thetradesclub",
+					"name": "The Trades Club",
+					"id": 160461353,
+					"id_str": "160461353",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "louderthanwar",
+					"name": "Louder Than War",
+					"id": 166964765,
+					"id_str": "166964765",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SptyluQADB",
+					"expanded_url": "https://www.dropbox.com/s/ay19e5n3rs7xwjn/Live%20At%20Halifax%20Old%20Cock.zip?dl=0",
+					"display_url": "dropbox.com/s/ay19e5n3rs7x…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1596802969374056400,
+		"in_reply_to_status_id_str": "1596802969374056449",
+		"in_reply_to_user_id": 732950626993377300,
+		"in_reply_to_user_id_str": "732950626993377280",
+		"in_reply_to_screen_name": "GraystonThe",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71439,
+			"friends_count": 7116,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 37935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GraystonThe @Padi_1331 @johnrobb77 @thetradesclub @louderthanwar Here you go :) https://t.co/SptyluQADB"
+	},
+	{
 		"created_at": "Sat Nov 26 14:04:01 +0000 2022",
 		"id": 1596505054605086700,
 		"id_str": "1596505054605086722",
