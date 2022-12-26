@@ -1,6 +1,1105 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 18:59:02 +0000 2022",
+		"id": 1607088546615275500,
+		"id_str": "1607088546615275520",
+		"full_text": "@MsLupin WHAT IS THIS STRANGE BRITISH TRADITION",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsLupin",
+					"name": "BlueDragonLandlady",
+					"id": 225573568,
+					"id_str": "225573568",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1607087983487864800,
+		"in_reply_to_status_id_str": "1607087983487864834",
+		"in_reply_to_user_id": 225573568,
+		"in_reply_to_user_id_str": "225573568",
+		"in_reply_to_screen_name": "MsLupin",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MsLupin WHAT IS THIS STRANGE BRITISH TRADITION"
+	},
+	{
+		"created_at": "Sun Dec 25 18:53:21 +0000 2022",
+		"id": 1607087116730732500,
+		"id_str": "1607087116730732546",
+		"full_text": "We’re almost tipping £50k, incredibly! If you have a couple of quid to help us over the line, please do contribute. \n\nEntries still coming in: #DuvetKnowItsChristmas \n\nDonation link: https://t.co/GHmVD4HnPV https://t.co/f1ELSIA3x2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						143,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GHmVD4HnPV",
+					"expanded_url": "https://www.justgiving.com/page/duvet-22",
+					"display_url": "justgiving.com/page/duvet-22",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/f1ELSIA3x2",
+					"expanded_url": "https://twitter.com/centrepointuk/status/1606992489537306624",
+					"display_url": "twitter.com/centrepointuk/…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1606992489537306600,
+		"quoted_status_id_str": "1606992489537306624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f1ELSIA3x2",
+			"expanded": "https://twitter.com/centrepointuk/status/1606992489537306624",
+			"display": "twitter.com/centrepointuk/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 25 12:37:20 +0000 2022",
+			"id": 1606992489537306600,
+			"id_str": "1606992489537306624",
+			"full_text": "Huge thanks to @rhodri and everyone who has kindly donated to help us support young people experiencing homelessness! \n\nWe're blown away by your incredible generosity! 🧡\n\n#DuvetKnowItsChristmas https://t.co/ZWlkKRnQME",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DuvetKnowItsChristmas",
+						"indices": [
+							171,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							15,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZWlkKRnQME",
+						"expanded_url": "https://twitter.com/rhodri/status/1606934697702998016",
+						"display_url": "twitter.com/rhodri/status/…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42644368,
+				"id_str": "42644368",
+				"name": "Centrepoint",
+				"screen_name": "centrepointuk",
+				"location": "UK",
+				"description": "We are the UK's leading charity for homeless young people aged 16-25. If you're homeless or at risk call our free Helpline - 0808 800 0661.",
+				"url": "https://t.co/RYkQfS98rA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RYkQfS98rA",
+								"expanded_url": "http://www.centrepoint.org.uk/",
+								"display_url": "centrepoint.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47869,
+				"friends_count": 1541,
+				"listed_count": 531,
+				"created_at": "Tue May 26 15:16:35 +0000 2009",
+				"favourites_count": 10512,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13864,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1567158423036248064/YzAHeWJm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567158423036248064/YzAHeWJm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42644368/1617977340",
+				"profile_link_color": "D14314",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE6E4",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1606934697702998000,
+			"quoted_status_id_str": "1606934697702998016",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZWlkKRnQME",
+				"expanded": "https://twitter.com/rhodri/status/1606934697702998016",
+				"display": "twitter.com/rhodri/status/…"
+			},
+			"retweet_count": 26,
+			"favorite_count": 184,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 76,
+		"favorite_count": 276,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re almost tipping £50k, incredibly! If you have a couple of quid to help us over the line, please do contribute. \n\nEntries still coming in: #DuvetKnowItsChristmas \n\nDonation link: https://t.co/GHmVD4HnPV https://t.co/f1ELSIA3x2"
+	},
+	{
+		"created_at": "Sun Dec 25 18:41:48 +0000 2022",
+		"id": 1607084210602254300,
+		"id_str": "1607084210602254336",
+		"full_text": "@robotmaths It was with a heavy heart that I received the news that the Mail had covered it.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robotmaths",
+					"name": "RobotMaths",
+					"id": 19901094,
+					"id_str": "19901094",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1607058067698450400,
+		"in_reply_to_status_id_str": "1607058067698450438",
+		"in_reply_to_user_id": 19901094,
+		"in_reply_to_user_id_str": "19901094",
+		"in_reply_to_screen_name": "robotmaths",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robotmaths It was with a heavy heart that I received the news that the Mail had covered it."
+	},
+	{
+		"created_at": "Sun Dec 25 18:26:16 +0000 2022",
+		"id": 1607080302513365000,
+		"id_str": "1607080302513364993",
+		"full_text": "@harriekd Oh no! I hope you’re ok.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harriekd",
+					"name": "harrie “glorious being of light & miracles”🇺🇦",
+					"id": 9116332,
+					"id_str": "9116332",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1607078167549808600,
+		"in_reply_to_status_id_str": "1607078167549808641",
+		"in_reply_to_user_id": 9116332,
+		"in_reply_to_user_id_str": "9116332",
+		"in_reply_to_screen_name": "harriekd",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@harriekd Oh no! I hope you’re ok."
+	},
+	{
+		"created_at": "Sun Dec 25 09:13:02 +0000 2022",
+		"id": 1606941076790591500,
+		"id_str": "1606941076790591489",
+		"full_text": "@tracey_thorn Sorry, that picture looks a bit smug x",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tracey_thorn",
+					"name": "Tracey Thorn",
+					"id": 49763896,
+					"id_str": "49763896",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1606940876382638000,
+		"in_reply_to_status_id_str": "1606940876382638080",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tracey_thorn Sorry, that picture looks a bit smug x"
+	},
+	{
+		"created_at": "Sun Dec 25 09:12:15 +0000 2022",
+		"id": 1606940876382638000,
+		"id_str": "1606940876382638080",
+		"full_text": "@tracey_thorn https://t.co/N1J3nc2AsW",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tracey_thorn",
+					"name": "Tracey Thorn",
+					"id": 49763896,
+					"id_str": "49763896",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606940873610100700,
+					"id_str": "1606940873610100736",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Fk0ANeqWAAAo9qm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fk0ANeqWAAAo9qm.jpg",
+					"url": "https://t.co/N1J3nc2AsW",
+					"display_url": "pic.twitter.com/N1J3nc2AsW",
+					"expanded_url": "https://twitter.com/rhodri/status/1606940876382638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606940873610100700,
+					"id_str": "1606940873610100736",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Fk0ANeqWAAAo9qm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fk0ANeqWAAAo9qm.jpg",
+					"url": "https://t.co/N1J3nc2AsW",
+					"display_url": "pic.twitter.com/N1J3nc2AsW",
+					"expanded_url": "https://twitter.com/rhodri/status/1606940876382638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1606939540572315600,
+		"in_reply_to_status_id_str": "1606939540572315648",
+		"in_reply_to_user_id": 49763896,
+		"in_reply_to_user_id_str": "49763896",
+		"in_reply_to_screen_name": "tracey_thorn",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@tracey_thorn https://t.co/N1J3nc2AsW"
+	},
+	{
+		"created_at": "Sun Dec 25 08:52:48 +0000 2022",
+		"id": 1606935984096116700,
+		"id_str": "1606935984096116736",
+		"full_text": "@clindsayteacher Yeah!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clindsayteacher",
+					"name": "Catherine Lindsay",
+					"id": 2202820097,
+					"id_str": "2202820097",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1606935935454683100,
+		"in_reply_to_status_id_str": "1606935935454683136",
+		"in_reply_to_user_id": 2202820097,
+		"in_reply_to_user_id_str": "2202820097",
+		"in_reply_to_screen_name": "clindsayteacher",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@clindsayteacher Yeah!"
+	},
+	{
+		"created_at": "Sun Dec 25 08:47:41 +0000 2022",
+		"id": 1606934697702998000,
+		"id_str": "1606934697702998016",
+		"full_text": "Sterling work overnight on #DuvetKnowItsChristmas, and nearly £40k raised for Centrepoint. Woop! Peruse the festive joy on the hashtag and/or under this thread! Donate if you can! Revel in the timely reminder that Twitter isn’t just for arguing! ♥️ https://t.co/GHmVD4HnPV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuvetKnowItsChristmas",
+					"indices": [
+						27,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GHmVD4HnPV",
+					"expanded_url": "https://www.justgiving.com/page/duvet-22",
+					"display_url": "justgiving.com/page/duvet-22",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1606775490013978600,
+		"in_reply_to_status_id_str": "1606775490013978626",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72229,
+			"friends_count": 7107,
+			"listed_count": 911,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 502,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sterling work overnight on #DuvetKnowItsChristmas, and nearly £40k raised for Centrepoint. Woop! Peruse the festive joy on the hashtag and/or under this thread! Donate if you can! Revel in the timely reminder that Twitter isn’t just for arguing! ♥️ https://t.co/GHmVD4HnPV"
+	},
+	{
 		"created_at": "Sat Dec 24 22:15:03 +0000 2022",
 		"id": 1606775490013978600,
 		"id_str": "1606775490013978626",
@@ -3482,7 +4581,7 @@ Grailbird.data.tweets_2022_12 =
 				"name": "Jan Falcondale",
 				"screen_name": "FalcondaleJan",
 				"location": "Yorkshire",
-				"description": "Developer of words and photos. Imagines everyone on Twitter is a friend, to a fault (most of the time). Unpaid carer of D20. Neglected blog.\n🍺📸✝️👨‍👩‍👧‍👧🍰",
+				"description": "Developer of words and photos. Imagines everyone on Twitter is a friend, to a fault (most of the time). Unpaid carer of D20. Neglected blog.\n🍺📸✝️👨👩👧👧🍰",
 				"url": null,
 				"entities": {
 					"description": {
@@ -14581,7 +15680,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "They who stay quiet in the void.",
 			"screen_name": "The_Farwall",
 			"location": "Manchester, UK",
-			"description": "I am missing The devil's kingdom In the dark Where women are kings https://t.co/OPJUEsn7ky \"Abyssal Jester\", He/they 🏳‍🌈.",
+			"description": "I am missing The devil's kingdom In the dark Where women are kings https://t.co/OPJUEsn7ky \"Abyssal Jester\", He/they 🏳🌈.",
 			"url": null,
 			"entities": {
 				"description": {
@@ -17407,7 +18506,7 @@ Grailbird.data.tweets_2022_12 =
 				"name": "Sarah Elizabeth Cox",
 				"screen_name": "spookyjulie",
 				"location": "Clacton-on-Sea, England",
-				"description": "PR @tommys 👩🏻‍💻👶 | Writes about Victorian men fighting in tights @wrestling1880s 🤼‍♂️ | Biographer, Jack Wannop | Historical Consultant #AThousandBlows 🥊",
+				"description": "PR @tommys 👩🏻💻👶 | Writes about Victorian men fighting in tights @wrestling1880s 🤼♂️ | Biographer, Jack Wannop | Historical Consultant #AThousandBlows 🥊",
 				"url": "https://t.co/m8KRP2bHuG",
 				"entities": {
 					"url": {
