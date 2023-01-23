@@ -1,10 +1,633 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 22 20:38:31 +0000 2023",
+		"id": 1617260442992132000,
+		"id_str": "1617260442992132099",
+		"full_text": "@anna_bobs They’ve just heard people saying it and don’t know it’s French and just unquestioningly repeat it (badly) is my theory",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anna_bobs",
+					"name": "Anna",
+					"id": 1210898563724480500,
+					"id_str": "1210898563724480513",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1617144455097614300,
+		"in_reply_to_status_id_str": "1617144455097614337",
+		"in_reply_to_user_id": 1210898563724480500,
+		"in_reply_to_user_id_str": "1210898563724480513",
+		"in_reply_to_screen_name": "anna_bobs",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72313,
+			"friends_count": 7122,
+			"listed_count": 913,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@anna_bobs They’ve just heard people saying it and don’t know it’s French and just unquestioningly repeat it (badly) is my theory"
+	},
+	{
+		"created_at": "Sun Jan 22 20:37:42 +0000 2023",
+		"id": 1617212758214283300,
+		"id_str": "1617260236355641346",
+		"full_text": "The black mirror-esque rise of ‘death tech’ - @rhodri for this weekend’s @telegraph mag\nhttps://t.co/xBNLIm4lqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "Telegraph",
+					"name": "The Telegraph",
+					"id": 16343974,
+					"id_str": "16343974",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xBNLIm4lqi",
+					"expanded_url": "https://www.telegraph.co.uk/technology/2023/01/19/how-tech-bringing-dead-relatives-back-life/",
+					"display_url": "telegraph.co.uk/technology/202…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 293577451,
+			"id_str": "293577451",
+			"name": "Claudia Rowan",
+			"screen_name": "claudiarowan",
+			"location": "",
+			"description": "Commissioning editor, The Telegraph Magazine",
+			"url": "https://t.co/vLWPwjIGWv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLWPwjIGWv",
+							"expanded_url": "https://www.telegraph.co.uk/authors/c/ck-co/claudia-rowan/",
+							"display_url": "telegraph.co.uk/authors/c/ck-c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2200,
+			"friends_count": 2055,
+			"listed_count": 8,
+			"created_at": "Thu May 05 15:58:32 +0000 2011",
+			"favourites_count": 12818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551839646564360192/TIz99IPO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551839646564360192/TIz99IPO_normal.jpg",
+			"profile_link_color": "9779A3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The black mirror-esque rise of ‘death tech’ - @rhodri for this weekend’s @telegraph mag\nhttps://t.co/xBNLIm4lqi"
+	},
+	{
+		"created_at": "Sun Jan 22 18:02:40 +0000 2023",
+		"id": 1617221221598249000,
+		"id_str": "1617221221598248961",
+		"full_text": "@maqusan Thing is, have you SEEN the price of mould these days?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maqusan",
+					"name": "Maq",
+					"id": 21406699,
+					"id_str": "21406699",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1617217300741951500,
+		"in_reply_to_status_id_str": "1617217300741951488",
+		"in_reply_to_user_id": 21406699,
+		"in_reply_to_user_id_str": "21406699",
+		"in_reply_to_screen_name": "maqusan",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72313,
+			"friends_count": 7122,
+			"listed_count": 913,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@maqusan Thing is, have you SEEN the price of mould these days?"
+	},
+	{
+		"created_at": "Sun Jan 22 17:46:01 +0000 2023",
+		"id": 1617217029861245000,
+		"id_str": "1617217029861244933",
+		"full_text": "“Ok Google, add Maldon salt to shopping list.” https://t.co/q3QMaSTlhd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1617217026413531100,
+					"id_str": "1617217026413531140",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FnGCUTAXkAQlTLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnGCUTAXkAQlTLx.jpg",
+					"url": "https://t.co/q3QMaSTlhd",
+					"display_url": "pic.twitter.com/q3QMaSTlhd",
+					"expanded_url": "https://twitter.com/rhodri/status/1617217029861244933/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617217026413531100,
+					"id_str": "1617217026413531140",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FnGCUTAXkAQlTLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnGCUTAXkAQlTLx.jpg",
+					"url": "https://t.co/q3QMaSTlhd",
+					"display_url": "pic.twitter.com/q3QMaSTlhd",
+					"expanded_url": "https://twitter.com/rhodri/status/1617217029861244933/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72313,
+			"friends_count": 7122,
+			"listed_count": 913,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Ok Google, add Maldon salt to shopping list.” https://t.co/q3QMaSTlhd"
+	},
+	{
+		"created_at": "Sun Jan 22 12:55:12 +0000 2023",
+		"id": 1617143846147879000,
+		"id_str": "1617143846147878913",
+		"full_text": "@anna_bobs That was fucking weird. I was just thinking about this (fairly common) practice, looked at Twitter and your tweet was the first thing I saw. If I was an idiot I’d think that Elon Musk was reading my mind.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anna_bobs",
+					"name": "Anna",
+					"id": 1210898563724480500,
+					"id_str": "1210898563724480513",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1617106532008878000,
+		"in_reply_to_status_id_str": "1617106532008878084",
+		"in_reply_to_user_id": 1210898563724480500,
+		"in_reply_to_user_id_str": "1210898563724480513",
+		"in_reply_to_screen_name": "anna_bobs",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72313,
+			"friends_count": 7122,
+			"listed_count": 913,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@anna_bobs That was fucking weird. I was just thinking about this (fairly common) practice, looked at Twitter and your tweet was the first thing I saw. If I was an idiot I’d think that Elon Musk was reading my mind."
+	},
+	{
 		"created_at": "Sat Jan 21 23:56:03 +0000 2023",
 		"id": 1616947767892447200,
 		"id_str": "1616947767892447232",
-		"full_text": "@jolivsey I solved that problem but it was replaced by another problem (not Doro’s fault, EE’s fault 🤷🏻‍♂️)",
+		"full_text": "@jolivsey I solved that problem but it was replaced by another problem (not Doro’s fault, EE’s fault 🤷🏻♂️)",
 		"truncated": false,
 		"display_text_range": [
 			10,
@@ -105,7 +728,7 @@ Grailbird.data.tweets_2023_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@jolivsey I solved that problem but it was replaced by another problem (not Doro’s fault, EE’s fault 🤷🏻‍♂️)"
+		"text": "@jolivsey I solved that problem but it was replaced by another problem (not Doro’s fault, EE’s fault 🤷🏻♂️)"
 	},
 	{
 		"created_at": "Sat Jan 21 22:26:19 +0000 2023",
