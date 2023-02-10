@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 13:01:50 +0000 2023",
+		"id": 1623668497417965600,
+		"id_str": "1623668497417965569",
+		"full_text": "Yesterday I was listening to \"Nightmoves\" by Michael Franks – I mean, why wouldn't you – and I thought \"HANG ON, I KNOW THAT TUNE, SOMEONE MUST HAVE NICKED IT\", and it just came to me in a flash. Different key, but identical! Scandal! https://t.co/h64CLGzBtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623668315884224500,
+					"id_str": "1623668315884224513",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1623668315884224513/pu/img/FwDEPC825ZYbDR_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1623668315884224513/pu/img/FwDEPC825ZYbDR_l.jpg",
+					"url": "https://t.co/h64CLGzBtO",
+					"display_url": "pic.twitter.com/h64CLGzBtO",
+					"expanded_url": "https://twitter.com/rhodri/status/1623668497417965569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623668315884224500,
+					"id_str": "1623668315884224513",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1623668315884224513/pu/img/FwDEPC825ZYbDR_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1623668315884224513/pu/img/FwDEPC825ZYbDR_l.jpg",
+					"url": "https://t.co/h64CLGzBtO",
+					"display_url": "pic.twitter.com/h64CLGzBtO",
+					"expanded_url": "https://twitter.com/rhodri/status/1623668497417965569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14320,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1623668315884224513/pu/pl/v3w_ASTRvyBMimxf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1623668315884224513/pu/vid/1280x720/Uxz00wtqM9seIJXD.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1623668315884224513/pu/vid/640x360/1sQpOqi2G_Cek0tm.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1623668315884224513/pu/vid/480x270/oTnL8daTwd0v5HOc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7126,
+			"listed_count": 913,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yesterday I was listening to \"Nightmoves\" by Michael Franks – I mean, why wouldn't you – and I thought \"HANG ON, I KNOW THAT TUNE, SOMEONE MUST HAVE NICKED IT\", and it just came to me in a flash. Different key, but identical! Scandal! https://t.co/h64CLGzBtO"
+	},
+	{
 		"created_at": "Wed Feb 08 16:43:25 +0000 2023",
 		"id": 1623361870978551800,
 		"id_str": "1623361870978551808",
