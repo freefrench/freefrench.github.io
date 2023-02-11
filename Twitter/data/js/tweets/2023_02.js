@@ -1,6 +1,1923 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 10 21:10:11 +0000 2023",
+		"id": 1624153782606082000,
+		"id_str": "1624153782606082048",
+		"full_text": "@alice_victoria3 @Sarah_and_Duck Yes! We went to see it in Southend (I think?) last year, was lovely. Ivor didn’t know what the fuck was going on, we’ll have to take him again 😊",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alice_victoria3",
+					"name": "alicevictoria",
+					"id": 391409142,
+					"id_str": "391409142",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Sarah_and_Duck",
+					"name": "Sarah & Duck",
+					"id": 819192906,
+					"id_str": "819192906",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1624136794282291200,
+		"in_reply_to_status_id_str": "1624136794282291201",
+		"in_reply_to_user_id": 391409142,
+		"in_reply_to_user_id_str": "391409142",
+		"in_reply_to_screen_name": "alice_victoria3",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alice_victoria3 @Sarah_and_Duck Yes! We went to see it in Southend (I think?) last year, was lovely. Ivor didn’t know what the fuck was going on, we’ll have to take him again 😊"
+	},
+	{
+		"created_at": "Fri Feb 10 19:47:29 +0000 2023",
+		"id": 1624132968124977200,
+		"id_str": "1624132968124977158",
+		"full_text": "@toria970 It was chicken pox.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "toria970",
+					"name": "Victoria",
+					"id": 82995075,
+					"id_str": "82995075",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1622519654202720300,
+		"in_reply_to_status_id_str": "1622519654202720256",
+		"in_reply_to_user_id": 82995075,
+		"in_reply_to_user_id_str": "82995075",
+		"in_reply_to_screen_name": "toria970",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@toria970 It was chicken pox."
+	},
+	{
+		"created_at": "Fri Feb 10 19:36:28 +0000 2023",
+		"id": 1624130195639750700,
+		"id_str": "1624130195639750656",
+		"full_text": "@sebmaley “Something Big”",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sebmaley",
+					"name": "Seb Maley",
+					"id": 20438991,
+					"id_str": "20438991",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1624126670155223000,
+		"in_reply_to_status_id_str": "1624126670155223053",
+		"in_reply_to_user_id": 20438991,
+		"in_reply_to_user_id_str": "20438991",
+		"in_reply_to_screen_name": "sebmaley",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sebmaley “Something Big”"
+	},
+	{
+		"created_at": "Fri Feb 10 18:53:29 +0000 2023",
+		"id": 1624119378735136800,
+		"id_str": "1624119378735136782",
+		"full_text": "There’s no wine in the fridge unless you buy the wine and put it in the fridge. That’s not a proverb, it’s something that just became extremely apparent to me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "There’s no wine in the fridge unless you buy the wine and put it in the fridge. That’s not a proverb, it’s something that just became extremely apparent to me."
+	},
+	{
+		"created_at": "Fri Feb 10 14:24:47 +0000 2023",
+		"id": 1624051759713861600,
+		"id_str": "1624051759713861635",
+		"full_text": "@TheLyricJacket I'm feeling like a bit of a dim bulb.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheLyricJacket",
+					"name": "Andy Carne",
+					"id": 2927561914,
+					"id_str": "2927561914",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624032861849374700,
+		"in_reply_to_status_id_str": "1624032861849374720",
+		"in_reply_to_user_id": 2927561914,
+		"in_reply_to_user_id_str": "2927561914",
+		"in_reply_to_screen_name": "TheLyricJacket",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheLyricJacket I'm feeling like a bit of a dim bulb."
+	},
+	{
+		"created_at": "Fri Feb 10 14:24:22 +0000 2023",
+		"id": 1624051653815988200,
+		"id_str": "1624051653815988227",
+		"full_text": "@thenamelessbook @dickymoo @_black_peaches_ Well, that starts on the one, which is a clue :) Bloody hell, though, what an awkward riff to play. G Coxon must have felt annoyed every time he had to perform it.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenamelessbook",
+					"name": "The Nameless Book",
+					"id": 36672742,
+					"id_str": "36672742",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "_black_peaches_",
+					"name": "Black Peaches",
+					"id": 1910707879,
+					"id_str": "1910707879",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624025963502751700,
+		"in_reply_to_status_id_str": "1624025963502751744",
+		"in_reply_to_user_id": 36672742,
+		"in_reply_to_user_id_str": "36672742",
+		"in_reply_to_screen_name": "thenamelessbook",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thenamelessbook @dickymoo @_black_peaches_ Well, that starts on the one, which is a clue :) Bloody hell, though, what an awkward riff to play. G Coxon must have felt annoyed every time he had to perform it."
+	},
+	{
+		"created_at": "Fri Feb 10 10:47:44 +0000 2023",
+		"id": 1623997135455756300,
+		"id_str": "1623997135455756288",
+		"full_text": "@dickymoo @_black_peaches_ \"Once In A Lifetime\"!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "_black_peaches_",
+					"name": "Black Peaches",
+					"id": 1910707879,
+					"id_str": "1910707879",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623986384963883000,
+		"in_reply_to_status_id_str": "1623986384963883010",
+		"in_reply_to_user_id": 132851724,
+		"in_reply_to_user_id_str": "132851724",
+		"in_reply_to_screen_name": "dickymoo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dickymoo @_black_peaches_ \"Once In A Lifetime\"!"
+	},
+	{
+		"created_at": "Fri Feb 10 10:47:06 +0000 2023",
+		"id": 1623996977905119200,
+		"id_str": "1623996977905119232",
+		"full_text": "@dickymoo @_black_peaches_ \"Single Ladies\" https://t.co/l0rBNiY3iS",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "_black_peaches_",
+					"name": "Black Peaches",
+					"id": 1910707879,
+					"id_str": "1910707879",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l0rBNiY3iS",
+					"expanded_url": "https://twitter.com/Chris_Naylor_B/status/1365365387907518469",
+					"display_url": "twitter.com/Chris_Naylor_B…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623986384963883000,
+		"in_reply_to_status_id_str": "1623986384963883010",
+		"in_reply_to_user_id": 132851724,
+		"in_reply_to_user_id_str": "132851724",
+		"in_reply_to_screen_name": "dickymoo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365365387907518500,
+		"quoted_status_id_str": "1365365387907518469",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l0rBNiY3iS",
+			"expanded": "https://twitter.com/Chris_Naylor_B/status/1365365387907518469",
+			"display": "twitter.com/Chris_Naylor_B…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 26 18:17:30 +0000 2021",
+			"id": 1365365387907518500,
+			"id_str": "1365365387907518469",
+			"full_text": "@rhodri sorry to single you out but you're my only mutual follower/ee that might be able to help me. Where is the 'One' in Beyonce's Single Ladies? I don't think it's where I hear it and now I'm stuck hearing it 'wrong'. Like I always do with Theme From Shaft. Total nightmare.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rhodri",
+						"name": "Rhodri Marsden",
+						"id": 1524841,
+						"id_str": "1524841",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 2890620233,
+				"id_str": "2890620233",
+				"name": "Chris Naylor-Ballesteros",
+				"screen_name": "Chris_Naylor_B",
+				"location": "France",
+				"description": "Not often active on Twitter for the mo' \nhttps://t.co/WQwfw3hqLc…",
+				"url": "https://t.co/MTlQpveckn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MTlQpveckn",
+								"expanded_url": "http://www.chrisnaylorballesteros.com",
+								"display_url": "chrisnaylorballesteros.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WQwfw3hqLc",
+								"expanded_url": "http://instagram.com/chris.naylor.b",
+								"display_url": "instagram.com/chris.naylor.b",
+								"indices": [
+									41,
+									64
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1430,
+				"friends_count": 706,
+				"listed_count": 18,
+				"created_at": "Mon Nov 24 11:38:55 +0000 2014",
+				"favourites_count": 7187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502947220487823363/SaC0Wr8C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502947220487823363/SaC0Wr8C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890620233/1674043629",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dickymoo @_black_peaches_ \"Single Ladies\" https://t.co/l0rBNiY3iS"
+	},
+	{
+		"created_at": "Fri Feb 10 10:46:39 +0000 2023",
+		"id": 1623996865304821800,
+		"id_str": "1623996865304821761",
+		"full_text": "@dickymoo @_black_peaches_ \"Going Underground\" https://t.co/cVp1k8xoAE",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "_black_peaches_",
+					"name": "Black Peaches",
+					"id": 1910707879,
+					"id_str": "1910707879",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cVp1k8xoAE",
+					"expanded_url": "https://twitter.com/rhodri/status/1327338815023878154",
+					"display_url": "twitter.com/rhodri/status/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623986384963883000,
+		"in_reply_to_status_id_str": "1623986384963883010",
+		"in_reply_to_user_id": 132851724,
+		"in_reply_to_user_id_str": "132851724",
+		"in_reply_to_screen_name": "dickymoo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327338815023878100,
+		"quoted_status_id_str": "1327338815023878154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cVp1k8xoAE",
+			"expanded": "https://twitter.com/rhodri/status/1327338815023878154",
+			"display": "twitter.com/rhodri/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 13 19:53:28 +0000 2020",
+			"id": 1327338815023878100,
+			"id_str": "1327338815023878154",
+			"full_text": "And don’t get me started on the verse of “Going Underground” by the Jam. Bar line nightmare",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1327337816645398500,
+			"in_reply_to_status_id_str": "1327337816645398539",
+			"in_reply_to_user_id": 1524841,
+			"in_reply_to_user_id_str": "1524841",
+			"in_reply_to_screen_name": "rhodri",
+			"user": {
+				"id": 1524841,
+				"id_str": "1524841",
+				"name": "Rhodri Marsden",
+				"screen_name": "rhodri",
+				"location": "London, United Kingdom",
+				"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+				"url": "https://t.co/Vva73DDUbR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vva73DDUbR",
+								"expanded_url": "http://rhodri.info",
+								"display_url": "rhodri.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72290,
+				"friends_count": 7127,
+				"listed_count": 914,
+				"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+				"favourites_count": 38788,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 139401,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "424242",
+				"profile_text_color": "999999",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dickymoo @_black_peaches_ \"Going Underground\" https://t.co/cVp1k8xoAE"
+	},
+	{
+		"created_at": "Fri Feb 10 10:46:19 +0000 2023",
+		"id": 1623996781850726400,
+		"id_str": "1623996781850726400",
+		"full_text": "@dickymoo @_black_peaches_ \"Because The Night\" https://t.co/8tyTPxU7sO",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "_black_peaches_",
+					"name": "Black Peaches",
+					"id": 1910707879,
+					"id_str": "1910707879",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8tyTPxU7sO",
+					"expanded_url": "https://twitter.com/rhodri/status/1327337816645398539",
+					"display_url": "twitter.com/rhodri/status/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623986384963883000,
+		"in_reply_to_status_id_str": "1623986384963883010",
+		"in_reply_to_user_id": 132851724,
+		"in_reply_to_user_id_str": "132851724",
+		"in_reply_to_screen_name": "dickymoo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327337816645398500,
+		"quoted_status_id_str": "1327337816645398539",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8tyTPxU7sO",
+			"expanded": "https://twitter.com/rhodri/status/1327337816645398539",
+			"display": "twitter.com/rhodri/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 13 19:49:30 +0000 2020",
+			"id": 1327337816645398500,
+			"id_str": "1327337816645398539",
+			"full_text": "The sound of Patti Smith playing in the kitchen. I’m suddenly not sure where the bar line is in the chorus of “Because The Night” (belongs to lovers). Always thought it was on “night” and “lovers”. I now suspect it’s on “because” and “longs”. So much to worry about.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1524841,
+				"id_str": "1524841",
+				"name": "Rhodri Marsden",
+				"screen_name": "rhodri",
+				"location": "London, United Kingdom",
+				"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+				"url": "https://t.co/Vva73DDUbR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vva73DDUbR",
+								"expanded_url": "http://rhodri.info",
+								"display_url": "rhodri.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72290,
+				"friends_count": 7127,
+				"listed_count": 914,
+				"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+				"favourites_count": 38788,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 139401,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "424242",
+				"profile_text_color": "999999",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dickymoo @_black_peaches_ \"Because The Night\" https://t.co/8tyTPxU7sO"
+	},
+	{
+		"created_at": "Fri Feb 10 09:20:15 +0000 2023",
+		"id": 1623975120300654600,
+		"id_str": "1623975120300654593",
+		"full_text": "@dickymoo I missed this “where is the one” otherwise I would have joined in\n\nI think Twitter has been hiding you from me",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1622160138168684500,
+		"in_reply_to_status_id_str": "1622160138168684544",
+		"in_reply_to_user_id": 132851724,
+		"in_reply_to_user_id_str": "132851724",
+		"in_reply_to_screen_name": "dickymoo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dickymoo I missed this “where is the one” otherwise I would have joined in\n\nI think Twitter has been hiding you from me"
+	},
+	{
+		"created_at": "Fri Feb 10 09:16:52 +0000 2023",
+		"id": 1623974269150539800,
+		"id_str": "1623974269150539777",
+		"full_text": "@dickymoo You can’t say things like that and NOT GIVE US VIDEO FOOTAGE",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickymoo",
+					"name": "Dicky Moore",
+					"id": 132851724,
+					"id_str": "132851724",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623965701017948200,
+		"in_reply_to_status_id_str": "1623965701017948160",
+		"in_reply_to_user_id": 132851724,
+		"in_reply_to_user_id_str": "132851724",
+		"in_reply_to_screen_name": "dickymoo",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dickymoo You can’t say things like that and NOT GIVE US VIDEO FOOTAGE"
+	},
+	{
+		"created_at": "Fri Feb 10 09:14:54 +0000 2023",
+		"id": 1623973775971590100,
+		"id_str": "1623973775971590145",
+		"full_text": "@TheLyricJacket Oh, maybe you weren’t joking. It’s not that, anyway.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheLyricJacket",
+					"name": "Andy Carne",
+					"id": 2927561914,
+					"id_str": "2927561914",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623968654906863600,
+		"in_reply_to_status_id_str": "1623968654906863616",
+		"in_reply_to_user_id": 2927561914,
+		"in_reply_to_user_id_str": "2927561914",
+		"in_reply_to_screen_name": "TheLyricJacket",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheLyricJacket Oh, maybe you weren’t joking. It’s not that, anyway."
+	},
+	{
+		"created_at": "Fri Feb 10 09:14:31 +0000 2023",
+		"id": 1623973676403110000,
+		"id_str": "1623973676403109889",
+		"full_text": "@TheLyricJacket Hahahaha",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheLyricJacket",
+					"name": "Andy Carne",
+					"id": 2927561914,
+					"id_str": "2927561914",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623968654906863600,
+		"in_reply_to_status_id_str": "1623968654906863616",
+		"in_reply_to_user_id": 2927561914,
+		"in_reply_to_user_id_str": "2927561914",
+		"in_reply_to_screen_name": "TheLyricJacket",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72290,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@TheLyricJacket Hahahaha"
+	},
+	{
 		"created_at": "Thu Feb 09 13:01:50 +0000 2023",
 		"id": 1623668497417965600,
 		"id_str": "1623668497417965569",
