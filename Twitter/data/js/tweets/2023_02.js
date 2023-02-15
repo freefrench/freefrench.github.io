@@ -1,10 +1,158 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 14 20:46:00 +0000 2023",
+		"id": 1625583455458193400,
+		"id_str": "1625597249181851668",
+		"full_text": "Next week! Sharpen your biro and gird your staplers, for @WholeHogg @rhodri and I will be talking all things ZINE &amp; DIY publishing in Walthamstow. There COULD be a chance to make your own zine! I think. \nThurs Feb 23th @WildCardBrewery E17 @e17RnR_books https://t.co/iN9Rqhk14N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WholeHogg",
+					"name": "Gavin Hogg",
+					"id": 176472189,
+					"id_str": "176472189",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"screen_name": "rhodri",
+					"name": "Rhodri Marsden",
+					"id": 1524841,
+					"id_str": "1524841",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"screen_name": "WildCardBrewery",
+					"name": "Wild Card Brewery",
+					"id": 938955512,
+					"id_str": "938955512",
+					"indices": [
+						223,
+						239
+					]
+				},
+				{
+					"screen_name": "e17RnR_books",
+					"name": "Rock'n'Rollbookclub 📚",
+					"id": 3851518587,
+					"id_str": "3851518587",
+					"indices": [
+						244,
+						257
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iN9Rqhk14N",
+					"expanded_url": "https://www.eventbrite.com/e/we-peaked-at-paper-tickets-533874150957",
+					"display_url": "eventbrite.com/e/we-peaked-at…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19535235,
+			"id_str": "19535235",
+			"name": "siân pattenden",
+			"screen_name": "sian_superman",
+			"location": "Raw Art Towers raw-art.co.uk",
+			"description": "Presenter for @bunker_pod, writer, event host (books n culture), artist. Young Tegan in Dr Who. For kids books events: @AuthorsAloudUK. Lit agent: @MWHamilton.",
+			"url": "https://t.co/PwDE8hdvmD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PwDE8hdvmD",
+							"expanded_url": "https://bio.link/sianpattenden",
+							"display_url": "bio.link/sianpattenden",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3165,
+			"friends_count": 1251,
+			"listed_count": 41,
+			"created_at": "Mon Jan 26 14:05:40 +0000 2009",
+			"favourites_count": 5438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032573104319614979/W9BHbIFW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032573104319614979/W9BHbIFW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19535235/1553179380",
+			"profile_link_color": "1F2F7D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next week! Sharpen your biro and gird your staplers, for @WholeHogg @rhodri and I will be talking all things ZINE &amp; DIY publishing in Walthamstow. There COULD be a chance to make your own zine! I think. \nThurs Feb 23th @WildCardBrewery E17 @e17RnR_books https://t.co/iN9Rqhk14N"
+	},
+	{
 		"created_at": "Mon Feb 13 18:47:00 +0000 2023",
 		"id": 1625204912849096700,
 		"id_str": "1625204912849096704",
-		"full_text": "@ChristianCull All we do is watch Sarah and Duck. Over and over again 😵‍💫",
+		"full_text": "@ChristianCull All we do is watch Sarah and Duck. Over and over again 😵💫",
 		"truncated": false,
 		"display_text_range": [
 			15,
@@ -105,7 +253,7 @@ Grailbird.data.tweets_2023_02 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@ChristianCull All we do is watch Sarah and Duck. Over and over again 😵‍💫"
+		"text": "@ChristianCull All we do is watch Sarah and Duck. Over and over again 😵💫"
 	},
 	{
 		"created_at": "Mon Feb 13 18:41:17 +0000 2023",
