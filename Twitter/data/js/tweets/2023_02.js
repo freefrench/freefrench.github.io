@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 07:35:48 +0000 2023",
+		"id": 1626123164165017600,
+		"id_str": "1626123164165017601",
+		"full_text": "Of course, it comes second to this Wiki disambiguation note, the finest I e’er did see. https://t.co/U1jnwhbwF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1626123160700461000,
+					"id_str": "1626123160700461056",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FpEmZiqWIAATtSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpEmZiqWIAATtSz.jpg",
+					"url": "https://t.co/U1jnwhbwF0",
+					"display_url": "pic.twitter.com/U1jnwhbwF0",
+					"expanded_url": "https://twitter.com/rhodri/status/1626123164165017601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1290,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 609,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626123160700461000,
+					"id_str": "1626123160700461056",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FpEmZiqWIAATtSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpEmZiqWIAATtSz.jpg",
+					"url": "https://t.co/U1jnwhbwF0",
+					"display_url": "pic.twitter.com/U1jnwhbwF0",
+					"expanded_url": "https://twitter.com/rhodri/status/1626123164165017601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1290,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 609,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1626119152384544800,
+		"in_reply_to_status_id_str": "1626119152384544769",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Play with Scritti Politti, Kenny Process Team, Lost Crowns. Mastodon: @rhodri@vivaldi.net",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72303,
+			"friends_count": 7127,
+			"listed_count": 914,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 38852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Of course, it comes second to this Wiki disambiguation note, the finest I e’er did see. https://t.co/U1jnwhbwF0"
+	},
+	{
 		"created_at": "Wed Feb 15 21:24:55 +0000 2023",
 		"id": 1625969430248259600,
 		"id_str": "1625969430248259592",
