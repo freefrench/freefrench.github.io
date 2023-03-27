@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 20:44:09 +0000 2023",
+		"id": 1640092295386087400,
+		"id_str": "1640092295386087428",
+		"full_text": "@TiernanDouieb Had this today. Jesus Christ. I’m imagining it may get resolved by mid-April.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TiernanDouieb",
+					"name": "Tiernan Douieb",
+					"id": 19333349,
+					"id_str": "19333349",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1640065173414203400,
+		"in_reply_to_status_id_str": "1640065173414203392",
+		"in_reply_to_user_id": 19333349,
+		"in_reply_to_user_id_str": "19333349",
+		"in_reply_to_screen_name": "TiernanDouieb",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72330,
+			"friends_count": 7129,
+			"listed_count": 912,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TiernanDouieb Had this today. Jesus Christ. I’m imagining it may get resolved by mid-April."
+	},
+	{
 		"created_at": "Fri Mar 24 20:30:13 +0000 2023",
 		"id": 1639364012809805800,
 		"id_str": "1639364012809805824",
@@ -1162,7 +1269,7 @@ Grailbird.data.tweets_2023_03 =
 		"created_at": "Fri Mar 24 18:34:04 +0000 2023",
 		"id": 1639334784303235000,
 		"id_str": "1639334784303235074",
-		"full_text": "The other faintly ludicrous thing is that they’re taking away something that many of us - primarily early adopters who supposedly gave the platform some “value” (?) - never asked for in the first place. Was just there one day. 🤷🏻‍♂️",
+		"full_text": "The other faintly ludicrous thing is that they’re taking away something that many of us - primarily early adopters who supposedly gave the platform some “value” (?) - never asked for in the first place. Was just there one day. 🤷🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1252,7 +1359,7 @@ Grailbird.data.tweets_2023_03 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "The other faintly ludicrous thing is that they’re taking away something that many of us - primarily early adopters who supposedly gave the platform some “value” (?) - never asked for in the first place. Was just there one day. 🤷🏻‍♂️"
+		"text": "The other faintly ludicrous thing is that they’re taking away something that many of us - primarily early adopters who supposedly gave the platform some “value” (?) - never asked for in the first place. Was just there one day. 🤷🏻♂️"
 	},
 	{
 		"created_at": "Fri Mar 24 18:31:03 +0000 2023",
