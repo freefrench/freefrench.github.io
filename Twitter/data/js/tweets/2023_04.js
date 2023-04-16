@@ -1,6 +1,972 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 16:57:37 +0000 2023",
+		"id": 1647283042585657300,
+		"id_str": "1647283042585657344",
+		"full_text": "@RobL_L I love you.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobL_L",
+					"name": "Rob",
+					"id": 1253432653203648500,
+					"id_str": "1253432653203648515",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647282911526240300,
+		"in_reply_to_status_id_str": "1647282911526240258",
+		"in_reply_to_user_id": 1253432653203648500,
+		"in_reply_to_user_id_str": "1253432653203648515",
+		"in_reply_to_screen_name": "RobL_L",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RobL_L I love you."
+	},
+	{
+		"created_at": "Sat Apr 15 16:53:20 +0000 2023",
+		"id": 1647281968432705500,
+		"id_str": "1647281968432705537",
+		"full_text": "This is extremely satisfying to play with. Highly recommended for all ages. https://t.co/hAZo22BP7A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647281912443011000,
+					"id_str": "1647281912443011072",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1647281912443011072/pu/img/82qkWjqdvEjJgTm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1647281912443011072/pu/img/82qkWjqdvEjJgTm4.jpg",
+					"url": "https://t.co/hAZo22BP7A",
+					"display_url": "pic.twitter.com/hAZo22BP7A",
+					"expanded_url": "https://twitter.com/rhodri/status/1647281968432705537/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647281912443011000,
+					"id_str": "1647281912443011072",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1647281912443011072/pu/img/82qkWjqdvEjJgTm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1647281912443011072/pu/img/82qkWjqdvEjJgTm4.jpg",
+					"url": "https://t.co/hAZo22BP7A",
+					"display_url": "pic.twitter.com/hAZo22BP7A",
+					"expanded_url": "https://twitter.com/rhodri/status/1647281968432705537/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20358,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1647281912443011072/pu/vid/1280x720/Plhe3YPBcsuFluD0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1647281912443011072/pu/vid/640x360/j9qjSdqWRwyEdKGk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1647281912443011072/pu/pl/Szpb9MkMTLuGOBXQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1647281912443011072/pu/vid/480x270/cKWGjYLPSk81htMc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is extremely satisfying to play with. Highly recommended for all ages. https://t.co/hAZo22BP7A"
+	},
+	{
+		"created_at": "Sat Apr 15 16:01:27 +0000 2023",
+		"id": 1647268908833947600,
+		"id_str": "1647268908833947649",
+		"full_text": "@abantock Highly literate, thick as shit.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abantock",
+					"name": "Andrew Bantock",
+					"id": 42860006,
+					"id_str": "42860006",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647267139076644900,
+		"in_reply_to_status_id_str": "1647267139076644865",
+		"in_reply_to_user_id": 42860006,
+		"in_reply_to_user_id_str": "42860006",
+		"in_reply_to_screen_name": "abantock",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abantock Highly literate, thick as shit."
+	},
+	{
+		"created_at": "Sat Apr 15 08:56:44 +0000 2023",
+		"id": 1647162027394347000,
+		"id_str": "1647162027394347015",
+		"full_text": "@RupertMyers Boom!!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RupertMyers",
+					"name": "Rupert Myers",
+					"id": 21282561,
+					"id_str": "21282561",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647153298150142000,
+		"in_reply_to_status_id_str": "1647153298150141962",
+		"in_reply_to_user_id": 21282561,
+		"in_reply_to_user_id_str": "21282561",
+		"in_reply_to_screen_name": "RupertMyers",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RupertMyers Boom!!!"
+	},
+	{
+		"created_at": "Sat Apr 15 07:48:47 +0000 2023",
+		"id": 1647144927241859000,
+		"id_str": "1647144927241859073",
+		"full_text": "@john_self OH BOOKMARK FOLDERS BE STILL MY BEATING HEART",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_self",
+					"name": "John Self",
+					"id": 19438505,
+					"id_str": "19438505",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647143868742226000,
+		"in_reply_to_status_id_str": "1647143868742225920",
+		"in_reply_to_user_id": 19438505,
+		"in_reply_to_user_id_str": "19438505",
+		"in_reply_to_screen_name": "john_self",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@john_self OH BOOKMARK FOLDERS BE STILL MY BEATING HEART"
+	},
+	{
+		"created_at": "Sat Apr 15 07:34:42 +0000 2023",
+		"id": 1647141381826138000,
+		"id_str": "1647141381826138112",
+		"full_text": "@pollygunning Nope, they’re all just sitting on a computer waiting for me to finish it, which I guess will happen when Ivor goes to university in 2040. I’ll dig out my Black Magic though, it was great. X",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pollygunning",
+					"name": "Pollyanna Gunning-Gadhvi",
+					"id": 180776284,
+					"id_str": "180776284",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647140049148838000,
+		"in_reply_to_status_id_str": "1647140049148837888",
+		"in_reply_to_user_id": 180776284,
+		"in_reply_to_user_id_str": "180776284",
+		"in_reply_to_screen_name": "pollygunning",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pollygunning Nope, they’re all just sitting on a computer waiting for me to finish it, which I guess will happen when Ivor goes to university in 2040. I’ll dig out my Black Magic though, it was great. X"
+	},
+	{
+		"created_at": "Sat Apr 15 07:23:01 +0000 2023",
+		"id": 1647138440209629200,
+		"id_str": "1647138440209629184",
+		"full_text": "@pollygunning Others of his on my list were All Gold (“see the face you love”), Mellow Birds and Lilt, although maybe his was a different Lilt ad :) https://t.co/PUT2BPi4AW",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pollygunning",
+					"name": "Pollyanna Gunning-Gadhvi",
+					"id": 180776284,
+					"id_str": "180776284",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PUT2BPi4AW",
+					"expanded_url": "https://youtu.be/pEhxzQwOTbQ",
+					"display_url": "youtu.be/pEhxzQwOTbQ",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647137014972555300,
+		"in_reply_to_status_id_str": "1647137014972555264",
+		"in_reply_to_user_id": 1524841,
+		"in_reply_to_user_id_str": "1524841",
+		"in_reply_to_screen_name": "rhodri",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pollygunning Others of his on my list were All Gold (“see the face you love”), Mellow Birds and Lilt, although maybe his was a different Lilt ad :) https://t.co/PUT2BPi4AW"
+	},
+	{
+		"created_at": "Sat Apr 15 07:17:21 +0000 2023",
+		"id": 1647137014972555300,
+		"id_str": "1647137014972555264",
+		"full_text": "@pollygunning Yep! I was working on an album of covers of 101 ad themes, and that was another one of them I did. And then me and my partner had a baby in early 2022, so I only got up to about 43 tunes.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pollygunning",
+					"name": "Pollyanna Gunning-Gadhvi",
+					"id": 180776284,
+					"id_str": "180776284",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647135523016671200,
+		"in_reply_to_status_id_str": "1647135523016671232",
+		"in_reply_to_user_id": 180776284,
+		"in_reply_to_user_id_str": "180776284",
+		"in_reply_to_screen_name": "pollygunning",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72271,
+			"friends_count": 7131,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pollygunning Yep! I was working on an album of covers of 101 ad themes, and that was another one of them I did. And then me and my partner had a baby in early 2022, so I only got up to about 43 tunes."
+	},
+	{
 		"created_at": "Sat Apr 15 00:00:29 +0000 2023",
 		"id": 1647027072450150400,
 		"id_str": "1647027072450150413",
