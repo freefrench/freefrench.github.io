@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 20:41:44 +0000 2023",
+		"id": 1648064221417033700,
+		"id_str": "1648064221417033746",
+		"full_text": "@balbecdaze @thomasintrouble @ChipsLasagne @BouncyMandy @brokenbottleboy This is great to hear!",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "balbecdaze",
+					"name": "Liam Bryan 💙 🚀",
+					"id": 203601717,
+					"id_str": "203601717",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "thomasintrouble",
+					"name": "Tom Nash",
+					"id": 4838396369,
+					"id_str": "4838396369",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "ChipsLasagne",
+					"name": "Terry Ketchup",
+					"id": 1580832806716031000,
+					"id_str": "1580832806716030976",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "BouncyMandy",
+					"name": "mandy",
+					"id": 3823429941,
+					"id_str": "3823429941",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "brokenbottleboy",
+					"name": "Mic Wright",
+					"id": 16288901,
+					"id_str": "16288901",
+					"indices": [
+						56,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1648054088624492500,
+		"in_reply_to_status_id_str": "1648054088624492553",
+		"in_reply_to_user_id": 203601717,
+		"in_reply_to_user_id_str": "203601717",
+		"in_reply_to_screen_name": "balbecdaze",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72263,
+			"friends_count": 7125,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@balbecdaze @thomasintrouble @ChipsLasagne @BouncyMandy @brokenbottleboy This is great to hear!"
+	},
+	{
+		"created_at": "Mon Apr 17 18:38:58 +0000 2023",
+		"id": 1648033325745860600,
+		"id_str": "1648033325745860624",
+		"full_text": "I would urge you to listen to this and think “oh my Christ the way we are governed in the UK is a total shitstorm” and then buy the book, because that’s what I did. https://t.co/GxRu9OFVdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GxRu9OFVdI",
+					"expanded_url": "https://twitter.com/shakespeare_co/status/1647906087599734785",
+					"display_url": "twitter.com/shakespeare_co…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72263,
+			"friends_count": 7125,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1647906087599734800,
+		"quoted_status_id_str": "1647906087599734785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GxRu9OFVdI",
+			"expanded": "https://twitter.com/shakespeare_co/status/1647906087599734785",
+			"display": "twitter.com/shakespeare_co…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 17 10:13:22 +0000 2023",
+			"id": 1647906087599734800,
+			"id_str": "1647906087599734785",
+			"full_text": "🇬🇧🔨How Westminster Works . . . and Why it Doesn’t🔨🇬🇧\n\nThis week on the podcast @IanDunt joins Adam Biles to discuss his revealing, erudite and perversely entertaining new book about British political dysfunction...\n\n🎧: https://t.co/bqzjVJLA0h https://t.co/mhrfGiLo4J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IanDunt",
+						"name": "Ian Dunt",
+						"id": 21202851,
+						"id_str": "21202851",
+						"indices": [
+							79,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bqzjVJLA0h",
+						"expanded_url": "https://podfollow.com/shakespeare-and-company",
+						"display_url": "podfollow.com/shakespeare-an…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1647901276502388700,
+						"id_str": "1647901276502388737",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/Ft6FeuLWcAEWyrr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ft6FeuLWcAEWyrr.jpg",
+						"url": "https://t.co/mhrfGiLo4J",
+						"display_url": "pic.twitter.com/mhrfGiLo4J",
+						"expanded_url": "https://twitter.com/Shakespeare_Co/status/1647906087599734785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1647901276502388700,
+						"id_str": "1647901276502388737",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/Ft6FeuLWcAEWyrr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ft6FeuLWcAEWyrr.jpg",
+						"url": "https://t.co/mhrfGiLo4J",
+						"display_url": "pic.twitter.com/mhrfGiLo4J",
+						"expanded_url": "https://twitter.com/Shakespeare_Co/status/1647906087599734785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207985340,
+				"id_str": "207985340",
+				"name": "Shakespeare&Company",
+				"screen_name": "Shakespeare_Co",
+				"location": "Paris, France",
+				"description": "Indie bookshop in Paris📚Online store ships to the world 🌎 Listen to our podcast here: https://t.co/lQFJkzVFOQ 🎧",
+				"url": "https://t.co/OE0PoQ9AZJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OE0PoQ9AZJ",
+								"expanded_url": "http://www.shakespeareandcompany.com/",
+								"display_url": "shakespeareandcompany.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lQFJkzVFOQ",
+								"expanded_url": "https://podfollow.com/shakespeare-and-company",
+								"display_url": "podfollow.com/shakespeare-an…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 51748,
+				"friends_count": 1872,
+				"listed_count": 777,
+				"created_at": "Tue Oct 26 12:19:31 +0000 2010",
+				"favourites_count": 8256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F2C1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000034648291/33ad4db99dc6d8a96b12099e24a8eb89_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000034648291/33ad4db99dc6d8a96b12099e24a8eb89_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207985340/1454342766",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "F7F2C1",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I would urge you to listen to this and think “oh my Christ the way we are governed in the UK is a total shitstorm” and then buy the book, because that’s what I did. https://t.co/GxRu9OFVdI"
+	},
+	{
+		"created_at": "Mon Apr 17 15:08:50 +0000 2023",
+		"id": 1647980443701067800,
+		"id_str": "1647980443701067776",
+		"full_text": "@rcscribbler I feel sorry for the guy named at the bottom, because generating dreck like that will have been one of the goals assigned to him when he last had a Conversation with his Manager. Sigh.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rcscribbler",
+					"name": "Rob Chapman",
+					"id": 796287361239908400,
+					"id_str": "796287361239908352",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647979314766307300,
+		"in_reply_to_status_id_str": "1647979314766307329",
+		"in_reply_to_user_id": 796287361239908400,
+		"in_reply_to_user_id_str": "796287361239908352",
+		"in_reply_to_screen_name": "rcscribbler",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72263,
+			"friends_count": 7125,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rcscribbler I feel sorry for the guy named at the bottom, because generating dreck like that will have been one of the goals assigned to him when he last had a Conversation with his Manager. Sigh."
+	},
+	{
+		"created_at": "Mon Apr 17 13:08:56 +0000 2023",
+		"id": 1647950270482063400,
+		"id_str": "1647950270482063360",
+		"full_text": "@thomasintrouble @ChipsLasagne @BouncyMandy @brokenbottleboy I dunno, I mean, the kids who sneered at the kids who were actually good at stuff were evidently the arseholes, in retrospect.",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomasintrouble",
+					"name": "Tom Nash",
+					"id": 4838396369,
+					"id_str": "4838396369",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ChipsLasagne",
+					"name": "Terry Ketchup",
+					"id": 1580832806716031000,
+					"id_str": "1580832806716030976",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "BouncyMandy",
+					"name": "mandy",
+					"id": 3823429941,
+					"id_str": "3823429941",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "brokenbottleboy",
+					"name": "Mic Wright",
+					"id": 16288901,
+					"id_str": "16288901",
+					"indices": [
+						44,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647939647467577300,
+		"in_reply_to_status_id_str": "1647939647467577349",
+		"in_reply_to_user_id": 4838396369,
+		"in_reply_to_user_id_str": "4838396369",
+		"in_reply_to_screen_name": "thomasintrouble",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72263,
+			"friends_count": 7125,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thomasintrouble @ChipsLasagne @BouncyMandy @brokenbottleboy I dunno, I mean, the kids who sneered at the kids who were actually good at stuff were evidently the arseholes, in retrospect."
+	},
+	{
+		"created_at": "Mon Apr 17 07:14:47 +0000 2023",
+		"id": 1647861145087164400,
+		"id_str": "1647861145087164416",
+		"full_text": "@ChipsLasagne @BouncyMandy @brokenbottleboy It’s not even self-deprecation, it’s verging on boastful, because of some deep seated cultural bollocks that maths is uncool. You never hear people saying “I can’t read”.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChipsLasagne",
+					"name": "Terry Ketchup",
+					"id": 1580832806716031000,
+					"id_str": "1580832806716030976",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BouncyMandy",
+					"name": "mandy",
+					"id": 3823429941,
+					"id_str": "3823429941",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "brokenbottleboy",
+					"name": "Mic Wright",
+					"id": 16288901,
+					"id_str": "16288901",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647858365584793600,
+		"in_reply_to_status_id_str": "1647858365584793602",
+		"in_reply_to_user_id": 1580832806716031000,
+		"in_reply_to_user_id_str": "1580832806716030976",
+		"in_reply_to_screen_name": "ChipsLasagne",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72263,
+			"friends_count": 7125,
+			"listed_count": 922,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChipsLasagne @BouncyMandy @brokenbottleboy It’s not even self-deprecation, it’s verging on boastful, because of some deep seated cultural bollocks that maths is uncool. You never hear people saying “I can’t read”."
+	},
+	{
 		"created_at": "Sun Apr 16 19:23:27 +0000 2023",
 		"id": 1647682134230835200,
 		"id_str": "1647682134230835200",
