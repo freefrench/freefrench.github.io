@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 24 11:44:02 +0000 2023",
+		"id": 1650465621241475000,
+		"id_str": "1650465621241475073",
+		"full_text": "@mrcerifrost Yah https://t.co/hJcr0j3YLJ",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrcerifrost",
+					"name": "Ceri Fröst",
+					"id": 335472287,
+					"id_str": "335472287",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hJcr0j3YLJ",
+					"expanded_url": "https://www.youtube.com/watch?v=23U2ssOPs-M",
+					"display_url": "youtube.com/watch?v=23U2ss…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1650460496586219500,
+		"in_reply_to_status_id_str": "1650460496586219521",
+		"in_reply_to_user_id": 335472287,
+		"in_reply_to_user_id_str": "335472287",
+		"in_reply_to_screen_name": "mrcerifrost",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72210,
+			"friends_count": 7120,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mrcerifrost Yah https://t.co/hJcr0j3YLJ"
+	},
+	{
 		"created_at": "Sun Apr 23 18:21:09 +0000 2023",
 		"id": 1650199586294706200,
 		"id_str": "1650203171103334400",
@@ -1089,7 +1207,7 @@ Grailbird.data.tweets_2023_04 =
 			"user_mentions": [
 				{
 					"screen_name": "ozgirlnc",
-					"name": "Niki C 🏳️‍🌈🇺🇦",
+					"name": "Niki C 🏳️🌈🇺🇦",
 					"id": 48027092,
 					"id_str": "48027092",
 					"indices": [
@@ -1941,7 +2059,7 @@ Grailbird.data.tweets_2023_04 =
 		"created_at": "Sun Apr 23 07:16:10 +0000 2023",
 		"id": 1650035819451670500,
 		"id_str": "1650035819451670528",
-		"full_text": "Apparently Twitter Blue membership is characterised by “quality conversations” 😵‍💫 https://t.co/cLv8EE4EdR",
+		"full_text": "Apparently Twitter Blue membership is characterised by “quality conversations” 😵💫 https://t.co/cLv8EE4EdR",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2110,7 +2228,7 @@ Grailbird.data.tweets_2023_04 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Apparently Twitter Blue membership is characterised by “quality conversations” 😵‍💫 https://t.co/cLv8EE4EdR"
+		"text": "Apparently Twitter Blue membership is characterised by “quality conversations” 😵💫 https://t.co/cLv8EE4EdR"
 	},
 	{
 		"created_at": "Sun Apr 23 07:04:02 +0000 2023",
