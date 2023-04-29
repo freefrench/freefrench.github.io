@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 20:24:41 +0000 2023",
+		"id": 1652046196418945000,
+		"id_str": "1652046196418945028",
+		"full_text": "@classytart Maybe the toad, and the hole, is under the scrambled eggs on toast",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "classytart",
+					"name": "Liz Babb",
+					"id": 1648685222,
+					"id_str": "1648685222",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1652045910703046700,
+		"in_reply_to_status_id_str": "1652045910703046658",
+		"in_reply_to_user_id": 1648685222,
+		"in_reply_to_user_id_str": "1648685222",
+		"in_reply_to_screen_name": "classytart",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72210,
+			"friends_count": 7114,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@classytart Maybe the toad, and the hole, is under the scrambled eggs on toast"
+	},
+	{
+		"created_at": "Fri Apr 28 20:23:17 +0000 2023",
+		"id": 1652045845104058400,
+		"id_str": "1652045845104058368",
+		"full_text": "@suegyford “Chicken korma with rice on toast twice, please”",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suegyford",
+					"name": "Sue Gyford",
+					"id": 137818922,
+					"id_str": "137818922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1652045545563627500,
+		"in_reply_to_status_id_str": "1652045545563627544",
+		"in_reply_to_user_id": 137818922,
+		"in_reply_to_user_id_str": "137818922",
+		"in_reply_to_screen_name": "suegyford",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72210,
+			"friends_count": 7114,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suegyford “Chicken korma with rice on toast twice, please”"
+	},
+	{
+		"created_at": "Fri Apr 28 20:18:24 +0000 2023",
+		"id": 1652044613627027500,
+		"id_str": "1652044613627027468",
+		"full_text": "Absolutely howling. Just look at it. https://t.co/mLqZgwdQrC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLqZgwdQrC",
+					"expanded_url": "https://twitter.com/showerabsolute/status/1652043297496375330",
+					"display_url": "twitter.com/showerabsolute…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72210,
+			"friends_count": 7114,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1652043297496375300,
+		"quoted_status_id_str": "1652043297496375330",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mLqZgwdQrC",
+			"expanded": "https://twitter.com/showerabsolute/status/1652043297496375330",
+			"display": "twitter.com/showerabsolute…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 28 20:13:10 +0000 2023",
+			"id": 1652043297496375300,
+			"id_str": "1652043297496375330",
+			"full_text": "I've seen this, and I don't think the New York Times has ever done a worse thing to our country \nhttps://t.co/aMinfP4uJs https://t.co/xyfxoSXOTP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aMinfP4uJs",
+						"expanded_url": "https://cooking.nytimes.com/recipes/1019609-toad-in-the-hole",
+						"display_url": "cooking.nytimes.com/recipes/101960…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1652043295323828200,
+						"id_str": "1652043295323828225",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/Fu08n8tXsAE4imO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fu08n8tXsAE4imO.jpg",
+						"url": "https://t.co/xyfxoSXOTP",
+						"display_url": "pic.twitter.com/xyfxoSXOTP",
+						"expanded_url": "https://twitter.com/ShowerAbsolute/status/1652043297496375330/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 389,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1171,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 686,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1652043295323828200,
+						"id_str": "1652043295323828225",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/Fu08n8tXsAE4imO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fu08n8tXsAE4imO.jpg",
+						"url": "https://t.co/xyfxoSXOTP",
+						"display_url": "pic.twitter.com/xyfxoSXOTP",
+						"expanded_url": "https://twitter.com/ShowerAbsolute/status/1652043297496375330/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 389,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1171,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 686,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1027647526013419500,
+				"id_str": "1027647526013419521",
+				"name": "Will 🇺🇦 Absolute Shower",
+				"screen_name": "ShowerAbsolute",
+				"location": "Salisbury, England",
+				"description": "It's more 'bumpkin' than 'scum'",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4741,
+				"friends_count": 1203,
+				"listed_count": 12,
+				"created_at": "Thu Aug 09 20:07:17 +0000 2018",
+				"favourites_count": 773502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 110282,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1612147305875906564/62gUdpYR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612147305875906564/62gUdpYR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027647526013419521/1680513907",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 234,
+			"favorite_count": 1027,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely howling. Just look at it. https://t.co/mLqZgwdQrC"
+	},
+	{
+		"created_at": "Fri Apr 28 20:09:34 +0000 2023",
+		"id": 1652042393980489700,
+		"id_str": "1652042393980489731",
+		"full_text": "@jennylandreth Great, great wisdom.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennylandreth",
+					"name": "jennylandreth (@JennyLandreth@mastodonapp.uk)",
+					"id": 18458488,
+					"id_str": "18458488",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1652041346981437400,
+		"in_reply_to_status_id_str": "1652041346981437467",
+		"in_reply_to_user_id": 18458488,
+		"in_reply_to_user_id_str": "18458488",
+		"in_reply_to_screen_name": "jennylandreth",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72210,
+			"friends_count": 7114,
+			"listed_count": 918,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jennylandreth Great, great wisdom."
+	},
+	{
 		"created_at": "Thu Apr 27 12:17:31 +0000 2023",
 		"id": 1651561210993582000,
 		"id_str": "1651561210993582081",
