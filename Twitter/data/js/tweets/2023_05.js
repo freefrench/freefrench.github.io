@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 15 18:10:15 +0000 2023",
+		"id": 1658161198192373800,
+		"id_str": "1658172961264742400",
+		"full_text": "This is the kind of hysterical stuff that you only find on the front pages of four or five national newspapers https://t.co/Y0L3RwNSvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0L3RwNSvQ",
+					"expanded_url": "https://twitter.com/broderly/status/1658108814413971456",
+					"display_url": "twitter.com/broderly/statu…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46073276,
+			"id_str": "46073276",
+			"name": "Jonathan Shainin",
+			"screen_name": "jonathanshainin",
+			"location": "clapton",
+			"description": "I too dislike it",
+			"url": "https://t.co/sxH616NSxm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sxH616NSxm",
+							"expanded_url": "http://www.theguardian.com/thelongread",
+							"display_url": "theguardian.com/thelongread",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31513,
+			"friends_count": 333,
+			"listed_count": 665,
+			"created_at": "Wed Jun 10 09:17:00 +0000 2009",
+			"favourites_count": 7506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1590650579545739267/Sm1FpJ5b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1590650579545739267/Sm1FpJ5b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46073276/1405896596",
+			"profile_link_color": "0080B3",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1658108814413971500,
+		"quoted_status_id_str": "1658108814413971456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y0L3RwNSvQ",
+			"expanded": "https://twitter.com/broderly/status/1658108814413971456",
+			"display": "twitter.com/broderly/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 15 13:55:22 +0000 2023",
+			"id": 1658108814413971500,
+			"id_str": "1658108814413971456",
+			"full_text": "Tory MP Danny Kruger tells NatCon that Western civilisation is threatened by a \"new religion\", a mix of \"Marxism, narcissism and paganism\", conforming to the \"dystopian fantasy of John Lennon\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 358137436,
+				"id_str": "358137436",
+				"name": "David Broder",
+				"screen_name": "broderly",
+				"location": "",
+				"description": "Teaching history at Syracuse University in Florence, and @jacobin Europe editor. My latest book is ‘Mussolini’s Grandchildren: Fascism in Contemporary Italy’",
+				"url": "https://t.co/bpj8PSuO6S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bpj8PSuO6S",
+								"expanded_url": "https://www.plutobooks.com/9780745348025/mussolinis-grandchildren",
+								"display_url": "plutobooks.com/9780745348025/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14462,
+				"friends_count": 2430,
+				"listed_count": 114,
+				"created_at": "Fri Aug 19 12:54:03 +0000 2011",
+				"favourites_count": 47572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6918,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1573433711667957764/vLw_Ql0V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573433711667957764/vLw_Ql0V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/358137436/1663970524",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 182,
+			"favorite_count": 658,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 47,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the kind of hysterical stuff that you only find on the front pages of four or five national newspapers https://t.co/Y0L3RwNSvQ"
+	},
+	{
+		"created_at": "Mon May 15 09:29:34 +0000 2023",
+		"id": 1658041926170427400,
+		"id_str": "1658041926170427393",
+		"full_text": "@KevinPocock Whenever I don’t have a clue what I’m talking about, I always try to qualify my opinion with a note of uncertainty",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinPocock",
+					"name": "Kevin Pocock 🌳",
+					"id": 19536313,
+					"id_str": "19536313",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1658041261612212200,
+		"in_reply_to_status_id_str": "1658041261612212224",
+		"in_reply_to_user_id": 19536313,
+		"in_reply_to_user_id_str": "19536313",
+		"in_reply_to_screen_name": "KevinPocock",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72222,
+			"friends_count": 7126,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KevinPocock Whenever I don’t have a clue what I’m talking about, I always try to qualify my opinion with a note of uncertainty"
+	},
+	{
 		"created_at": "Sun May 14 20:09:50 +0000 2023",
 		"id": 1657840665923862500,
 		"id_str": "1657840665923862530",
