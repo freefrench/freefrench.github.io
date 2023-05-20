@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 19 14:05:39 +0000 2023",
+		"id": 1659560953011228700,
+		"id_str": "1659560953011228676",
+		"full_text": "@Welshracer I haven’t actually forgotten an anniversary, to be clear",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Welshracer",
+					"name": "Rob Colley",
+					"id": 20767953,
+					"id_str": "20767953",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1659558552552321000,
+		"in_reply_to_status_id_str": "1659558552552321024",
+		"in_reply_to_user_id": 20767953,
+		"in_reply_to_user_id_str": "20767953",
+		"in_reply_to_screen_name": "Welshracer",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72228,
+			"friends_count": 7121,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Welshracer I haven’t actually forgotten an anniversary, to be clear"
+	},
+	{
+		"created_at": "Fri May 19 13:49:52 +0000 2023",
+		"id": 1659556982284595200,
+		"id_str": "1659556982284595200",
+		"full_text": "I sincerely hope I never find myself trying to tortuously explain away some shitty thing that I did by saying that it \"risks becoming a distraction\", e.g. \"My failure to remember our wedding anniversary risks becoming a distraction from our efforts to host a dinner party\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72228,
+			"friends_count": 7121,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I sincerely hope I never find myself trying to tortuously explain away some shitty thing that I did by saying that it \"risks becoming a distraction\", e.g. \"My failure to remember our wedding anniversary risks becoming a distraction from our efforts to host a dinner party\""
+	},
+	{
+		"created_at": "Fri May 19 08:08:30 +0000 2023",
+		"id": 1659471074562658300,
+		"id_str": "1659471074562658305",
+		"full_text": "@DrSdeG Innit. Oof.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrSdeG",
+					"name": "Stephanie deGiorgio",
+					"id": 476562281,
+					"id_str": "476562281",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1659470766537146400,
+		"in_reply_to_status_id_str": "1659470766537146369",
+		"in_reply_to_user_id": 476562281,
+		"in_reply_to_user_id_str": "476562281",
+		"in_reply_to_screen_name": "DrSdeG",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72228,
+			"friends_count": 7121,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@DrSdeG Innit. Oof."
+	},
+	{
+		"created_at": "Fri May 19 08:06:29 +0000 2023",
+		"id": 1659470566519087000,
+		"id_str": "1659470566519087104",
+		"full_text": "@ACasualBantam Beautiful story. So glad you got the chance to say thank you to him.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ACasualBantam",
+					"name": "Craig",
+					"id": 789417638971732000,
+					"id_str": "789417638971731968",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1659470187026890800,
+		"in_reply_to_status_id_str": "1659470187026890753",
+		"in_reply_to_user_id": 789417638971732000,
+		"in_reply_to_user_id_str": "789417638971731968",
+		"in_reply_to_screen_name": "ACasualBantam",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72228,
+			"friends_count": 7121,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 39863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ACasualBantam Beautiful story. So glad you got the chance to say thank you to him."
+	},
+	{
 		"created_at": "Thu May 18 20:23:37 +0000 2023",
 		"id": 1659293686637686800,
 		"id_str": "1659293686637686796",
