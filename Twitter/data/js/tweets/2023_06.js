@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 21:16:16 +0000 2023",
+		"id": 1666917081789472800,
+		"id_str": "1666917081789472769",
+		"full_text": "I’ve been regularly listening to the 1977 album “Expect To Hear From Me Again” by Paul Bogush Jr, mainly because of  the truly magnificent sleeve and the misplaced confidence of the title. It was, as far as I know, his only album. I kinda wish it was called “HUBRIS, THY NAME IS” https://t.co/uUjHHcNulb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666917077767127000,
+					"id_str": "1666917077767127040",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FyIUQCJXgAAk94o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyIUQCJXgAAk94o.jpg",
+					"url": "https://t.co/uUjHHcNulb",
+					"display_url": "pic.twitter.com/uUjHHcNulb",
+					"expanded_url": "https://twitter.com/rhodri/status/1666917081789472769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666917077767127000,
+					"id_str": "1666917077767127040",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FyIUQCJXgAAk94o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyIUQCJXgAAk94o.jpg",
+					"url": "https://t.co/uUjHHcNulb",
+					"display_url": "pic.twitter.com/uUjHHcNulb",
+					"expanded_url": "https://twitter.com/rhodri/status/1666917081789472769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72228,
+			"friends_count": 7124,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 40052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve been regularly listening to the 1977 album “Expect To Hear From Me Again” by Paul Bogush Jr, mainly because of  the truly magnificent sleeve and the misplaced confidence of the title. It was, as far as I know, his only album. I kinda wish it was called “HUBRIS, THY NAME IS” https://t.co/uUjHHcNulb"
+	},
+	{
+		"created_at": "Thu Jun 08 11:32:38 +0000 2023",
+		"id": 1666770202992820200,
+		"id_str": "1666770202992820224",
+		"full_text": "Marvelling at this image, which I just stumbled across in the course of Various Duties. There's lots going on, but I think my favourite thing would have to be the pineapple. https://t.co/9i5T69n5TB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666770142334705700,
+					"id_str": "1666770142334705665",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FyGOnRAWYAEOSQC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FyGOnRAWYAEOSQC.png",
+					"url": "https://t.co/9i5T69n5TB",
+					"display_url": "pic.twitter.com/9i5T69n5TB",
+					"expanded_url": "https://twitter.com/rhodri/status/1666770202992820224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 757,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 757,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666770142334705700,
+					"id_str": "1666770142334705665",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FyGOnRAWYAEOSQC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FyGOnRAWYAEOSQC.png",
+					"url": "https://t.co/9i5T69n5TB",
+					"display_url": "pic.twitter.com/9i5T69n5TB",
+					"expanded_url": "https://twitter.com/rhodri/status/1666770202992820224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 757,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 757,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72228,
+			"friends_count": 7124,
+			"listed_count": 916,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 40052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marvelling at this image, which I just stumbled across in the course of Various Duties. There's lots going on, but I think my favourite thing would have to be the pineapple. https://t.co/9i5T69n5TB"
+	},
+	{
 		"created_at": "Wed Jun 07 20:02:54 +0000 2023",
 		"id": 1666536227724488700,
 		"id_str": "1666536227724488704",
