@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 20:13:50 +0000 2023",
+		"id": 1668350918822092800,
+		"id_str": "1668350918822092828",
+		"full_text": "Beautiful, this. https://t.co/a0tya5WMRw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0tya5WMRw",
+					"expanded_url": "https://twitter.com/tristandross/status/1668193389097959424",
+					"display_url": "twitter.com/tristandross/s…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72223,
+			"friends_count": 7124,
+			"listed_count": 915,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 40121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1668193389097959400,
+		"quoted_status_id_str": "1668193389097959424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a0tya5WMRw",
+			"expanded": "https://twitter.com/tristandross/status/1668193389097959424",
+			"display": "twitter.com/tristandross/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 12 09:47:52 +0000 2023",
+			"id": 1668193389097959400,
+			"id_str": "1668193389097959424",
+			"full_text": "wrote about resisting the tech world's concerted attempt to convince us that all humans are replaceable and our creative endeavours can simply be outsourced to machines https://t.co/6LoRnulQNf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6LoRnulQNf",
+						"expanded_url": "https://www.theguardian.com/commentisfree/2023/jun/12/lost-job-learn-code-ai-humans-skills",
+						"display_url": "theguardian.com/commentisfree/…",
+						"indices": [
+							169,
+							192
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76718852,
+				"id_str": "76718852",
+				"name": "Stan's Account",
+				"screen_name": "tristandross",
+				"location": "Cardiff/London",
+				"description": "having a laugh correspondent @online\n\nenqs: stancrosscontent@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29979,
+				"friends_count": 1108,
+				"listed_count": 111,
+				"created_at": "Wed Sep 23 18:38:17 +0000 2009",
+				"favourites_count": 45791,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 83271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1570332879237832704/0EHBoobK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570332879237832704/0EHBoobK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76718852/1421920680",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 339,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beautiful, this. https://t.co/a0tya5WMRw"
+	},
+	{
+		"created_at": "Mon Jun 12 13:14:18 +0000 2023",
+		"id": 1668245342574223400,
+		"id_str": "1668245342574223360",
+		"full_text": "This is not my world, but it is my esteemed and beloved partner's world (she's organising it) so in the unlikely event that anyone reading this happens to be a post-graduate theatre / performance researcher, knock yourself out, it's free. https://t.co/d2OzkPXDoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2OzkPXDoU",
+					"expanded_url": "https://twitter.com/TaPRA_PG/status/1668216564917649409",
+					"display_url": "twitter.com/TaPRA_PG/statu…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72223,
+			"friends_count": 7124,
+			"listed_count": 915,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 40121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1668216564917649400,
+		"quoted_status_id_str": "1668216564917649409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d2OzkPXDoU",
+			"expanded": "https://twitter.com/TaPRA_PG/status/1668216564917649409",
+			"display": "twitter.com/TaPRA_PG/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 12 11:19:57 +0000 2023",
+			"id": 1668216564917649400,
+			"id_str": "1668216564917649409",
+			"full_text": "PG Symposium 2023, Up Close and Personal: Exploring the relationship between the Researcher and Their Subject is on Thursday 22nd June, at Guildhall School, London. Sign up for this free PG event here: https://t.co/ZU2xXRijw4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZU2xXRijw4",
+						"expanded_url": "https://www.eventbrite.co.uk/e/tapra-pg-symposium-up-close-and-personal-tickets-646152187587",
+						"display_url": "eventbrite.co.uk/e/tapra-pg-sym…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1372487468,
+				"id_str": "1372487468",
+				"name": "TaPRA Postgraduate",
+				"screen_name": "TaPRA_PG",
+				"location": "",
+				"description": "Postgraduate representatives for TaPRA (Theatre and Performance Research Association) - Reka Polonyi and Susannah Henry.",
+				"url": "https://t.co/RpmcPcCIMp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RpmcPcCIMp",
+								"expanded_url": "http://tapra.org/postgraduate-committee/",
+								"display_url": "tapra.org/postgraduate-c…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1573,
+				"friends_count": 754,
+				"listed_count": 9,
+				"created_at": "Mon Apr 22 16:10:14 +0000 2013",
+				"favourites_count": 420,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1248,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080562559198081024/7nep4gCe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080562559198081024/7nep4gCe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372487468/1504344011",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is not my world, but it is my esteemed and beloved partner's world (she's organising it) so in the unlikely event that anyone reading this happens to be a post-graduate theatre / performance researcher, knock yourself out, it's free. https://t.co/d2OzkPXDoU"
+	},
+	{
+		"created_at": "Mon Jun 12 10:17:48 +0000 2023",
+		"id": 1668200922692944000,
+		"id_str": "1668200922692943873",
+		"full_text": "@heawood Hey Sophie - 100%! (I’m a glass completely full kinda guy)",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heawood",
+					"name": "Sophie Heawood",
+					"id": 14585409,
+					"id_str": "14585409",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1668184529268355000,
+		"in_reply_to_status_id_str": "1668184529268355072",
+		"in_reply_to_user_id": 14585409,
+		"in_reply_to_user_id_str": "14585409",
+		"in_reply_to_screen_name": "heawood",
+		"user": {
+			"id": 1524841,
+			"id_str": "1524841",
+			"name": "Rhodri Marsden ⏏️",
+			"screen_name": "rhodri",
+			"location": "London, United Kingdom",
+			"description": "Vapid Response Unit. Writer. Tech columnist for @HTSI. Rapidly ageing musician. Play with Scritti Politti, Kenny Process Team, Lost Crowns, Sweet Billy Pilgrim.",
+			"url": "https://t.co/Vva73DDUbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vva73DDUbR",
+							"expanded_url": "http://rhodri.info",
+							"display_url": "rhodri.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72223,
+			"friends_count": 7124,
+			"listed_count": 915,
+			"created_at": "Mon Mar 19 16:29:51 +0000 2007",
+			"favourites_count": 40121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756800733954072576/HWEM5rSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524841/1517912072",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "424242",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heawood Hey Sophie - 100%! (I’m a glass completely full kinda guy)"
+	},
+	{
 		"created_at": "Sun Jun 11 20:42:28 +0000 2023",
 		"id": 1667995739165802500,
 		"id_str": "1667995739165802497",
